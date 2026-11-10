@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.env
+*.log
+.DS_Store
+
+# Copyrighted source material & extracted content: keep local, never publish
+*.pdf
+data/pages/
+data/raw/
+

@@ -1,0 +1,57 @@
+services:
+  db:
+    image: postgres:16-alpine
+    container_name: toeic-db
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER:-toeic}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-toeic}
+      POSTGRES_DB: ${POSTGRES_DB:-toeic}
+      TZ: Asia/Ho_Chi_Minh
+    ports:
+      - "${POSTGRES_PORT:-5433}:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER:-toeic} -d ${POSTGRES_DB:-toeic}"]
+      interval: 5s
+      timeout: 3s
+      retries: 20
+
+  # Full stack in Docker (optional): docker compose --profile app up -d --build
+  api:
+    profiles: ["app"]
+    build:
+      context: .
+      dockerfile: apps/api/Dockerfile
+    container_name: toeic-api
+    restart: unless-stopped
+    depends_on:
+      db:
+        condition: service_healthy
+    environment:
+      DATABASE_URL: postgresql://${POSTGRES_USER:-toeic}:${POSTGRES_PASSWORD:-toeic}@db:5432/${POSTGRES_DB:-toeic}?schema=public
+      PORT: 3000
+      TZ: Asia/Ho_Chi_Minh
+      APP_TIMEZONE: ${APP_TIMEZONE:-Asia/Ho_Chi_Minh}
+      TELEGRAM_BOT_TOKEN: ${TELEGRAM_BOT_TOKEN:-}
+      TELEGRAM_CHAT_ID: ${TELEGRAM_CHAT_ID:-}
+      DATA_DIR: /app/data
+    ports:
+      - "3000:3000"
+
+  web:
+    profiles: ["app"]
+    build:
+      context: .
+      dockerfile: apps/web/Dockerfile
+    container_name: toeic-web
+    restart: unless-stopped
+    depends_on:
+      - api
+    ports:
+      - "8080:80"
+
+volumes:
+  pgdata:
+

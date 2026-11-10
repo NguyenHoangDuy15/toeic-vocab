@@ -1,0 +1,66 @@
+{
+  "code": "practice-1",
+  "title": "Câu hỏi theo bài thi TOEIC dạng thức mới 1",
+  "afterDay": 10,
+  "page": 184,
+  "groups": [
+    {
+      "instruction": "Part 5 — Chọn đáp án đúng để hoàn thành câu.",
+      "questions": [
+        { "no": 1, "prompt": "The community center provides residents a ------- of courses in arts and crafts.",
+          "options": [["A", "showing"], ["B", "prospect"], ["C", "variety"], ["D", "consequence"]], "answer": "C",
+          "explanation": "Trung tâm cộng đồng cung cấp cho cư dân nhiều khóa học khác nhau về nghệ thuật và thủ công. (a variety of: nhiều, đa dạng)" },
+        { "no": 2, "prompt": "Users of the Zwisher line of kitchen appliances will ------- from the many conveniences they provide.",
+          "options": [["A", "improvise"], ["B", "benefit"], ["C", "follow"], ["D", "transform"]], "answer": "B",
+          "explanation": "Người sử dụng dòng sản phẩm thiết bị nhà bếp Zwisher sẽ được hưởng những tiện lợi mà chúng đem lại. (benefit from: được hưởng lợi từ)" },
+        { "no": 3, "prompt": "Children are not allowed to attend the festival on their own and must be ------- by an adult.",
+          "options": [["A", "appeared"], ["B", "required"], ["C", "succeeded"], ["D", "accompanied"]], "answer": "D",
+          "explanation": "Trẻ em không được phép tham dự lễ hội một mình và phải có người lớn đi cùng. (accompany: đồng hành, đi cùng)" },
+        { "no": 4, "prompt": "Participating customers will be asked to ------- what they think of the company's products on a survey form.",
+          "options": [["A", "manage"], ["B", "demand"], ["C", "adopt"], ["D", "indicate"]], "answer": "D",
+          "explanation": "Những khách hàng tham gia sẽ được yêu cầu cho biết suy nghĩ của họ về sản phẩm của công ty trong một biểu mẫu điều tra. (indicate: cho thấy, ngụ ý)" },
+        { "no": 5, "prompt": "The museum's current ------- features displays of ancient artifacts discovered at a historical site in Turkey last year.",
+          "options": [["A", "audience"], ["B", "exhibition"], ["C", "subscription"], ["D", "announcement"]], "answer": "B",
+          "explanation": "Triển lãm hiện tại của bảo tàng trưng bày những món đồ tạo tác cổ được tìm thấy tại một khu di tích lịch sử ở Thổ Nhĩ Kỳ vào năm ngoái." },
+        { "no": 6, "prompt": "Online companies have an ------- over traditional retail stores because they spend less on maintenance.",
+          "options": [["A", "admission"], ["B", "influence"], ["C", "advantage"], ["D", "experience"]], "answer": "C",
+          "explanation": "Những công ty bán hàng trực tuyến có lợi thế so với các cửa hàng bán lẻ truyền thống bởi vì họ tốn ít tiền cho việc duy trì hơn. (an advantage over: lợi thế so với)" },
+        { "no": 7, "prompt": "Employees who wish to ------- how the new policy might affect them should consult their supervisors.",
+          "options": [["A", "enable"], ["B", "clarify"], ["C", "contain"], ["D", "inform"]], "answer": "B",
+          "explanation": "Nhân viên muốn làm rõ chính sách mới có thể ảnh hưởng đến họ như thế nào nên hỏi ý kiến cấp trên. (clarify: làm rõ)" },
+        { "no": 8, "prompt": "As part of a special -------, Stomps Gym is discounting its membership fee for new users.",
+          "options": [["A", "offer"], ["B", "notice"], ["C", "charge"], ["D", "warranty"]], "answer": "A",
+          "explanation": "Là một phần của chương trình ưu đãi đặc biệt, Stomps Gym đang giảm phí hội viên cho người dùng mới. (special offer: ưu đãi đặc biệt)" }
+      ]
+    },
+    {
+      "instruction": "Part 6 — Questions 09-12 refer to the following e-mail.",
+      "passage": "Dear Mr. Elias,\n\nAs assistant director of the administrative department, I would like to request --(09)-- to attend a business conference in Los Angeles next month. I will need to be away for a week, but the information I hope to obtain at the event will be --(10)-- for the company. The conference is about reorganizing for maximum efficiency, and the material could be --(11)-- our efforts in developing a better office system.\n\nI'm especially interested in using cutting-edge technology to make our office more progressive. This will help us meet the standards that many companies now have. There are other issues I can think of but won't mention at this time. Of course, your recommendations and suggestions are most welcome. --(12)--. I hope the company will provide me with the support I need to attend this conference.\n\nGail",
+      "questions": [
+        { "no": 9, "prompt": "(09)", "options": [["A", "experience"], ["B", "incentive"], ["C", "permission"], ["D", "feedback"]], "answer": "C",
+          "explanation": "request permission to do: xin phép làm gì." },
+        { "no": 10, "prompt": "(10)", "options": [["A", "creative"], ["B", "involved"], ["C", "advanced"], ["D", "beneficial"]], "answer": "D",
+          "explanation": "beneficial for: có lợi cho." },
+        { "no": 11, "prompt": "(11)", "options": [["A", "checked for"], ["B", "qualified for"], ["C", "complied with"], ["D", "applied to"]], "answer": "D",
+          "explanation": "be applied to: được áp dụng vào (nỗ lực phát triển hệ thống văn phòng)." },
+        { "no": 12, "prompt": "(12)", "options": [
+            ["A", "There were other problems that the office has already resolved."],
+            ["B", "I'd like to explain why the conference is vital to our company."],
+            ["C", "You probably have insights that I haven't thought of yet."],
+            ["D", "We have done our best to keep ourselves more organized."]
+          ], "answer": "C",
+          "explanation": "Câu trước nói rất hoan nghênh góp ý của ông Elias → \"Có lẽ ông có những hiểu biết mà tôi chưa nghĩ tới.\"" }
+      ]
+    },
+    {
+      "instruction": "Part 7 — Question 13 refers to the following article.",
+      "passage": "The Almaca College board of governors will be meeting at the end of the month to discuss recent concerns. Among the issues expected to be raised are plans to renovate old buildings and whether or not to increase tuition fees this year.",
+      "questions": [
+        { "no": 13, "prompt": "The word \"concerns\" in paragraph 1, line 2, is closest in meaning to",
+          "options": [["A", "interests"], ["B", "methods"], ["C", "stresses"], ["D", "matters"]], "answer": "D",
+          "explanation": "concerns ở đây là \"các vấn đề cần bàn\" → matters." }
+      ]
+    }
+  ]
+}
+

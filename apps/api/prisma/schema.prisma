@@ -1,0 +1,255 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+/// Which list of the book a word belongs to
+enum ListType {
+  core // Từ vựng trọng tâm
+  basic // Từ vựng TOEIC cơ bản
+  l800 // Từ vựng TOEIC mức 800 điểm
+  l900 // Từ vựng TOEIC mức 900 điểm
+  idiom // 120 thành ngữ
+}
+
+enum WordStatus {
+  new
+  learning
+  review
+  mastered
+}
+
+enum TaskType {
+  learn_core
+  review_core
+  learn_basic
+  learn_l800
+  learn_l900
+  daily_checkup
+  practice_test
+  idioms
+}
+
+enum TaskStatus {
+  pending
+  in_progress
+  done
+  skipped
+}
+
+enum ExerciseType {
+  daily_checkup
+  practice_test
+  idiom_quiz
+}
+
+model Topic {
+  id        Int        @id @default(autoincrement())
+  dayNo     Int        @unique
+  title     String
+  category  String
+  pageStart Int?
+  pageEnd   Int?
+  words     Word[]
+  exercises Exercise[]
+  tasks     PlanTask[]
+}
+
+model Word {
+  id         Int            @id @default(autoincrement())
+  topicId    Int?
+  topic      Topic?         @relation(fields: [topicId], references: [id], onDelete: Cascade)
+  listType   ListType
+  section    String? /// LC | RC | P56 | P7
+  orderNo    Int
+  headword   String
+  stars      Int? /// 1..3 (tần suất xuất hiện)
+  partTag    String? /// P56 (●) | P7 (○)
+  ipaUk      String?
+  ipaUs      String?
+  pos        String? /// summary, e.g. "n, v"
+  meaningVi  String /// summary meaning used in quizzes
+  sourcePage Int?
+  verified   Boolean        @default(false)
+  senses     WordSense[]
+  relations  WordRelation[]
+  notes      WordNote[]
+  progress   WordProgress?
+  items      SessionItem[]
+
+  @@unique([topicId, listType, orderNo])
+  @@index([listType])
+}
+
+model WordSense {
+  id        Int           @id @default(autoincrement())
+  wordId    Int
+  word      Word          @relation(fields: [wordId], references: [id], onDelete: Cascade)
+  orderNo   Int
+  pos       String
+  meaningVi String
+  examples  WordExample[]
+}
+
+model WordExample {
+  id         Int       @id @default(autoincrement())
+  senseId    Int
+  sense      WordSense @relation(fields: [senseId], references: [id], onDelete: Cascade)
+  sentenceEn String /// target word wrapped in **...**
+  sentenceVi String?
+}
+
+model WordRelation {
+  id        Int     @id @default(autoincrement())
+  wordId    Int
+  word      Word    @relation(fields: [wordId], references: [id], onDelete: Cascade)
+  type      String /// der | syn | ant
+  text      String
+  pos       String?
+  meaningVi String?
+}
+
+model WordNote {
+  id      Int    @id @default(autoincrement())
+  wordId  Int
+  word    Word   @relation(fields: [wordId], references: [id], onDelete: Cascade)
+  type    String /// collocation | confusable | grammar | tip
+  title   String
+  content String
+}
+
+/// Single-user app: one progress row per word
+model WordProgress {
+  wordId       Int        @id
+  word         Word       @relation(fields: [wordId], references: [id], onDelete: Cascade)
+  status       WordStatus @default(new)
+  box          Int        @default(0) /// Leitner box 0..5
+  dueAt        DateTime?
+  correctCount Int        @default(0)
+  wrongCount   Int        @default(0)
+  streak       Int        @default(0) /// consecutive correct answers in tests
+  weak         Boolean    @default(false)
+  lastSeenAt   DateTime?
+  updatedAt    DateTime   @updatedAt
+
+  @@index([dueAt])
+}
+
+model Exercise {
+  id           Int                @id @default(autoincrement())
+  code         String             @unique /// day01-checkup | practice-1 | idioms-61-80
+  type         ExerciseType
+  topicId      Int?
+  topic        Topic?             @relation(fields: [topicId], references: [id], onDelete: Cascade)
+  title        String
+  sourcePage   Int?
+  questions    Question[]
+  attempts     ExerciseAttempt[]
+}
+
+model Question {
+  id          Int      @id @default(autoincrement())
+  exerciseId  Int
+  exercise    Exercise @relation(fields: [exerciseId], references: [id], onDelete: Cascade)
+  orderNo     Int
+  groupNo     Int
+  instruction String?
+  hint        String?
+  passage     String?
+  prompt      String
+  options     Json /// [{ key, text }]
+  answer      String
+  explanation String?
+}
+
+model ExerciseAttempt {
+  id         Int       @id @default(autoincrement())
+  exerciseId Int
+  exercise   Exercise  @relation(fields: [exerciseId], references: [id], onDelete: Cascade)
+  taskId     Int?
+  task       PlanTask? @relation(fields: [taskId], references: [id], onDelete: SetNull)
+  answers    Json /// { [questionId]: key }
+  score      Int
+  total      Int
+  createdAt  DateTime  @default(now())
+}
+
+model StudyPlan {
+  id        Int       @id @default(autoincrement())
+  target    Int       @default(800)
+  startDate DateTime  @db.Date
+  config    Json /// PlanConfig
+  active    Boolean   @default(true)
+  createdAt DateTime  @default(now())
+  days      PlanDay[]
+}
+
+model PlanDay {
+  id       Int        @id @default(autoincrement())
+  planId   Int
+  plan     StudyPlan  @relation(fields: [planId], references: [id], onDelete: Cascade)
+  dayIndex Int
+  date     DateTime   @db.Date
+  phase    Int
+  label    String
+  tasks    PlanTask[]
+
+  @@unique([planId, dayIndex])
+}
+
+model PlanTask {
+  id           Int               @id @default(autoincrement())
+  planDayId    Int
+  planDay      PlanDay           @relation(fields: [planDayId], references: [id], onDelete: Cascade)
+  orderNo      Int
+  type         TaskType
+  topicId      Int?
+  topic        Topic?            @relation(fields: [topicId], references: [id])
+  exerciseCode String?
+  status       TaskStatus        @default(pending)
+  completedAt  DateTime?
+  sessions     LearningSession[]
+  attempts     ExerciseAttempt[]
+}
+
+model LearningSession {
+  id         Int           @id @default(autoincrement())
+  taskId     Int?
+  task       PlanTask?     @relation(fields: [taskId], references: [id], onDelete: SetNull)
+  topicId    Int?
+  listType   ListType? /// null for cross-topic review of due words
+  mode       String /// learn | relearn | wrong_only | review
+  status     String        @default("active") /// active | completed | abandoned
+  attemptNo  Int           @default(1)
+  state      Json
+  startedAt  DateTime      @default(now())
+  updatedAt  DateTime      @updatedAt
+  finishedAt DateTime?
+  items      SessionItem[]
+
+  @@index([status])
+}
+
+model SessionItem {
+  id         Int             @id @default(autoincrement())
+  sessionId  Int
+  session    LearningSession @relation(fields: [sessionId], references: [id], onDelete: Cascade)
+  wordId     Int
+  word       Word            @relation(fields: [wordId], references: [id], onDelete: Cascade)
+  step       String /// quick | checkpoint | topic_test | review
+  qType      String
+  answer     String?
+  correct    Boolean
+  answeredAt DateTime        @default(now())
+
+  @@index([answeredAt])
+}
+
+model Setting {
+  key   String @id
+  value Json
+}
