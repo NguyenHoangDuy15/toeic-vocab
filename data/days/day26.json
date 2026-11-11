@@ -1,0 +1,1929 @@
+{
+  "dayNo": 26,
+  "titleVi": "Số dư tài khoản và lòng hiếu thảo",
+  "titleEn": "Topic 26",
+  "category": "Ngân hàng",
+  "coreWords": [
+    {
+      "no": 1,
+      "word": "delinquent",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "delinquent",
+      "ipaUs": "dilink want",
+      "page": 416,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "không đúng hạn, chậm (trả tiền)",
+          "examples": [
+            {
+              "en": "The delinquent account has been suspended.",
+              "vi": "Tài khoản nộp tiến không đúng hạn đã bị khóa. By\". Khi được dùng với nghĩa \"quá hạn\", delinquent có thể được thay bằng overdue."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 2,
+      "word": "overdue",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "overdue",
+      "ipaUs": "òuverdjú:",
+      "page": 416,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "quá hạn",
+          "examples": [
+            {
+              "en": "The bill for October is overdue and must be paid soon. Our billing forms are far too outdated.",
+              "vi": "Hóa đơn của tháng Mười dã bị quá hạn và phải được thanh toán sớm. Bạn có thể gặp câu hỏi yêu cầu phân biệt hai từ cùng chỉ sự"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 3,
+      "word": "regrettably",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "regrettably",
+      "ipaUs": "rigrétobli",
+      "page": 416,
+      "senses": [
+        {
+          "pos": "adv",
+          "meaning": "thật đáng tiếc",
+          "examples": [
+            {
+              "en": "Hackers TOEIC Vocabulary We are regrettably unable to approve your loan.",
+              "vi": "Thật tiếc là chúng tôi không thể chấp nhận khoản vay của bạn. n số dư tài khoản"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 4,
+      "word": "balance",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "balance",
+      "ipaUs": "bælons",
+      "page": 416,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "số dư tài khoản",
+          "examples": [
+            {
+              "en": "Urban Bank's website allows customers to check their account balance online. oong than t00",
+              "vi": "Trang web của ngân hàng Urban cho phép khách hàng có thể kiểm tra trên mạng số dư tài khoản của họ. n. Khi được dùng để chỉ số tiền còn lại, balance có thể thay"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 5,
+      "word": "deposit",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "dip5zit",
+      "ipaUs": "dipázit",
+      "page": 417,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "gửi, nộp (tiền ở ngân hàng)",
+          "examples": [
+            {
+              "en": "Steve deposited his paycheck at the bank this morning.",
+              "vi": "Steve dã gửi tiền lương của anh ấy tại ngân hàng sáng nay. n sự điều tra"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 6,
+      "word": "investigation",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "uK invèstigéi{an",
+      "ipaUs": "invèstagéifen",
+      "page": 417,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự điều tra",
+          "examples": [
+            {
+              "en": "The government's investigation into Harp Financial revealed no signs of illegal activity.",
+              "vi": "Kết quả điều tra Harp Financial của chính phủ cho thấy không có dấu hiệu hoạt động phi pháp nào. Bai thi TOEIC dạng thức mới"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 7,
+      "word": "account",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "account",
+      "ipaUs": "okáunt",
+      "page": 417,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "More than $100 must be put in the account to keep it The report gave an account of the financial Banks always take security into account.",
+              "vi": "active. Phải có trên 100 đô-la trong tài khoản để duy trì hoạt động của nó. negotiations. Báo cáo này cho biết thông tin chỉ tiết về các"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 8,
+      "word": "statement",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "statement",
+      "ipaUs": "stéitmant",
+      "page": 418,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "báo cáo, bản kê",
+          "examples": [
+            {
+              "en": "Bank statements are sent out monthly.",
+              "vi": "Sao kê ngân hàng được gửi đi hằng tháng. n lượng, số lượng, số tiền"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 9,
+      "word": "amount",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "amount",
+      "ipaUs": "emáunt",
+      "page": 418,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "lượng, số lượng, số tiền",
+          "examples": [
+            {
+              "en": "The amount of money needed to open a savings",
+              "vi": "account is $50. Số tiên cần để mở một tài khoản tiết kiệm là 50 dô-la. n sự rút ra"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 10,
+      "word": "withdrawal",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "withdrawal",
+      "ipaUs": "wiödr5:al",
+      "page": 418,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự rút ra",
+          "examples": [
+            {
+              "en": "Withdrawals can be made anytime at the cash",
+              "vi": "Việc rút tiền có thể thực hiện bất cứ lúc nào tại các máy rút tiền tự động. adv trước, trước dây"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 11,
+      "word": "previously",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "previously",
+      "ipaUs": "der. previo (adj) trước",
+      "page": 418,
+      "senses": [
+        {
+          "pos": "adv",
+          "meaning": "trước, trước dây",
+          "examples": [
+            {
+              "en": "Hackers TOEIC Vocabulary The SC card application requires proof of a previously opened credit card account.",
+              "vi": "Đơn đăng ký thẻ SC đòi hỏi phải có chứng thực về một tài khoản tín dụng đã được mở từ trước. adị đến hạn; bởi vì, nhờ có, tùy thuộc vào"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 12,
+      "word": "due",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "due",
+      "ipaUs": "dju:",
+      "page": 418,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "Payment must be received by the due date.",
+              "vi": "Các khoản tiền cần phải được thanh toán đúng hạn. Việc trả tiền tùy thuộc vào phía nhà thầu. Bài thì TOEIC dạng thức mới"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 13,
+      "word": "receive",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "receive",
+      "ipaUs": "risí:v",
+      "page": 419,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "nhận, lĩnh, thu",
+          "examples": [
+            {
+              "en": "Carmen received a statement for her credit card in",
+              "vi": "Carmen nhận được bản sao kê thẻ tín dụng qua đường bưu điện. v trông đợi, dự đoán"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 14,
+      "word": "expect",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "expect",
+      "ipaUs": "ikspékt",
+      "page": 419,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "trông đợi, dự đoán",
+          "examples": [
+            {
+              "en": "Interest rates are expected to increase by 2 percent.",
+              "vi": "Mức lãi suất được dự kiến sẽ tăng thêm 2%. expect A to do kỳ vọng A làm gì be expected to do được dự đoán, được kỳ vọng sẽ"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 15,
+      "word": "certificate",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "satifikot",
+      "ipaUs": "sortífikat",
+      "page": 419,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "giấy chứng nhận, bằng",
+          "examples": [
+            {
+              "en": "The bank requires a certificate of employment to approve the loan.",
+              "vi": "Ngân hàng yêu cầu có giấy chứng nhận việc làm để phê duyệt khoản vay. n giấy tờ, tài liệu"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 16,
+      "word": "document",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "uK d5kjumant",
+      "ipaUs": "v) ( dákjumènt",
+      "page": 419,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "giấy tờ, tài liệu",
+          "examples": [
+            {
+              "en": "Please submit the required tax documents by this The secretary must document all of the office's costs.",
+              "vi": "Friday. Vui lòng nộp các giấy tờ thuế cần thiết trước thứ Sáu này. v ghi chép, lưu lại thông tin Người thư ký phải lưu lại tài liệu về tất cả các chi phí của"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 17,
+      "word": "spending",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "spending",
+      "ipaUs": "spéndin",
+      "page": 420,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự chi tiêu",
+          "examples": [
+            {
+              "en": "The Vantage Checking Account is ideal for your daily spending needs.",
+              "vi": "Tài khoản văng lai của Vantage rất lý tưởng cho các nhu cầu chi tiêu hằng ngày của bạn. adv có kết quả, thành công"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 18,
+      "word": "successfully",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "successfully",
+      "ipaUs": "saksésfoli",
+      "page": 420,
+      "senses": [
+        {
+          "pos": "adv",
+          "meaning": "có kết quả, thành công",
+          "examples": [
+            {
+              "en": "James successfully transferred $5,000 to his overseas account.",
+              "vi": "James dã chuyển thành công 5.000 đô-la đến tài khoản nước ngoài của anh ấy. V gửi hóa đơn, yêu cầu thanh toán"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 19,
+      "word": "bill",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "bill",
+      "ipaUs": "bil",
+      "page": 420,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "hóa đơn",
+          "examples": [
+            {
+              "en": "Residents will be billed separately for gas and electricity charges. The times and dates of all calls made appear on the bill.",
+              "vi": "Cư dân sẽ được gửi tách riêng hóa đơn tiền ga và tiền điện. Ngày và giờ của tất cả cuộc gọi phát sinh đều có trên hóa đơn. n niềm vui, sự hài lòng"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 20,
+      "word": "pleasure",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "uK pléze",
+      "ipaUs": "plézar",
+      "page": 420,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "niềm vui, sự hài lòng",
+          "examples": [
+            {
+              "en": "Fast and friendly service makes it a pleasure to bank with Township Capital. Hackers TOEIC Vocabulary",
+              "vi": "Dịch vụ nhanh chóng và thân thiện đem lại sự hài lòng trong việc giao dịch với Township Capital. n sự nghiên cứu, sự tìm tòi"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 21,
+      "word": "study",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "study",
+      "ipaUs": "stÁdi",
+      "page": 420,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự nghiên cứu, sự tìm tòi",
+          "examples": [
+            {
+              "en": "This study investigates the feasibility of the proposed",
+              "vi": "Nghiên cứu này tìm hiểu về tính khả thi của các đề xuất cắt giảm thuế."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 22,
+      "word": "summary",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "summary",
+      "ipaUs": "sâmari",
+      "page": 421,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "bản tóm tất",
+          "examples": [
+            {
+              "en": "The statement gives a summary of Cantor's financial",
+              "vi": "activities. Tờ sao kê cung cấp một bản tóm tắt các giao dịch tài chính của Cantor. adị tạm thời, nhất thời"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 23,
+      "word": "temporary",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "Uk témparari",
+      "ipaUs": "témparèri",
+      "page": 421,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "A temporary password is given to bank clients until they choose a new one.",
+              "vi": "Một mật khẩu tạm thời được cấp cho khách hàng cho đến khi họ chọn được mật khẩu mới. V hạ thấp, giảm"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 24,
+      "word": "lower",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "15ua",
+      "ipaUs": "louar",
+      "page": 421,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "The new tax break lowers costs for large businesses.",
+              "vi": "Việc giảm thuế gần đây đã giúp giảm chi phí cho các doanh nghiệp lớn. Bải thị TOEIC"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 25,
+      "word": "transaction",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "transaction",
+      "ipaUs": "trænzækjan",
+      "page": 421,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "The first five transactions will not be charged a service fee.",
+              "vi": "Năm giao dịch đầu tiên sẽ không bị tính phí dịch vụ. M nhân đôi, tăng gấp đôi"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 26,
+      "word": "double",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "double",
+      "ipaUs": "dsbl",
+      "page": 421,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "All of the investors who purchased MAGG's stock a month ago doubled their money.",
+              "vi": "Tất cả những nhà đầu tư mua cổ phiểu của MAGG một tháng trước đều đã nhân đôi số tiền của họ."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 27,
+      "word": "identification",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "aidèntifikéijan",
+      "ipaUs": "aidèntafikéifen",
+      "page": 422,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự nhận dạng, giấy tờ tùy thân",
+          "examples": [
+            {
+              "en": "Two forms of identification are required to open an The bank clerk requested proof of identity.",
+              "vi": "account. Cần hai loại giấy tờ tùy thân để có thể mở tài khoản. Bai thi TOEIC dạng thực moi - identification giấy tờ tùy thân"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 28,
+      "word": "dissatisfaction",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "dissatisfaction",
+      "ipaUs": "dissætisfæk{an",
+      "page": 422,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự không hài lòng, sự bất mãn",
+          "examples": [
+            {
+              "en": "Clients registered their dissatisfaction with the bank at the Consumer Protection Office.",
+              "vi": "Khách hàng ghi vào sổ điều họ không hài lòng với ngân hàng tại Phòng Bảo vệ Khách hàng. phr chung, giống nhau"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 29,
+      "word": "common",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "common",
+      "ipaUs": "der.) commonly (adv",
+      "page": 422,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự quan tâm; lợi ích; tiền lãi",
+          "examples": [
+            {
+              "en": "Credit unions and banks have much in common.",
+              "vi": "Các tổ chức tín dụng và ngân hàng có nhiều điểm chung với nhau."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 30,
+      "word": "interest",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "interest",
+      "ipaUs": "intarast",
+      "page": 422,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự quan tâm; lợi ích; tiền lãi",
+          "examples": [
+            {
+              "en": "Hackers TOEIC Vocabulary Investors have shown great interest in shares of Speedy Motors.",
+              "vi": "Các nhà đầu tư thể hiện rất nhiều sự quan tâm đến cổ phiếu của Speedy Motors. Plus Tech có lợi ích nhất định trong việc phát triển thị trường điện"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 31,
+      "word": "reject",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "reject",
+      "ipaUs": "ridzekt",
+      "page": 423,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "từ chối, bác bỏ",
+          "examples": [
+            {
+              "en": "Sarah was rejected for a mortgage application at Singer Bank.",
+              "vi": "Sarah bị bác đơn xin thế chấp tại ngân hàng Singer. n mỗi quan hệ"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 32,
+      "word": "relation",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "relation",
+      "ipaUs": "riléifen",
+      "page": 423,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "mỗi quan hệ",
+          "examples": [
+            {
+              "en": "Relations between the financial corporation and investors became strained.",
+              "vi": "Mối quan hệ giữa tập đoàn tài chính này và các nhà đầu tư đã trở nên căng thẳng. adv ngập ngừng, không dứt khoát"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 33,
+      "word": "tentatively",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "tentatively",
+      "ipaUs": "téntativli",
+      "page": 423,
+      "senses": [
+        {
+          "pos": "adv",
+          "meaning": "ngập ngừng, không dứt khoát",
+          "examples": [
+            {
+              "en": "Helen tentatively agreed to invest $10,000 in Jim's",
+              "vi": "Helen đã ngập ngừng đồng ý đầu tư 10.000 đô-la vào công ty của Jim. adv hoặc, như một sự lựa chọn"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 34,
+      "word": "alternatively",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "altô:nativli",
+      "ipaUs": "p:ltá:rnativli",
+      "page": 423,
+      "senses": [
+        {
+          "pos": "adv",
+          "meaning": "hoặc, như một sự lựa chọn",
+          "examples": [
+            {
+              "en": "The money can go in a savings account; alternatively, it can be placed into an investment",
+              "vi": "Tiền có thể chuyển vào tài khoản tiết kiệm; một lựa chọn khác là có thể đưa nó vào quý đầu tư. adị chăm chú, lưu tâm"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 35,
+      "word": "attentive",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "attentive",
+      "ipaUs": "oténtiv",
+      "page": 423,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "Martin was very attentive while he discussed investment options with the advisor.",
+              "vi": "Martin rất chăm chú khi thảo luận về các phương án đầu tư với cố vấn. V đổi, biến đổi, chuyển"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 36,
+      "word": "convert",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "kanvé:t",
+      "ipaUs": "kenvé:rt",
+      "page": 423,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "Savings accounts can be converted into mutual",
+              "vi": "Tài khoản tiết kiệm có thể được chuyển thành quỹ tương hỗ mà không mất phí."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 37,
+      "word": "heavily",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "heavily",
+      "ipaUs": "hévili",
+      "page": 424,
+      "senses": [
+        {
+          "pos": "adv",
+          "meaning": "nặng, nặng nề",
+          "examples": [
+            {
+              "en": "The institution heavily relies on capital gained from",
+              "vi": "lending. Tổ chức này phụ thuộc rất nhiều vào nguồn vốn thu được từ việc cho vay. C heavily rely on phụ thuộc nhiều vào"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 38,
+      "word": "loan",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "laun",
+      "ipaUs": "loun",
+      "page": 424,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự cho vay, khoản vay",
+          "examples": [
+            {
+              "en": "The couple took out a loan to finance their child's college education.",
+              "vi": "Cặp vợ chồng đó đã nhận một khoản vay để chu cấp tài chính cho con học dại học. adị không ngờ, không mong đợi"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 39,
+      "word": "unexpected",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "unexpected",
+      "ipaUs": "‹nikspéktid",
+      "page": 424,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "đổi sang tiền mặt",
+          "examples": [
+            {
+              "en": "Price drops were an unexpected side effect of the economic reform policy. Hackers TOEIC Vocab",
+              "vi": "Rớt giá là một tác dụng phụ không ngờ tới của việc cải cách chính sách kinh tế."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 40,
+      "word": "cash",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "cash",
+      "ipaUs": "kæeS",
+      "page": 424,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "đổi sang tiền mặt",
+          "examples": [
+            {
+              "en": "The bank refuses to cash the check without proper",
+              "vi": "Ngân hàng từ chối đổi séc thành tiền mặt nếu không có giấy tờ chứng minh phù hợp. n khoản thế chấp, việc vay thế chấp"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 41,
+      "word": "mortgage",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "m5:gid3",
+      "ipaUs": "m5:rgid3",
+      "page": 424,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "khoản thế chấp, việc vay thế chấp",
+          "examples": [
+            {
+              "en": "Higher mortgage rates will hurt homeowners.",
+              "vi": "Tỷ lệ thế chấp cao hơn sẽ gây tổn hại đến những người sở hữu nhà."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 42,
+      "word": "payable",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "payable",
+      "ipaUs": "péiabI",
+      "page": 425,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "có thể trả, phải trả",
+          "examples": [
+            {
+              "en": "Make all checks payable to Everson Ltd.",
+              "vi": "Hãy thanh toán tất cả séc có thể trả cho công ty TNHH Everson. Bai thì TOBC dạng thực mơi 1. payable to + người/công ty phải trả cho ai"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 43,
+      "word": "personal",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "pa:sana!",
+      "ipaUs": "pé:rsanl",
+      "page": 425,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "riêng, cá nhân",
+          "examples": [
+            {
+              "en": "Jane visited the bank to cash a personal check.",
+              "vi": "Jane đến ngân hàng để đổi một tờ séc cá nhân thành tiền mặt. 3 Bai thi TOEIC dạng thức mới c\" personal check séc cá nhân"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    }
+  ],
+  "dailyCheckup": {
+    "page": 0,
+    "groups": [
+      {
+        "instruction": "Tìm ở cột bên phải nghĩa của các từ vựng ở cột bên trái và nối chúng với nhau.",
+        "options": [
+          {
+            "key": "a",
+            "text": "tiêu cực"
+          },
+          {
+            "key": "b",
+            "text": "ngay lập tức"
+          },
+          {
+            "key": "c",
+            "text": "cách tiếp cận"
+          },
+          {
+            "key": "d",
+            "text": "bị cấm"
+          },
+          {
+            "key": "e",
+            "text": "sự chấp thuận"
+          },
+          {
+            "key": "f",
+            "text": "truy cập"
+          }
+        ],
+        "questions": [
+          {
+            "no": 1,
+            "prompt": "successfully",
+            "answer": "a"
+          },
+          {
+            "no": 2,
+            "prompt": "attentive",
+            "answer": "a"
+          },
+          {
+            "no": 3,
+            "prompt": "temporary",
+            "answer": "a"
+          },
+          {
+            "no": 4,
+            "prompt": "alternatively",
+            "answer": "a"
+          },
+          {
+            "no": 5,
+            "prompt": "previously",
+            "answer": "a"
+          }
+        ]
+      },
+      {
+        "instruction": "Hãy chọn từ phù hợp để điền vào mỗi câu của bài thi TOEIC dạng thức mới sau.",
+        "options": [
+          {
+            "key": "a",
+            "text": "inspection"
+          },
+          {
+            "key": "b",
+            "text": "effect"
+          },
+          {
+            "key": "c",
+            "text": "authorized"
+          },
+          {
+            "key": "d",
+            "text": "procedure"
+          },
+          {
+            "key": "e",
+            "text": "concern"
+          }
+        ],
+        "questions": [
+          {
+            "no": 6,
+            "prompt": "Sharon's bank savings after a few months.",
+            "answer": "a"
+          },
+          {
+            "no": 7,
+            "prompt": "Customers receive bank ....... at the end of each month.",
+            "answer": "a"
+          },
+          {
+            "no": 8,
+            "prompt": "Researchers monitored people's_",
+            "answer": "a"
+          },
+          {
+            "no": 9,
+            "prompt": "Investors__. a seven percent return on their investment.",
+            "answer": "a"
+          }
+        ]
+      },
+      {
+        "instruction": "Hãy chọn từ phù hợp để điền vào mỗi câu của bài thi TOEIC dạng thức mới sau.",
+        "options": [
+          {
+            "key": "a",
+            "text": "obligation"
+          },
+          {
+            "key": "b",
+            "text": "drastically"
+          },
+          {
+            "key": "c",
+            "text": "revise"
+          },
+          {
+            "key": "d",
+            "text": "thoroughly"
+          },
+          {
+            "key": "e",
+            "text": "arrangements"
+          }
+        ],
+        "questions": [
+          {
+            "no": 10,
+            "prompt": "Coreland has been under several",
+            "answer": "a"
+          },
+          {
+            "no": 11,
+            "prompt": "Customers may cash using an automated teller machine.",
+            "answer": "a"
+          },
+          {
+            "no": 12,
+            "prompt": "A of employment is required when requesting a mortgage.",
+            "answer": "a"
+          },
+          {
+            "no": 13,
+            "prompt": "The bank._..... the loan application, because the financial risk was great.",
+            "answer": "a"
+          }
+        ]
+      }
+    ]
+  },
+  "completeVocab": {
+    "basic": [
+      {
+        "word": "TƯ VỰNG TOEIC HOÀN CHỈNH",
+        "pos": "phr",
+        "meaning": "Ngân hàng",
+        "section": "RC"
+      },
+      {
+        "word": "at the earliest",
+        "pos": "phr",
+        "meaning": "sớm nhất là",
+        "section": "RC"
+      },
+      {
+        "word": "at the same time",
+        "pos": "phr",
+        "meaning": "cùng lúc",
+        "section": "RC"
+      },
+      {
+        "word": "at this point",
+        "pos": "phr",
+        "meaning": "cùng lúc",
+        "section": "RC"
+      },
+      {
+        "word": "automatic payment",
+        "pos": "phr",
+        "meaning": "thanh toán tự động",
+        "section": "RC"
+      },
+      {
+        "word": "banker",
+        "pos": "n",
+        "meaning": "chủ/giám đốc ngân hàng",
+        "section": "RC"
+      },
+      {
+        "word": "banking",
+        "pos": "n",
+        "meaning": "công việc ngân hàng",
+        "section": "RC"
+      },
+      {
+        "word": "be used to -ing",
+        "pos": "phr",
+        "meaning": "quen với điều gì",
+        "section": "RC"
+      },
+      {
+        "word": "by the end of the year",
+        "pos": "phr",
+        "meaning": "đến cuối năm",
+        "section": "RC"
+      },
+      {
+        "word": "by this time",
+        "pos": "phr",
+        "meaning": "đến cuối năm",
+        "section": "RC"
+      },
+      {
+        "word": "a clerk",
+        "pos": "n",
+        "meaning": "nhân viên",
+        "section": "RC"
+      },
+      {
+        "word": "a cozy",
+        "pos": "adj",
+        "meaning": "ấm cúng",
+        "section": "RC"
+      },
+      {
+        "word": "credit card number",
+        "pos": "phr",
+        "meaning": "số thẻ tín dụng",
+        "section": "RC"
+      },
+      {
+        "word": "float",
+        "pos": "v",
+        "meaning": "nổi, thả nổi",
+        "section": "RC"
+      },
+      {
+        "word": "for a short time",
+        "pos": "v",
+        "meaning": "nổi, thả nổi",
+        "section": "RC"
+      },
+      {
+        "word": "gesture",
+        "pos": "n",
+        "meaning": "cử chỉ, động tác",
+        "section": "RC"
+      },
+      {
+        "word": "hand",
+        "pos": "n",
+        "meaning": "bàn tay; • trao tay, chuyển giao",
+        "section": "RC"
+      },
+      {
+        "word": "next to",
+        "pos": "n",
+        "meaning": "bàn tay; • trao tay, chuyển giao",
+        "section": "RC"
+      },
+      {
+        "word": "password",
+        "pos": "n",
+        "meaning": "mật khẩu/",
+        "section": "RC"
+      },
+      {
+        "word": "coin",
+        "pos": "n",
+        "meaning": "tiền xu",
+        "section": "RC"
+      },
+      {
+        "word": "evening news",
+        "pos": "n",
+        "meaning": "tiền xu",
+        "section": "RC"
+      },
+      {
+        "word": "generously",
+        "pos": "adv",
+        "meaning": "rộng lượng, hào phóng",
+        "section": "RC"
+      },
+      {
+        "word": "a in addition",
+        "pos": "phr",
+        "meaning": "ngoài ra, bên cạnh đó",
+        "section": "RC"
+      },
+      {
+        "word": "in addition to",
+        "pos": "phr",
+        "meaning": "ngoài ra, bên cạnh đó",
+        "section": "RC"
+      },
+      {
+        "word": "in short",
+        "pos": "phr",
+        "meaning": "tóm lại",
+        "section": "RC"
+      },
+      {
+        "word": "thankful",
+        "pos": "phr",
+        "meaning": "tóm lại",
+        "section": "RC"
+      },
+      {
+        "word": "a unnecessary",
+        "pos": "phr",
+        "meaning": "adị không cần thiết",
+        "section": "RC"
+      },
+      {
+        "word": "a useful",
+        "pos": "phr",
+        "meaning": "adị không cần thiết",
+        "section": "RC"
+      }
+    ],
+    "score800": [
+      {
+        "word": "alternate",
+        "pos": "n",
+        "meaning": "adị xen kẽ, luân phiên",
+        "section": "P56"
+      },
+      {
+        "word": "awfully",
+        "pos": "n",
+        "meaning": "aấv khủng khiếp, vô cùng",
+        "section": "P56"
+      },
+      {
+        "word": "bank loan",
+        "pos": "phr",
+        "meaning": "khoản vay ngân hàng",
+        "section": "P56"
+      },
+      {
+        "word": "bank teller",
+        "pos": "phr",
+        "meaning": "giao dịch viên ngân hàng",
+        "section": "P56"
+      },
+      {
+        "word": "be amazed at",
+        "pos": "phr",
+        "meaning": "kinh ngạc, sửng sốt với",
+        "section": "P56"
+      },
+      {
+        "word": "be caught in",
+        "pos": "phr",
+        "meaning": "bị mắc, bị kẹt trong",
+        "section": "P56"
+      },
+      {
+        "word": "be spread out",
+        "pos": "phr",
+        "meaning": "được trải ra",
+        "section": "P56"
+      },
+      {
+        "word": "every other day",
+        "pos": "phr",
+        "meaning": "được trải ra",
+        "section": "P56"
+      },
+      {
+        "word": "flawed",
+        "pos": "n",
+        "meaning": "adị có vết, có lỗi",
+        "section": "P56"
+      },
+      {
+        "word": "a foreign currency",
+        "pos": "phr",
+        "meaning": "ngoại tệ",
+        "section": "P56"
+      },
+      {
+        "word": "o gaze into",
+        "pos": "phr",
+        "meaning": "nhìn chăm chủ vào",
+        "section": "P56"
+      },
+      {
+        "word": "get a loan",
+        "pos": "phr",
+        "meaning": "được vay tiền",
+        "section": "P56"
+      },
+      {
+        "word": "give out",
+        "pos": "phr",
+        "meaning": "phân phối",
+        "section": "P56"
+      },
+      {
+        "word": "glance at",
+        "pos": "phr",
+        "meaning": "phân phối",
+        "section": "P56"
+      },
+      {
+        "word": "go wrong with",
+        "pos": "phr",
+        "meaning": "sai lầm với",
+        "section": "P56"
+      },
+      {
+        "word": "hang out",
+        "pos": "phr",
+        "meaning": "đi chơi, giao du",
+        "section": "P56"
+      },
+      {
+        "word": "have sb around",
+        "pos": "phr",
+        "meaning": "đón tiếp ai",
+        "section": "P56"
+      },
+      {
+        "word": "if possible",
+        "pos": "phr",
+        "meaning": "nếu có thể",
+        "section": "P56"
+      },
+      {
+        "word": "a if you insist",
+        "pos": "phr",
+        "meaning": "nếu có thể",
+        "section": "P56"
+      },
+      {
+        "word": "I'lI bet",
+        "pos": "phr",
+        "meaning": "Tôi cá là",
+        "section": "P56"
+      },
+      {
+        "word": "locally",
+        "pos": "n",
+        "meaning": "aấv cục bộ",
+        "section": "P56"
+      },
+      {
+        "word": "pay off",
+        "pos": "phr",
+        "meaning": "aấv cục bộ",
+        "section": "P56"
+      },
+      {
+        "word": "perhaps",
+        "pos": "adv",
+        "meaning": "có lẽ, có thể",
+        "section": "P56"
+      },
+      {
+        "word": "put in",
+        "pos": "phr",
+        "meaning": "gửi vào, đầu tư",
+        "section": "P56"
+      },
+      {
+        "word": "savings",
+        "pos": "phr",
+        "meaning": "gửi vào, đầu tư",
+        "section": "P56"
+      },
+      {
+        "word": "short-term deposit",
+        "pos": "phr",
+        "meaning": "tiền gửi ngắn hạn",
+        "section": "P56"
+      },
+      {
+        "word": "the following day",
+        "pos": "phr",
+        "meaning": "ngày hôm sau",
+        "section": "P56"
+      },
+      {
+        "word": "until the first of next month",
+        "pos": "phr",
+        "meaning": "ngày hôm sau",
+        "section": "P56"
+      },
+      {
+        "word": "across from",
+        "pos": "phr",
+        "meaning": "đối diện với",
+        "section": "P56"
+      },
+      {
+        "word": "alarming",
+        "pos": "phr",
+        "meaning": "đối diện với",
+        "section": "P56"
+      },
+      {
+        "word": "anymore",
+        "pos": "adv",
+        "meaning": "nữa",
+        "section": "P56"
+      },
+      {
+        "word": "at a time",
+        "pos": "phr",
+        "meaning": "cùng lúc, một lần",
+        "section": "P56"
+      },
+      {
+        "word": "courteously",
+        "pos": "phr",
+        "meaning": "cùng lúc, một lần",
+        "section": "P56"
+      },
+      {
+        "word": "a indeed",
+        "pos": "adv",
+        "meaning": "quả thực, thật vậy",
+        "section": "P7"
+      },
+      {
+        "word": "otherwise",
+        "pos": "adv",
+        "meaning": "quả thực, thật vậy",
+        "section": "P7"
+      },
+      {
+        "word": "owing to",
+        "pos": "adv",
+        "meaning": "khác, khác đi; nếu không thì",
+        "section": "P7"
+      },
+      {
+        "word": "partial",
+        "pos": "n",
+        "meaning": "adị từng phần, thiên vị",
+        "section": "P7"
+      },
+      {
+        "word": "pay out",
+        "pos": "phr",
+        "meaning": "trả tiền, xuất tiền trả",
+        "section": "P7"
+      },
+      {
+        "word": "a receptive",
+        "pos": "phr",
+        "meaning": "adị dễ tiếp thu, dễ lĩnh hội",
+        "section": "P7"
+      },
+      {
+        "word": "simplify",
+        "pos": "v",
+        "meaning": "đơn giản hóa",
+        "section": "P7"
+      },
+      {
+        "word": "someday",
+        "pos": "adv",
+        "meaning": "một ngày nào đó, rồi đây",
+        "section": "P7"
+      },
+      {
+        "word": "turn down",
+        "pos": "phr",
+        "meaning": "từ chối, bác bỏ",
+        "section": "P7"
+      },
+      {
+        "word": "twofold",
+        "pos": "phr",
+        "meaning": "từ chối, bác bỏ",
+        "section": "P7"
+      },
+      {
+        "word": "account payable",
+        "pos": "phr",
+        "meaning": "khoản phải trả",
+        "section": "P7"
+      },
+      {
+        "word": "bank account",
+        "pos": "phr",
+        "meaning": "tài khoản ngân hàng",
+        "section": "P7"
+      },
+      {
+        "word": "be highly regarded",
+        "pos": "phr",
+        "meaning": "được đánh giá cao, được coi trọng",
+        "section": "P7"
+      },
+      {
+        "word": "be of particular interest to",
+        "pos": "phr",
+        "meaning": "là mối quan tâm đặc biệt đối với",
+        "section": "P7"
+      },
+      {
+        "word": "billing information",
+        "pos": "phr",
+        "meaning": "thông tin hóa đơn",
+        "section": "P7"
+      },
+      {
+        "word": "credit",
+        "pos": "phr",
+        "meaning": "thông tin hóa đơn",
+        "section": "P7"
+      },
+      {
+        "word": "creditor",
+        "pos": "n",
+        "meaning": "chủ nợ, người cho vay",
+        "section": "P7"
+      },
+      {
+        "word": "currency",
+        "pos": "n",
+        "meaning": "tiền tệ",
+        "section": "P7"
+      },
+      {
+        "word": "debit card",
+        "pos": "phr",
+        "meaning": "thể ghi nợ",
+        "section": "P7"
+      },
+      {
+        "word": "debt",
+        "pos": "n",
+        "meaning": "ngày đáo hạn",
+        "section": "P7"
+      },
+      {
+        "word": "expiration date",
+        "pos": "n",
+        "meaning": "ngày đáo hạn",
+        "section": "P7"
+      },
+      {
+        "word": "financial history",
+        "pos": "phr",
+        "meaning": "lịch sử tài chính",
+        "section": "P7"
+      },
+      {
+        "word": "for the sake of",
+        "pos": "phr",
+        "meaning": "vì lợi ích của",
+        "section": "P7"
+      },
+      {
+        "word": "forge",
+        "pos": "phr",
+        "meaning": "vì lợi ích của",
+        "section": "P7"
+      },
+      {
+        "word": "forgery",
+        "pos": "n",
+        "meaning": "sự giả mạo, chữ ký/giấy tờ giả mạo",
+        "section": "P7"
+      },
+      {
+        "word": "forthcoming",
+        "pos": "n",
+        "meaning": "sự giả mạo, chữ ký/giấy tờ giả mạo",
+        "section": "P7"
+      },
+      {
+        "word": "midtown",
+        "pos": "n",
+        "meaning": "adị sắp tới",
+        "section": "P7"
+      },
+      {
+        "word": "owe",
+        "pos": "n",
+        "meaning": "trung tâm thành phố",
+        "section": "P7"
+      },
+      {
+        "word": "PIN (personal identification number)",
+        "pos": "n",
+        "meaning": "mã PIN (mã số định danh cá nhân)",
+        "section": "P7"
+      },
+      {
+        "word": "pop up",
+        "pos": "n",
+        "meaning": "mã PIN (mã số định danh cá nhân)",
+        "section": "P7"
+      },
+      {
+        "word": "public holiday",
+        "pos": "phr",
+        "meaning": "bật lên, xuất hiện bất ngờ",
+        "section": "P7"
+      },
+      {
+        "word": "reluctant",
+        "pos": "phr",
+        "meaning": "ngày nghỉ lễ",
+        "section": "P7"
+      },
+      {
+        "word": "requisition",
+        "pos": "n",
+        "meaning": "adị do dự, miễn cưỡng",
+        "section": "P7"
+      },
+      {
+        "word": "a scrutinize",
+        "pos": "n",
+        "meaning": "sự yêu cầu, lệnh",
+        "section": "P7"
+      },
+      {
+        "word": "sustain",
+        "pos": "v",
+        "meaning": "rà soát, xem xét ký lưỡng",
+        "section": "P7"
+      }
+    ],
+    "score900": [
+      {
+        "word": "a be held up",
+        "pos": "phr",
+        "meaning": "bị hoãn lại",
+        "section": "P7"
+      },
+      {
+        "word": "crash",
+        "pos": "n",
+        "meaning": "sự phá sản, sự sụp đổ",
+        "section": "P7"
+      },
+      {
+        "word": "make a withdrawal",
+        "pos": "n",
+        "meaning": "sự phá sản, sự sụp đổ",
+        "section": "P7"
+      },
+      {
+        "word": "on loan",
+        "pos": "phr",
+        "meaning": "cho vay, cho mượn",
+        "section": "P7"
+      },
+      {
+        "word": "overdrawn",
+        "pos": "n",
+        "meaning": "adi rút quá hạn mức, thấu chi",
+        "section": "P7"
+      },
+      {
+        "word": "take out a loan",
+        "pos": "phr",
+        "meaning": "vay tiền",
+        "section": "P7"
+      },
+      {
+        "word": "take out insurance on",
+        "pos": "phr",
+        "meaning": "mua bảo hiểm cho",
+        "section": "P7"
+      },
+      {
+        "word": "accrue",
+        "pos": "phr",
+        "meaning": "mua bảo hiểm cho",
+        "section": "P7"
+      },
+      {
+        "word": "a credible",
+        "pos": "phr",
+        "meaning": "* dồn lại, tích lũy",
+        "section": "P7"
+      },
+      {
+        "word": "curb",
+        "pos": "n",
+        "meaning": "y kiểm chế, hạn chế; n sự kiểm chế",
+        "section": "P7"
+      },
+      {
+        "word": "a redemption",
+        "pos": "n",
+        "meaning": "sự trả hết nợ",
+        "section": "P7"
+      },
+      {
+        "word": "remit",
+        "pos": "n",
+        "meaning": "y gửi tiền, miễn, xóa (nợ, hình phạt)",
+        "section": "P7"
+      },
+      {
+        "word": "secured",
+        "pos": "n",
+        "meaning": "adị đảm bảo, chắc chấn",
+        "section": "P7"
+      },
+      {
+        "word": "belatedly",
+        "pos": "n",
+        "meaning": "adị đảm bảo, chắc chấn",
+        "section": "P7"
+      },
+      {
+        "word": "bounce",
+        "pos": "v",
+        "meaning": "(séc) bị trà về",
+        "section": "P7"
+      },
+      {
+        "word": "a cluster",
+        "pos": "n",
+        "meaning": "bó, cụm, đàn, bầy",
+        "section": "P7"
+      },
+      {
+        "word": "collateral",
+        "pos": "n",
+        "meaning": "tài sản ký quý",
+        "section": "P7"
+      },
+      {
+        "word": "confiscate",
+        "pos": "n",
+        "meaning": "y tịch thu, sung công",
+        "section": "P7"
+      },
+      {
+        "word": "a contender",
+        "pos": "phr",
+        "meaning": "y tịch thu, sung công",
+        "section": "P7"
+      },
+      {
+        "word": "counterfeit",
+        "pos": "n",
+        "meaning": "vật giả mạo, đồ giả",
+        "section": "P7"
+      },
+      {
+        "word": "credit money to one's account",
+        "pos": "phr",
+        "meaning": "chuyển tiền vào tài khoản của",
+        "section": "P7"
+      },
+      {
+        "word": "a deposit slip",
+        "pos": "phr",
+        "meaning": "chuyển tiền vào tài khoản của",
+        "section": "P7"
+      },
+      {
+        "word": "a deterrent",
+        "pos": "n",
+        "meaning": "sự ngăn ngừa, biện pháp ngăn chặn",
+        "section": "P7"
+      },
+      {
+        "word": "direct deposit",
+        "pos": "phr",
+        "meaning": "tiền gửi trực tiếp",
+        "section": "P7"
+      },
+      {
+        "word": "draw a check",
+        "pos": "phr",
+        "meaning": "tiền gửi trực tiếp",
+        "section": "P7"
+      },
+      {
+        "word": "fortnight",
+        "pos": "n",
+        "meaning": "hai tuần, mười lăm ngày",
+        "section": "P7"
+      },
+      {
+        "word": "a on standby",
+        "pos": "phr",
+        "meaning": "ở chế độ chờ, sẵn sàng",
+        "section": "P7"
+      },
+      {
+        "word": "a spurious",
+        "pos": "phr",
+        "meaning": "ở chế độ chờ, sẵn sàng",
+        "section": "P7"
+      },
+      {
+        "word": "trust company",
+        "pos": "phr",
+        "meaning": "công ty tín thác",
+        "section": "P7"
+      },
+      {
+        "word": "trustee",
+        "pos": "phr",
+        "meaning": "công ty tín thác",
+        "section": "P7"
+      },
+      {
+        "word": "wire money to",
+        "pos": "phr",
+        "meaning": "chuyển tiền cho",
+        "section": "P7"
+      },
+      {
+        "word": "wire transfer",
+        "pos": "phr",
+        "meaning": "chuyển tiền cho",
+        "section": "P7"
+      }
+    ]
+  },
+  "title": "Số dư tài khoản và lòng hiếu thảo"
+}

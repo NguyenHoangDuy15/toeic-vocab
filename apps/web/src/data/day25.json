@@ -1,0 +1,1843 @@
+{
+  "dayNo": 25,
+  "titleVi": "Lái xe",
+  "titleEn": "Topic 25",
+  "category": "Giao thông",
+  "coreWords": [
+    {
+      "no": 1,
+      "word": "congestion",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "congestion",
+      "ipaUs": "kandzéstfen",
+      "page": 400,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự tắc nghẽn",
+          "examples": [
+            {
+              "en": "Traffic congestion on the highway is heaviest",
+              "vi": "Tình trạng ùn tắc giao thông trên đường cao tốc trầm trọng nhất trong khoảng từ 5 đến 7 giờ tối. v làm dịu, làm giảm bớt"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 2,
+      "word": "alleviate",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "alleviate",
+      "ipaUs": "olí: viềit",
+      "page": 400,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "làm dịu, làm giảm bớt",
+          "examples": [
+            {
+              "en": "The new freeway lane alleviated traffic congestion.",
+              "vi": "Làn đường mới của cao tốc đã làm giảm bớt ùn tắc giao thông. alleviate + congestion/concern làm giảm bớt tắc d] nghễn/lo âu"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 3,
+      "word": "divert",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "daivá:t",
+      "ipaUs": "divá:rt",
+      "page": 400,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "làm chệch hướng, hướng sang phía khác",
+          "examples": [
+            {
+              "en": "Traffic was diverted during construction. Hackers TOEIC Vocabulary",
+              "vi": "Giao thông dã được chuyển hướng trong thời gian thi công. n khúc ngoặt, đường vòng"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 4,
+      "word": "detour",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "detour",
+      "ipaUs": "dí:tuar",
+      "page": 400,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "khúc ngoặt, đường vòng",
+          "examples": [
+            {
+              "en": "Hackers TOEIC Vocabulary The express bus had to take a detour to avoid heavy",
+              "vi": "Chiếc xe buýt tốc hành phải đi đường vòng để tránh giao thông đông đúc. n nhiên liệu"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 5,
+      "word": "fuel",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "fuel",
+      "ipaUs": "fjual",
+      "page": 400,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "nhiên liệu",
+          "examples": [
+            {
+              "en": "Please review the fuel.",
+              "vi": "Vui lòng xem xét fuel."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 6,
+      "word": "malfunction",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "malfunction",
+      "ipaUs": "mælfnkjan",
+      "page": 400,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự trục trặc, sự cố",
+          "examples": [
+            {
+              "en": "The car's problems stemmed from a brake",
+              "vi": "Những vấn đề của chiếc xe này phát sinh từ trục trặc ở phần phanh."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 7,
+      "word": "permit",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "trænspo:téifon",
+      "ipaUs": "transpartéifan",
+      "page": 401,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "cho phép",
+          "examples": [
+            {
+              "en": "The store permits only shoppers to park in the lot. Residents must purchase a parking permit every The pilot requested permission for the aircraft to",
+              "vi": "Cửa hàng chỉ cho phép khách hàng đỗ xe tại bãi. n giấy phép year. Cư dân phải mua vé đỗ xe hằng năm."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 8,
+      "word": "opportunity",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "apatju:nati",
+      "ipaUs": "@partjúnati",
+      "page": 401,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "cơ hội, thời cơ",
+          "examples": [
+            {
+              "en": "The bus tour provides visitors an opportunity to explore the city in one day.",
+              "vi": "Chuyến tham quan bằng xe buýt giúp cho du khách có cơ hội khám phá thành phố trong một ngày. Bài thi TOEIC dạng thức moi"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 9,
+      "word": "clearly",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "klíali",
+      "ipaUs": "klíerli",
+      "page": 402,
+      "senses": [
+        {
+          "pos": "adv",
+          "meaning": "rõ ràng, cố nhiên",
+          "examples": [
+            {
+              "en": "The reporter's use of animated graphics clearly showed the flow of traffic during rush hour. When the weather is good, you can see clear",
+              "vi": "Cách sử dụng đồ họa của phóng viên đã cho thấy rõ luồng giao thông trong giờ cao điểm. TOEIC dạng Thúc mới"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 10,
+      "word": "ongoing",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "Sugauin",
+      "ipaUs": "ángòuin",
+      "page": 402,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "chi tiết, cặn kẽ, tỉ mỉ",
+          "examples": [
+            {
+              "en": "Ongoing roadwork is causing delays through the city center. Hackers TOEIC Vocabulary",
+              "vi": "Việc làm đường liên tục đang gây cản trở khấp trung tâm thành phố."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 11,
+      "word": "detailed",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "detailed",
+      "ipaUs": "di:teild",
+      "page": 402,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "chi tiết, cặn kẽ, tỉ mỉ",
+          "examples": [
+            {
+              "en": "The tourist information counter provides detailed local maps for visitors.",
+              "vi": "Quầy thông tin du lịch cung cấp bản đồ địa phương chi tiết cho du khách. Bại thì TOEIC dạng thức mới"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 12,
+      "word": "alternative",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "oltanativ",
+      "ipaUs": "p:lté:rnativ",
+      "page": 403,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự lựa chọn, phương án khác",
+          "examples": [
+            {
+              "en": "Consider walking to work as a healthy alternative Due to a flight cancellation, Samuel had to fly on an alternative air carrier.",
+              "vi": "Hãy cân nhắc việc đi bộ đi làm thay vì lái xe như một phương án khác tốt cho sức khỏe. adị thay đổi nhau, thay thế"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 13,
+      "word": "obtain",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "obtain",
+      "ipaUs": "abtéin",
+      "page": 403,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "đạt được, giành được",
+          "examples": [
+            {
+              "en": "Driver's licenses can be obtained from the Department of Motor Vehicles.",
+              "vi": "Có thể lấy bằng lái xe từ Sở quản lý phương tiện cơ giới. adj được chỉ dịnh, được chọn lựa"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 14,
+      "word": "designated",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "designated",
+      "ipaUs": "dézignèitid",
+      "page": 403,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "được chỉ dịnh, được chọn lựa",
+          "examples": [
+            {
+              "en": "Parking is restricted to designated spots.",
+              "vi": "Việc đỗ xe chỉ giới hạn ở những điểm được chỉ định. Bải thì TOEIC dạng thức thôn | designated + spots/hotels dịa điểm/khách sạn dược"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 15,
+      "word": "intersection",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "intasékfon",
+      "ipaUs": "intarsék{an",
+      "page": 403,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "ngã tư, chỗ giao nhau",
+          "examples": [
+            {
+              "en": "A traffic light is being installed at the intersection of Fifth Avenue and Main Street.",
+              "vi": "Cột đèn giao thông đang được lắp đặt tại điểm giao nhau giữa đại lộ số 5 và phố Main."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 16,
+      "word": "equip",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "equip",
+      "ipaUs": "ikwip",
+      "page": 404,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "trang bị",
+          "examples": [
+            {
+              "en": "Newer cars come equipped with emergency kits.",
+              "vi": "Những chiếc xe hơi mới hơn được trang bị bộ dụng cụ sơ cứu. equip A with B trang bị B cho A be equipped with được trang bị bằng"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 17,
+      "word": "commute",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "commute",
+      "ipaUs": "komjú:t",
+      "page": 404,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "đi lại đều đặn (đi làm)",
+          "examples": [
+            {
+              "en": "Many workers commute into the city daily by bus.",
+              "vi": "Nhiều người lao động vào thành phố làm việc hàng ngày bằng xe buýt. adv ở/về phía trung tâm thành phố"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 18,
+      "word": "downtown",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "downtown",
+      "ipaUs": "dàuntẩun",
+      "page": 404,
+      "senses": [
+        {
+          "pos": "adv",
+          "meaning": "ở/về phía trung tâm thành phố",
+          "examples": [
+            {
+              "en": "It is difficult to find free parking downtown.",
+              "vi": "Rất khó để có thể tìm được chỗ đỗ xe miễn phí ở trung tâm thành phố. adj tự động, (thuộc) ô tô"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 19,
+      "word": "automotive",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "uK ›:tomSutiv",
+      "ipaUs": "›:tamóutiv",
+      "page": 404,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "tự động, (thuộc) ô tô",
+          "examples": [
+            {
+              "en": "Automotive repair service is offered for free on new Hackers TOEIC Vocabulary",
+              "vi": "vehicles. Dịch vụ sửa chữa ô tô được cung cấp miễn phí cho những chiếc xe mới. n sự đóng cửa"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 20,
+      "word": "closure",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "uK klбuзa",
+      "ipaUs": "klouzor",
+      "page": 404,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự đóng cửa",
+          "examples": [
+            {
+              "en": "Hackers TOEIC Vocabulary Road closures occur frequently during the winter.",
+              "vi": "Việc cẩm đường xảy ra thường xuyên vào mùa đông. n xe, xe cộ"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 21,
+      "word": "vehicle",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "vehicle",
+      "ipaUs": "ví:ikl",
+      "page": 404,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "xe, xe cộ",
+          "examples": [
+            {
+              "en": "All vehicles must be officially registered upon ngay khi mua.",
+              "vi": "purchase. Tất cả xe cộ đều phải được đăng ký chính thức n sân ga"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 22,
+      "word": "platform",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "Uk plætfo:m",
+      "ipaUs": "plætfo:rm",
+      "page": 404,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sân ga",
+          "examples": [
+            {
+              "en": "All trains to Denver will now be departing from platform two.",
+              "vi": "Mọi chuyến tàu đến Denver sẽ xuất phát bảy giờ từ sân ga số 2."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 23,
+      "word": "official",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "official",
+      "ipaUs": "afifal",
+      "page": 405,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "viên chức, công chức, quan chức",
+          "examples": [
+            {
+              "en": "Transportation officials announced plans to. construct a city bypass. The official report showed that automobile accidents",
+              "vi": "Các quan chức giao thông vận tải đã thông báo kế hoạch xây dựng một tuyến đường vòng cho thành phố. adị chính thức, trang trọng"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 24,
+      "word": "transit",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "Uk trænzit",
+      "ipaUs": "trænsit",
+      "page": 405,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự vận chuyển, quá trình vận chuyển",
+          "examples": [
+            {
+              "en": "The travel card can be used for all public transit.",
+              "vi": "Thẻ đi lại này có thể sử dụng đối với tất cả hệ thống giao thông công cộng. public transit hệ thống giao thông công cộng"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 25,
+      "word": "fare",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "feo",
+      "ipaUs": "fear",
+      "page": 405,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "tiền xe, tiền vé",
+          "examples": [
+            {
+              "en": "Bus fares increased in line with gasoline prices. The parking lot's entry fee is higher on weekends. The transit department voted to double the toll",
+              "vi": "Giá vé xe buýt tăng cùng với giá xăng dầu. Bạn có thể gặp câu hỏi yêu cầu phân biệt các từ cùng mang - fare tiền vé (tàu, xe, máy bay)"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 26,
+      "word": "expense",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "expense",
+      "ipaUs": "ikspéns",
+      "page": 406,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "chi phí, phí tổn",
+          "examples": [
+            {
+              "en": "Residents agreed that the new highway was worth Illegally parked vehicles will be removed at the travel expenses chi phi di lai",
+              "vi": "Người dân đồng tình rằng tuyến đường cao tốc mới xứng đáng với chi phí bỏ ra. Những phương tiện đỗ xe trái phép sẽ bị dời đi với chỉ phí do chủ"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 27,
+      "word": "trust",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "trust",
+      "ipaUs": "trtworthy (adj) đáng",
+      "page": 406,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "lòng tin, sự tin cậy",
+          "examples": [
+            {
+              "en": "Car owners who earn the trust of insurers are eligible for discounts. Drivers trust that the police will keep roadways",
+              "vi": "Những chủ xe giành được lòng tin của bên bảo hiểm sẽ được giảm giá. v tin cậy, tín nhiệm"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 28,
+      "word": "head",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "head",
+      "ipaUs": "hed",
+      "page": 406,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "Hackers TOEIC Vocabulary The motorcyclists headed west toward the",
+              "vi": "V dẫn đầu, hướng về, đi về phía Những người đi xe máy đi theo hướng tây về phía dấy núi. V lái xe, đi (bằng xe)"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 29,
+      "word": "drive",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "drive",
+      "ipaUs": "draiv",
+      "page": 406,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "Vehicles with multiple passengers are allowed to drive in the carpool lane.",
+              "vi": "Các phương tiện chở nhiều hành khách được phép đi ở làn đường dành cho xe chở nhiều."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 30,
+      "word": "fine",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "fine",
+      "ipaUs": "fain",
+      "page": 407,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "tiền phạt",
+          "examples": [
+            {
+              "en": "Drivers speeding in a school zone are subject to a The government reduced tariffs on imported The yacht's retail price is set at $1 million.",
+              "vi": "substantial fine. Những tài xế đi quá tốc độ trong khu vực trường học sẽ phải chịu một khoản tiền phạt lớn. Bạn có thể gặp câu hỏi yêu cầu phân biệt các từ cùng chỉ"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 31,
+      "word": "pass",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "pa:s",
+      "ipaUs": "pæs",
+      "page": 407,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "đi qua, vượt qua",
+          "examples": [
+            {
+              "en": "For safety reasons, motorists should not pass other",
+              "vi": "Vì lý do an toàn, người lái xe không được vượt bên phải các xe khác. adv chắc chắn, an toàn"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 32,
+      "word": "securely",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "sikjüali",
+      "ipaUs": "sikjuarli",
+      "page": 407,
+      "senses": [
+        {
+          "pos": "adv",
+          "meaning": "chắc chắn, an toàn",
+          "examples": [
+            {
+              "en": "Passengers are required to fasten seatbelts securely. Ba thi TOF IC dang thac 190",
+              "vi": "Hành khách được yêu cầu thắt dây an toàn thật chắc chắn. e thắư/gắn/neo đậu thật chắc chắn securely thường được dùng để bổ nghĩa cho các động từ như"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 33,
+      "word": "prominently",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "Uk próminentli",
+      "ipaUs": "prámanontli",
+      "page": 408,
+      "senses": [
+        {
+          "pos": "adv",
+          "meaning": "dễ thấy, nổi bật",
+          "examples": [
+            {
+              "en": "Traffic control signs are prominently displayed along The traffic conditions were markedly better after The government explicitly forbids unauthorized",
+              "vi": "the highway. Các biển báo điều khiển giao thông được treo rất dễ thấy dọc đường cao tốc. Bạn có thể gặp câu hỗi yêu cầu phân biệt các từ cùng chỉ sự"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 34,
+      "word": "reserved",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "rizé:vd",
+      "ipaUs": "der. reserve (v) dặt trước,",
+      "page": 408,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "The rail service allows passengers to book reserved Reserved parking for tenants is available at the rear Hackers TOEIC Vocabulary",
+              "vi": "seats online. Dịch vụ đường sắt cho phép hành khách đặt trước chỗ qua mạng. Khu đỗ xe dành riêng cho khách thuê phòng năm ở phía sau tòa nhà."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 35,
+      "word": "average",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "average",
+      "ipaUs": "varid3",
+      "page": 409,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "số trung bình, mức bình quân",
+          "examples": [
+            {
+              "en": "Compared to last year's average, road accidents have significantly decreased.",
+              "vi": "So với mức trung bình năm ngoái, tai nạn đường bộ đã giảm đáng kể. n sự va chạm"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 36,
+      "word": "collision",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "kalízen",
+      "ipaUs": "kalízan",
+      "page": 409,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự va chạm",
+          "examples": [
+            {
+              "en": "Please review the collision.",
+              "vi": "Vui lòng xem xét collision."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 37,
+      "word": "tow",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "tau",
+      "ipaUs": "tou",
+      "page": 409,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "đảo, ngược, trái lại",
+          "examples": [
+            {
+              "en": "All unauthorized vehicles will be towed.",
+              "vi": "Tất cả các phương tiện trái phép đều sẽ bị kéo đi."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 38,
+      "word": "reverse",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "rivé:s",
+      "ipaUs": "rivé:rs",
+      "page": 409,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "đảo, ngược, trái lại",
+          "examples": [
+            {
+              "en": "Jim accidentally put the truck into reverse gear.",
+              "vi": "Jim vô tình đưa chiếc xe tải về số lùi. Vị chắn, che khuất (tầm nhìn); chặn, làm tắc (đường)"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 39,
+      "word": "obstruct",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "obstruct",
+      "ipaUs": "obstrikt",
+      "page": 409,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "Passengers must not obstruct the driver's view. The road was obstructed by a fallen tree.",
+              "vi": "Hành khánh không được che khuất tầm nhìn của tài xế. Con đường bị chặn bởi một chiếc cây đổ. Bai thi TOEIC dạng thức mỏi"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    }
+  ],
+  "dailyCheckup": {
+    "page": 0,
+    "groups": [
+      {
+        "instruction": "Tìm ở cột bên phải nghĩa của các từ vựng ở cột bên trái và nối chúng với nhau.",
+        "options": [
+          {
+            "key": "a",
+            "text": "tiêu cực"
+          },
+          {
+            "key": "b",
+            "text": "ngay lập tức"
+          },
+          {
+            "key": "c",
+            "text": "cách tiếp cận"
+          },
+          {
+            "key": "d",
+            "text": "bị cấm"
+          },
+          {
+            "key": "e",
+            "text": "sự chấp thuận"
+          },
+          {
+            "key": "f",
+            "text": "truy cập"
+          }
+        ],
+        "questions": [
+          {
+            "no": 1,
+            "prompt": "collision",
+            "answer": "a"
+          },
+          {
+            "no": 2,
+            "prompt": "commute",
+            "answer": "a"
+          },
+          {
+            "no": 3,
+            "prompt": "automotive",
+            "answer": "a"
+          },
+          {
+            "no": 4,
+            "prompt": "fare",
+            "answer": "a"
+          },
+          {
+            "no": 5,
+            "prompt": "closure",
+            "answer": "a"
+          }
+        ]
+      },
+      {
+        "instruction": "Hãy chọn từ phù hợp để điền vào mỗi câu của bài thi TOEIC dạng thức mới sau.",
+        "options": [
+          {
+            "key": "a",
+            "text": "inspection"
+          },
+          {
+            "key": "b",
+            "text": "effect"
+          },
+          {
+            "key": "c",
+            "text": "authorized"
+          },
+          {
+            "key": "d",
+            "text": "procedure"
+          },
+          {
+            "key": "e",
+            "text": "concern"
+          }
+        ],
+        "questions": [
+          {
+            "no": 6,
+            "prompt": "The cruise ship is _",
+            "answer": "a"
+          },
+          {
+            "no": 7,
+            "prompt": "Buses are an economical form of public",
+            "answer": "a"
+          },
+          {
+            "no": 8,
+            "prompt": "Commuters can avoid traffic. by taking the subway.",
+            "answer": "a"
+          },
+          {
+            "no": 9,
+            "prompt": "Train passengers must stand behind the yellow line on the",
+            "answer": "a"
+          }
+        ]
+      },
+      {
+        "instruction": "Hãy chọn từ phù hợp để điền vào mỗi câu của bài thi TOEIC dạng thức mới sau.",
+        "options": [
+          {
+            "key": "a",
+            "text": "obligation"
+          },
+          {
+            "key": "b",
+            "text": "drastically"
+          },
+          {
+            "key": "c",
+            "text": "revise"
+          },
+          {
+            "key": "d",
+            "text": "thoroughly"
+          },
+          {
+            "key": "e",
+            "text": "arrangements"
+          }
+        ],
+        "questions": [
+          {
+            "no": 10,
+            "prompt": "There was an accident at the",
+            "answer": "a"
+          },
+          {
+            "no": 11,
+            "prompt": "Buses going.",
+            "answer": "a"
+          },
+          {
+            "no": 12,
+            "prompt": "There are. discussions about expanding the train system.",
+            "answer": "a"
+          },
+          {
+            "no": 13,
+            "prompt": "Allen reduced his commuting hours by an hour with the route.",
+            "answer": "a"
+          }
+        ]
+      }
+    ]
+  },
+  "completeVocab": {
+    "basic": [
+      {
+        "word": "TỪ VỰNG TOEIC HOÀN CHÍNH",
+        "pos": "phr",
+        "meaning": "Giao thông",
+        "section": "RC"
+      },
+      {
+        "word": "bus stop",
+        "pos": "phr",
+        "meaning": "bến xe buýt",
+        "section": "RC"
+      },
+      {
+        "word": "busy street",
+        "pos": "phr",
+        "meaning": "con đường đông đúc",
+        "section": "RC"
+      },
+      {
+        "word": "cab",
+        "pos": "phr",
+        "meaning": "con đường đông đúc",
+        "section": "RC"
+      },
+      {
+        "word": "car rental",
+        "pos": "phr",
+        "meaning": "dịch vụ cho thuê xe",
+        "section": "RC"
+      },
+      {
+        "word": "crosswalk",
+        "pos": "n",
+        "meaning": "vạch cho người đi bộ sang đường",
+        "section": "RC"
+      },
+      {
+        "word": "free parking",
+        "pos": "phr",
+        "meaning": "đỗ xe miễn phí",
+        "section": "RC"
+      },
+      {
+        "word": "gas station",
+        "pos": "phr",
+        "meaning": "trạm đổ xăng",
+        "section": "RC"
+      },
+      {
+        "word": "get off",
+        "pos": "phr",
+        "meaning": "xuống xe",
+        "section": "RC"
+      },
+      {
+        "word": "hang",
+        "pos": "phr",
+        "meaning": "xuống xe",
+        "section": "RC"
+      },
+      {
+        "word": "heavy traffic",
+        "pos": "phr",
+        "meaning": "xe cộ đông đúc",
+        "section": "RC"
+      },
+      {
+        "word": "highway",
+        "pos": "n",
+        "meaning": "đường cái, đường quốc lộ",
+        "section": "RC"
+      },
+      {
+        "word": "on foot",
+        "pos": "phr",
+        "meaning": "di bộ",
+        "section": "RC"
+      },
+      {
+        "word": "park",
+        "pos": "v",
+        "meaning": "đỗ xe",
+        "section": "RC"
+      },
+      {
+        "word": "path",
+        "pos": "v",
+        "meaning": "đỗ xe",
+        "section": "RC"
+      },
+      {
+        "word": "subway station",
+        "pos": "phr",
+        "meaning": "ga tàu điện ngầm",
+        "section": "RC"
+      },
+      {
+        "word": "tour bus",
+        "pos": "phr",
+        "meaning": "xe buýt du lịch",
+        "section": "RC"
+      },
+      {
+        "word": "traffic light",
+        "pos": "phr",
+        "meaning": "xe buýt du lịch",
+        "section": "RC"
+      },
+      {
+        "word": "wall",
+        "pos": "phr",
+        "meaning": "đèn giao thông",
+        "section": "RC"
+      },
+      {
+        "word": "wash the car",
+        "pos": "n",
+        "meaning": "tường, vách",
+        "section": "RC"
+      },
+      {
+        "word": "wheel",
+        "pos": "phr",
+        "meaning": "rửa xe",
+        "section": "RC"
+      },
+      {
+        "word": "access to",
+        "pos": "phr",
+        "meaning": "vào, tiếp cận",
+        "section": "RC"
+      },
+      {
+        "word": "cite",
+        "pos": "phr",
+        "meaning": "vào, tiếp cận",
+        "section": "RC"
+      },
+      {
+        "word": "hood",
+        "pos": "v",
+        "meaning": "trích dẫn",
+        "section": "RC"
+      },
+      {
+        "word": "inside",
+        "pos": "prep",
+        "meaning": "ở trong, bên trong",
+        "section": "RC"
+      },
+      {
+        "word": "route",
+        "pos": "prep",
+        "meaning": "ở trong, bên trong",
+        "section": "RC"
+      },
+      {
+        "word": "sharp",
+        "pos": "n",
+        "meaning": "tuyến đường",
+        "section": "RC"
+      },
+      {
+        "word": "a solve",
+        "pos": "phr",
+        "meaning": "adị sắc, nhọn",
+        "section": "RC"
+      },
+      {
+        "word": "stand",
+        "pos": "v",
+        "meaning": "đứng",
+        "section": "RC"
+      }
+    ],
+    "score800": [
+      {
+        "word": "across the street",
+        "pos": "phr",
+        "meaning": "bên kia đường",
+        "section": "LC"
+      },
+      {
+        "word": "around the corner",
+        "pos": "phr",
+        "meaning": "quanh góc phố, không xa lắm",
+        "section": "LC"
+      },
+      {
+        "word": "be closed to traffic",
+        "pos": "phr",
+        "meaning": "cấm phương tiện giao thông",
+        "section": "LC"
+      },
+      {
+        "word": "o be held up in traffic",
+        "pos": "phr",
+        "meaning": "bị tắc dường",
+        "section": "LC"
+      },
+      {
+        "word": "be lined with",
+        "pos": "phr",
+        "meaning": "thống nhất với",
+        "section": "LC"
+      },
+      {
+        "word": "broadcast",
+        "pos": "n",
+        "meaning": "y phát sóng; n buổi phát sóng",
+        "section": "LC"
+      },
+      {
+        "word": "bypass",
+        "pos": "n",
+        "meaning": "đường vòng",
+        "section": "LC"
+      },
+      {
+        "word": "carpool",
+        "pos": "n",
+        "meaning": "đường vòng",
+        "section": "LC"
+      },
+      {
+        "word": "come to a standstill",
+        "pos": "phr",
+        "meaning": "ngưng trệ, dừng lại",
+        "section": "LC"
+      },
+      {
+        "word": "commuter",
+        "pos": "n",
+        "meaning": "người đi làm bằng vé tháng",
+        "section": "LC"
+      },
+      {
+        "word": "cross the street",
+        "pos": "phr",
+        "meaning": "sang đường",
+        "section": "LC"
+      },
+      {
+        "word": "direct traffic",
+        "pos": "phr",
+        "meaning": "diều khiển giao thông",
+        "section": "LC"
+      },
+      {
+        "word": "driver's license",
+        "pos": "phr",
+        "meaning": "bằng lái xe",
+        "section": "LC"
+      },
+      {
+        "word": "driveway",
+        "pos": "phr",
+        "meaning": "bằng lái xe",
+        "section": "LC"
+      },
+      {
+        "word": "driving direction",
+        "pos": "phr",
+        "meaning": "hướng di (xe)",
+        "section": "LC"
+      },
+      {
+        "word": "footrest (= footstool)",
+        "pos": "n",
+        "meaning": "ghế kê chân",
+        "section": "LC"
+      },
+      {
+        "word": "get a ride",
+        "pos": "phr",
+        "meaning": "đi nhờ, quá giang",
+        "section": "LC"
+      },
+      {
+        "word": "get lost",
+        "pos": "phr",
+        "meaning": "bị lạc",
+        "section": "LC"
+      },
+      {
+        "word": "get to",
+        "pos": "phr",
+        "meaning": "bị lạc",
+        "section": "LC"
+      },
+      {
+        "word": "give A a ride",
+        "pos": "phr",
+        "meaning": "cho A đi nhờ",
+        "section": "LC"
+      },
+      {
+        "word": "have a flat tire",
+        "pos": "phr",
+        "meaning": "bị thủng lốp",
+        "section": "LC"
+      },
+      {
+        "word": "headlight",
+        "pos": "phr",
+        "meaning": "bị thủng lốp",
+        "section": "LC"
+      },
+      {
+        "word": "land at the dock",
+        "pos": "phr",
+        "meaning": "cập bến",
+        "section": "LC"
+      },
+      {
+        "word": "lane",
+        "pos": "n",
+        "meaning": "làn dường",
+        "section": "LC"
+      },
+      {
+        "word": "lean over the railing",
+        "pos": "n",
+        "meaning": "làn dường",
+        "section": "LC"
+      },
+      {
+        "word": "license plate number",
+        "pos": "phr",
+        "meaning": "biển số xe",
+        "section": "LC"
+      },
+      {
+        "word": "lock the key in the car",
+        "pos": "phr",
+        "meaning": "để quên chìa khóa trong xe",
+        "section": "LC"
+      },
+      {
+        "word": "make a stop",
+        "pos": "phr",
+        "meaning": "để quên chìa khóa trong xe",
+        "section": "LC"
+      },
+      {
+        "word": "make a transfer",
+        "pos": "phr",
+        "meaning": "chuyển xe",
+        "section": "LC"
+      },
+      {
+        "word": "march",
+        "pos": "v",
+        "meaning": "diễu hành",
+        "section": "LC"
+      },
+      {
+        "word": "mileage",
+        "pos": "n",
+        "meaning": "tổng số dặm xe đã đi",
+        "section": "LC"
+      },
+      {
+        "word": "navigation",
+        "pos": "n",
+        "meaning": "tổng số dặm xe đã đi",
+        "section": "LC"
+      },
+      {
+        "word": "one-way ticket",
+        "pos": "phr",
+        "meaning": "vé một chiều",
+        "section": "LC"
+      },
+      {
+        "word": "parking garage",
+        "pos": "phr",
+        "meaning": "hầm đỗ xe",
+        "section": "P7"
+      },
+      {
+        "word": "pathway",
+        "pos": "n",
+        "meaning": "đường mòn, đường nhỏ",
+        "section": "P7"
+      },
+      {
+        "word": "push one's way through",
+        "pos": "n",
+        "meaning": "đường mòn, đường nhỏ",
+        "section": "P7"
+      },
+      {
+        "word": "ride away",
+        "pos": "phr",
+        "meaning": "lái xe đi",
+        "section": "P7"
+      },
+      {
+        "word": "road sign",
+        "pos": "phr",
+        "meaning": "biển báo giao thông",
+        "section": "P7"
+      },
+      {
+        "word": "roadwork (= road construction)",
+        "pos": "n",
+        "meaning": "việc làm đường/sửa đường",
+        "section": "P7"
+      },
+      {
+        "word": "shortcut",
+        "pos": "n",
+        "meaning": "lối tắt",
+        "section": "P7"
+      },
+      {
+        "word": "stop at a light",
+        "pos": "phr",
+        "meaning": "dừng chờ đèn tín hiệu",
+        "section": "P7"
+      },
+      {
+        "word": "stop for fuel",
+        "pos": "phr",
+        "meaning": "dừng đổ xăng",
+        "section": "P7"
+      },
+      {
+        "word": "storage compartment",
+        "pos": "phr",
+        "meaning": "dừng đổ xăng",
+        "section": "P7"
+      },
+      {
+        "word": "street sign",
+        "pos": "phr",
+        "meaning": "biển chỉ đường",
+        "section": "P7"
+      },
+      {
+        "word": "a toll price",
+        "pos": "phr",
+        "meaning": "phí cầu đường",
+        "section": "P7"
+      },
+      {
+        "word": "traffic jam",
+        "pos": "phr",
+        "meaning": "tắc đường",
+        "section": "P7"
+      },
+      {
+        "word": "walk through",
+        "pos": "phr",
+        "meaning": "đi qua, bước qua",
+        "section": "P7"
+      },
+      {
+        "word": "walking distance",
+        "pos": "phr",
+        "meaning": "quãng đường đi bộ",
+        "section": "P7"
+      },
+      {
+        "word": "walkway",
+        "pos": "phr",
+        "meaning": "quãng đường đi bộ",
+        "section": "P7"
+      },
+      {
+        "word": "a windshield",
+        "pos": "n",
+        "meaning": "kính chẵn gió",
+        "section": "P7"
+      },
+      {
+        "word": "creation",
+        "pos": "n",
+        "meaning": "sự sáng tạo, tạo vật",
+        "section": "P7"
+      },
+      {
+        "word": "motivate",
+        "pos": "n",
+        "meaning": "sự sáng tạo, tạo vật",
+        "section": "P7"
+      },
+      {
+        "word": "normal",
+        "pos": "v",
+        "meaning": "thúc đẩy",
+        "section": "P7"
+      },
+      {
+        "word": "still",
+        "pos": "n",
+        "meaning": "tinh trạng bình thường, mức bình thường",
+        "section": "P7"
+      },
+      {
+        "word": "traffic signal",
+        "pos": "phr",
+        "meaning": "tín hiệu giao thông",
+        "section": "P7"
+      },
+      {
+        "word": "valuable",
+        "pos": "phr",
+        "meaning": "tín hiệu giao thông",
+        "section": "P7"
+      },
+      {
+        "word": "volunteer",
+        "pos": "n",
+        "meaning": "adị quý giá, có thể định giá được",
+        "section": "P7"
+      },
+      {
+        "word": "at full speed",
+        "pos": "n",
+        "meaning": "tình nguyện viên",
+        "section": "P7"
+      },
+      {
+        "word": "clear A from B",
+        "pos": "phr",
+        "meaning": "dọn A khỏi B",
+        "section": "P7"
+      },
+      {
+        "word": "a collide",
+        "pos": "phr",
+        "meaning": "dọn A khỏi B",
+        "section": "P7"
+      },
+      {
+        "word": "congested",
+        "pos": "n",
+        "meaning": "adị chật ních, đông nghịt",
+        "section": "P7"
+      },
+      {
+        "word": "encounter",
+        "pos": "n",
+        "meaning": "adị chật ních, đông nghịt",
+        "section": "P7"
+      },
+      {
+        "word": "move forward",
+        "pos": "v",
+        "meaning": "bắt gặp, chạm trán",
+        "section": "P7"
+      },
+      {
+        "word": "principal (= primary)",
+        "pos": "phr",
+        "meaning": "adị chính, chủ yếu",
+        "section": "P7"
+      },
+      {
+        "word": "public transportation",
+        "pos": "phr",
+        "meaning": "phương tiện giao thông công cộng",
+        "section": "P7"
+      },
+      {
+        "word": "standing room",
+        "pos": "phr",
+        "meaning": "phương tiện giao thông công cộng",
+        "section": "P7"
+      },
+      {
+        "word": "@ steering wheel",
+        "pos": "phr",
+        "meaning": "chỗ đứng",
+        "section": "P7"
+      },
+      {
+        "word": "traffic congestion",
+        "pos": "phr",
+        "meaning": "tắc nghẽn giao thông",
+        "section": "P7"
+      }
+    ],
+    "score900": [
+      {
+        "word": "be towed away",
+        "pos": "phr",
+        "meaning": "bị kéo đi",
+        "section": "P7"
+      },
+      {
+        "word": "bicycle rack",
+        "pos": "phr",
+        "meaning": "giá đỡ xe đạp",
+        "section": "P7"
+      },
+      {
+        "word": "carriage",
+        "pos": "n",
+        "meaning": "cỗ xe, xe ngựa",
+        "section": "P7"
+      },
+      {
+        "word": "fuel-efficient",
+        "pos": "n",
+        "meaning": "adị tiết kiệm nhiên liệu",
+        "section": "P7"
+      },
+      {
+        "word": "navigate",
+        "pos": "n",
+        "meaning": "y lái, dẫn đường",
+        "section": "P7"
+      },
+      {
+        "word": "overnight express",
+        "pos": "phr",
+        "meaning": "chuyển phát nhanh",
+        "section": "P7"
+      },
+      {
+        "word": "pass by",
+        "pos": "phr",
+        "meaning": "ghé qua",
+        "section": "P7"
+      },
+      {
+        "word": "passerby",
+        "pos": "phr",
+        "meaning": "ghé qua",
+        "section": "P7"
+      },
+      {
+        "word": "pave",
+        "pos": "n",
+        "meaning": "x lát (đường, sàn)",
+        "section": "P7"
+      },
+      {
+        "word": "pedestrian",
+        "pos": "n",
+        "meaning": "người đi bộ",
+        "section": "P7"
+      },
+      {
+        "word": "a pull into",
+        "pos": "phr",
+        "meaning": "di vào, rẽ vào",
+        "section": "P7"
+      },
+      {
+        "word": "sidewalk",
+        "pos": "n",
+        "meaning": "via hè, lề đường",
+        "section": "P7"
+      },
+      {
+        "word": "specialist",
+        "pos": "n",
+        "meaning": "chuyên gia, chuyên viên",
+        "section": "P7"
+      },
+      {
+        "word": "spoke",
+        "pos": "n",
+        "meaning": "chuyên gia, chuyên viên",
+        "section": "P7"
+      },
+      {
+        "word": "streetcar",
+        "pos": "n",
+        "meaning": "xe điện",
+        "section": "P7"
+      },
+      {
+        "word": "a towing service",
+        "pos": "phr",
+        "meaning": "dịch vụ kéo xe",
+        "section": "P7"
+      },
+      {
+        "word": "wagon",
+        "pos": "n",
+        "meaning": "xe kéo",
+        "section": "P7"
+      },
+      {
+        "word": "bear (= carry)",
+        "pos": "phr",
+        "meaning": "y mang, vác",
+        "section": "P7"
+      },
+      {
+        "word": "emphatic",
+        "pos": "n",
+        "meaning": "y mang, vác",
+        "section": "P7"
+      },
+      {
+        "word": "hastily",
+        "pos": "n",
+        "meaning": "ady vội vàng, hấp tấp",
+        "section": "P7"
+      },
+      {
+        "word": "inconveniently",
+        "pos": "adv",
+        "meaning": "bất tiện, phiền phức",
+        "section": "P7"
+      },
+      {
+        "word": "necessitate",
+        "pos": "adv",
+        "meaning": "bất tiện, phiền phức",
+        "section": "P7"
+      },
+      {
+        "word": "a opposition",
+        "pos": "n",
+        "meaning": "sự đổi lập, sự chống lại",
+        "section": "P7"
+      },
+      {
+        "word": "ridership",
+        "pos": "n",
+        "meaning": "• lượng hành khách",
+        "section": "P7"
+      },
+      {
+        "word": "surround",
+        "pos": "n",
+        "meaning": "• lượng hành khách",
+        "section": "P7"
+      },
+      {
+        "word": "compact car",
+        "pos": "phr",
+        "meaning": "xe hơi hạng nhỏ",
+        "section": "P7"
+      },
+      {
+        "word": "conform to",
+        "pos": "phr",
+        "meaning": "tuân thủ, làm theo",
+        "section": "P7"
+      },
+      {
+        "word": "drawbridge",
+        "pos": "phr",
+        "meaning": "tuân thủ, làm theo",
+        "section": "P7"
+      },
+      {
+        "word": "give off",
+        "pos": "phr",
+        "meaning": "tạo ra, toa ra",
+        "section": "P7"
+      },
+      {
+        "word": "o gratuity",
+        "pos": "phr",
+        "meaning": "tạo ra, toa ra",
+        "section": "P7"
+      },
+      {
+        "word": "ramp",
+        "pos": "n",
+        "meaning": "đoạn dốc",
+        "section": "P7"
+      },
+      {
+        "word": "a refurbish",
+        "pos": "phr",
+        "meaning": "y tân trang lại",
+        "section": "P7"
+      }
+    ]
+  },
+  "title": "Lái xe"
+}

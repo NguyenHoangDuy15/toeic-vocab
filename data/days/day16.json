@@ -1,0 +1,1767 @@
+{
+  "dayNo": 16,
+  "source": "Apple Vision OCR extraction from pages 266-281",
+  "coreWords": [
+    {
+      "no": 1,
+      "word": "completely",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "completely",
+      "ipaUs": "kamplí:tli",
+      "page": 267,
+      "senses": [
+        {
+          "pos": "adv",
+          "meaning": "hoàn toàn, trọn vẹn",
+          "examples": [
+            {
+              "en": "Every product in our catalog is completely",
+              "vi": "guaranteed. Tất cả sản phẩm trong danh mục của chúng tôi đều được bảo hành hoàn toàn. Lưu ý phân biệt từ loại completely (adv. trọn vẹn) và complete"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 2,
+      "word": "refuse",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "refuse",
+      "ipaUs": "der. refal (n) sự từ chối",
+      "page": 267,
+      "senses": [
+        {
+          "pos": "adv",
+          "meaning": "tạm thời, nhất thời",
+          "examples": [
+            {
+              "en": "The shipment was refused by the purchaser due to damage caused in transit.",
+              "vi": "Lô hàng dã bị người mua từ chối vì những hư hại trong quá trình vận chuyển. sm) Khi được dùng với nghĩa từ chối lời để xuất, refuse có thể"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 3,
+      "word": "temporarily",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "témporerili",
+      "ipaUs": "tèmparérali",
+      "page": 267,
+      "senses": [
+        {
+          "pos": "adv",
+          "meaning": "tạm thời, nhất thời",
+          "examples": [
+            {
+              "en": "The popular video game is temporarily out of stock in stores, but may be bought online. Hackers TOEIC Vocabulary",
+              "vi": "Máy chơi game đang được ưa chuộng đó tạm thời hết ở cửa hàng nhưng vẫn có thể mua được trên mạng. Boàg Thth Bo"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 4,
+      "word": "dealer",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "dí:la",
+      "ipaUs": "dí:lar",
+      "page": 267,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "người buôn bán, lái buôn",
+          "examples": [
+            {
+              "en": "Imported vehicles are sold only by licensed car",
+              "vi": "dealers. Chỉ những người bán xe dã được cấp phép mới có thể bán xe nhập khẩu. la thi TOE f, Gạng thột thộ"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 5,
+      "word": "bulk",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "bulk",
+      "ipaUs": "balk",
+      "page": 268,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "Many factories offer a modest discount for bulk-",
+              "vi": "Rất nhiều nhà máy đưa ra mức chiết khẩu vừa phải cho những đơn hàng lớn. Bai thi TOEIC dạng thức mới"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 6,
+      "word": "inventory",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "invantari",
+      "ipaUs": "ínvantò:ri",
+      "page": 268,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "ngắn; thiếu, không đủ",
+          "examples": [
+            {
+              "en": "regular intervals.",
+              "vi": "Hàng tổn trong kho được kiểm kê định kỳ."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 7,
+      "word": "short",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "short",
+      "ipaUs": "der. shortage (n) sự thiếu,",
+      "page": 268,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "ngắn; thiếu, không đủ",
+          "examples": [
+            {
+              "en": "The plant is running short on its supply of raw",
+              "vi": "Nhà máy còn rất ít nguồn cung nguyên liệu thô. Bại thì TOEIC dạng thức mới run short gần hết, còn rất ít"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 8,
+      "word": "cost",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "kost",
+      "ipaUs": "ko:st",
+      "page": 268,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "giá, chi phí",
+          "examples": [
+            {
+              "en": "Singapore is known for its high cost of living. It can cost a lot to raise children these days.",
+              "vi": "Singapore được biết đến là nơi có chi phí sinh hoạt cao. y trị giá, đòi hỏi, tốn Ngày nay, việc nuôi con rất tốn kém."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 9,
+      "word": "selection",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "selection",
+      "ipaUs": "silekjen",
+      "page": 269,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự chọn lựa, lựa chọn",
+          "examples": [
+            {
+              "en": "Our website boasts a wide selection of gift items.",
+              "vi": "Trang web của chúng tôi tự hào giới thiệu rất nhiều sự lựa chọn về quà tặng. cự a wide selection of rất nhiều sự lựa chọn"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 10,
+      "word": "commercial",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "kamá:fal",
+      "ipaUs": "kama:r[al",
+      "page": 269,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "(thuộc) thương mại",
+          "examples": [
+            {
+              "en": "Some commercial products may be subject to import taxes. Each television commercial must be under 30",
+              "vi": "Một số sản phẩm thương mại có thể phải nộp thuế nhập khẩu. n quảng cáo seconds long. Mỗi quảng cáo trên truyền hình phải dài không"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 11,
+      "word": "order",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "uK 5:de",
+      "ipaUs": "rdar",
+      "page": 269,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "The secretary ordered supplies from the main InterCore places regular orders for microchips from Hackers TOEIC Vocabulary",
+              "vi": "office. Thư ký đã đặt vật tư từ văn phòng chính. hị đơn đặt hàng, hàng đặt mua InterCore đặt đơn hàng định kỳ mua vi mạch của Compucation."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 12,
+      "word": "provide",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "provide",
+      "ipaUs": "praváid",
+      "page": 269,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "We provide customers with detailed product lists by Warranties are provided with all Blake-Co",
+              "vi": "e-mail. Chúng tôi cung cấp cho khách hàng danh sách chi tiết về sản phẩm qua e-mail. merchandise. Phiếu bảo hành được cung cấp cho tất cả hàng"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 13,
+      "word": "contact",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "köntækt",
+      "ipaUs": "kúntækt",
+      "page": 270,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "liên lạc, liên hệ",
+          "examples": [
+            {
+              "en": "Contact the supplier to request express delivery. Sales representatives should have a wide network of business contacts.",
+              "vi": "Hãy liên hệ với nhà cung cấp để yêu cầu giao hàng nhanh. n sự liên lạc, người liên hệ Nhân viên kinh doanh cần có mạng lưới liên hệ công việc"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 14,
+      "word": "invoice",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "invoice",
+      "ipaUs": "invois",
+      "page": 270,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "hóa đơn",
+          "examples": [
+            {
+              "en": "The manufacturer sent an invoice for the production",
+              "vi": "costs. Nhà sản xuất đã gửi hóa đơn chi phí sản phẩm. v chuyển động, di chuyển"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 15,
+      "word": "move",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "move",
+      "ipaUs": "mu:v]|",
+      "page": 270,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "chuyển động, di chuyển",
+          "examples": [
+            {
+              "en": "Panther Corporation moved its Asian headquarters The company's next move will be to expand its Abigail feels a move to overseas could help her",
+              "vi": "Tập đoàn Panther đã chuyển trụ sở châu Á tới Trung Quốc. n sự chuyển/di chuyển; động thái, biện pháp product line. Động thái tiếp theo của công ty sẽ là mở rộng"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 16,
+      "word": "supply",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "supply",
+      "ipaUs": "soplai",
+      "page": 271,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "cung cấp, trang bị",
+          "examples": [
+            {
+              "en": "NovaTech supplies its customers with the latest network equipment. The diagram in the handout shows supply and",
+              "vi": "NovaTech cung cấp cho khách hàng các thiết bị kết nối tân tiến nhất. n sự cung cấp; (-s) thiết bị, vật tư"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 17,
+      "word": "discount",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "discount",
+      "ipaUs": "dískaunt",
+      "page": 271,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự giảm, tiền chiết khấu",
+          "examples": [
+            {
+              "en": "Repeat clients are eligible for a 30 percent discount Hackers TOEIC Vocabulary",
+              "vi": "Khách mua hàng thường xuyên sẽ được hưởng mức chiết khấu 30% cho tất cả các mặt hàng. v phân phối, phân phát"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 18,
+      "word": "distribute",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "distribute",
+      "ipaUs": "distríbju:t",
+      "page": 271,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "phân phối, phân phát",
+          "examples": [
+            {
+              "en": "Hackers TOEIC Vocabulary The goods were distributed to local businesses.",
+              "vi": "Hàng hóa đã được phân phối tới các cơ sở kinh doanh địa phương. Bai thì TOEIC đạng thực mơu"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 19,
+      "word": "acquisition",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "ækwizijan",
+      "ipaUs": "ækwazijon",
+      "page": 271,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự tiếp nhận, sự mua lại; vật được mua",
+          "examples": [
+            {
+              "en": "Companies can grow quickly through the acquisition of other businesses. The family's latest acquisition is a minivan.",
+              "vi": "Các công ty có thể lớn mạnh nhanh chóng thông qua việc thu mua lại các doanh nghiệp khác. Món đồ gần đây nhất mà gia đình mua là một chiếc xe tải nhỏ."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 20,
+      "word": "assure",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "a[5:",
+      "ipaUs": "a[uar",
+      "page": 272,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "đảm bảo, cam đoan",
+          "examples": [
+            {
+              "en": "RapidFleet assures customers that all purchases are delivered promptly. The sales assistant assured the customer that she",
+              "vi": "RapidFleet đảm bảo với khách hàng rằng tất cả hàng hóa sẽ được giao nhanh chóng. Trợ lý bán hàng cam đoan với vị khách rằng cô ấy sẽ không thất"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 21,
+      "word": "subject",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "sÁbdzekt",
+      "ipaUs": "adj) [ sabdzikt",
+      "page": 272,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "dễ bị, khó tránh khỏi; lệ thuộc, tùy theo, phải chịu",
+          "examples": [
+            {
+              "en": "Prices are subject to change without advance notice. Vacation requests are subject to approval of the The researchers subjected the synthetic materials",
+              "vi": "Giá cả khó tránh khỏi bị thay đổi mà không được thông báo trước. office manager. Các yêu cầu xin nghỉ cần phải có sự chấp thuận của trưởng phòng."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 22,
+      "word": "seek",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "seek",
+      "ipaUs": "si:k",
+      "page": 273,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "tìm kiếm, theo đuổi",
+          "examples": [
+            {
+              "en": "Fenway Bank is seeking a new manager for its Phoenix branch.",
+              "vi": "Ngân hàng Fenway đang tìm một quản lý mới cho chi nhánh ở Phoenix. adj vừa lòng, thỏa mãn, thỏa đáng"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 23,
+      "word": "satisfactory",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "satisfactory",
+      "ipaUs": "sætisfæktari",
+      "page": 273,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "vừa lòng, thỏa mãn, thỏa đáng",
+          "examples": [
+            {
+              "en": "Customers expect satisfactory responses to their Ms. Collins was very satisfied with the items she",
+              "vi": "Khách hàng mong nhận được những phản hỗi thỏa đáng cho các yêu cầu của họ. dạng thực moi"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 24,
+      "word": "confirmation",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "könfameijan",
+      "ipaUs": "kànforméijan",
+      "page": 273,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự xác nhận, sự thừa nhận",
+          "examples": [
+            {
+              "en": "Please submit written confirmation of the subscription cancellation. Hackers TOEIC Vocabulary",
+              "vi": "Vui lòng nộp văn bản xác nhận việc hủy đăng ký dài hạn. confirmation of sự xác nhận/giấy xác nhận về confirmation thường đi với giới từ of."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 25,
+      "word": "unable",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "unable",
+      "ipaUs": "Ànéibl",
+      "page": 273,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "The hotel is unable to take any more reservations",
+              "vi": "Khách sạn không thể tiếp nhận thêm đơn đặt chỗ vì đã hết phòng. nị việc trả tiền, khoản thạnh toán"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 26,
+      "word": "payment",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "payment",
+      "ipaUs": "péiment",
+      "page": 273,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "Once payment has been received, the books will be",
+              "vi": "Khi tiền thanh toán đến nơi, sách sẽ được giao."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 27,
+      "word": "measure",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "measure",
+      "ipaUs": "mézar",
+      "page": 274,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "phương sách, biện pháp",
+          "examples": [
+            {
+              "en": "The safety measures are in place to protect factory The construction crew measured the spaces for",
+              "vi": "workers. Các biện pháp an toàn đã được thiết lập để bảo vệ công nhân của nhà máy. y đo đạc, tính toán"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 28,
+      "word": "bargain",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "bá:gin",
+      "ipaUs": "bá:rgen",
+      "page": 274,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự mặc cả, món hời",
+          "examples": [
+            {
+              "en": "Stores offer many great bargains at the end of the",
+              "vi": "Các cửa hàng đưa ra rất nhiều món hời hấp dẫn vào cuối năm. n kho hàng, nguồn hàng; cổ phần"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 29,
+      "word": "stock",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "stock",
+      "ipaUs": "stak",
+      "page": 274,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "kho hàng, nguồn hàng; cổ phần",
+          "examples": [
+            {
+              "en": "This particular model is currently out of stock. Investment bankers must constantly check prices of",
+              "vi": "Mẫu này hiện đang hết hàng. stocks. Các ngân hàng đầu tư phải liên tục cập nhật giá cổ phiếu."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 30,
+      "word": "affordability",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "afo:dabilati",
+      "ipaUs": "afòr dabilati",
+      "page": 274,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "nhóm khách hàng, khách quen",
+          "examples": [
+            {
+              "en": "Consumers are most concerned about the",
+              "vi": "Khách hàng thường bận tâm nhiều nhất về việc giá của các mặt hàng thực phẩm có hợp túi tiền hay không."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 31,
+      "word": "clientele",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "kli:ontél",
+      "ipaUs": "kläiantél",
+      "page": 274,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "nhóm khách hàng, khách quen",
+          "examples": [
+            {
+              "en": "The wealthiest clientele usually shops in luxury",
+              "vi": "Stores. Những khách hàng giàu có nhất thường mua sắm ở các cửa hiệu sang trọng."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 32,
+      "word": "acclaim",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "acclaim",
+      "ipaUs": "akléim",
+      "page": 275,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "tiếng hoan hô, sự ngợi khen",
+          "examples": [
+            {
+              "en": "Ms. Song's novel won critical acclaim, and a studio soon purchased the movie rights.",
+              "vi": "Cuốn tiểu thuyết của bà Song đã được giới phê bình khen ngợi, và một công ty điện ảnh đã nhanh chóng mua bản quyền làm V đại diện cho, tiêu biểu cho"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 33,
+      "word": "represent",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "represent",
+      "ipaUs": "ler. representation (n",
+      "page": 275,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự đánh giá, thứ bậc",
+          "examples": [
+            {
+              "en": "Rounders Properties is looking for an agent to represent the firm in Europe.",
+              "vi": "Rounders Properties dang tìm một người đại diện cho công ty tại châu Âu. đạng thuc mơ"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 34,
+      "word": "rating",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "rating",
+      "ipaUs": "réitin",
+      "page": 275,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự đánh giá, thứ bậc",
+          "examples": [
+            {
+              "en": "The Coolmax air conditioner has the highest energy efficiency rating.",
+              "vi": "Điều hòa của hãng Coolmax có thứ hạng cao nhất về tiết kiệm năng lượng. V bao quanh, bao gồm"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 35,
+      "word": "encompass",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "encompass",
+      "ipaUs": "inkámpas",
+      "page": 275,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "Techtronic's product range encompasses all kinds Hackers TOEIC Vocabulary of electrical goods.",
+              "vi": "Sản phẩm của Techtronic bao gồm mọi loại mặt hàng điện tử. M hoàn thành, thông qua lần cuối"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 36,
+      "word": "finalize",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "finalize",
+      "ipaUs": "fáinalàiz",
+      "page": 275,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "thị trường",
+          "examples": [
+            {
+              "en": "Once Bertram Inc. finalizes the contract, they will begin manufacturing the products.",
+              "vi": "Ngay khi Tập đoàn Bertram thông qua hợp đồng, họ sẽ bắt đầu sản xuất các sản phẩm đó."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 37,
+      "word": "market",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "má:kit",
+      "ipaUs": "má:rkit",
+      "page": 275,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "thị trường",
+          "examples": [
+            {
+              "en": "Joyful-Cleanse is the best dish detergent on the",
+              "vi": "Joyful-Cleanse là nước rửa bát tốt nhất trên thị trường."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 38,
+      "word": "retail",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "retail",
+      "ipaUs": "rí:teil",
+      "page": 276,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "hàng hóa, mặt hàng",
+          "examples": [
+            {
+              "en": "Online shops are more popular than most retail stores nowadays.",
+              "vi": "Các cửa hàng trực tuyến giờ đây phổ biến hơn các cửa hàng bản lẻ."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 39,
+      "word": "commodity",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "Uk kam5dati",
+      "ipaUs": "kamádati",
+      "page": 276,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "hàng hóa, mặt hàng",
+          "examples": [
+            {
+              "en": "Export opportunities are opening up in the agricultural commodities sector.",
+              "vi": "Nhiều cơ hội xuất khẩu đang rộng mở trong lĩnh vực hàng hóa nong nghiệp. n báo giá"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 40,
+      "word": "quote",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "kwaut",
+      "ipaUs": "kwout",
+      "page": 276,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "báo giá",
+          "examples": [
+            {
+              "en": "The customer requested a price quote on the The landscaper quoted a much higher price than A quota system guarantees each producer a share",
+              "vi": "Khách hàng hỏi báo giá của mặt hàng đó. y định giá Đơn vị xây dựng cảnh quan đưa ra giá cao hơn rất nhiều so với"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 41,
+      "word": "consignment",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "consignment",
+      "ipaUs": "kansäinmant",
+      "page": 276,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự gửi hàng, sự ký gửi (để bán)",
+          "examples": [
+            {
+              "en": "The dealer only sells on consignment.",
+              "vi": "Các nhà buôn chỉ bán hàng theo hình thức ký gửi."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    }
+  ],
+  "completeVocab": {
+    "basic": {
+      "LC": [],
+      "RC": [
+        [
+          "checklist",
+          "n",
+          "bảng liệt kê các mục cần kiểm tra"
+        ],
+        [
+          "a client",
+          "n",
+          "khách hàng"
+        ],
+        [
+          "communicate",
+          "v",
+          "giao tiếp, truyền đạt"
+        ],
+        [
+          "exchange",
+          "n",
+          "sự trao đổi; v đổi, trao đổi"
+        ],
+        [
+          "film studio",
+          "phr",
+          "phim trường"
+        ],
+        [
+          "journal",
+          "n",
+          "tạp chí, bảo"
+        ],
+        [
+          "journalist",
+          "n",
+          "nhà báo"
+        ],
+        [
+          "magazine",
+          "n",
+          "tạp chi"
+        ],
+        [
+          "newspaper",
+          "n",
+          "tạp chi"
+        ],
+        [
+          "newsstand",
+          "n",
+          "quầy báo, sạp báo"
+        ],
+        [
+          "parade",
+          "n",
+          "cuộc diễu hành"
+        ],
+        [
+          "a publisher",
+          "n",
+          "nhà xuất bản"
+        ],
+        [
+          "reader",
+          "n",
+          "người đọc, độc giả"
+        ],
+        [
+          "reporter",
+          "n",
+          "người đọc, độc giả"
+        ],
+        [
+          "sales trend",
+          "phr",
+          "xu hướng doanh thu"
+        ],
+        [
+          "comforting",
+          "n",
+          "adị có thể an ủi"
+        ],
+        [
+          "a excellently",
+          "phr",
+          "adị có thể an ủi"
+        ],
+        [
+          "export",
+          "v",
+          "xuất khẩu; n hàng xuất khẩu"
+        ],
+        [
+          "former",
+          "v",
+          "xuất khẩu; n hàng xuất khẩu"
+        ],
+        [
+          "govern",
+          "v",
+          "quản lý, cai trị"
+        ],
+        [
+          "government",
+          "n",
+          "chính quyển, sự cai trị"
+        ],
+        [
+          "import",
+          "n",
+          "chính quyển, sự cai trị"
+        ],
+        [
+          "politician",
+          "n",
+          "chinh trị gia"
+        ],
+        [
+          "politics",
+          "n",
+          "chính trị, quan điểm chính trị"
+        ],
+        [
+          "shortly",
+          "n",
+          "chính trị, quan điểm chính trị"
+        ],
+        [
+          "start",
+          "adv",
+          "chẳng mấy chốc, vắn tắt, ngẫn gọn"
+        ],
+        [
+          "+ supplier",
+          "v",
+          "bắt đầu; n buổi đầu, sự khởi đầu"
+        ],
+        [
+          "o unlikely",
+          "phr",
+          "adị không chắc, không có thực"
+        ]
+      ]
+    },
+    "l800": {
+      "LC": [],
+      "P56": [
+        [
+          "back away from",
+          "phr",
+          "lùi xa khỏi"
+        ],
+        [
+          "be closed for the day",
+          "phr",
+          "đóng cửa (hết giờ làm việc)"
+        ],
+        [
+          "o be determined to do",
+          "phr",
+          "quyết tâm làm gì"
+        ],
+        [
+          "business day",
+          "phr",
+          "ngày làm việc"
+        ],
+        [
+          "commercial space",
+          "phr",
+          "không gian/mặt bằng kinh doanh"
+        ],
+        [
+          "day after tomorrow",
+          "phr",
+          "ngày kia"
+        ],
+        [
+          "front-page story",
+          "phr",
+          "câu chuyện trên trang nhất"
+        ],
+        [
+          "give a good price",
+          "phr",
+          "đưa ra một mức giá tốt"
+        ],
+        [
+          "headline",
+          "n",
+          "tiêu đề, dòng tít"
+        ],
+        [
+          "in stock",
+          "phr",
+          "có hàng (còn trong kho)"
+        ],
+        [
+          "lead (up/down) to",
+          "phr",
+          "dẫn đến"
+        ],
+        [
+          "make a recording",
+          "phr",
+          "ghi âm"
+        ],
+        [
+          "normal operating hours",
+          "phr",
+          "giờ làm việc bình thường"
+        ],
+        [
+          "on sale",
+          "phr",
+          "giờ làm việc bình thường"
+        ],
+        [
+          "on the market",
+          "phr",
+          "trên thị trường"
+        ],
+        [
+          "out of print",
+          "phr",
+          "không xuất bản nữa"
+        ],
+        [
+          "out of stock",
+          "phr",
+          "hết hàng"
+        ],
+        [
+          "overcharge",
+          "v",
+          "bán quá đắt, nói thách"
+        ],
+        [
+          "payment option",
+          "v",
+          "bán quá đắt, nói thách"
+        ],
+        [
+          "place an order",
+          "phr",
+          "đặt hàng"
+        ],
+        [
+          "put A out for sale",
+          "phr",
+          "đưa A ra bán"
+        ],
+        [
+          "retail store",
+          "phr",
+          "đưa A ra bán"
+        ],
+        [
+          "run out of",
+          "phr",
+          "hết, cạn kiệt"
+        ],
+        [
+          "sales presentation",
+          "phr",
+          "hết, cạn kiệt"
+        ],
+        [
+          "salesperson",
+          "n",
+          "nhân viên bán hàng"
+        ],
+        [
+          "sold out",
+          "phr",
+          "hết hàng"
+        ],
+        [
+          "stay open late",
+          "phr",
+          "hết hàng"
+        ],
+        [
+          "stockroom",
+          "n",
+          "nhà kho"
+        ],
+        [
+          "storage facility",
+          "n",
+          "nhà kho"
+        ],
+        [
+          "storeroom",
+          "phr",
+          "kho hàng, kho lưu trữ"
+        ],
+        [
+          "take inventory",
+          "n",
+          "kho hàng"
+        ],
+        [
+          "accordingly",
+          "phr",
+          "kiểm kê"
+        ],
+        [
+          "o adaptable",
+          "phr",
+          "adị có thể thích nghi"
+        ]
+      ],
+      "P7": [
+        [
+          "along with",
+          "phr",
+          "cùng với, kèm theo"
+        ],
+        [
+          "at the latest",
+          "phr",
+          "muộn nhất là"
+        ],
+        [
+          "compliant",
+          "n",
+          "adị mềm mỏng, phục tùng"
+        ],
+        [
+          "correspond",
+          "n",
+          "y tương xứng, đổi nhau"
+        ],
+        [
+          "cultivation",
+          "n",
+          "y tương xứng, đổi nhau"
+        ],
+        [
+          "do business with",
+          "phr",
+          "buôn bán/giao dịch với"
+        ],
+        [
+          "had better do",
+          "phr",
+          "tốt hơn nên"
+        ],
+        [
+          "honorable",
+          "n",
+          "adị đáng kính trọng, vinh dự"
+        ],
+        [
+          "perceptive",
+          "n",
+          "adị (thuộc) nhận thức, nhận thức được"
+        ],
+        [
+          "reasonably",
+          "adv",
+          "hợp lý, vừa phải"
+        ],
+        [
+          "transformation",
+          "adv",
+          "hợp lý, vừa phải"
+        ],
+        [
+          "attain",
+          "v",
+          "dạt dược"
+        ],
+        [
+          "barter",
+          "n",
+          "y đổi, đổi chác; n sự đổi chác"
+        ],
+        [
+          "boycott",
+          "n",
+          "* tẩy chay; sự tẩy chay"
+        ],
+        [
+          "capitalize on",
+          "phr",
+          "lợi dụng, tranh thủ cơ hội"
+        ],
+        [
+          "council",
+          "phr",
+          "lợi dụng, tranh thủ cơ hội"
+        ],
+        [
+          "Department of Commerce",
+          "phr",
+          "Bộ Thương mại"
+        ],
+        [
+          "depot",
+          "n",
+          "• kho chứa, kho hàng"
+        ],
+        [
+          "diminish",
+          "n",
+          "y giảm, bớt"
+        ],
+        [
+          "duty-free",
+          "n",
+          "adị miễn thuế"
+        ],
+        [
+          "election",
+          "n",
+          "adị miễn thuế"
+        ],
+        [
+          "exercise one's right",
+          "phr",
+          "sử dụng quyền của"
+        ],
+        [
+          "federal",
+          "adj",
+          "(thuộc) liên bang"
+        ],
+        [
+          "hold power",
+          "adj",
+          "(thuộc) liên bang"
+        ],
+        [
+          "inclination",
+          "n",
+          "sự nghiêng, độ nghiêng"
+        ],
+        [
+          "inevitable",
+          "n",
+          "aơị không thể tránh được"
+        ],
+        [
+          "loyal customer",
+          "phr",
+          "aơị không thể tránh được"
+        ],
+        [
+          "outside provider",
+          "phr",
+          "nhà cung cấp bên ngoài"
+        ],
+        [
+          "poll",
+          "phr",
+          "nhà cung cấp bên ngoài"
+        ],
+        [
+          "possession",
+          "n",
+          "i quyền sở hữu, sự chiếm hữu"
+        ],
+        [
+          "scarce",
+          "n",
+          "adị khan hiểm, khó tìm"
+        ],
+        [
+          "status",
+          "n",
+          "adị khan hiểm, khó tìm"
+        ],
+        [
+          "switch A to B",
+          "n",
+          "trạng thái, tình trạng"
+        ],
+        [
+          "D, wholesaler",
+          "n",
+          "người bán buôn"
+        ],
+        [
+          "withstand",
+          "n",
+          "người bán buôn"
+        ]
+      ]
+    },
+    "l900": {
+      "LC": [],
+      "P56": [],
+      "P7": [
+        [
+          "be closed to the public",
+          "phr",
+          "không mở cửa cho công chúng"
+        ],
+        [
+          "breaking news",
+          "phr",
+          "tin mới nhất"
+        ],
+        [
+          "run an article",
+          "phr",
+          "cho in một bài báo"
+        ],
+        [
+          "step down",
+          "phr",
+          "từ chức"
+        ],
+        [
+          "write up",
+          "phr",
+          "viết ra, viết tường trình"
+        ],
+        [
+          "diversified",
+          "n",
+          "adi da dạng"
+        ],
+        [
+          "engrave",
+          "n",
+          "y khắc, chạm"
+        ],
+        [
+          "facilitator",
+          "n",
+          "người cố vấn"
+        ],
+        [
+          "itemized",
+          "n",
+          "người cố vấn"
+        ],
+        [
+          "keep track of",
+          "phr",
+          "theo dõi"
+        ],
+        [
+          "predominantly",
+          "adv",
+          "phần lớn, chủ yếu là"
+        ],
+        [
+          "a profoundly",
+          "adv",
+          "sâu sắc, hết sức"
+        ],
+        [
+          "barring",
+          "prep",
+          "trừ ra"
+        ],
+        [
+          "bureaucracy",
+          "prep",
+          "trừ ra"
+        ],
+        [
+          "cast a ballot",
+          "phr",
+          "bỏ phiếu"
+        ],
+        [
+          "come to power",
+          "phr",
+          "lên nằm quyền"
+        ],
+        [
+          "constituency",
+          "n",
+          "người đi bỏ phiếu, đơn vị bầu cử"
+        ],
+        [
+          "contend with",
+          "phr",
+          "đương đầu với"
+        ],
+        [
+          "drawback",
+          "phr",
+          "đương đầu với"
+        ],
+        [
+          "in place of",
+          "phr",
+          "thay cho"
+        ],
+        [
+          "in the prepaid envelope",
+          "phr",
+          "trong phong bì đã được trả phí"
+        ],
+        [
+          "nationalize",
+          "phr",
+          "trong phong bì đã được trả phí"
+        ],
+        [
+          "parliament",
+          "n",
+          "nghị viện, quốc hội"
+        ],
+        [
+          "peddler",
+          "n",
+          "người bán rong"
+        ],
+        [
+          "price quote",
+          "phr",
+          "báo giá"
+        ],
+        [
+          "protocol",
+          "n",
+          "nghi thức ngoại giao"
+        ],
+        [
+          "scarcity",
+          "n",
+          "nghi thức ngoại giao"
+        ],
+        [
+          "summit",
+          "n",
+          "hội nghị thượng đỉnh"
+        ],
+        [
+          "surrender",
+          "v",
+          "đầu hàng, từ bỏ"
+        ],
+        [
+          "take an action against",
+          "phr",
+          "hành động chỗng lại"
+        ],
+        [
+          "third party",
+          "phr",
+          "bên/đảng phái thứ ba"
+        ],
+        [
+          "unsuccessful candidate",
+          "phr",
+          "ứng viên không trúng cử"
+        ]
+      ]
+    }
+  },
+  "dailyCheckup": {
+    "page": 277,
+    "groups": [
+      {
+        "instruction": "Tìm ở cột bên phải nghĩa của các từ vựng ở cột bên trái và nối chúng với nhau.",
+        "options": [
+          {
+            "key": "a",
+            "text": "tiêu cực"
+          },
+          {
+            "key": "b",
+            "text": "ngay lập tức"
+          },
+          {
+            "key": "c",
+            "text": "cách tiếp cận"
+          },
+          {
+            "key": "d",
+            "text": "bị cấm"
+          },
+          {
+            "key": "e",
+            "text": "sự chấp thuận"
+          },
+          {
+            "key": "f",
+            "text": "truy cập"
+          }
+        ],
+        "questions": [
+          {
+            "no": 1,
+            "prompt": "consignment",
+            "answer": "a"
+          },
+          {
+            "no": 2,
+            "prompt": "encompass",
+            "answer": "a"
+          },
+          {
+            "no": 3,
+            "prompt": "move",
+            "answer": "a"
+          },
+          {
+            "no": 4,
+            "prompt": "selection",
+            "answer": "a"
+          },
+          {
+            "no": 5,
+            "prompt": "finalize",
+            "answer": "a"
+          }
+        ]
+      },
+      {
+        "instruction": "Hãy chọn từ phù hợp để điền vào mỗi câu của bài thi TOEIC dạng thức mới sau.",
+        "options": [
+          {
+            "key": "a",
+            "text": "inspection"
+          },
+          {
+            "key": "b",
+            "text": "effect"
+          },
+          {
+            "key": "c",
+            "text": "authorized"
+          },
+          {
+            "key": "d",
+            "text": "procedure"
+          },
+          {
+            "key": "e",
+            "text": "concern"
+          }
+        ],
+        "questions": [
+          {
+            "no": 6,
+            "prompt": "This section of the city is zoned for enterprises.",
+            "answer": "a"
+          },
+          {
+            "no": 7,
+            "prompt": "The company took several to reduce its energy use.",
+            "answer": "a"
+          },
+          {
+            "no": 8,
+            "prompt": "Harry made the final after the package was delivered.",
+            "answer": "a"
+          },
+          {
+            "no": 9,
+            "prompt": "Wassail has earned widespread for its lovely furniture designs.",
+            "answer": "a"
+          }
+        ]
+      },
+      {
+        "instruction": "Hãy chọn từ phù hợp để điền vào mỗi câu của bài thi TOEIC dạng thức mới sau.",
+        "options": [
+          {
+            "key": "a",
+            "text": "obligation"
+          },
+          {
+            "key": "b",
+            "text": "drastically"
+          },
+          {
+            "key": "c",
+            "text": "revise"
+          },
+          {
+            "key": "d",
+            "text": "thoroughly"
+          },
+          {
+            "key": "e",
+            "text": "arrangements"
+          }
+        ],
+        "questions": [
+          {
+            "no": 10,
+            "prompt": "James is advice on making a financial investment.",
+            "answer": "a"
+          },
+          {
+            "no": 11,
+            "prompt": "Lehwood's of Byerson makes it the nation's largest bank.",
+            "answer": "a"
+          },
+          {
+            "no": 12,
+            "prompt": "Organic ingredients tend to more than other alternatives.",
+            "answer": "a"
+          },
+          {
+            "no": 13,
+            "prompt": "Wolsey _",
+            "answer": "a"
+          }
+        ]
+      }
+    ]
+  },
+  "title": "Hiệp định thương mại",
+  "titleVi": "Hiệp định thương mại",
+  "category": "Giao dịch"
+}

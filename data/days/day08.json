@@ -1,0 +1,1670 @@
+{
+  "dayNo": 8,
+  "source": "Apple Vision OCR extraction from pages 138-153",
+  "coreWords": [
+    {
+      "no": 1,
+      "word": "marginal",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "Uk má:rdzin",
+      "ipaUs": "má:dzinal",
+      "page": 139,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "người tiêu dùng, khách hàng",
+          "examples": [
+            {
+              "en": "Customers showed only marginal interest in the new tablet computer. The maintenance department decorated the",
+              "vi": "Người tiêu dùng tỏ ra không mấy quan tâm đến sản phẩm máy tính bảng mới. Bộ phận bảo trì đã trang trí khu vực xung quanh của tòa nhà"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 2,
+      "word": "customer",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "kistamar",
+      "ipaUs": "kistamar",
+      "page": 139,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "người tiêu dùng, khách hàng",
+          "examples": [
+            {
+              "en": "Telephone representatives should make the needs of customers their priority.",
+              "vi": "Nhân viên bán hàng trên điện thoại nên đặt nhu cầu của khách hàng là ưu tiên hàng đầu. v ảnh hưởng, tác động, chi phối"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 3,
+      "word": "influence",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "influence",
+      "ipaUs": "ínfluans",
+      "page": 139,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "ảnh hưởng, tác động, chi phối",
+          "examples": [
+            {
+              "en": "Demand for housing directly influences the cost of Product reviews have a profound influence on sales.",
+              "vi": "Nhu cầu về nhà ở ảnh hưởng trực tiếp tới giá nhà. n sự tác động, tác dụng Những đánh giá về sản phẩm có tác động rất lớn đến việc"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 4,
+      "word": "creative",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "creative",
+      "ipaUs": "kriéitiv",
+      "page": 140,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "sáng tạo",
+          "examples": [
+            {
+              "en": "Mr. Beaumont came up with a creative idea.",
+              "vi": "Ông Beaumont đã nảy ra một ý tưởng sáng tạo. adv xông xáo, tích cực"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 5,
+      "word": "aggressively",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "aggressively",
+      "ipaUs": "agrésivli",
+      "page": 140,
+      "senses": [
+        {
+          "pos": "adv",
+          "meaning": "xông xáo, tích cực",
+          "examples": [
+            {
+              "en": "The best sales representatives aggressively seek out potential clients.",
+              "vi": "Những nhân viên bán hàng tốt nhất luôn tích cực tìm kiếm các khách hàng tiềm năng."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 6,
+      "word": "aim",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "aim",
+      "ipaUs": "eim",
+      "page": 141,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "nhằm tới, có mục đich",
+          "examples": [
+            {
+              "en": "Sport Apparel developed athletic gear aimed at The division head will outline the aims of the marketing strategy.",
+              "vi": "Sport Apparel đã phát triển những dụng cụ thể thao nhằm tới đối tượng thanh thiếu niên. n mục tiêu, mục đích"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 7,
+      "word": "strategy",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "strategy",
+      "ipaUs": "strætad3i",
+      "page": 141,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "chiến lược",
+          "examples": [
+            {
+              "en": "Management's strategy for expansion has been Hackers TOEIC Vocabulary",
+              "vi": "Chiến lược mở rộng của ban quản lý đã thành công. V biểu thị, cho biết, chỉ ra"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 8,
+      "word": "indicate",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "indicate",
+      "ipaUs": "indikeit",
+      "page": 141,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "Hackers TOEIC Vocabulary Studies indicate that consumers prefer attractively packaged products.",
+              "vi": "V biểu thị, cho biết, chỉ ra Các nghiên cứu chỉ ra rằng người tiêu dùng thích những sản phẩm được đóng gói bắt mắt."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 9,
+      "word": "attract",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "attract",
+      "ipaUs": "atrækt",
+      "page": 141,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "younger buyers.",
+              "vi": "Nhà sản xuất xe ô tô đang nỗ lực để thu hút những người tiêu dùng trẻ tuổi."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 10,
+      "word": "experience",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "experience",
+      "ipaUs": "ikspiarians",
+      "page": 142,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "kinh nghiệm, sự trải nghiệm",
+          "examples": [
+            {
+              "en": "All of the invited guests had a pleasant experience at the store opening. Customers can experience the new service free for",
+              "vi": "Tất cả khách mời đã có trải nghiệm vui vẻ trong ngày khai trương cửa hàng. y trải nghiệm, trải qua"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 11,
+      "word": "analyze",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "analyze",
+      "ipaUs": "fnalàiz",
+      "page": 142,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "Researchers were asked to analyze the survey data.",
+              "vi": "Các nhà nghiên cứu đã được yêu cầu phân tích các dữ liệu khảo sát. V giời thiệu, đưa ra"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 12,
+      "word": "introduce",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "introduce",
+      "ipaUs": "intrad/u:s",
+      "page": 142,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "ElectroLife introduced a new line of vacuum cleaners.",
+              "vi": "ElectroLife đã giới thiệu một dòng sản phẩm máy hút bụi mới. V khuyên nhủ, tư vấn"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 13,
+      "word": "advise",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "advise",
+      "ipaUs": "advaiz",
+      "page": 142,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "đăng ký, đặt mua dài hạn (báo, tạp chí)",
+          "examples": [
+            {
+              "en": "Coburn Law Firm advises clients on intellectual property matters.",
+              "vi": "Hãng Luật Coburn tư vấn cho khách hàng về các vấn đề sở hữu trí tuệ. Ea th TOER dang thôc mo"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 14,
+      "word": "subscribe",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "subscribe",
+      "ipaUs": "sabskráib",
+      "page": 142,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "đăng ký, đặt mua dài hạn (báo, tạp chí)",
+          "examples": [
+            {
+              "en": "Subscribing to the monthly fashion magazine costs",
+              "vi": "Đặt mua dài hạn tạp chí thời trang hãng tháng chỉ tốn 40 đô-la một năm."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 15,
+      "word": "absence",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "absence",
+      "ipaUs": "bsans",
+      "page": 143,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự vắng mặt, nghỉ; sự thiếu, không có",
+          "examples": [
+            {
+              "en": "The absence of competition will help product sales. Staff members must strictly observe the new policy",
+              "vi": "Không có cạnh tranh sẽ có lợi cho việc bán sản phẩm. on absences. Các nhân viên phải tuân thủ nghiêm ngặt quy định mới về nghỉ phép."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 16,
+      "word": "means",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "means",
+      "ipaUs": "minz",
+      "page": 143,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "phương tiện, cách",
+          "examples": [
+            {
+              "en": "Direct surveys are one means of gathering consumer Hackers TOEIC Vocabulary The Internet is an invaluable instrument for",
+              "vi": "feedback. Khảo sát trực tiếp là một trong những cách để thu thập phản hỗi của khách hàng. by meths of bằng cách"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 17,
+      "word": "prefer",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "prifa:r",
+      "ipaUs": "prifá:",
+      "page": 143,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "lợi ích, lợi thế",
+          "examples": [
+            {
+              "en": "Customers prefer Luster Shampoo to any other competing brand.",
+              "vi": "Người tiêu dùng thích dầu gội Luster hơn các thương hiệu cạnh tranh khác."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 18,
+      "word": "advantage",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "uK ædvæntid3",
+      "ipaUs": "der. advantageo (adj",
+      "page": 143,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "lợi ích, lợi thế",
+          "examples": [
+            {
+              "en": "One advantage of consumer testing is the development of marketing insight.",
+              "vi": "Một lợi ích của hoạt động thử nghiệm với người tiêu dùng là có được hiểu biết thấu đáo về marketing."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 19,
+      "word": "forward",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "f5:r ward",
+      "ipaUs": "f5:wad",
+      "page": 144,
+      "senses": [
+        {
+          "pos": "adv",
+          "meaning": "về phía trước; tiến bộ",
+          "examples": [
+            {
+              "en": "Our company's research program has moved forward Please forward your e-mail to the accounting",
+              "vi": "Chương trình nghiên cứu của công ty chúng tôi đã tiến triển đáng kể. v gửi, chuyển tiếp (đồ vật, thông tin)"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 20,
+      "word": "contemporary",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "kantémparèri",
+      "ipaUs": "kantémparori",
+      "page": 144,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "đương thời, hiện đại",
+          "examples": [
+            {
+              "en": "Advertising messages change over time to reflect contemporary attitudes. The fashion brand's contemporary look appeals to",
+              "vi": "Các thông điệp quảng cáo thay đổi theo thời gian để phản ánh những quan điểm đương thời. Vẻ hiện đại của thương hiệu thời trang này thu hút các khách"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 21,
+      "word": "discussion",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "discussion",
+      "ipaUs": "der. discs (v) thảo luận",
+      "page": 145,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự thảo luận, sự tranh luận",
+          "examples": [
+            {
+              "en": "A discussion was held to decide how to promote",
+              "vi": "the product. Một cuộc thảo luận đã được tổ chức để quyết định cách thức quảng bá sản phẩm. aoj ban đầu, lúc đầu"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 22,
+      "word": "initial",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "initial",
+      "ipaUs": "inijal",
+      "page": 145,
+      "senses": [
+        {
+          "pos": "adv",
+          "meaning": "vững chắc, bình tĩnh, kiên định",
+          "examples": [
+            {
+              "en": "Initial findings show that customers are satisfied with the service.",
+              "vi": "Những kết quả ban đầu cho thấy người tiêu dùng hài lòng với dịch vụ này."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 23,
+      "word": "steadily",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "steadily",
+      "ipaUs": "stédili",
+      "page": 145,
+      "senses": [
+        {
+          "pos": "adv",
+          "meaning": "vững chắc, bình tĩnh, kiên định",
+          "examples": [
+            {
+              "en": "Ron steadily answered investors' questions about his business idea. Product sales steadily increased as time passed.",
+              "vi": "Ron đã bình tĩnh trả lời các câu hỏi của nhà đầu tư về ý tưởng kinh doanh của anh ấy. Lượng sản phẩm bán ra tăng ổn định theo thời gian."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 24,
+      "word": "necessarily",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "nèsasérali",
+      "ipaUs": "nésaserili",
+      "page": 145,
+      "senses": [
+        {
+          "pos": "adv",
+          "meaning": "tất yếu, nhất thiết",
+          "examples": [
+            {
+              "en": "Increased production does not necessarily lead to greater revenues. Hackers TOEIC Vocabulary",
+              "vi": "Sản lượng tăng không nhất thiết dẫn đến doanh thu tăng. Bai thì TOEIC dạng thức mớ not necessarily + động từ không nhất thiết phải"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 25,
+      "word": "resolve",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "resolve",
+      "ipaUs": "rizólv",
+      "page": 145,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "giải quyết, kiên quyết",
+          "examples": [
+            {
+              "en": "The new facial cream promises to resolve 90 percent of common skin problems.",
+              "vi": "Loại kem dưỡng da mới hứa hẹn sẽ giải quyết được 90% những vấn để thường gặp về da. v phát hiện ra, khám phá ra"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 26,
+      "word": "detect",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "detect",
+      "ipaUs": "ditékt",
+      "page": 145,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "phát hiện ra, khám phá ra",
+          "examples": [
+            {
+              "en": "Only a few people detected any actual differences between the two models.",
+              "vi": "Chỉ một vài người nhận ra tất cả những khác biệt thực sự giữa hai mẫu này."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 27,
+      "word": "intensify",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "inténsafài",
+      "ipaUs": "inténsifai",
+      "page": 146,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "làm tăng lên, tăng cường",
+          "examples": [
+            {
+              "en": "The movie studio intensified its promotional. activities to draw in a wider audience.",
+              "vi": "Hàng phim đã tăng cường các hoạt động quảng bá để thu hút một lượng lớn khán giả. adv thuận lợi, tốt đẹp"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 28,
+      "word": "favorably",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "favorably",
+      "ipaUs": "féivarabli",
+      "page": 146,
+      "senses": [
+        {
+          "pos": "adv",
+          "meaning": "thuận lợi, tốt đẹp",
+          "examples": [
+            {
+              "en": "The product demonstration was favorably received Earnings continue to develop favorably.",
+              "vi": "by consumers. Buổi trưng bày giới thiệu sản phẩm đã được khách hàng nồng nhiệt đón nhận. Thu nhập tiếp tục tăng theo xu hướng khả quan."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 29,
+      "word": "cover",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "kÁver",
+      "ipaUs": "kAva",
+      "page": 146,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "ít hơn, kém hơn",
+          "examples": [
+            {
+              "en": "The rental deposit covers the cost of repairing The firm's budget is large enough to cover marketing expenses for a year.",
+              "vi": "Tiền đặt cọc thuê nhà đã bao gồm cả phí sửa chữa các thiết bị hư hỏng. Ngân sách của công ty đủ lớn để thanh toán chi phí marketing"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 30,
+      "word": "less",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "less",
+      "ipaUs": "les",
+      "page": 146,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "ít hơn, kém hơn",
+          "examples": [
+            {
+              "en": "less competition among insurance companies led to Comments in blue indicate topics of lesser",
+              "vi": "higher premiums. Ít sự cạnh tranh hơn giữa các công ty bảo hiểm đã dẫn đến việc tăng phí bảo hiểm. Ba, thì TOEIC dạng thốc mới"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 31,
+      "word": "majority",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "madzó:rati",
+      "ipaUs": "madzórati",
+      "page": 147,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "đa số, số đông",
+          "examples": [
+            {
+              "en": "The majority of registered clients pay their dues Most of the advertising budget is spent on",
+              "vi": "regularly. Đa số các khách hàng dã đăng ký đều trả phí rất đều đặn. Để thi nhiều khả năng sẽ xuất hiện câu hỏi yêu cầu phân biệt"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 32,
+      "word": "adopt",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "uK adapt",
+      "ipaUs": "adopt",
+      "page": 147,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "thông qua, lựa chọn, làm theo",
+          "examples": [
+            {
+              "en": "Plenty of research must be done before adopting a particular marketing strategy.",
+              "vi": "Cần phải thực hiện nhiều cuộc nghiên cứu trước khi thông qua một chiến lược marketing nhất định. adv trên quy mô lớn, phần lớn"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 33,
+      "word": "largely",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "lá:rd3li",
+      "ipaUs": "lá:d3 li",
+      "page": 147,
+      "senses": [
+        {
+          "pos": "adv",
+          "meaning": "trên quy mô lớn, phần lớn",
+          "examples": [
+            {
+              "en": "Public reaction to the charity foundation was Hackers TOEIC Vocabulary",
+              "vi": "largely positive. Phản ứng của công chúng đối với tổ chức từ thiện này đa phần là tích cực. v xem nhẹ, không đếm xỉa đến"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 34,
+      "word": "disregard",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "dìsrigá:rd",
+      "ipaUs": "dìsrigá:d",
+      "page": 147,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "xem nhẹ, không đếm xỉa đến",
+          "examples": [
+            {
+              "en": "The company should not disregard customers opinions if it wants to improve the service quality.",
+              "vi": "Công ty không nên xem nhẹ ý kiến của khách hàng nếu muốn cải thiện chất lượng dịch vụ. n sự cố gắng, sự nỗ lực"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 35,
+      "word": "effort",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "éfart",
+      "ipaUs": "éfat",
+      "page": 147,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự cố gắng, sự nỗ lực",
+          "examples": [
+            {
+              "en": "TV commercials were run in an effort to broaden consumer awareness of new brands.",
+              "vi": "Quảng cáo được phát trên truyền hình với nỗ lực nhằm tăng cường sự nhận diện của người tiêu dùng đối với những thương hiệu mới. dạng nue thon"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 36,
+      "word": "need",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "need",
+      "ipaUs": "ni:d",
+      "page": 148,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "nhu cầu, sự cần thiết",
+          "examples": [
+            {
+              "en": "The company is in need of an untapped market. The vehicle was designed to meet the needs of daily We need to scrutinize each transaction for potential",
+              "vi": "Công ty đang cần một thị trường chưa được khai thác. Commuters. Phương tiện giao thông này được thiết kế để đáp ứng nhu cầu đi lại hằng ngày của người đi làm."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 37,
+      "word": "mastermind",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "mæstarmaind",
+      "ipaUs": "mæstarmaind",
+      "page": 148,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "quân sư, đạo diễn (kế hoạch)",
+          "examples": [
+            {
+              "en": "Mr. Dane is the mastermind behind the innovative",
+              "vi": "design. Ông Dane chính là bộ óc đằng sau thiết kế sáng tạo đó."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    }
+  ],
+  "completeVocab": {
+    "basic": {
+      "LC": [],
+      "RC": [
+        [
+          "celebration",
+          "n",
+          "sự kỷ niệm, lễ kỷ niệm"
+        ],
+        [
+          "curious",
+          "n",
+          "adị tò mò, ham hiểu biết"
+        ],
+        [
+          "drop by",
+          "phr",
+          "adị tò mò, ham hiểu biết"
+        ],
+        [
+          "first step",
+          "phr",
+          "bước đầu tiên"
+        ],
+        [
+          "for now",
+          "phr",
+          "bây giờ, hiện tại"
+        ],
+        [
+          "gather",
+          "v",
+          "tập hợp, thu thập"
+        ],
+        [
+          "get together",
+          "phr",
+          "gặp gỡ, tụ họp"
+        ],
+        [
+          "hole",
+          "n",
+          "lỗ thủng, lỗ hồng"
+        ],
+        [
+          "in total",
+          "n",
+          "lỗ thủng, lỗ hồng"
+        ],
+        [
+          "in use",
+          "phr",
+          "được sử dụng, thông dụng"
+        ],
+        [
+          "practical",
+          "n",
+          "adị thiết thực, có ích"
+        ],
+        [
+          "shovel",
+          "v",
+          "dọn sạch (bằng xẻng); n cái xẻng"
+        ],
+        [
+          "show",
+          "n",
+          "y cho xem, tỏ ra; n buổi diễn, sự"
+        ],
+        [
+          "space",
+          "n",
+          "chỗ, không gian; y đặt cách nhau,"
+        ],
+        [
+          "advertise",
+          "n",
+          "cách ra (trên văn bản đánh máy)"
+        ],
+        [
+          "belief",
+          "n",
+          "niểm tin, tín ngưỡng"
+        ],
+        [
+          "belong to",
+          "phr",
+          "của, thuộc về"
+        ],
+        [
+          "be open for business",
+          "phr",
+          "của, thuộc về"
+        ],
+        [
+          "best-selling author",
+          "phr",
+          "tác giá sách bán chạy"
+        ],
+        [
+          "consumer",
+          "n",
+          "người tiêu dùng"
+        ],
+        [
+          "entry fee",
+          "n",
+          "người tiêu dùng"
+        ],
+        [
+          "experiment",
+          "n",
+          "cuộc thí nghiệm, thử nghiệm"
+        ],
+        [
+          "a findings",
+          "n",
+          "cuộc thí nghiệm, thử nghiệm"
+        ],
+        [
+          "full",
+          "n",
+          "adị đầy, no, hết sức"
+        ],
+        [
+          "obviously",
+          "n",
+          "aảy rõ ràng, hiển nhiên"
+        ],
+        [
+          "photographer",
+          "n",
+          "aảy rõ ràng, hiển nhiên"
+        ],
+        [
+          "primarily",
+          "n",
+          "nhiếp ảnh gia, thợ chụp ảnh"
+        ],
+        [
+          "sales target",
+          "phr",
+          "mục tiêu về doanh số"
+        ]
+      ]
+    },
+    "l800": {
+      "LC": [],
+      "P56": [
+        [
+          "advertising campaign",
+          "phr",
+          "chiến dịch quảng cáo"
+        ],
+        [
+          "be anxious to do",
+          "phr",
+          "nóng lòng làm gì đó"
+        ],
+        [
+          "bring on",
+          "phr",
+          "gây ra"
+        ],
+        [
+          "chase",
+          "v",
+          "săn, đuổi"
+        ],
+        [
+          "come along",
+          "phr",
+          "đi cùng"
+        ],
+        [
+          "come loose",
+          "phr",
+          "nới lỏng, lỏng ra"
+        ],
+        [
+          "conditional",
+          "n",
+          "adị có điều kiện"
+        ],
+        [
+          "customer survey",
+          "phr",
+          "khảo sát khách hàng"
+        ],
+        [
+          "date back to",
+          "phr",
+          "từ, bắt đầu từ (thời gian trong quá khứ)"
+        ],
+        [
+          "depict",
+          "v",
+          "mô tả"
+        ],
+        [
+          "destruction",
+          "n",
+          "sự phá hủy"
+        ],
+        [
+          "enter into",
+          "phr",
+          "tham gia vào, bắt đầu làm gì đó"
+        ],
+        [
+          "get back to",
+          "phr",
+          "liên lạc lại"
+        ],
+        [
+          "gradual",
+          "n",
+          "adị dần dần, từng bước một"
+        ],
+        [
+          "inactive",
+          "n",
+          "ađi không hoạt động, ì ạch"
+        ],
+        [
+          "in the meantime",
+          "phr",
+          "trong lúc đó"
+        ],
+        [
+          "invalid",
+          "n",
+          "adị không có hiệu lực"
+        ],
+        [
+          "look over",
+          "phr",
+          "xem qua"
+        ],
+        [
+          "make up one's mind",
+          "phr",
+          "xem qua"
+        ],
+        [
+          "meaningful",
+          "n",
+          "adị có ý nghĩa"
+        ],
+        [
+          "put a rush",
+          "phr",
+          "vội vàng"
+        ],
+        [
+          "put a strain on",
+          "phr",
+          "gây áp lực lên"
+        ],
+        [
+          "put up with",
+          "phr",
+          "chịu đựng"
+        ],
+        [
+          "reach for",
+          "phr",
+          "chịu đựng"
+        ],
+        [
+          "stay ahead of",
+          "phr",
+          "dẫn đầu"
+        ],
+        [
+          "A as well as B",
+          "phr",
+          "A cũng như là B"
+        ],
+        [
+          "ample",
+          "phr",
+          "A cũng như là B"
+        ],
+        [
+          "a range of",
+          "phr",
+          "một loạt"
+        ],
+        [
+          "attend to a client",
+          "phr",
+          "chăm sóc khách hàng"
+        ],
+        [
+          "confront",
+          "v",
+          "đương đầu"
+        ],
+        [
+          "context",
+          "n",
+          "bối cảnh, ngữ cảnh"
+        ],
+        [
+          "despair",
+          "n",
+          "bối cảnh, ngữ cảnh"
+        ],
+        [
+          "disconnected",
+          "n",
+          "adị bị ngắt, bị tháo rời ra"
+        ]
+      ],
+      "P7": [
+        [
+          "dissatisfied",
+          "n",
+          "adị không hài lòng, bất mãn"
+        ],
+        [
+          "driven",
+          "n",
+          "adị bị tác động"
+        ],
+        [
+          "dynamic",
+          "n",
+          "adị năng động, sôi nổi"
+        ],
+        [
+          "eagerly await",
+          "phr",
+          "adị năng động, sôi nổi"
+        ],
+        [
+          "enormous",
+          "n",
+          "adị to lớn, khổng lồ"
+        ],
+        [
+          "fall behind",
+          "phr",
+          "tụt lại phia sau"
+        ],
+        [
+          "feasible",
+          "n",
+          "adị khả thi"
+        ],
+        [
+          "forwarding address",
+          "phr",
+          "địa chỉ gửi chuyển tiếp thư"
+        ],
+        [
+          "get over",
+          "phr",
+          "địa chỉ gửi chuyển tiếp thư"
+        ],
+        [
+          "impress",
+          "n",
+          "Y gây ấn tượng"
+        ],
+        [
+          "o inadequate",
+          "phr",
+          "adị không đủ, không tương xứng"
+        ],
+        [
+          "in a timely fashion",
+          "phr",
+          "một cách kịp thời"
+        ],
+        [
+          "irreplaceable",
+          "n",
+          "adị không thể thay thế được"
+        ],
+        [
+          "limitation",
+          "n",
+          "sự hạn chế, sự giới hạn"
+        ],
+        [
+          "massive",
+          "n",
+          "adị lớn, thô, có quy mô lớn"
+        ],
+        [
+          "point out",
+          "phr",
+          "adị lớn, thô, có quy mô lớn"
+        ],
+        [
+          "rave review",
+          "phr",
+          "bài đánh giá tích cực"
+        ],
+        [
+          "repeatedly",
+          "phr",
+          "bài đánh giá tích cực"
+        ],
+        [
+          "strategically",
+          "adv",
+          "một cách chiến lược"
+        ],
+        [
+          "unveil",
+          "n",
+          "* tiết lộ, công bố"
+        ],
+        [
+          "a great deal",
+          "phr",
+          "* tiết lộ, công bố"
+        ],
+        [
+          "be sensitive to",
+          "phr",
+          "nhạy cảm với"
+        ],
+        [
+          "bother to do",
+          "phr",
+          "mẫt thời gian, công sức để làm gì"
+        ],
+        [
+          "call off",
+          "phr",
+          "mẫt thời gian, công sức để làm gì"
+        ],
+        [
+          "carry out market studies",
+          "phr",
+          "tiến hành nghiên cứu thị trường"
+        ],
+        [
+          "come across",
+          "phr",
+          "tiến hành nghiên cứu thị trường"
+        ],
+        [
+          "contrive to do",
+          "phr",
+          "xoay xở làm gì"
+        ],
+        [
+          "deliberate",
+          "n",
+          "adị thong thả, khoan thai, có tính toán"
+        ],
+        [
+          "discounted rate",
+          "phr",
+          "adị thong thả, khoan thai, có tính toán"
+        ],
+        [
+          "have a tendency to do",
+          "phr",
+          "có xu hướng làm gì"
+        ],
+        [
+          "have an opportunity to do",
+          "phr",
+          "có cơ hội làm gi"
+        ],
+        [
+          "have something to do with",
+          "phr",
+          "có cơ hội làm gi"
+        ],
+        [
+          "in turn",
+          "phr",
+          "có liên quan tới"
+        ],
+        [
+          "make no exception",
+          "phr",
+          "lần lượt, kết quả là"
+        ],
+        [
+          "televise",
+          "phr",
+          "không có ngoại lệ"
+        ]
+      ]
+    },
+    "l900": {
+      "LC": [],
+      "P56": [],
+      "P7": [
+        [
+          "discipline",
+          "n",
+          "kỷ luật"
+        ],
+        [
+          "a jingle",
+          "n",
+          "kỷ luật"
+        ],
+        [
+          "mobility",
+          "n",
+          "tính lưu động, tính dễ biến đổi"
+        ],
+        [
+          "abruptly",
+          "n",
+          "aấy bất ngờ, đột ngột"
+        ],
+        [
+          "absorbing",
+          "n",
+          "adị hấp dẫn, làm say mê"
+        ],
+        [
+          "admiringly",
+          "adv",
+          "khâm phục, ngưỡng mộ"
+        ],
+        [
+          "at large",
+          "phr",
+          "nói chung, phần lớn"
+        ],
+        [
+          "boast about",
+          "phr",
+          "nói chung, phần lớn"
+        ],
+        [
+          "correspondent",
+          "n",
+          "phóng viên"
+        ],
+        [
+          "counterpart",
+          "n",
+          "bản đổi chiếu, người tương nhiệm"
+        ],
+        [
+          "defeat",
+          "n",
+          "y đánh bại; n sự thất bại"
+        ],
+        [
+          "diversify",
+          "n",
+          "y đa dạng hóa"
+        ],
+        [
+          "dominant",
+          "n",
+          "adị có ưu thế hơn, trội hơn"
+        ],
+        [
+          "fabulous",
+          "n",
+          "adị có ưu thế hơn, trội hơn"
+        ],
+        [
+          "fortify",
+          "v",
+          "củng cố, tăng cường"
+        ],
+        [
+          "fundamental",
+          "n",
+          "adị cơ bản, chủ yếu"
+        ],
+        [
+          "a mingle",
+          "v",
+          "trộn lần, lần vào"
+        ],
+        [
+          "preciously",
+          "adv",
+          "quý giá, kiểu cách"
+        ],
+        [
+          "stark",
+          "adv",
+          "quý giá, kiểu cách"
+        ],
+        [
+          "steadiness",
+          "n",
+          "sự vững chắc, ổn dịnh"
+        ],
+        [
+          "alluring",
+          "n",
+          "sự vững chắc, ổn dịnh"
+        ],
+        [
+          "assimilate",
+          "n",
+          "y đồng hóa, tiêu hóa"
+        ],
+        [
+          "at all costs",
+          "phr",
+          "bằng mọi giá"
+        ],
+        [
+          "await",
+          "phr",
+          "bằng mọi giá"
+        ],
+        [
+          "captivate",
+          "n",
+          "y làm say đắm, quyến rũ"
+        ],
+        [
+          "culminate in",
+          "phr",
+          "kết thúc bằng, đem lại kết quả"
+        ],
+        [
+          "defiance",
+          "phr",
+          "kết thúc bằng, đem lại kết quả"
+        ],
+        [
+          "dissipate",
+          "n",
+          "Y xua tan, làm tiêu tan"
+        ],
+        [
+          "driving force",
+          "phr",
+          "Y xua tan, làm tiêu tan"
+        ],
+        [
+          "elicit",
+          "n",
+          "y gợi ra"
+        ],
+        [
+          "overwhelming",
+          "n",
+          "y gợi ra"
+        ],
+        [
+          "voiced",
+          "n",
+          "adị tràn ngập, lấn át"
+        ]
+      ]
+    }
+  },
+  "dailyCheckup": {
+    "page": 149,
+    "groups": [
+      {
+        "instruction": "Tìm ở cột bên phải nghĩa của các từ vựng ở cột bên trái và nối chúng với nhau.",
+        "options": [
+          {
+            "key": "a",
+            "text": "tiêu cực"
+          },
+          {
+            "key": "b",
+            "text": "ngay lập tức"
+          },
+          {
+            "key": "c",
+            "text": "cách tiếp cận"
+          },
+          {
+            "key": "d",
+            "text": "bị cấm"
+          },
+          {
+            "key": "e",
+            "text": "sự chấp thuận"
+          },
+          {
+            "key": "f",
+            "text": "truy cập"
+          }
+        ],
+        "questions": [
+          {
+            "no": 1,
+            "prompt": "strategy",
+            "answer": "a"
+          },
+          {
+            "no": 2,
+            "prompt": "advantage",
+            "answer": "a"
+          },
+          {
+            "no": 3,
+            "prompt": "necessarily",
+            "answer": "a"
+          },
+          {
+            "no": 4,
+            "prompt": "intensify",
+            "answer": "a"
+          },
+          {
+            "no": 5,
+            "prompt": "aggressively",
+            "answer": "a"
+          }
+        ]
+      },
+      {
+        "instruction": "Hãy chọn từ phù hợp để điền vào mỗi câu của bài thi TOEIC dạng thức mới sau.",
+        "options": [
+          {
+            "key": "a",
+            "text": "inspection"
+          },
+          {
+            "key": "b",
+            "text": "effect"
+          },
+          {
+            "key": "c",
+            "text": "authorized"
+          },
+          {
+            "key": "d",
+            "text": "procedure"
+          },
+          {
+            "key": "e",
+            "text": "concern"
+          }
+        ],
+        "questions": [
+          {
+            "no": 6,
+            "prompt": "The Mini Scan's success is_ due to its compact size.",
+            "answer": "a"
+          },
+          {
+            "no": 8,
+            "prompt": "Participants must_ their favorite brand on the survey form.",
+            "answer": "a"
+          },
+          {
+            "no": 9,
+            "prompt": "Travelers__. Skybound Airlines to Farejet because of its in-flight amenities.",
+            "answer": "a"
+          }
+        ]
+      },
+      {
+        "instruction": "Hãy chọn từ phù hợp để điền vào mỗi câu của bài thi TOEIC dạng thức mới sau.",
+        "options": [
+          {
+            "key": "a",
+            "text": "obligation"
+          },
+          {
+            "key": "b",
+            "text": "drastically"
+          },
+          {
+            "key": "c",
+            "text": "revise"
+          },
+          {
+            "key": "d",
+            "text": "thoroughly"
+          },
+          {
+            "key": "e",
+            "text": "arrangements"
+          }
+        ],
+        "questions": [
+          {
+            "no": 10,
+            "prompt": "The marketing team held a",
+            "answer": "a"
+          },
+          {
+            "no": 11,
+            "prompt": "Companies.___ consumer buying habits before launching a product.",
+            "answer": "a"
+          },
+          {
+            "no": 12,
+            "prompt": "Students may _. to the Journal of Marketing at a 40 percent discount.",
+            "answer": "a"
+          },
+          {
+            "no": 13,
+            "prompt": "The online store offers several_ of payment for customers' convenience.",
+            "answer": "a"
+          }
+        ]
+      }
+    ]
+  },
+  "title": "Chiến lược marketing",
+  "titleVi": "Chiến lược marketing",
+  "category": "Marketing (2)"
+}

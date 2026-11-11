@@ -1,0 +1,1837 @@
+{
+  "dayNo": 23,
+  "titleVi": "Nhập vai",
+  "titleEn": "Topic 23",
+  "category": "Phúc lợi của nhân viên",
+  "coreWords": [
+    {
+      "no": 1,
+      "word": "host",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "host",
+      "ipaUs": "ux hat",
+      "page": 370,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "dẫn (chương trình), đăng cai (tổ chức hội nghị, hoạt",
+          "examples": [
+            {
+              "en": "Wilmar Industries will host this year's convention.",
+              "vi": "Wilmar Industries sẽ đăng cai tổ chức hội nghị năm nay. TOEK thạng thưc tO • host + a display/a lecture/a celebration dẫn chương"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 2,
+      "word": "annual",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "annual",
+      "ipaUs": "ænjual",
+      "page": 370,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "hằng năm, thường niên",
+          "examples": [
+            {
+              "en": "This year's annual conference was held in Atlanta. Hackers TOEIC Vocabulary",
+              "vi": "Hội nghị thường niên năm nay được tổ chức tại Atlanta. tạng thư thớ annual growth rate tỷ lệ tăng trưởng hắng năm"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 3,
+      "word": "purpose",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "pá:pas",
+      "ipaUs": "pórpos",
+      "page": 370,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "mục đích, ý định",
+          "examples": [
+            {
+              "en": "Hackers TOEIC Vocabulary The purpose of the training is to familiarize the staff with the new networking system.",
+              "vi": "Mục đích của việc đào tạo là giúp nhân viên làm quen với hệ thống mạng lưới mới. V ghi danh, đăng ký"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 4,
+      "word": "enroll",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "inr5ul",
+      "ipaUs": "inróul",
+      "page": 370,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "Employees must enroll in at least one program.",
+              "vi": "Các nhân viên phải đăng ký tham gia ít nhất một chương trình. Bai thi TOEIC dạng thức mỏi enroll in ghi danh vào"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 5,
+      "word": "lecture",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "uK lektja",
+      "ipaUs": "léktfar",
+      "page": 371,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "bài giảng, bài diễn thuyết",
+          "examples": [
+            {
+              "en": "The course will offer weekly guest lectures.",
+              "vi": "Mỗi tuần, khóa học sẽ có một bài giảng của giáo viên thỉnh giảng. n người tham gia/tham dự"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 6,
+      "word": "participant",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "pa:tisipent",
+      "ipaUs": "pa:rtisapant",
+      "page": 371,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "người tham gia/tham dự",
+          "examples": [
+            {
+              "en": "Many participants in the training program showed some improvement.",
+              "vi": "Nhiều người tham gia chương trình đào tạo đã thể hiện sự tiến bộ. y dự, có mặt"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 7,
+      "word": "attend",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "attend",
+      "ipaUs": "aténd",
+      "page": 371,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "Staff were urged to attend weekend software Employees participated in company-sponsored",
+              "vi": "courses. Nhân viên được cho là nên tham dự các khóa học phần mềm vào cuối tuần. Bai thị TOEIC dạng thực"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 8,
+      "word": "encourage",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "inkfrid3",
+      "ipaUs": "inké:rid3",
+      "page": 371,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "The CEO encouraged managers to allow flextime",
+              "vi": "Giám đốc điều hành khuyến khích các quản lý cho phép nhân viên làm việc theo thời gian linh hoạt. Bai thì TOEIC dạng thức mới"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 9,
+      "word": "leave",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "leave",
+      "ipaUs": "hi:v",
+      "page": 372,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự nghỉ phép",
+          "examples": [
+            {
+              "en": "Employees can take up to 10 days annually for The sales manager left for Singapore to conduct the orientation for sales staff.",
+              "vi": "emergency leave. Nhân viên mỗi năm có thể được nghỉ phép tới 10 ngày trong trường hợp khẩn cấp. v rời đi; để lại"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 10,
+      "word": "conference",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "könfarans",
+      "ipaUs": "kánfarons",
+      "page": 372,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "cuộc hợp, hội nghị",
+          "examples": [
+            {
+              "en": "This year's conference focuses on developments in the field of human resources. Hackers TOEIC Vocabulary",
+              "vi": "Hội nghị năm nay tập trung vào sự phát triển trong mảng nhân sự. V xếp lịch, lên lịch"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 11,
+      "word": "schedule",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "Sédju:l",
+      "ipaUs": "skédzu:l",
+      "page": 372,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "Orientation is scheduled for the morning.",
+              "vi": "Buổi định hướng được xếp lịch vào buổi sáng. Bai thị TOEIC dạng thức mới 11. be scheduled for + thời điểm dược lên lịch vào"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 12,
+      "word": "include",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "include",
+      "ipaUs": "inclive (adj) góm cà,",
+      "page": 373,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "bao gồm",
+          "examples": [
+            {
+              "en": "The workshop curriculum includes special digital media classes. The company benefits package consists of",
+              "vi": "Chương trình của hội thảo bao gồm cả các lớp học đặc biệt về phương tiện truyền thông kỹ thuật số. Lưu ý phân biệt hai từ cùng mang nghĩa \"bao gồm\" này."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 13,
+      "word": "result",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "result",
+      "ipaUs": "rizált",
+      "page": 373,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "kết quả",
+          "examples": [
+            {
+              "en": "As a result of increased sales, the marketing team was rewarded with a vacation. Positive responses to the prototype resulted in more",
+              "vi": "Kết quả của việc doanh số tăng là nhóm tiếp thị đã được tặng một kỳ nghỉ. v dẫn đến, đưa đến, kết quả là"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 14,
+      "word": "register",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "rédzista",
+      "ipaUs": "rédzistar",
+      "page": 374,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "đăng ký, ghi vào sổ",
+          "examples": [
+            {
+              "en": "Employees must register for unemployment insurance with the state government.",
+              "vi": "Nhân viên phải đăng ký bảo hiểm thất nghiệp với chính quyền Bài Thi TOàC đạbg thục mo * register for dăng ký cho"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 15,
+      "word": "require",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "Uk rik wáia",
+      "ipaUs": "rik wáior",
+      "page": 374,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "biết ơn",
+          "examples": [
+            {
+              "en": "Staff are required to attend the insurance provider's Hackers TOEIC Vocabulary",
+              "vi": "Nhân viên được yêu cầu phải tham dự buổi thuyết trình của công ty bảo hiểm về các quyền lợi được hường. require A to do yêu cầu A làm gì"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 16,
+      "word": "grateful",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "grateful",
+      "ipaUs": "gréitfel",
+      "page": 374,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "biết ơn",
+          "examples": [
+            {
+              "en": "Hackers TOEIC Vocabulary Ms. Warren was grateful for her recent raise in",
+              "vi": "salary. Cô Warren rất biết ơn vì lần tăng lương gần đây. n giờ làm thêm"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 17,
+      "word": "overtime",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "Suvataim",
+      "ipaUs": "óuvartaim",
+      "page": 374,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "giờ làm thêm",
+          "examples": [
+            {
+              "en": "Employees are paid $20 for every hour of overtime.",
+              "vi": "Nhân viên được trả 20 đô-la cho mỗi giờ làm thêm. n trách nhiệm"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 18,
+      "word": "responsibility",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "Uk rispönsibíliti",
+      "ipaUs": "rispànsabílati",
+      "page": 374,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "trách nhiệm",
+          "examples": [
+            {
+              "en": "Conference fees will be paid by Direxco, but dining expenses are the participants' responsibility.",
+              "vi": "Lệ phí hội nghị sẽ được Direxco trả, nhưng chi phí ăn tối là trách nhiệm của người tham dự."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 19,
+      "word": "assent",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "assent",
+      "ipaUs": "asént",
+      "page": 375,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự tán thành, sự phê chuẩn",
+          "examples": [
+            {
+              "en": "The managers assented to giving everyone a small The company's president gave her assent for a planned construction project.",
+              "vi": "raise. Ban quản lý đã đồng ý tăng lương cho mọi người một chút. Chủ tịch công ty đã phê chuẩn cho một dự án xây dựng đã được lên kế hoạch."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 20,
+      "word": "regard",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "rigá:d",
+      "ipaUs": "rigá:rd",
+      "page": 375,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "coi như, xem như",
+          "examples": [
+            {
+              "en": "Workers regard prompt salary payment as a basic The company showed little regard for employee",
+              "vi": "right. Công nhân coi việc trả lương đúng hẹn như là một quyền cơ bản. n sự quan tâm, sự để ý"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 21,
+      "word": "tentative",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "tentative",
+      "ipaUs": "téntativ",
+      "page": 375,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "The plan to increase maternity leave is still tentative.",
+              "vi": "Kế hoạch tăng thêm ngày nghỉ thai sản vẫn còn chưa chắc chẵn. '| be tentatively scheduled for + thời điểm tạm thời được xếp lịch vào"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 22,
+      "word": "welcome",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "welcome",
+      "ipaUs": "wélkam",
+      "page": 376,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "được hoan nghênh, được chào đón",
+          "examples": [
+            {
+              "en": "The extra microwave was a welcome addition to Audrey was welcomed warmly by her new colleagues on her first day at work.",
+              "vi": "the staff kitchen. Chiếc lò vi sóng bổ sung là một món đó mới được chào đón ở khu bếp của nhân viên. v chào đón, hoan nghênh"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 23,
+      "word": "function",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "function",
+      "ipaUs": "fánk{an",
+      "page": 376,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "chức năng, nhiệm vụ",
+          "examples": [
+            {
+              "en": "The dining hall seats 100 people for private and business functions.",
+              "vi": "Phòng ăn đủ chỗ cho 100 người để phục vụ cho các buổi lễ mang tính cá nhân hoặc công việc. V bắt đầu, khởi đầu"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 24,
+      "word": "commence",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "commence",
+      "ipaUs": "kaméns",
+      "page": 376,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "mục tiêu, mục đích",
+          "examples": [
+            {
+              "en": "The new shifts will commence next week. Hackers TOEIC Vocabulary",
+              "vi": "Các ca làm việc mới sẽ bắt đầu vào tuần sau."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 25,
+      "word": "objective",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "objective",
+      "ipaUs": "obdzéktiv",
+      "page": 376,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "mục tiêu, mục đích",
+          "examples": [
+            {
+              "en": "The learning objectives of the program are outlined",
+              "vi": "in the brochure. Mục tiêu học tập của chương trình được tóm lược trong cuốn sách nhỏ này. nih TObat dạng thu, ma"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 26,
+      "word": "excited",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "excited",
+      "ipaUs": "iksaitid",
+      "page": 377,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "hào hứng, phấn khích",
+          "examples": [
+            {
+              "en": "Fred was excited about the opportunities his promotion would give him.",
+              "vi": "Fred rất hào hứng với những cơ hội mà anh ta sẽ nhận được từ việc thăng tiến. n sự hoàn tiền, sự trả lại"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 27,
+      "word": "reimbursement",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "Uk ri:imbé:sment",
+      "ipaUs": "rì:imbó:rsment",
+      "page": 377,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự hoàn tiền, sự trả lại",
+          "examples": [
+            {
+              "en": "Employees will receive reimbursement for accommodations on business trips.",
+              "vi": "Nhân viên sẽ được hoàn tiền chỗ ở trong các chuyến công tác. Bai thì TOEIC dạng thức mơi g Cần phân biệt từ loại reimbursement (n. sự hoàn tiền) và"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 28,
+      "word": "treatment",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "treatment",
+      "ipaUs": "tri:tmant",
+      "page": 377,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự đối xử/cư xử",
+          "examples": [
+            {
+              "en": "Every staff member, regardless of position, receives the same level of treatment from Mr. Scanlyn.",
+              "vi": "Mọi nhân viên, bất kể ở vị trí nào, đều nhận được sự đối xử như nhau từ ông Scanlyn. n niềm vinh dự, danh dự"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 29,
+      "word": "honor",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "Sna]|",
+      "ipaUs": "ánar",
+      "page": 377,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "niềm vinh dự, danh dự",
+          "examples": [
+            {
+              "en": "A banquet was held in honor of our director's",
+              "vi": "Một bữa tiệc đã được tổ chức để kỷ niệm ngày giám đốc của chúng tôi nghỉ hưu. Bai thì TOEIC dạng thức mới"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 30,
+      "word": "emphasize",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "emphasize",
+      "ipaUs": "émfosàiz",
+      "page": 377,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "nhấn mạnh",
+          "examples": [
+            {
+              "en": "Lindall Inc. emphasizes the importance of employees",
+              "vi": "Tập đoàn Lindall nhấn mạnh tầm quan trọng của nhân viên đối với thành công của họ."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 31,
+      "word": "entry",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "entry",
+      "ipaUs": "éntri",
+      "page": 378,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự đi vào, mục ghi vào; người dự thi, bài dự thi",
+          "examples": [
+            {
+              "en": "The competition organizers will not accept late",
+              "vi": "entries. Ban tổ chức cuộc thi sẽ không chấp nhận những thí sinh đến muộn. entry sự di vào"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 32,
+      "word": "bonus",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "báunas",
+      "ipaUs": "bóunes",
+      "page": 378,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "tiền thưởng, lợi tức thêm vào",
+          "examples": [
+            {
+              "en": "Those who perform well receive a higher bonus at",
+              "vi": "Những ai làm việc tốt sẽ được nhận khoản tiền thưởng nhiều hơn vào cuối năm. n lương"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 33,
+      "word": "salary",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "salary",
+      "ipaUs": "salori",
+      "page": 378,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "lương",
+          "examples": [
+            {
+              "en": "The base salary at Serpar is much higher than the industry norm.",
+              "vi": "Lương cơ bản tại Serpar cao hơn nhiều so với mức tiêu chuẩn trong ngành này. v kiếm được (tiền); đạt được (danh tiếng)"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 34,
+      "word": "earn",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "a:n",
+      "ipaUs": "o:rn",
+      "page": 378,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "kiếm được (tiền); đạt được (danh tiếng)",
+          "examples": [
+            {
+              "en": "Hackers TOEIC Vocabulary He earned recognition as a loyal and hardworking Ms. Howard gained fame as the company's first",
+              "vi": "employee. Anh ấy được công nhận là một nhân viên trung thành và mãn cán. Phân biệt hai từ vựng cùng mang nghĩa \"kiếm được\" này."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 35,
+      "word": "arise",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "arise",
+      "ipaUs": "eráiz",
+      "page": 379,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "lao động, nhân công",
+          "examples": [
+            {
+              "en": "A number of employee complaints have arisen.",
+              "vi": "Nhiều lời than phiền của nhân viên đã xuất hiện."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 36,
+      "word": "labor",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "léiba",
+      "ipaUs": "léiber",
+      "page": 379,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "lao động, nhân công",
+          "examples": [
+            {
+              "en": "The new contract sparked a labor dispute. Construction workers labor outdoors, often regardless of weather conditions.",
+              "vi": "Bản hợp đồng mới đã khơi mào cho một cuộc tranh chấp lao dộng. y lao động, làm việc"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 37,
+      "word": "union",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "Uk jú:nian",
+      "ipaUs": "júmjon",
+      "page": 379,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "liên hiệp, hiệp hội, công đoàn",
+          "examples": [
+            {
+              "en": "All the employees belong to the labor union.",
+              "vi": "Mọi nhân viên đều thuộc liên hiệp người lao động. adj hiện tại, hiện hành"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 38,
+      "word": "existing",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "existing",
+      "ipaUs": "¡gzistio",
+      "page": 379,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "hiện tại, hiện hành",
+          "examples": [
+            {
+              "en": "The company is restructuring the existing benefits",
+              "vi": "Công ty đang tái cơ cấu lại gói phúc lợi hiện tại. ' existing + equipment/product thiết bị/sản phẩm vốn có • existing thường đi cùng với các danh từ như equipment,"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 39,
+      "word": "exploit",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "exploit",
+      "ipaUs": "iksplit",
+      "page": 379,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "khai thác, lợi dụng, bóc lột",
+          "examples": [
+            {
+              "en": "Workers Forward is dedicated to preventing employees from being exploited.",
+              "vi": "Workers Forward đang nỗ lực để ngăn chặn tình trạng nhân viên bị bóc lột."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    }
+  ],
+  "dailyCheckup": {
+    "page": 0,
+    "groups": [
+      {
+        "instruction": "Tìm ở cột bên phải nghĩa của các từ vựng ở cột bên trái và nối chúng với nhau.",
+        "options": [
+          {
+            "key": "a",
+            "text": "tiêu cực"
+          },
+          {
+            "key": "b",
+            "text": "ngay lập tức"
+          },
+          {
+            "key": "c",
+            "text": "cách tiếp cận"
+          },
+          {
+            "key": "d",
+            "text": "bị cấm"
+          },
+          {
+            "key": "e",
+            "text": "sự chấp thuận"
+          },
+          {
+            "key": "f",
+            "text": "truy cập"
+          }
+        ],
+        "questions": [
+          {
+            "no": 1,
+            "prompt": "regard",
+            "answer": "a"
+          },
+          {
+            "no": 2,
+            "prompt": "grateful",
+            "answer": "a"
+          },
+          {
+            "no": 3,
+            "prompt": "salary",
+            "answer": "a"
+          },
+          {
+            "no": 4,
+            "prompt": "leave",
+            "answer": "a"
+          },
+          {
+            "no": 5,
+            "prompt": "recommendation",
+            "answer": "a"
+          }
+        ]
+      },
+      {
+        "instruction": "Hãy chọn từ phù hợp để điền vào mỗi câu của bài thi TOEIC dạng thức mới sau.",
+        "options": [
+          {
+            "key": "a",
+            "text": "inspection"
+          },
+          {
+            "key": "b",
+            "text": "effect"
+          },
+          {
+            "key": "c",
+            "text": "authorized"
+          },
+          {
+            "key": "d",
+            "text": "procedure"
+          },
+          {
+            "key": "e",
+            "text": "concern"
+          }
+        ],
+        "questions": [
+          {
+            "no": 6,
+            "prompt": "The CEO made a decision on the urgent issue.",
+            "answer": "a"
+          },
+          {
+            "no": 7,
+            "prompt": "The team will have to work to meet the deadline.",
+            "answer": "a"
+          },
+          {
+            "no": 8,
+            "prompt": "Caprice Inc.__ team-building activities to build morale.",
+            "answer": "a"
+          },
+          {
+            "no": 9,
+            "prompt": "Staff can online to receive benefits for family members.",
+            "answer": "a"
+          }
+        ]
+      },
+      {
+        "instruction": "Hãy chọn từ phù hợp để điền vào mỗi câu của bài thi TOEIC dạng thức mới sau.",
+        "options": [
+          {
+            "key": "a",
+            "text": "obligation"
+          },
+          {
+            "key": "b",
+            "text": "drastically"
+          },
+          {
+            "key": "c",
+            "text": "revise"
+          },
+          {
+            "key": "d",
+            "text": "thoroughly"
+          },
+          {
+            "key": "e",
+            "text": "arrangements"
+          }
+        ],
+        "questions": [
+          {
+            "no": 10,
+            "prompt": "Expense will be made at the end of the month.",
+            "answer": "a"
+          },
+          {
+            "no": 11,
+            "prompt": "The team leader is popular for his fair.__ of employees.",
+            "answer": "a"
+          },
+          {
+            "no": 12,
+            "prompt": "The stricter attendance policy has_. in fewer absences.",
+            "answer": "a"
+          },
+          {
+            "no": 13,
+            "prompt": "The manager._ staff to volunteer to clean the conference room.",
+            "answer": "a"
+          }
+        ]
+      }
+    ]
+  },
+  "completeVocab": {
+    "basic": [
+      {
+        "word": "TỪ VỰNG TOEIC HOÀN CHỈNH",
+        "pos": "phr",
+        "meaning": "Phúc lợi của nhân viên",
+        "section": "RC"
+      },
+      {
+        "word": "application",
+        "pos": "n",
+        "meaning": "đơn xin, sự áp dụng",
+        "section": "RC"
+      },
+      {
+        "word": "award ceremony",
+        "pos": "phr",
+        "meaning": "lễ trao giải",
+        "section": "RC"
+      },
+      {
+        "word": "chat",
+        "pos": "phr",
+        "meaning": "lễ trao giải",
+        "section": "RC"
+      },
+      {
+        "word": "clap",
+        "pos": "n",
+        "meaning": "chuyện phiếm; y tán gẫu",
+        "section": "RC"
+      },
+      {
+        "word": "fireplace",
+        "pos": "n",
+        "meaning": "tiếng vỗ tay; v vỗ tay",
+        "section": "RC"
+      },
+      {
+        "word": "get paid",
+        "pos": "phr",
+        "meaning": "nhận tiền, ăn lương",
+        "section": "RC"
+      },
+      {
+        "word": "grab",
+        "pos": "v",
+        "meaning": "chộp lấy, năm lấy",
+        "section": "RC"
+      },
+      {
+        "word": "group",
+        "pos": "v",
+        "meaning": "chộp lấy, năm lấy",
+        "section": "RC"
+      },
+      {
+        "word": "hook",
+        "pos": "v",
+        "meaning": "phân nhóm, gộp thành nhóm",
+        "section": "RC"
+      },
+      {
+        "word": "introduction",
+        "pos": "n",
+        "meaning": "sự giới thiệu, lời giới thiệu",
+        "section": "RC"
+      },
+      {
+        "word": "learning center",
+        "pos": "phr",
+        "meaning": "trung tâm đào tạo",
+        "section": "RC"
+      },
+      {
+        "word": "loudspeaker",
+        "pos": "phr",
+        "meaning": "trung tâm đào tạo",
+        "section": "RC"
+      },
+      {
+        "word": "lounge",
+        "pos": "n",
+        "meaning": "phòng khách, phòng chờ",
+        "section": "RC"
+      },
+      {
+        "word": "management seminar",
+        "pos": "n",
+        "meaning": "phòng khách, phòng chờ",
+        "section": "RC"
+      },
+      {
+        "word": "a smoking section",
+        "pos": "phr",
+        "meaning": "khu vực hút thuốc",
+        "section": "RC"
+      },
+      {
+        "word": "take a vacation",
+        "pos": "phr",
+        "meaning": "di nghi",
+        "section": "RC"
+      },
+      {
+        "word": "bold",
+        "pos": "phr",
+        "meaning": "di nghi",
+        "section": "RC"
+      },
+      {
+        "word": "finely",
+        "pos": "adv",
+        "meaning": "đẹp dẽ, tinh xảo",
+        "section": "RC"
+      },
+      {
+        "word": "friendly",
+        "pos": "n",
+        "meaning": "adi thân thiện",
+        "section": "RC"
+      },
+      {
+        "word": "gentle",
+        "pos": "n",
+        "meaning": "adi thân thiện",
+        "section": "RC"
+      },
+      {
+        "word": "in charge of",
+        "pos": "phr",
+        "meaning": "chịu trách nhiệm về",
+        "section": "RC"
+      },
+      {
+        "word": "lively",
+        "pos": "n",
+        "meaning": "adị sống động, sôi nổi",
+        "section": "RC"
+      },
+      {
+        "word": "pharmacy",
+        "pos": "n",
+        "meaning": "adị sống động, sôi nổi",
+        "section": "RC"
+      },
+      {
+        "word": "a precise",
+        "pos": "phr",
+        "meaning": "adị chính xác, tỉ mỉ",
+        "section": "RC"
+      },
+      {
+        "word": "prize",
+        "pos": "n",
+        "meaning": "giải thưởng; v đánh giá cao, quý",
+        "section": "RC"
+      },
+      {
+        "word": "registration",
+        "pos": "n",
+        "meaning": "giải thưởng; v đánh giá cao, quý",
+        "section": "RC"
+      },
+      {
+        "word": "vacation",
+        "pos": "n",
+        "meaning": "sự dăng ký",
+        "section": "RC"
+      }
+    ],
+    "score800": [
+      {
+        "word": "a letter of gratitude",
+        "pos": "phr",
+        "meaning": "bức thư cảm ơn",
+        "section": "P56"
+      },
+      {
+        "word": "check out",
+        "pos": "phr",
+        "meaning": "mượn (sách ở thư viện)",
+        "section": "P56"
+      },
+      {
+        "word": "childcare",
+        "pos": "n",
+        "meaning": "sự chăm sóc trẻ",
+        "section": "P56"
+      },
+      {
+        "word": "don't have the nerve to do",
+        "pos": "phr",
+        "meaning": "không có gan làm gì",
+        "section": "P56"
+      },
+      {
+        "word": "give a raise",
+        "pos": "phr",
+        "meaning": "tăng lương",
+        "section": "P56"
+      },
+      {
+        "word": "going away party",
+        "pos": "phr",
+        "meaning": "tiệc chia tay",
+        "section": "P56"
+      },
+      {
+        "word": "it's about time",
+        "pos": "phr",
+        "meaning": "đã đến lúc",
+        "section": "P56"
+      },
+      {
+        "word": "it's no use -ing",
+        "pos": "phr",
+        "meaning": "đã đến lúc",
+        "section": "P56"
+      },
+      {
+        "word": "job satisfaction",
+        "pos": "phr",
+        "meaning": "sự hài lòng trong công việc",
+        "section": "P56"
+      },
+      {
+        "word": "just in case",
+        "pos": "phr",
+        "meaning": "phòng trường hợp",
+        "section": "P56"
+      },
+      {
+        "word": "keep A up to date",
+        "pos": "phr",
+        "meaning": "đảm bảo A luôn được cập nhật",
+        "section": "P56"
+      },
+      {
+        "word": "know A like the back of one's hand",
+        "pos": "phr",
+        "meaning": "biết rõ A",
+        "section": "P56"
+      },
+      {
+        "word": "miserable",
+        "pos": "phr",
+        "meaning": "biết rõ A",
+        "section": "P56"
+      },
+      {
+        "word": "paid leave",
+        "pos": "phr",
+        "meaning": "adi khổ sở, tôi tàn",
+        "section": "P56"
+      },
+      {
+        "word": "pick up one's paycheck",
+        "pos": "phr",
+        "meaning": "lấy lương",
+        "section": "P56"
+      },
+      {
+        "word": "a pity",
+        "pos": "n",
+        "meaning": "lòng thương hại, điều đáng tiếc",
+        "section": "P56"
+      },
+      {
+        "word": "privately",
+        "pos": "adv",
+        "meaning": "riêng tư, cá nhân",
+        "section": "P56"
+      },
+      {
+        "word": "psychological",
+        "pos": "n",
+        "meaning": "adị (thuộc) tâm lý",
+        "section": "P56"
+      },
+      {
+        "word": "put in some overtime",
+        "pos": "phr",
+        "meaning": "adị (thuộc) tâm lý",
+        "section": "P56"
+      },
+      {
+        "word": "safety drill",
+        "pos": "phr",
+        "meaning": "diễn tập về an toàn",
+        "section": "P56"
+      },
+      {
+        "word": "sensitivity",
+        "pos": "n",
+        "meaning": "tính nhạy cảm, độ nhay",
+        "section": "P56"
+      },
+      {
+        "word": "show around",
+        "pos": "n",
+        "meaning": "tính nhạy cảm, độ nhay",
+        "section": "P56"
+      },
+      {
+        "word": "stacks of books",
+        "pos": "phr",
+        "meaning": "dẫn di thăm xung quanh",
+        "section": "P56"
+      },
+      {
+        "word": "a surprisingly",
+        "pos": "phr",
+        "meaning": "chống sách",
+        "section": "P56"
+      },
+      {
+        "word": "take place",
+        "pos": "adv",
+        "meaning": "đáng ngạc nhiên",
+        "section": "P56"
+      },
+      {
+        "word": "take some time off",
+        "pos": "phr",
+        "meaning": "nghỉ một thời gian",
+        "section": "P56"
+      },
+      {
+        "word": "a terribly",
+        "pos": "adv",
+        "meaning": "rất tệ; rất, quá",
+        "section": "P56"
+      },
+      {
+        "word": "terrific",
+        "pos": "adv",
+        "meaning": "rất tệ; rất, quá",
+        "section": "P56"
+      },
+      {
+        "word": "the next best",
+        "pos": "phr",
+        "meaning": "tốt thứ nhì",
+        "section": "P56"
+      },
+      {
+        "word": "thrilling",
+        "pos": "n",
+        "meaning": "adi cảm động, hỗi hộp, ly kỳ",
+        "section": "P56"
+      },
+      {
+        "word": "credit A with B (= credit B to A)",
+        "pos": "phr",
+        "meaning": "adi cảm động, hỗi hộp, ly kỳ",
+        "section": "P56"
+      },
+      {
+        "word": "intentionally",
+        "pos": "phr",
+        "meaning": "tin tưởng giao B cho A",
+        "section": "P56"
+      },
+      {
+        "word": "meanwhile",
+        "pos": "adv",
+        "meaning": "trong lúc đó",
+        "section": "P56"
+      },
+      {
+        "word": "a respectfully",
+        "pos": "adv",
+        "meaning": "kính cẩn, lễ phép",
+        "section": "P7"
+      },
+      {
+        "word": "sign up",
+        "pos": "phr",
+        "meaning": "đăng ký",
+        "section": "P7"
+      },
+      {
+        "word": "a unused",
+        "pos": "phr",
+        "meaning": "đăng ký",
+        "section": "P7"
+      },
+      {
+        "word": "be tired of",
+        "pos": "phr",
+        "meaning": "một mỏi với, chán",
+        "section": "P7"
+      },
+      {
+        "word": "biannual",
+        "pos": "n",
+        "meaning": "adị hai lần một năm",
+        "section": "P7"
+      },
+      {
+        "word": "charitable",
+        "pos": "n",
+        "meaning": "adị từ thiện, bác ái",
+        "section": "P7"
+      },
+      {
+        "word": "course of study",
+        "pos": "phr",
+        "meaning": "khóa học",
+        "section": "P7"
+      },
+      {
+        "word": "depressed",
+        "pos": "n",
+        "meaning": "adị phiền muộn, suy nhược",
+        "section": "P7"
+      },
+      {
+        "word": "extra pay",
+        "pos": "phr",
+        "meaning": "tiền trả thêm, tiền phụ cấp",
+        "section": "P7"
+      },
+      {
+        "word": "featured speaker",
+        "pos": "phr",
+        "meaning": "tiền trả thêm, tiền phụ cấp",
+        "section": "P7"
+      },
+      {
+        "word": "a generous",
+        "pos": "phr",
+        "meaning": "diễn giả chính",
+        "section": "P7"
+      },
+      {
+        "word": "laugh away",
+        "pos": "phr",
+        "meaning": "adị hào phóng, rộng lượng",
+        "section": "P7"
+      },
+      {
+        "word": "merit",
+        "pos": "n",
+        "meaning": "• giá trị, công trạng",
+        "section": "P7"
+      },
+      {
+        "word": "night shift",
+        "pos": "phr",
+        "meaning": "• giá trị, công trạng",
+        "section": "P7"
+      },
+      {
+        "word": "occupational safety and health",
+        "pos": "phr",
+        "meaning": "an toàn và vệ sinh lao động",
+        "section": "P7"
+      },
+      {
+        "word": "overtime allowance",
+        "pos": "phr",
+        "meaning": "an toàn và vệ sinh lao động",
+        "section": "P7"
+      },
+      {
+        "word": "overtime rate",
+        "pos": "phr",
+        "meaning": "mức lương làm thêm",
+        "section": "P7"
+      },
+      {
+        "word": "paid vacation",
+        "pos": "phr",
+        "meaning": "mức lương làm thêm",
+        "section": "P7"
+      },
+      {
+        "word": "pay increase",
+        "pos": "phr",
+        "meaning": "sự tăng lương",
+        "section": "P7"
+      },
+      {
+        "word": "pension",
+        "pos": "n",
+        "meaning": "lương hưu/",
+        "section": "P7"
+      },
+      {
+        "word": "poorly paid",
+        "pos": "n",
+        "meaning": "lương hưu/",
+        "section": "P7"
+      },
+      {
+        "word": "preservation area",
+        "pos": "phr",
+        "meaning": "khu bảo tổn",
+        "section": "P7"
+      },
+      {
+        "word": "a reference number",
+        "pos": "phr",
+        "meaning": "số tham chiếu",
+        "section": "P7"
+      },
+      {
+        "word": "regional allowance",
+        "pos": "phr",
+        "meaning": "số tham chiếu",
+        "section": "P7"
+      },
+      {
+        "word": "regular working hours",
+        "pos": "phr",
+        "meaning": "giờ làm việc bình thường",
+        "section": "P7"
+      },
+      {
+        "word": "retirement party",
+        "pos": "phr",
+        "meaning": "bữa tiệc kỷ niệm nghỉ hưu",
+        "section": "P7"
+      },
+      {
+        "word": "retirement plan",
+        "pos": "phr",
+        "meaning": "bữa tiệc kỷ niệm nghỉ hưu",
+        "section": "P7"
+      },
+      {
+        "word": "salary and benefits",
+        "pos": "phr",
+        "meaning": "lương và phúc lợi",
+        "section": "P7"
+      },
+      {
+        "word": "sheltered housing",
+        "pos": "phr",
+        "meaning": "mái ấm (dành cho người già và",
+        "section": "P7"
+      },
+      {
+        "word": "sick leave",
+        "pos": "phr",
+        "meaning": "người tàn tật)",
+        "section": "P7"
+      },
+      {
+        "word": "strong-willed",
+        "pos": "n",
+        "meaning": "adị cứng cỏi, cương quyết",
+        "section": "P7"
+      },
+      {
+        "word": "time-off",
+        "pos": "n",
+        "meaning": "adị cứng cỏi, cương quyết",
+        "section": "P7"
+      },
+      {
+        "word": "welfare",
+        "pos": "n",
+        "meaning": "phúc lợi",
+        "section": "P7"
+      },
+      {
+        "word": "b work environment",
+        "pos": "n",
+        "meaning": "phúc lợi",
+        "section": "P7"
+      },
+      {
+        "word": "working condition",
+        "pos": "phr",
+        "meaning": "môi trường làm việc",
+        "section": "P7"
+      }
+    ],
+    "score900": [
+      {
+        "word": "a get reimbursed for",
+        "pos": "phr",
+        "meaning": "được hoàn tiền cho",
+        "section": "P7"
+      },
+      {
+        "word": "hearty",
+        "pos": "n",
+        "meaning": "adị nồng nhiệt, thật tâm",
+        "section": "P7"
+      },
+      {
+        "word": "kindhearted",
+        "pos": "n",
+        "meaning": "adị tốt bụng",
+        "section": "P7"
+      },
+      {
+        "word": "knock off",
+        "pos": "phr",
+        "meaning": "ngừng, dừng",
+        "section": "P7"
+      },
+      {
+        "word": "maternity leave",
+        "pos": "phr",
+        "meaning": "nghỉ thai sản",
+        "section": "P7"
+      },
+      {
+        "word": "misuse",
+        "pos": "n",
+        "meaning": "sự dùng sai, sự lạm dụng",
+        "section": "P7"
+      },
+      {
+        "word": "a nursery",
+        "pos": "phr",
+        "meaning": "a nhà trẻ",
+        "section": "P7"
+      },
+      {
+        "word": "nursing",
+        "pos": "n",
+        "meaning": "a nhà trẻ",
+        "section": "P7"
+      },
+      {
+        "word": "chronological",
+        "pos": "n",
+        "meaning": "adị theo niên đại, theo trình tự thời gian",
+        "section": "P7"
+      },
+      {
+        "word": "exhibitor",
+        "pos": "n",
+        "meaning": "• người trưng bày (tại triển lãm)",
+        "section": "P7"
+      },
+      {
+        "word": "a give in",
+        "pos": "phr",
+        "meaning": "• người trưng bày (tại triển lãm)",
+        "section": "P7"
+      },
+      {
+        "word": "pending",
+        "pos": "prep",
+        "meaning": "trong lúc, cho đến lúc",
+        "section": "P7"
+      },
+      {
+        "word": "second",
+        "pos": "prep",
+        "meaning": "trong lúc, cho đến lúc",
+        "section": "P7"
+      },
+      {
+        "word": "citation",
+        "pos": "n",
+        "meaning": "y ủng hộ, tán thành (một ý kiến)",
+        "section": "P7"
+      },
+      {
+        "word": "commemorate",
+        "pos": "n",
+        "meaning": "y kỷ niệm, tưởng nhớ",
+        "section": "P7"
+      },
+      {
+        "word": "conjunction",
+        "pos": "n",
+        "meaning": "sự liên kết",
+        "section": "P7"
+      },
+      {
+        "word": "cut benefits",
+        "pos": "phr",
+        "meaning": "cắt giảm quyền lợi/trợ cấp",
+        "section": "P7"
+      },
+      {
+        "word": "discriminate",
+        "pos": "phr",
+        "meaning": "cắt giảm quyền lợi/trợ cấp",
+        "section": "P7"
+      },
+      {
+        "word": "distort",
+        "pos": "n",
+        "meaning": "y phân biệt, đối xử phân biệt",
+        "section": "P7"
+      },
+      {
+        "word": "flextime",
+        "pos": "n",
+        "meaning": "thời gian làm việc linh hoạt",
+        "section": "P7"
+      },
+      {
+        "word": "fringe benefits",
+        "pos": "phr",
+        "meaning": "phúc lợi bổ sung",
+        "section": "P7"
+      },
+      {
+        "word": "goodwill",
+        "pos": "phr",
+        "meaning": "phúc lợi bổ sung",
+        "section": "P7"
+      },
+      {
+        "word": "labor costs",
+        "pos": "phr",
+        "meaning": "chi phí nhân công",
+        "section": "P7"
+      },
+      {
+        "word": "labor dispute",
+        "pos": "phr",
+        "meaning": "tranh chấp lao động",
+        "section": "P7"
+      },
+      {
+        "word": "off-peak",
+        "pos": "phr",
+        "meaning": "tranh chấp lao động",
+        "section": "P7"
+      },
+      {
+        "word": "pique",
+        "pos": "n",
+        "meaning": "adị ngoài giờ cao điểm",
+        "section": "P7"
+      },
+      {
+        "word": "sabotage",
+        "pos": "n",
+        "meaning": "sự phá hoại",
+        "section": "P7"
+      },
+      {
+        "word": "salary review",
+        "pos": "n",
+        "meaning": "sự phá hoại",
+        "section": "P7"
+      },
+      {
+        "word": "severance pay",
+        "pos": "phr",
+        "meaning": "trợ cấp mất việc",
+        "section": "P7"
+      },
+      {
+        "word": "spry",
+        "pos": "n",
+        "meaning": "adị nhanh nhẹn, hoạt bắt",
+        "section": "P7"
+      },
+      {
+        "word": "straightforward",
+        "pos": "n",
+        "meaning": "adị nhanh nhẹn, hoạt bắt",
+        "section": "P7"
+      },
+      {
+        "word": "yearn",
+        "pos": "n",
+        "meaning": "adị thẳng thắn, cởi mở",
+        "section": "P7"
+      }
+    ]
+  },
+  "title": "Nhập vai"
+}

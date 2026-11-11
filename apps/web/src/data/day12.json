@@ -1,0 +1,1743 @@
+{
+  "dayNo": 12,
+  "source": "Apple Vision OCR extraction from pages 202-217",
+  "coreWords": [
+    {
+      "no": 1,
+      "word": "equipment",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "equipment",
+      "ipaUs": "ikwipmant",
+      "page": 203,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "máy móc, trang thiết bị",
+          "examples": [
+            {
+              "en": "The company uses special equipment to load large crates onto freight trucks.",
+              "vi": "Công ty sử dụng một thiết bị đặc biệt để chất những thùng hàng lớn lên xe tải chở hàng. office equipment thiết bị văn phòng"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 2,
+      "word": "automate",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "automate",
+      "ipaUs": "o:tamèit",
+      "page": 203,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "tự động hóa",
+          "examples": [
+            {
+              "en": "The production plant will be fully automated by next year.",
+              "vi": "Xưởng sản xuất sẽ được tự động hóa hoàn toàn vào năm sau. n chi tiết, đặc điểm, chỉ dẫn/yêu cầu kĩ thuật, sự chỉ rõ"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 3,
+      "word": "specification",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "spèsifikéijan",
+      "ipaUs": "spèsafikéijan",
+      "page": 203,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "chi tiết, đặc điểm, chỉ dẫn/yêu cầu kĩ thuật, sự chỉ rõ",
+          "examples": [
+            {
+              "en": "The quality control team checks if all items meet product specifications. Hackers TOEIC Vocabulary",
+              "vi": "Đội ngũ kiếm soát chất lượng có nhiệm vụ kiểm tra liệu tất các sản phẩm có đáp ứng đủ yêu cầu kỹ thuật không. adv đúng đắn, thích đáng, hợp lệ"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 4,
+      "word": "properly",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "própali",
+      "ipaUs": "práparli",
+      "page": 203,
+      "senses": [
+        {
+          "pos": "adv",
+          "meaning": "đúng đắn, thích đáng, hợp lệ",
+          "examples": [
+            {
+              "en": "Hackers TOEIC Vocabulary Machinery must be well-maintained to operate",
+              "vi": "properly. Máy móc cần được bảo dưỡng tốt để có thể hoạt động ổn định. Đạng thục mơi"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 5,
+      "word": "safety",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "safety",
+      "ipaUs": "séifti",
+      "page": 203,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự an toàn, tính an toàn",
+          "examples": [
+            {
+              "en": "Factory supervisors prioritize safety over speed.",
+              "vi": "Giám sát viên nhà máy ưu tiên yếu tố an toàn hơn là tốc độ."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 6,
+      "word": "precaution",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "precaution",
+      "ipaUs": "der. precautio (adj) thận",
+      "page": 204,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự phòng ngừa, sự đề phòng",
+          "examples": [
+            {
+              "en": "After the accident, the company introduced stricter safety precautions.",
+              "vi": "Sau vụ tai nạn đó, công ty đã đưa ra những biện pháp đảm bảo an toàn nghiêm ngặt hơn. V vận hành, hoạt động"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 7,
+      "word": "operate",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "Spareit",
+      "ipaUs": "áparèit",
+      "page": 204,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự chế biến, sự gia công",
+          "examples": [
+            {
+              "en": "The assembly line operates round the clock.",
+              "vi": "Dây chuyền lắp ráp vận hành suốt ngày đêm."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 8,
+      "word": "processing",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "uK práusesin",
+      "ipaUs": "prásesin",
+      "page": 204,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự chế biến, sự gia công",
+          "examples": [
+            {
+              "en": "Food processing requires a clean environment. The new refining process will be implemented",
+              "vi": "Việc chế biến thực phẩm đòi hỏi môi trường phải thật vệ sinh. Bai thi TOEIC dạng thức mới processing sự chế biến, gia công"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 9,
+      "word": "capacity",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "capacity",
+      "ipaUs": "der. capacio (adj) rộng",
+      "page": 204,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sức chứa, năng lực, tư cách",
+          "examples": [
+            {
+              "en": "The warehouse's capacity will double after the As Ms. Jones was away, Sam acted in her capacity as president during the meeting.",
+              "vi": "Construction. Sức chứa của nhà kho sẽ tăng gấp đôi sau khi xây dựng. Khi bà Jones đi vằng, Sam đảm nhiệm vai trò chủ tịch trong"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 10,
+      "word": "assemble",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "assemble",
+      "ipaUs": "asémbl",
+      "page": 205,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "Components are manufactured abroad and assembled The manager assembled everyone in the department",
+              "vi": "Các bộ phận được sản xuất ở nước ngoài và lắp ráp trong nước. Viên quản lý triệu tập mọi người trong phòng tới họp. Bai thì TOEIC dạng thức mới"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 11,
+      "word": "utilize",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "jú:tilaiz",
+      "ipaUs": "jú:talàiz",
+      "page": 205,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "The technicians utilized computer technology to Hackers TOEIC Vocabulary improve processes.",
+              "vi": "Các kỹ thuật viên đã áp dụng công nghệ tin học để cải thiện quy trình sản xuất. V đặt, để, sắp xếp; đặt (hàng)"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 12,
+      "word": "place",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "place",
+      "ipaUs": "pleis",
+      "page": 205,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "The factory supervisor has placed production The office manager has to place an order for additional materials immediately.",
+              "vi": "Người giám sát nhà máy đã sắp xếp bộ phận sản xuất ở trạng thái sẵn sàng hoạt động. Quản lý văn phòng phải đặt mua thêm vật tư ngay lập tức."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 13,
+      "word": "fili",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "fili",
+      "ipaUs": "fil",
+      "page": 206,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "lấp đầy, đổ đầy; đáp ứng (theo yêu cầu)",
+          "examples": [
+            {
+              "en": "An attendant filled the car's tank with gas. It will take a week to fill the hotel's order for bed sheets.",
+              "vi": "Nhân viên phục vụ đã đổ đầy bình xăng của chiếc xe hơi. Sẽ mất một tuần để đáp ứng đủ đơn hàng ga trải giường của khách sạn."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 14,
+      "word": "manufacturing",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "manufacturing",
+      "ipaUs": "mænjufækt{arin",
+      "page": 206,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "thuộc sản xuất, chế tạo",
+          "examples": [
+            {
+              "en": "The manufacturing process in the automotive industry has changed with computer advances.",
+              "vi": "Với những tiền bộ về tin học, quy trình sản xuất trong ngành công nghiệp ô tô đã thay đổi. v nâng cấp, cải tạo (nhà cửa, nội thất)"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 15,
+      "word": "renovate",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "renovate",
+      "ipaUs": "rénavèit",
+      "page": 206,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "nâng cấp, cải tạo (nhà cửa, nội thất)",
+          "examples": [
+            {
+              "en": "The packaging area was renovated to use the space more effectively.",
+              "vi": "Khu vực đóng gói đã được cải tạo để có thể tận dụng không gian hiệu quả hơn. n quyết định"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 16,
+      "word": "decision",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "decision",
+      "ipaUs": "disízan",
+      "page": 206,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "quyết định",
+          "examples": [
+            {
+              "en": "The CEO's decision was to release the computer in",
+              "vi": "Quyết định của giám đốc điều hành là sẽ ra mất sản phẩm máy tính đó vào tháng Hai."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 17,
+      "word": "material",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "material",
+      "ipaUs": "matíarial",
+      "page": 207,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "chất liệu, tài liệu, nguyên liệu",
+          "examples": [
+            {
+              "en": "The designers selected the material because of its The bakery only uses organic ingredients in its",
+              "vi": "Các nhà thiết kế đã lựa chọn chất liệu này vì độ bển của nó. đạng thụt mơi Lưu ý phân biệt cách sử dụng của hai từ có cùng nghĩa là"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 18,
+      "word": "success",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "success",
+      "ipaUs": "saksés",
+      "page": 207,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự thành công, thẳng lợi",
+          "examples": [
+            {
+              "en": "The company owes its success to strict quality control. Hackers TOEIC Vocabulary",
+              "vi": "Công ty có được thành công nhờ việc kiểm soát chất lượng nghiem ngạt. V quy cho, gán cho"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 19,
+      "word": "attribute",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "attribute",
+      "ipaUs": "atríbju:t",
+      "page": 207,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "Management has attributed last year's gains to increased development.",
+              "vi": "Ban quản lý cho rằng những thành tựu đạt được năm ngoái là do sự phát triển theo chiều hướng đi lên. Bài thi TOEIC dạng thức mới"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 20,
+      "word": "efficiency",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "efficiency",
+      "ipaUs": "ifijensi",
+      "page": 208,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "hiệu quả, năng lực, năng suất",
+          "examples": [
+            {
+              "en": "The consultant suggested measures to improve \"",
+              "vi": "energy efficiency. Có vấn đã đề xuất các giải pháp để nâng cao việc sử dụng hiệu quả năng lượng. Bai thì TOEIC àng thức mơi"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 21,
+      "word": "limit",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "limit",
+      "ipaUs": "límit",
+      "page": 208,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "giới hạn, ranh giới",
+          "examples": [
+            {
+              "en": "There is a limit to the amount of merchandise the factory can make in a day.",
+              "vi": "Có một giới hạn về lượng hàng hóa mà nhà máy có thể sản xuất trong một ngày. adị được tùy chỉnh, điều chỉnh (theo nhu cầu)"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 22,
+      "word": "tailored",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "téilad",
+      "ipaUs": "téilerd",
+      "page": 208,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "This equipment can be tailored to the company's production needs.",
+              "vi": "Thiết bị này có thể được diều chỉnh theo nhu cầu sản xuất của công ty. m thành phần, bộ phận"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 23,
+      "word": "component",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "Uk kampunant",
+      "ipaUs": "kampóunant",
+      "page": 208,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "có khả năng, có năng lực",
+          "examples": [
+            {
+              "en": "The store returned the defective components to",
+              "vi": "Cửa hàng đã trả lại những bộ phận bị lỗi cho nhà sản xuất."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 24,
+      "word": "capable",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "capable",
+      "ipaUs": "keipabi",
+      "page": 208,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "có khả năng, có năng lực",
+          "examples": [
+            {
+              "en": "Ferrum Corporation is capable of processing all kinds",
+              "vi": "Tập đoàn Ferrum có khả năng gia công mọi loại kim loại. Bai thì TOEIC dạng thực mới be capable of -ing có khả năng làm gì"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 25,
+      "word": "economize",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "Uk ikónomaiz",
+      "ipaUs": "ikánamàiz",
+      "page": 209,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "mềm, dẻo; dễ thuyết phục; linh hoạt",
+          "examples": [
+            {
+              "en": "Hybrid cars are becoming popular because they",
+              "vi": "Dòng xe hơi chạy bằng xăng và điện ngày càng được ưa chuộng vì chúng tiết kiệm nhiên liệu."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 26,
+      "word": "flexible",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "fleksibi",
+      "ipaUs": "fléksabl",
+      "page": 209,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "mềm, dẻo; dễ thuyết phục; linh hoạt",
+          "examples": [
+            {
+              "en": "Management is more flexible about granting vacations when business is slow. Plastic is a flexible material that has numerous",
+              "vi": "Ban quản lý đã linh hoạt hơn trong việc cho nhân viên nghỉ phép khi hoạt động kinh doanh chậm lại. applications. Nhựa là một chất liệu mềm dẻo nên có rất nhiều"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 27,
+      "word": "comparable",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "komparabi",
+      "ipaUs": "kámparabi",
+      "page": 209,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "The car's quality standards are comparable to the",
+              "vi": "industry average. Tiêu chuẩn chất lượng của loại xe hơi đó có thể so sánh với mặt bằng của ngành. Bải thi TOEIC dạng thức mới"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 28,
+      "word": "produce",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "produce",
+      "ipaUs": "pradjú:s",
+      "page": 209,
+      "senses": [
+        {
+          "pos": "adv",
+          "meaning": "riêng từng cái, tương ứng",
+          "examples": [
+            {
+              "en": "The new machinery produces 1,000 units per hour. Hackers TOEIC Vocabulary",
+              "vi": "Chiếc máy mới sản xuất được 1000 sản phẩm mỗi giờ."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 29,
+      "word": "respectively",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "respectively",
+      "ipaUs": "rispéktivli",
+      "page": 209,
+      "senses": [
+        {
+          "pos": "adv",
+          "meaning": "riêng từng cái, tương ứng",
+          "examples": [
+            {
+              "en": "The camera and tablet computer cost $225 and $350",
+              "vi": "respectively. Máy ảnh và máy tính bảng có giá lần lượt là 225 đô-la và 350 đô-la. n máy móc, thiết bị"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 30,
+      "word": "device",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "device",
+      "ipaUs": "diváis",
+      "page": 209,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "máy móc, thiết bị",
+          "examples": [
+            {
+              "en": "The new device was tested for possible defects.",
+              "vi": "Thiết bị mới đã được kiểm tra để xem có còn lỗi nào không."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 31,
+      "word": "trim",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "trim",
+      "ipaUs": "trim",
+      "page": 210,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "cắt, tỉa, loại bỏ; sắp xếp, thu dọn",
+          "examples": [
+            {
+              "en": "This mechanism trims the plastic packaging to The team trimmed nearly 20 percent off of current production costs.",
+              "vi": "Thiết bị này cắt gọn phần vỏ nhựa cho nó nhỏ hơn. Nhóm đã cắt giảm gần 20% chi phí sản xuất hiện tại. V ra mắt (sản phẩm mới)"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 32,
+      "word": "launch",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "launch",
+      "ipaUs": "Lo:nt",
+      "page": 210,
+      "senses": [
+        {
+          "pos": "adv",
+          "meaning": "tách biệt, riêng rẽ, khác nhau",
+          "examples": [
+            {
+              "en": "Computer programmers fix technical malfunctions before launching any software.",
+              "vi": "Lập trình viên máy tính phải khắc phục các lỗi ký thuật trước khi ra mắt bất cứ phần mềm nào."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 33,
+      "word": "separately",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "separately",
+      "ipaUs": "séparatli",
+      "page": 210,
+      "senses": [
+        {
+          "pos": "adv",
+          "meaning": "tách biệt, riêng rẽ, khác nhau",
+          "examples": [
+            {
+              "en": "The cushioning pads are made separately as each shoe is slightly different.",
+              "vi": "Các tấm lót giày được thiết kế riêng vì mỗi chiếc giày sẽ khác nhau một chút. Bai thì TOEIC đạng thức mới"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 34,
+      "word": "expiration",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "expiration",
+      "ipaUs": "èksparéi(en",
+      "page": 210,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự hết hạn",
+          "examples": [
+            {
+              "en": "The expiration date is printed on the top of the",
+              "vi": "milk carton. Hạn sử dụng được in trên nắp hộp sữa."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 35,
+      "word": "maneuver",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "manú:va",
+      "ipaUs": "manú:var",
+      "page": 210,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "sắp tới",
+          "examples": [
+            {
+              "en": "Assembly line workers maneuvered the machinery",
+              "vi": "into place. Các công nhân ở dây truyễn lắp ráp đã bố trí máy móc vào đúng vị trí."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 36,
+      "word": "coming",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "coming",
+      "ipaUs": "kámin",
+      "page": 210,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "sắp tới",
+          "examples": [
+            {
+              "en": "Factory output will double in the coming year.",
+              "vi": "Sản lượng của nhà máy sẽ tăng gấp đôi trong năm tới."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 37,
+      "word": "damaged",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "damaged",
+      "ipaUs": "dæmid3d",
+      "page": 211,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "The conveyor belts were damaged from excessive use. Special safety precautions for the hearing The company insurance plan will compensate",
+              "vi": "Các băng chuyền đã hỏng vì bị sử dụng quá nhiều. Lưu ý phân biệt cách sử dụng của các từ vựng cùng có nghĩa \"bị hỏng\" này."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 38,
+      "word": "prevent",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "prevent",
+      "ipaUs": "privént",
+      "page": 211,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "Employees are expected to observe safety guidelines to prevent accidents. Hackers TOEIC Vocabulary",
+              "vi": "Nhân viên được yêu cầu phải tuân thủ các chỉ dẫn an toàn để phòng tránh tai nạn. prevent A from -ing phòng tránh A khỏi"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 39,
+      "word": "power",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "páua",
+      "ipaUs": "páuar",
+      "page": 212,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sức mạnh, năng lượng/điện",
+          "examples": [
+            {
+              "en": "The plant was closed for half a business day due to a power outage.",
+              "vi": "Nhà máy bị đóng cửa nửa ngày vì mất điện. Bai thi TOEIC dặng thức mỗi 1. power supply nguồn cung cấp năng lượng"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 40,
+      "word": "chemical",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "chemical",
+      "ipaUs": "kémikal",
+      "page": 212,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "chất hóa học",
+          "examples": [
+            {
+              "en": "Protective gear is needed when working with dangerous chemicals.",
+              "vi": "Đổ bảo hộ rất cần thiết khi ta làm việc với những hóa chất nguy hiểm. Bai thi TOEIC dạng thức mới"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    }
+  ],
+  "completeVocab": {
+    "basic": {
+      "LC": [],
+      "RC": [
+        [
+          "a clothing line",
+          "phr",
+          "dây phơi quần áo"
+        ],
+        [
+          "craft",
+          "n",
+          "tay nghé, tài năng"
+        ],
+        [
+          "crop",
+          "n",
+          "tay nghé, tài năng"
+        ],
+        [
+          "curved",
+          "adj",
+          "cong"
+        ],
+        [
+          "a cyclist",
+          "n",
+          "người đi xe đạp"
+        ],
+        [
+          "firewood",
+          "n",
+          "củi"
+        ],
+        [
+          "a iron",
+          "phr",
+          "• bàn là; y là/ủi (quần áo)"
+        ],
+        [
+          "look up",
+          "phr",
+          "tra cứu, tìm kiếm"
+        ],
+        [
+          "machinery",
+          "phr",
+          "tra cứu, tìm kiếm"
+        ],
+        [
+          "not at all",
+          "phr",
+          "không có gì, không hế"
+        ],
+        [
+          "not far from",
+          "phr",
+          "không xa"
+        ],
+        [
+          "plant",
+          "n",
+          "cây, thực vật; y trống (cây)"
+        ],
+        [
+          "publication company",
+          "phr",
+          "công ty xuất bản"
+        ],
+        [
+          "scratch",
+          "phr",
+          "công ty xuất bản"
+        ],
+        [
+          "tool belt",
+          "phr",
+          "y cào, gãi"
+        ],
+        [
+          "watering can",
+          "phr",
+          "đai đeo đựng dụng cụ"
+        ],
+        [
+          "a number of",
+          "phr",
+          "bình tưới nước"
+        ],
+        [
+          "be composed of",
+          "phr",
+          "được cấu thành bởi, bao gồm"
+        ],
+        [
+          "be filled with",
+          "phr",
+          "được cấu thành bởi, bao gồm"
+        ],
+        [
+          "be made up of",
+          "phr",
+          "được tạo thành bởi"
+        ],
+        [
+          "o facility",
+          "n",
+          "trang thiết bị, cơ sở"
+        ],
+        [
+          "fasten",
+          "n",
+          "trang thiết bị, cơ sở"
+        ],
+        [
+          "incredible",
+          "n",
+          "adị không thể tin được, lạ thường"
+        ],
+        [
+          "modification",
+          "n",
+          "adị không thể tin được, lạ thường"
+        ],
+        [
+          "rank",
+          "n",
+          "hàng, thứ hạng; * xếp hạng"
+        ],
+        [
+          "raw material",
+          "n",
+          "hàng, thứ hạng; * xếp hạng"
+        ],
+        [
+          "shortage",
+          "phr",
+          "nguyên liệu thô"
+        ],
+        [
+          "underground",
+          "n",
+          "adị ngầm, dưới mặt đất"
+        ]
+      ]
+    },
+    "l800": {
+      "LC": [],
+      "P56": [],
+      "P7": [
+        [
+          "assembly",
+          "n",
+          "sự lắp ráp, bộ phận lắp ráp"
+        ],
+        [
+          "fasten the strap",
+          "n",
+          "sự lắp ráp, bộ phận lắp ráp"
+        ],
+        [
+          "give a hand",
+          "phr",
+          "giúp đỡ"
+        ],
+        [
+          "go out of production",
+          "phr",
+          "ngừng sản xuất"
+        ],
+        [
+          "in a moment",
+          "phr",
+          "trong giây lát, ngay"
+        ],
+        [
+          "maintenance cost",
+          "phr",
+          "chi phí bảo dưỡng"
+        ],
+        [
+          "makeup",
+          "n",
+          "bộ phận, thành phần"
+        ],
+        [
+          "much to one's surprise",
+          "n",
+          "bộ phận, thành phần"
+        ],
+        [
+          "not only A but also B",
+          "phr",
+          "không chỉ A mà còn B"
+        ],
+        [
+          "pack away",
+          "phr",
+          "cất gọn đi"
+        ],
+        [
+          "remarkably",
+          "adv",
+          "đáng chú ý, xuất sắc"
+        ],
+        [
+          "scale model (= miniature)",
+          "phr",
+          "mô hình thu nhỏ"
+        ],
+        [
+          "squeaking sound",
+          "phr",
+          "tiếng kêu cót két"
+        ],
+        [
+          "wearable",
+          "n",
+          "adị mặc được, thích hợp để mặc"
+        ],
+        [
+          "workbench",
+          "n",
+          "bàn thợ"
+        ],
+        [
+          "adapted",
+          "n",
+          "adị thích nghi, phù hợp"
+        ],
+        [
+          "automatically",
+          "adv",
+          "tự động"
+        ],
+        [
+          "carelessly",
+          "adv",
+          "cẩu thả, bất cẩn"
+        ],
+        [
+          "o combustible",
+          "adv",
+          "cẩu thả, bất cẩn"
+        ],
+        [
+          "evidently",
+          "n",
+          "aáv hiển nhiên, rõ ràng"
+        ],
+        [
+          "fitted",
+          "n",
+          "aáv hiển nhiên, rõ ràng"
+        ],
+        [
+          "priced",
+          "n",
+          "adị có giá, có ghi giá"
+        ],
+        [
+          "reform",
+          "n",
+          "• sự cải cách; v cải cách, sửa đổi"
+        ],
+        [
+          "representation",
+          "n",
+          "• sự cải cách; v cải cách, sửa đổi"
+        ],
+        [
+          "technically",
+          "n",
+          "aơv về mặt kỹ thuật, về mặt lý thuyết"
+        ],
+        [
+          "technician",
+          "n",
+          "nhân viên kỹ thuật"
+        ],
+        [
+          "adversely",
+          "n",
+          "nhân viên kỹ thuật"
+        ],
+        [
+          "agricultural",
+          "n",
+          "adị thuộc nông nghiệp"
+        ],
+        [
+          "artificial",
+          "n",
+          "adị nhân tạo, giả"
+        ],
+        [
+          "be irrelevant to",
+          "phr",
+          "không liên quan tới"
+        ],
+        [
+          "crude",
+          "phr",
+          "không liên quan tới"
+        ],
+        [
+          "crude oil",
+          "phr",
+          "adị nguyên, thô, chưa qua xử lý"
+        ],
+        [
+          "custom-made",
+          "n",
+          "adị được đặt làm, thiết kế riêng"
+        ],
+        [
+          "downsize",
+          "n",
+          "y cắt giảm (nhân sự)"
+        ],
+        [
+          "gadget",
+          "n",
+          "đồ dùng, dụng cụ"
+        ],
+        [
+          "gem",
+          "n",
+          "đá quý"
+        ],
+        [
+          "generator",
+          "n",
+          "đá quý"
+        ],
+        [
+          "grease",
+          "n",
+          "mỡ, dầu mỡ"
+        ],
+        [
+          "identically",
+          "adv",
+          "tương tự, y hệt"
+        ],
+        [
+          "in the event of",
+          "phr",
+          "trong trường hợp"
+        ],
+        [
+          "in the process of",
+          "phr",
+          "trong quá trình"
+        ],
+        [
+          "individually tailored",
+          "phr",
+          "thiết kễ riêng, cá nhân hóa"
+        ],
+        [
+          "integration",
+          "phr",
+          "thiết kễ riêng, cá nhân hóa"
+        ],
+        [
+          "line worker",
+          "phr",
+          "công nhân trong dây chuyền"
+        ],
+        [
+          "made-to-order",
+          "n",
+          "adị được làm theo dạt hàng"
+        ],
+        [
+          "make an arrangement",
+          "phr",
+          "sắp đặt, chuẩn bị"
+        ],
+        [
+          "make an exception",
+          "phr",
+          "đưa ra một ngoại lệ"
+        ],
+        [
+          "make public",
+          "phr",
+          "công khai"
+        ],
+        [
+          "market awareness",
+          "phr",
+          "công khai"
+        ],
+        [
+          "neatly",
+          "phr",
+          "hiểu biết về thị trường"
+        ],
+        [
+          "on call",
+          "phr",
+          "luôn sản sàng"
+        ],
+        [
+          "on the edge of",
+          "phr",
+          "bên bờ vực, ở mép"
+        ],
+        [
+          "on the spot",
+          "phr",
+          "phr, tại chỗ, lập tức"
+        ],
+        [
+          "outlast",
+          "n",
+          "phr, tại chỗ, lập tức"
+        ],
+        [
+          "output",
+          "n",
+          "sản lượng, hiệu suất"
+        ],
+        [
+          "put in place",
+          "phr",
+          "thiết lập, đưa ra"
+        ],
+        [
+          "query",
+          "phr",
+          "thiết lập, đưa ra"
+        ],
+        [
+          "ready-made",
+          "n",
+          "adị có sẵn, may sẵn"
+        ],
+        [
+          "reassemble",
+          "n",
+          "y tập hợp lại, lắp ráp lại"
+        ],
+        [
+          "refine",
+          "n",
+          "y tập hợp lại, lắp ráp lại"
+        ],
+        [
+          "reproduction",
+          "n",
+          "i sự tái sản xuất, sự sinh sản"
+        ],
+        [
+          "sector",
+          "n",
+          "i sự tái sản xuất, sự sinh sản"
+        ],
+        [
+          "settle on",
+          "phr",
+          "đồng ý, quyết dịnh"
+        ],
+        [
+          "sort out",
+          "phr",
+          "phân loại, tuyển chọn"
+        ],
+        [
+          "synthetic",
+          "phr",
+          "phân loại, tuyển chọn"
+        ],
+        [
+          "tailor-made",
+          "n",
+          "adị tổng hợp, nhân tạo"
+        ],
+        [
+          "upon -ing",
+          "phr",
+          "adị may đo, làm theo yêu cầu"
+        ],
+        [
+          "wear and tear",
+          "phr",
+          "khấu hao, hao mòn"
+        ]
+      ]
+    },
+    "l900": {
+      "LC": [],
+      "P56": [],
+      "P7": [
+        [
+          "come apart",
+          "phr",
+          "tan rã, đổ vỡ"
+        ],
+        [
+          "flow chart",
+          "phr",
+          "tan rã, đổ vỡ"
+        ],
+        [
+          "production quota",
+          "phr",
+          "chỉ tiêu/định mức sản suất"
+        ],
+        [
+          "tie up",
+          "phr",
+          "thắt chặt, chốt lại"
+        ],
+        [
+          "void",
+          "n",
+          "• chỗ trống, chân không;"
+        ],
+        [
+          "a discontinue",
+          "v",
+          "ngừng"
+        ],
+        [
+          "halt",
+          "n",
+          "sự tạm nghỉ, nghỉ chân"
+        ],
+        [
+          "occurrence",
+          "n",
+          "sự tạm nghỉ, nghỉ chân"
+        ],
+        [
+          "operating",
+          "n",
+          "adị thuộc về điều hành, vận hành"
+        ],
+        [
+          "a predicted",
+          "phr",
+          "adị được đoán trước, tiên đoán"
+        ],
+        [
+          "welding",
+          "n",
+          "• kỹ thuật hàn"
+        ],
+        [
+          "arable",
+          "n",
+          "adị trồng trọt được (đất)"
+        ],
+        [
+          "broadly",
+          "n",
+          "adị trồng trọt được (đất)"
+        ],
+        [
+          "continuity",
+          "n",
+          "sự tiếp tục, tính liên tục"
+        ],
+        [
+          "disassemble",
+          "v",
+          "tháo rời"
+        ],
+        [
+          "excavation",
+          "n",
+          "sự khai quật"
+        ],
+        [
+          "fabricate",
+          "n",
+          "y bịa đặt, làm giả"
+        ],
+        [
+          "involuntarily",
+          "n",
+          "y bịa đặt, làm giả"
+        ],
+        [
+          "liquidity",
+          "n",
+          "tính thanh khoản"
+        ],
+        [
+          "nimble",
+          "n",
+          "aơi nhanh nhẹn, lanh lợi"
+        ],
+        [
+          "obfuscate",
+          "n",
+          "aơi nhanh nhẹn, lanh lợi"
+        ],
+        [
+          "pertinent",
+          "n",
+          "adị đúng chỗ, phù hợp"
+        ],
+        [
+          "perturbed",
+          "n",
+          "adị bị nhiễu"
+        ],
+        [
+          "pragmatic",
+          "n",
+          "adị thực tế, thực dụng"
+        ],
+        [
+          "precede",
+          "n",
+          "y đi trước, đứng trước"
+        ],
+        [
+          "prevail",
+          "n",
+          "y đi trước, đứng trước"
+        ],
+        [
+          "procurement",
+          "n",
+          "sự thu mua được, kiếm được"
+        ],
+        [
+          "provoke",
+          "v",
+          "kích động, thúc đẩy"
+        ],
+        [
+          "recede",
+          "v",
+          "kích động, thúc đẩy"
+        ],
+        [
+          "tolerance",
+          "n",
+          "y lùi lại, rút lui"
+        ],
+        [
+          "unfailingly",
+          "adv",
+          "luôn luôn, lúc nào cũng"
+        ],
+        [
+          "unmet",
+          "adv",
+          "luôn luôn, lúc nào cũng"
+        ]
+      ]
+    }
+  },
+  "dailyCheckup": {
+    "page": 213,
+    "groups": [
+      {
+        "instruction": "Tìm ở cột bên phải nghĩa của các từ vựng ở cột bên trái và nối chúng với nhau.",
+        "options": [
+          {
+            "key": "a",
+            "text": "tiêu cực"
+          },
+          {
+            "key": "b",
+            "text": "ngay lập tức"
+          },
+          {
+            "key": "c",
+            "text": "cách tiếp cận"
+          },
+          {
+            "key": "d",
+            "text": "bị cấm"
+          },
+          {
+            "key": "e",
+            "text": "sự chấp thuận"
+          },
+          {
+            "key": "f",
+            "text": "truy cập"
+          }
+        ],
+        "questions": [
+          {
+            "no": 1,
+            "prompt": "manufacturing",
+            "answer": "a"
+          },
+          {
+            "no": 2,
+            "prompt": "comparable",
+            "answer": "a"
+          },
+          {
+            "no": 3,
+            "prompt": "efficiency",
+            "answer": "a"
+          },
+          {
+            "no": 4,
+            "prompt": "tailored",
+            "answer": "a"
+          },
+          {
+            "no": 5,
+            "prompt": "renovate",
+            "answer": "a"
+          }
+        ]
+      },
+      {
+        "instruction": "Hãy chọn từ phù hợp để điền vào mỗi câu của bài thi TOEIC dạng thức mới sau.",
+        "options": [
+          {
+            "key": "a",
+            "text": "inspection"
+          },
+          {
+            "key": "b",
+            "text": "effect"
+          },
+          {
+            "key": "c",
+            "text": "authorized"
+          },
+          {
+            "key": "d",
+            "text": "procedure"
+          },
+          {
+            "key": "e",
+            "text": "concern"
+          }
+        ],
+        "questions": [
+          {
+            "no": 6,
+            "prompt": "This factory has a_ of 200 workers.",
+            "answer": "a"
+          },
+          {
+            "no": 7,
+            "prompt": "Sean carefully _",
+            "answer": "a"
+          },
+          {
+            "no": 8,
+            "prompt": "Jack and Helen were promoted to supervisor and manager",
+            "answer": "a"
+          },
+          {
+            "no": 9,
+            "prompt": "Mr. Bowen",
+            "answer": "a"
+          }
+        ]
+      },
+      {
+        "instruction": "Hãy chọn từ phù hợp để điền vào mỗi câu của bài thi TOEIC dạng thức mới sau.",
+        "options": [
+          {
+            "key": "a",
+            "text": "obligation"
+          },
+          {
+            "key": "b",
+            "text": "drastically"
+          },
+          {
+            "key": "c",
+            "text": "revise"
+          },
+          {
+            "key": "d",
+            "text": "thoroughly"
+          },
+          {
+            "key": "e",
+            "text": "arrangements"
+          }
+        ],
+        "questions": [
+          {
+            "no": 10,
+            "prompt": "The equipment upgrades___ several minutes off production time.",
+            "answer": "a"
+          },
+          {
+            "no": 11,
+            "prompt": "A",
+            "answer": "a"
+          },
+          {
+            "no": 12,
+            "prompt": "The new packaging _",
+            "answer": "a"
+          },
+          {
+            "no": 13,
+            "prompt": "As the clothing line was such a _...., the factory increased production.",
+            "answer": "a"
+          }
+        ]
+      }
+    ]
+  },
+  "title": "Tự động hóa ở nhà máy",
+  "titleVi": "Tự động hóa ở nhà máy",
+  "category": "Sản xuất"
+}

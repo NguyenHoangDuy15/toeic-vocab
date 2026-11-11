@@ -1,0 +1,1837 @@
+{
+  "dayNo": 30,
+  "titleVi": "Bệnh nặng",
+  "titleEn": "Topic 30",
+  "category": "Sức khỏe",
+  "coreWords": [
+    {
+      "no": 1,
+      "word": "fatigue",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "fatigue",
+      "ipaUs": "fati:g",
+      "page": 476,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự mệt mỏi, công việc mệt nhọc",
+          "examples": [
+            {
+              "en": "Too much stress can lead to fatigue. Yearly medical checkups are required for public",
+              "vi": "Quá nhiều căng thẳng có thể dẫn đến tình trạng mệt mỏi. n khám sức khỏe school students. Khám sức khỏe hằng năm là cần thiết đối"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 2,
+      "word": "symptom",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "symptom",
+      "ipaUs": "simptam",
+      "page": 476,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "triệu chứng",
+          "examples": [
+            {
+              "en": "The lawyer exhibited symptoms of a stress disorder.",
+              "vi": "Luật sư đã chỉ ra các triệu chứng của bệnh rối loạn căng thẳng. n bác sĩ"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 3,
+      "word": "physician",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "physician",
+      "ipaUs": "fizijan",
+      "page": 476,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "bác sĩ",
+          "examples": [
+            {
+              "en": "Mr. Bentley consulted a physician about his high Hackers TOEIC Vocabulary",
+              "vi": "blood pressure. Ông Bentley đến gặp bác sĩ để hỏi về bệnh huyết áp cao của mình. lài thì TOEI, đạng thực mọi"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 4,
+      "word": "diagnosis",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "daiognéusis",
+      "ipaUs": "dàiognóis",
+      "page": 476,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự chẩn đoán, lời chần đoán",
+          "examples": [
+            {
+              "en": "Hackers TOEIC Vocabulary The doctor's diagnosis turned out to be wrong.",
+              "vi": "Chần đoán của bác sĩ hóa ra là sai. v cho thuốc, kê đơn"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 5,
+      "word": "prescribe",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "prescribe",
+      "ipaUs": "priskráib",
+      "page": 476,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "cho thuốc, kê đơn",
+          "examples": [
+            {
+              "en": "The doctor prescribed a remedy for Elaine's cold.",
+              "vi": "Bác sĩ dã kê một đơn thuốc cho căn bệnh cảm lạnh của Elaine. - Bộng UH ran. prescribe medicine kê dơn thuốc"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 6,
+      "word": "recovery",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "recovery",
+      "ipaUs": "rikÁveri",
+      "page": 477,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự bình phục, sự khỏi bệnh",
+          "examples": [
+            {
+              "en": "Time is needed to make a complete recovery.",
+              "vi": "Cần phải có thời gian để bình phục hoàn toàn. V nhận ra, công nhận"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 7,
+      "word": "recognize",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "recognize",
+      "ipaUs": "rékagnàiz",
+      "page": 477,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "Many alternative medicines are not recognized as",
+              "vi": "valid treatments. Nhiều loại thuốc thay thế không được công nhận là cách điều trị hiệu quả. Bải thi TOEIC dạng thực mơn"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 8,
+      "word": "join",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "kömprihénsiv",
+      "ipaUs": "kàmprihénsiv",
+      "page": 477,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "bao hàm toàn diện, thông minh, sáng ý",
+          "examples": [
+            {
+              "en": "Employees are encouraged to join the health club. Executives are required to undergo a comprehensive physical examination once a year.",
+              "vi": "Các nhân viên được khuyến khích tham gia câu lạc bộ sức khỏe. Bải thì TOEIC dạng thức mới join a club tham gia câu lạc bộ"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 9,
+      "word": "participate",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "uK pa:tísipeit",
+      "ipaUs": "pa:rtísapèit",
+      "page": 477,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "Over 100 people participated in the medical study.",
+              "vi": "Hơn 100 người đã tham gia vào nghiên cứu y học đó."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 10,
+      "word": "recommend",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "recommend",
+      "ipaUs": "rèkaménd",
+      "page": 478,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "cần thiết, thiết yếu",
+          "examples": [
+            {
+              "en": "The doctor recommended that Phillip get enough",
+              "vi": "rest. Bác sĩ khuyên Phillip nên nghỉ ngơi đủ. Bai thu TOFI, dạng moục mo sym 1. be strongly recommended tha thiết dể nghị"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 11,
+      "word": "necessary",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "necessary",
+      "ipaUs": "nésoséri",
+      "page": 478,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "cần thiết, thiết yếu",
+          "examples": [
+            {
+              "en": "Surgery may be necessary to remove the patient's",
+              "vi": "tumor. Phẩu thuật có thể là cần thiết để cắt bỏ khối u của bệnh nhân. rị khả năng, năng lực"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 12,
+      "word": "ability",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "abiliti",
+      "ipaUs": "abilati",
+      "page": 478,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "Some diseases weaken the body's ability to defend",
+              "vi": "Một số căn bệnh sẽ làm giảm khả năng để kháng của cơ thể. • sự phẫu thuật, ca mổ"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 13,
+      "word": "operation",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "Sporéi{on",
+      "ipaUs": "àparéifen",
+      "page": 478,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự sạch sẽ, tính sạch sẽ",
+          "examples": [
+            {
+              "en": "Mr. Stanley underwent a four-hour operation on his",
+              "vi": "Ông Stanley đã trải qua một ca phãu thuật tim kéo dài 4 tiếng."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 14,
+      "word": "cleanliness",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "klénlinas",
+      "ipaUs": "klénlinis",
+      "page": 478,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự sạch sẽ, tính sạch sẽ",
+          "examples": [
+            {
+              "en": "Maintaining cleanliness can help prevent the",
+              "vi": "Luôn đảm bảo vệ sinh sạch sẽ có thể giúp phòng tránh việc lây nhiễm vi khuẩn. I thời gian, khoảng thời gian, thời gian diễn tiến"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 15,
+      "word": "duration",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "duration",
+      "ipaUs": "djuréifan",
+      "page": 478,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "The duration of the illness may vary from one",
+              "vi": "Thời gian diễn tiến của bệnh này có thể thay đổi tùy từng người."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 16,
+      "word": "examination",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "igzæminéifan",
+      "ipaUs": "igzæmanéifon",
+      "page": 479,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự kiểm tra, sự thăm khám",
+          "examples": [
+            {
+              "en": "Dr. Knowles began the patient's examination by",
+              "vi": "Bác sĩ Knowles bắt đầu việc thăm khám bệnh nhân bằng cách hỏi một loạt câu hỏi. v loại ra, bài tiết"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 17,
+      "word": "eliminate",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "ilimineit",
+      "ipaUs": "ilímanèit",
+      "page": 479,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "loại ra, bài tiết",
+          "examples": [
+            {
+              "en": "The kidneys eliminate wastes from the body.",
+              "vi": "Thận bài tiết các chất thải ra khỏi cơ thể. En Khi được dùng để chỉ việc loại bỏ thứ gì đó không cần thiết hoặc không mong muốn, eliminate có thể thay bằng remove"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 18,
+      "word": "easily",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "easily",
+      "ipaUs": "¡:zili",
+      "page": 479,
+      "senses": [
+        {
+          "pos": "adv",
+          "meaning": "dễ dàng, thoải mái",
+          "examples": [
+            {
+              "en": "Doctors easily removed the patient's appendix using advanced equipment.",
+              "vi": "Các bác sĩ dễ dàng cắt bỏ đoạn ruột thừa của bệnh nhân bằng cách sử dụng trang thiết bị tiên tiến. adị thuộc về răng/nha khoa"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 19,
+      "word": "dental",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "dental",
+      "ipaUs": "dént!",
+      "page": 479,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "It is important to receive dental checkups regularly.",
+              "vi": "Việc kiểm tra răng miệng thường xuyên rất quan trọng. adị thuộc chế độ ăn uống/ăn kiêng"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 20,
+      "word": "dietary",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "Uk dáiatari",
+      "ipaUs": "dáiotèri",
+      "page": 479,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "có liên quan, có quan hệ với",
+          "examples": [
+            {
+              "en": "The Bureau of Health has issued a set of dietary guidelines for optimal nutrition.",
+              "vi": "Sở Y tế đã xuất bản một bộ sách hướng dẫn chế độ ăn uống để có được dinh dưỡng tốt nhất."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 21,
+      "word": "related",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "related",
+      "ipaUs": "riléitid",
+      "page": 479,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "có liên quan, có quan hệ với",
+          "examples": [
+            {
+              "en": "Illnesses with related symptoms can be a challenge to diagnose properly.",
+              "vi": "Những căn bệnh có các triệu chứng liên quan có thể là một thách thức đối với việc chẩn đoán chính xác. v chuyển giao, truyền"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 22,
+      "word": "transmit",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "transmit",
+      "ipaUs": "trænzmit",
+      "page": 479,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "chuyển giao, truyền",
+          "examples": [
+            {
+              "en": "The flu virus is transmitted through the air.",
+              "vi": "Virus cúm bị lây truyền qua đường không khí."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 23,
+      "word": "periodically",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "pieriódikali",
+      "ipaUs": "piariádikali",
+      "page": 480,
+      "senses": [
+        {
+          "pos": "adv",
+          "meaning": "một cách định kỳ",
+          "examples": [
+            {
+              "en": "Free health checkups for all staff members are offered periodically.",
+              "vi": "Hoạt động khám sức khỏe miến phí cho toàn bộ nhân viên được tiến hành định kỳ. n sự phản ứng"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 24,
+      "word": "reaction",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "reaction",
+      "ipaUs": "riækfon",
+      "page": 480,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự phản ứng",
+          "examples": [
+            {
+              "en": "Some foods can cause allergic reactions in children. Gehg Phn, TEO",
+              "vi": "Một số loại thực phẩm có thể gây ra phản ứng dị ứng ở trẻ nhỏ. cun allergic reactions phản ứng dị ứng reaction to sth sự phản ứng với"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 25,
+      "word": "simple",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "simple",
+      "ipaUs": "simp!",
+      "page": 480,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "đơn giản",
+          "examples": [
+            {
+              "en": "A number of simple remedies are available for",
+              "vi": "Một số phương thuốc đơn giản luôn có sẵn để điều trị chứng mất ngủ. n phạm vi bảo hiểm; sự đưa tin (báo chí)"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 26,
+      "word": "coverage",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "coverage",
+      "ipaUs": "kÁvarid3",
+      "page": 480,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "phạm vi bảo hiểm; sự đưa tin (báo chí)",
+          "examples": [
+            {
+              "en": "Employees may extend their insurance coverage to Hackers TOEIC Vocabulary News coverage of the epidemic has been extensive.",
+              "vi": "Nhân viên có thể mở rộng phạm vi bảo hiểm sang cả vợ hoặc chồng mình. Tin tức báo chí về bệnh dịch đã lan truyền rộng rãi."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 27,
+      "word": "exposure",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "ikspáuza",
+      "ipaUs": "ikspóuzor",
+      "page": 480,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự phơi bày, sự bóc trần",
+          "examples": [
+            {
+              "en": "Prolonged exposure to sunlight can cause skin",
+              "vi": "cancer. Việc phơi năng kéo dài có thể gây ung thư da. Cạng thai, tho exposure to sự phơi bày ra với"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 28,
+      "word": "pharmaceutical",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "fà:masú:tikal",
+      "ipaUs": "fà:rmasú:tikal",
+      "page": 481,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "tiền thưởng, phí bảo hiểm",
+          "examples": [
+            {
+              "en": "The pharmaceutical company markets children's dietary supplements.",
+              "vi": "Công ty dược phẩm ra mắt thị trường các sản phẩm thực phẩm bổ sung cho trẻ nhỏ."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 29,
+      "word": "premium",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "premium",
+      "ipaUs": "pri:miom",
+      "page": 481,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "tiền thưởng, phí bảo hiểm",
+          "examples": [
+            {
+              "en": "Monthly medical insurance premiums will rise next",
+              "vi": "year. Phí bảo hiểm y tế hắng tháng sẽ tăng vào năm tới. V làm dịu, làm giảm bớt"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 30,
+      "word": "relieve",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "relieve",
+      "ipaUs": "rili:v",
+      "page": 481,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự kết hợp",
+          "examples": [
+            {
+              "en": "AlphaCough effectively relieves the symptoms of winter colds.",
+              "vi": "AlphaCough rất hiệu quả trong việc làm giảm bớt các triệu chứng của bệnh cảm lạnh mùa đông. Bai thì TOEIC dạng thức mới"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 31,
+      "word": "combination",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "kômbinéifan",
+      "ipaUs": "kàmbenéifen",
+      "page": 481,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự kết hợp",
+          "examples": [
+            {
+              "en": "Vitamin supplements are used in combination with other preventative measures. in combination with.",
+              "vi": "Việc bổ sung vitamin được sử dụng kết hợp với nhiều biện pháp phòng ngừa khác. Bai thi TOEIC dạng thức mới"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 32,
+      "word": "conscious",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "kónjas",
+      "ipaUs": "conscioly (adv",
+      "page": 481,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "People taking medication need to be conscious of",
+              "vi": "Người dùng thuốc cần phải biết rõ những rủi ro của nó. Bải thi TOEIC dạng thức mới (ơm) Khi được dùng để chỉ việc biết rõ, nhận thức rõ một điều gì"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 33,
+      "word": "deprivation",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "deprivation",
+      "ipaUs": "dèprivéi{an",
+      "page": 482,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự mất, sự thiếu hụt",
+          "examples": [
+            {
+              "en": "Sleep deprivation weakens the immune system.",
+              "vi": "Mất ngủ làm suy giảm hệ miễn dịch. deprive sb of sth tước đoạt cái gì của ai - Hãy nhớ động từ deprive thường đi với giới từ of."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 34,
+      "word": "health",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "health",
+      "ipaUs": "helO",
+      "page": 482,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sức khỏe, y tế; sự thịnh vượng, sự phát triển",
+          "examples": [
+            {
+              "en": "To maintain good health, physicians recommend an active lifestyle. It is difficult to forecast the future health of the",
+              "vi": "Để duy trì sức khỏe tốt, bác sĩ khuyên chúng ta nên có một lối sống tích cực. Rất khó để dự đoán về sự phát triển của ngành y trong tương lai."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 35,
+      "word": "induce",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "induce",
+      "ipaUs": "indjú:s",
+      "page": 482,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự bảo hiểm/",
+          "examples": [
+            {
+              "en": "Hackers TOEIC Vocabulary Users were warned that the medication may induce",
+              "vi": "Y gây ra, dem lại Người dùng được khuyến cáo rằng loại thuốc này có thể gây buồn ngủ."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 36,
+      "word": "insurance",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "insurance",
+      "ipaUs": "infuarons",
+      "page": 482,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự bảo hiểm/",
+          "examples": [
+            {
+              "en": "Employees are eligible for dental insurance",
+              "vi": "Nhân viên có quyền được hưởng bảo hiểm răng miệng."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 37,
+      "word": "nutrition",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "nutrition",
+      "ipaUs": "der. nutritio (adj",
+      "page": 483,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự nuôi dưỡng, dinh dương",
+          "examples": [
+            {
+              "en": "Balanced nutrition is essential for growing children.",
+              "vi": "Dinh dưỡng cân bằng rất quan trọng đối với trẻ trong độ tuổi phát triển. n sự ngăn ngừa, sự phòng ngừa"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 38,
+      "word": "prevention",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "prevention",
+      "ipaUs": "privénfan",
+      "page": 483,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự ngăn ngừa, sự phòng ngừa",
+          "examples": [
+            {
+              "en": "Proper diet is necessary for the prevention of",
+              "vi": "Chế độ ăn uống hợp lý rất cần thiết đối với việc phòng ngừa bệnh tật. adị nhạy cảm, dễ bị, dễ mắc"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 39,
+      "word": "susceptible",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "uK soséptibl",
+      "ipaUs": "dor. sceptibility (n",
+      "page": 483,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "A weakened immune system makes one susceptible",
+              "vi": "Sức để kháng yếu khiến cho người ta dễ bị cảm lạnh. Bai thi TOEIC dạng thức mới [cm susceptible to dễ mắc"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    }
+  ],
+  "dailyCheckup": {
+    "page": 0,
+    "groups": [
+      {
+        "instruction": "Tìm ở cột bên phải nghĩa của các từ vựng ở cột bên trái và nối chúng với nhau.",
+        "options": [
+          {
+            "key": "a",
+            "text": "tiêu cực"
+          },
+          {
+            "key": "b",
+            "text": "ngay lập tức"
+          },
+          {
+            "key": "c",
+            "text": "cách tiếp cận"
+          },
+          {
+            "key": "d",
+            "text": "bị cấm"
+          },
+          {
+            "key": "e",
+            "text": "sự chấp thuận"
+          },
+          {
+            "key": "f",
+            "text": "truy cập"
+          }
+        ],
+        "questions": [
+          {
+            "no": 1,
+            "prompt": "ability",
+            "answer": "a"
+          },
+          {
+            "no": 2,
+            "prompt": "participate",
+            "answer": "a"
+          },
+          {
+            "no": 3,
+            "prompt": "duration",
+            "answer": "a"
+          },
+          {
+            "no": 4,
+            "prompt": "prescribe",
+            "answer": "a"
+          },
+          {
+            "no": 5,
+            "prompt": "transmit",
+            "answer": "a"
+          }
+        ]
+      },
+      {
+        "instruction": "Hãy chọn từ phù hợp để điền vào mỗi câu của bài thi TOEIC dạng thức mới sau.",
+        "options": [
+          {
+            "key": "a",
+            "text": "inspection"
+          },
+          {
+            "key": "b",
+            "text": "effect"
+          },
+          {
+            "key": "c",
+            "text": "authorized"
+          },
+          {
+            "key": "d",
+            "text": "procedure"
+          },
+          {
+            "key": "e",
+            "text": "concern"
+          }
+        ],
+        "questions": [
+          {
+            "no": 6,
+            "prompt": "Janine often has an allergic .",
+            "answer": "a"
+          },
+          {
+            "no": 7,
+            "prompt": "The physician",
+            "answer": "a"
+          },
+          {
+            "no": 8,
+            "prompt": "A(n)....... of the patient's lungs revealed nothing unusual.",
+            "answer": "a"
+          },
+          {
+            "no": 9,
+            "prompt": "Television_ of the drug's benefits has attracted investors.",
+            "answer": "a"
+          }
+        ]
+      },
+      {
+        "instruction": "Hãy chọn từ phù hợp để điền vào mỗi câu của bài thi TOEIC dạng thức mới sau.",
+        "options": [
+          {
+            "key": "a",
+            "text": "obligation"
+          },
+          {
+            "key": "b",
+            "text": "drastically"
+          },
+          {
+            "key": "c",
+            "text": "revise"
+          },
+          {
+            "key": "d",
+            "text": "thoroughly"
+          },
+          {
+            "key": "e",
+            "text": "arrangements"
+          }
+        ],
+        "questions": [
+          {
+            "no": 10,
+            "prompt": "Steve was forced to undergo a knee _",
+            "answer": "a"
+          },
+          {
+            "no": 11,
+            "prompt": "Susan's stomach tumor was .",
+            "answer": "a"
+          },
+          {
+            "no": 12,
+            "prompt": "The doctor_ Ms. Han's symptoms and said she had the flu.",
+            "answer": "a"
+          },
+          {
+            "no": 13,
+            "prompt": "Doctors blamed the patient's heart ailment on his poor habits.",
+            "answer": "a"
+          }
+        ]
+      }
+    ]
+  },
+  "completeVocab": {
+    "basic": [
+      {
+        "word": "TỪ VỰNG TOEIC HOÀN CHÍNH",
+        "pos": "phr",
+        "meaning": "Sức khỏe",
+        "section": "RC"
+      },
+      {
+        "word": "allergic",
+        "pos": "adj",
+        "meaning": "dị ứng",
+        "section": "RC"
+      },
+      {
+        "word": "blind",
+        "pos": "adj",
+        "meaning": "mù, mù quáng",
+        "section": "RC"
+      },
+      {
+        "word": "cavity",
+        "pos": "adj",
+        "meaning": "mù, mù quáng",
+        "section": "RC"
+      },
+      {
+        "word": "a cold",
+        "pos": "n",
+        "meaning": "cảm lạnh; adi lạnh",
+        "section": "RC"
+      },
+      {
+        "word": "cosmetic",
+        "pos": "n",
+        "meaning": "adị để làm đẹp, trang điểm",
+        "section": "RC"
+      },
+      {
+        "word": "feel sick",
+        "pos": "phr",
+        "meaning": "cảm thấy ổm yếu",
+        "section": "RC"
+      },
+      {
+        "word": "fitness",
+        "pos": "n",
+        "meaning": "sự cân đối, tình trạng sung sức",
+        "section": "RC"
+      },
+      {
+        "word": "gym",
+        "pos": "n",
+        "meaning": "phòng tập",
+        "section": "RC"
+      },
+      {
+        "word": "have an injection",
+        "pos": "n",
+        "meaning": "phòng tập",
+        "section": "RC"
+      },
+      {
+        "word": "medical facility",
+        "pos": "phr",
+        "meaning": "cơ sở y tế",
+        "section": "RC"
+      },
+      {
+        "word": "raincoat",
+        "pos": "n",
+        "meaning": "áo mưa",
+        "section": "RC"
+      },
+      {
+        "word": "surgery",
+        "pos": "n",
+        "meaning": "sự phãu thuật, việc mổ xẻ",
+        "section": "RC"
+      },
+      {
+        "word": "toothache",
+        "pos": "n",
+        "meaning": "đau răng",
+        "section": "RC"
+      },
+      {
+        "word": "treat",
+        "pos": "n",
+        "meaning": "đau răng",
+        "section": "RC"
+      },
+      {
+        "word": "Vision",
+        "pos": "n",
+        "meaning": "a thị lực",
+        "section": "RC"
+      },
+      {
+        "word": "workout",
+        "pos": "n",
+        "meaning": "buổi tập luyện",
+        "section": "RC"
+      },
+      {
+        "word": "beat",
+        "pos": "n",
+        "meaning": "buổi tập luyện",
+        "section": "RC"
+      },
+      {
+        "word": "blink",
+        "pos": "v",
+        "meaning": "nháy mắt, chớp mắt",
+        "section": "RC"
+      },
+      {
+        "word": "cure",
+        "pos": "v",
+        "meaning": "nháy mắt, chớp mắt",
+        "section": "RC"
+      },
+      {
+        "word": "disease",
+        "pos": "n",
+        "meaning": "i cách điều trị, phương thuốc",
+        "section": "RC"
+      },
+      {
+        "word": "healing",
+        "pos": "n",
+        "meaning": "aơj đang lành lại, đang hỗi phục",
+        "section": "RC"
+      },
+      {
+        "word": "internal",
+        "pos": "n",
+        "meaning": "aơj đang lành lại, đang hỗi phục",
+        "section": "RC"
+      },
+      {
+        "word": "lung",
+        "pos": "n",
+        "meaning": "adị bên trong, nội bộ",
+        "section": "RC"
+      },
+      {
+        "word": "organ",
+        "pos": "n",
+        "meaning": "cơ quan (trong cơ thể)",
+        "section": "RC"
+      },
+      {
+        "word": "remedy",
+        "pos": "n",
+        "meaning": "cơ quan (trong cơ thể)",
+        "section": "RC"
+      },
+      {
+        "word": "stomachache",
+        "pos": "n",
+        "meaning": "phương thuốc, cách điều trị",
+        "section": "RC"
+      },
+      {
+        "word": "well-being",
+        "pos": "n",
+        "meaning": "bệnh đau dạ dày",
+        "section": "RC"
+      }
+    ],
+    "score800": [
+      {
+        "word": "aging",
+        "pos": "n",
+        "meaning": "adi gia di",
+        "section": "P56"
+      },
+      {
+        "word": "ankle sprain",
+        "pos": "phr",
+        "meaning": "bong gân mắt cá chân",
+        "section": "P56"
+      },
+      {
+        "word": "back injury",
+        "pos": "phr",
+        "meaning": "chấn thương vùng lưng",
+        "section": "P56"
+      },
+      {
+        "word": "be on a special diet",
+        "pos": "phr",
+        "meaning": "đang trong chế độ ăn uống đặc biệt",
+        "section": "P56"
+      },
+      {
+        "word": "blood pressure",
+        "pos": "phr",
+        "meaning": "huyết áp",
+        "section": "P56"
+      },
+      {
+        "word": "blood supply",
+        "pos": "phr",
+        "meaning": "sự cung cấp máu (trong cơ thể)",
+        "section": "P56"
+      },
+      {
+        "word": "buzzing",
+        "pos": "n",
+        "meaning": "adị ù ù, lùng bùng",
+        "section": "P56"
+      },
+      {
+        "word": "doctor's appointment",
+        "pos": "phr",
+        "meaning": "adị ù ù, lùng bùng",
+        "section": "P56"
+      },
+      {
+        "word": "emergency room",
+        "pos": "phr",
+        "meaning": "buồng cấp cứu",
+        "section": "P56"
+      },
+      {
+        "word": "a get some exercise",
+        "pos": "phr",
+        "meaning": "tập thể dục",
+        "section": "P56"
+      },
+      {
+        "word": "heart ailment",
+        "pos": "phr",
+        "meaning": "bệnh đau tim",
+        "section": "P56"
+      },
+      {
+        "word": "heart attack",
+        "pos": "phr",
+        "meaning": "cơn đau tim, nhồi máu cơ tim",
+        "section": "P56"
+      },
+      {
+        "word": "heart disease",
+        "pos": "phr",
+        "meaning": "bệnh tim",
+        "section": "P56"
+      },
+      {
+        "word": "injection",
+        "pos": "phr",
+        "meaning": "bệnh tim",
+        "section": "P56"
+      },
+      {
+        "word": "a insomnia",
+        "pos": "phr",
+        "meaning": "• chứng mất ngủ",
+        "section": "P56"
+      },
+      {
+        "word": "lean back",
+        "pos": "phr",
+        "meaning": "ngå ra sau",
+        "section": "P56"
+      },
+      {
+        "word": "a lose weight",
+        "pos": "phr",
+        "meaning": "giảm cân",
+        "section": "P56"
+      },
+      {
+        "word": "o maternity ward",
+        "pos": "phr",
+        "meaning": "khoa sản",
+        "section": "P56"
+      },
+      {
+        "word": "patient's record",
+        "pos": "phr",
+        "meaning": "khoa sản",
+        "section": "P56"
+      },
+      {
+        "word": "physical examination",
+        "pos": "phr",
+        "meaning": "kiểm tra sức khỏe",
+        "section": "P56"
+      },
+      {
+        "word": "physical therapy",
+        "pos": "phr",
+        "meaning": "vật lý trị liệu",
+        "section": "P56"
+      },
+      {
+        "word": "resist",
+        "pos": "phr",
+        "meaning": "vật lý trị liệu",
+        "section": "P56"
+      },
+      {
+        "word": "sneeze",
+        "pos": "v",
+        "meaning": "hắt hơi",
+        "section": "P56"
+      },
+      {
+        "word": "surgical instrument",
+        "pos": "phr",
+        "meaning": "dụng cụ phẫu thuật",
+        "section": "P56"
+      },
+      {
+        "word": "tablet",
+        "pos": "phr",
+        "meaning": "dụng cụ phẫu thuật",
+        "section": "P56"
+      },
+      {
+        "word": "take effect",
+        "pos": "phr",
+        "meaning": "có tác dụng",
+        "section": "P56"
+      },
+      {
+        "word": "take medication",
+        "pos": "phr",
+        "meaning": "uống thuốc",
+        "section": "P56"
+      },
+      {
+        "word": "take some medicine",
+        "pos": "phr",
+        "meaning": "uống thuốc",
+        "section": "P56"
+      },
+      {
+        "word": "terminal",
+        "pos": "n",
+        "meaning": "adị cuối, giai đoạn cuối",
+        "section": "P56"
+      },
+      {
+        "word": "vaccination",
+        "pos": "n",
+        "meaning": "adị cuối, giai đoạn cuối",
+        "section": "P56"
+      },
+      {
+        "word": "watch over",
+        "pos": "n",
+        "meaning": "sự tiêm chúng",
+        "section": "P56"
+      },
+      {
+        "word": "consequently",
+        "pos": "phr",
+        "meaning": "giám sát, để mắt đến",
+        "section": "P56"
+      },
+      {
+        "word": "harmful",
+        "pos": "adv",
+        "meaning": "do đó, vậy thì",
+        "section": "P56"
+      },
+      {
+        "word": "maximize",
+        "pos": "v",
+        "meaning": "tối đa hóa",
+        "section": "P7"
+      },
+      {
+        "word": "medicinal",
+        "pos": "n",
+        "meaning": "adị thuộc dược phẩm, dùng làm thuốc",
+        "section": "P7"
+      },
+      {
+        "word": "o patiently",
+        "pos": "phr",
+        "meaning": "adị thuộc dược phẩm, dùng làm thuốc",
+        "section": "P7"
+      },
+      {
+        "word": "recover",
+        "pos": "n",
+        "meaning": "y phục hồi, bình phục",
+        "section": "P7"
+      },
+      {
+        "word": "resemble",
+        "pos": "v",
+        "meaning": "giống với",
+        "section": "P7"
+      },
+      {
+        "word": "ultimately",
+        "pos": "adv",
+        "meaning": "cuối cùng, sau cùng",
+        "section": "P7"
+      },
+      {
+        "word": "urgently",
+        "pos": "adv",
+        "meaning": "nguy cấp, khẩn cấp",
+        "section": "P7"
+      },
+      {
+        "word": "visualize",
+        "pos": "n",
+        "meaning": "y tưởng tượng, hình dung",
+        "section": "P7"
+      },
+      {
+        "word": "antibiotic",
+        "pos": "n",
+        "meaning": "thuốc kháng sinh",
+        "section": "P7"
+      },
+      {
+        "word": "asthma",
+        "pos": "n",
+        "meaning": "thuốc kháng sinh",
+        "section": "P7"
+      },
+      {
+        "word": "athletic skill",
+        "pos": "phr",
+        "meaning": "kỹ năng thể thao",
+        "section": "P7"
+      },
+      {
+        "word": "chronic",
+        "pos": "n",
+        "meaning": "adị mãn tính, kinh niên",
+        "section": "P7"
+      },
+      {
+        "word": "contagious",
+        "pos": "n",
+        "meaning": "adị, lây, dề lây",
+        "section": "P7"
+      },
+      {
+        "word": "diabetes",
+        "pos": "n",
+        "meaning": "• bệnh tiểu đường",
+        "section": "P7"
+      },
+      {
+        "word": "donor",
+        "pos": "n",
+        "meaning": "người hiến tặng",
+        "section": "P7"
+      },
+      {
+        "word": "dosage",
+        "pos": "n",
+        "meaning": "người hiến tặng",
+        "section": "P7"
+      },
+      {
+        "word": "dose",
+        "pos": "n",
+        "meaning": "liêu lượng",
+        "section": "P7"
+      },
+      {
+        "word": "eradicate",
+        "pos": "n",
+        "meaning": "liều thuốc",
+        "section": "P7"
+      },
+      {
+        "word": "exhale",
+        "pos": "n",
+        "meaning": "y diệt trừ",
+        "section": "P7"
+      },
+      {
+        "word": "first aid",
+        "pos": "phr",
+        "meaning": "y thở ra",
+        "section": "P7"
+      },
+      {
+        "word": "food poisoning",
+        "pos": "phr",
+        "meaning": "sơ cứu",
+        "section": "P7"
+      },
+      {
+        "word": "forbid",
+        "pos": "phr",
+        "meaning": "ngộ độc thực phẩm",
+        "section": "P7"
+      },
+      {
+        "word": "genetic research",
+        "pos": "v",
+        "meaning": "cấm, ngăn cấm",
+        "section": "P7"
+      },
+      {
+        "word": "a germ",
+        "pos": "phr",
+        "meaning": "nghiên cứu về di truyền",
+        "section": "P7"
+      },
+      {
+        "word": "hiccup",
+        "pos": "n",
+        "meaning": "mầm bệnh, vi trùng",
+        "section": "P7"
+      },
+      {
+        "word": "hygiene",
+        "pos": "n",
+        "meaning": "vệ sinh",
+        "section": "P7"
+      },
+      {
+        "word": "a immune",
+        "pos": "n",
+        "meaning": "vệ sinh",
+        "section": "P7"
+      },
+      {
+        "word": "a infection",
+        "pos": "n",
+        "meaning": "sự lây nhiễm",
+        "section": "P7"
+      },
+      {
+        "word": "infectious disease",
+        "pos": "n",
+        "meaning": "sự lây nhiễm",
+        "section": "P7"
+      },
+      {
+        "word": "o inhale",
+        "pos": "phr",
+        "meaning": "bệnh lây nhiễm",
+        "section": "P7"
+      },
+      {
+        "word": "overdose",
+        "pos": "n",
+        "meaning": "việc dùng quá liều",
+        "section": "P7"
+      },
+      {
+        "word": "painkiller",
+        "pos": "n",
+        "meaning": "thuốc giảm đau",
+        "section": "P7"
+      },
+      {
+        "word": "paralysis",
+        "pos": "n",
+        "meaning": "thuốc giảm đau",
+        "section": "P7"
+      },
+      {
+        "word": "a pulse",
+        "pos": "n",
+        "meaning": "chứng liệt, tình trạng tê liệt",
+        "section": "P7"
+      },
+      {
+        "word": "robust",
+        "pos": "n",
+        "meaning": "adị mạnh mẽ, cường tráng",
+        "section": "P7"
+      }
+    ],
+    "score900": [
+      {
+        "word": "be on medication",
+        "pos": "phr",
+        "meaning": "đang điều trị bằng thuốc",
+        "section": "P7"
+      },
+      {
+        "word": "a blurry",
+        "pos": "adj",
+        "meaning": "mờ",
+        "section": "P7"
+      },
+      {
+        "word": "compressed",
+        "pos": "n",
+        "meaning": "adị bị ép, bị nén",
+        "section": "P7"
+      },
+      {
+        "word": "get a prescription filled",
+        "pos": "phr",
+        "meaning": "mua/bán thuốc theo đơn",
+        "section": "P7"
+      },
+      {
+        "word": "have one's vision tested",
+        "pos": "phr",
+        "meaning": "kiểm tra thị lực",
+        "section": "P7"
+      },
+      {
+        "word": "milestone",
+        "pos": "n",
+        "meaning": "mốc quan trọng",
+        "section": "P7"
+      },
+      {
+        "word": "on an empty stomach",
+        "pos": "n",
+        "meaning": "mốc quan trọng",
+        "section": "P7"
+      },
+      {
+        "word": "outpatient clinic",
+        "pos": "phr",
+        "meaning": "lúc đói, lúc chưa ăn",
+        "section": "P7"
+      },
+      {
+        "word": "practitioner",
+        "pos": "n",
+        "meaning": "thầy thuốc đang hành nghề",
+        "section": "P7"
+      },
+      {
+        "word": "a recurring",
+        "pos": "phr",
+        "meaning": "adị tái phát",
+        "section": "P7"
+      },
+      {
+        "word": "refill",
+        "pos": "n",
+        "meaning": "y mua lại thuốc (theo đơn)",
+        "section": "P7"
+      },
+      {
+        "word": "a wing",
+        "pos": "phr",
+        "meaning": "• tòa nhà phụ",
+        "section": "P7"
+      },
+      {
+        "word": "a elderly",
+        "pos": "phr",
+        "meaning": "adị có tuổi, cao tuổi",
+        "section": "P7"
+      },
+      {
+        "word": "insistent",
+        "pos": "n",
+        "meaning": "adị có tuổi, cao tuổi",
+        "section": "P7"
+      },
+      {
+        "word": "intuitively",
+        "pos": "adv",
+        "meaning": "bằng trực giác",
+        "section": "P7"
+      },
+      {
+        "word": "plausible",
+        "pos": "n",
+        "meaning": "adị hợp lý, đáng tin cậy",
+        "section": "P7"
+      },
+      {
+        "word": "a prolonged",
+        "pos": "phr",
+        "meaning": "adị kéo dài",
+        "section": "P7"
+      },
+      {
+        "word": "vocation",
+        "pos": "n",
+        "meaning": "thiên hướng, năng khiếu, nghề nghiệp",
+        "section": "P7"
+      },
+      {
+        "word": "acute",
+        "pos": "n",
+        "meaning": "thiên hướng, năng khiếu, nghề nghiệp",
+        "section": "P7"
+      },
+      {
+        "word": "o dehydration",
+        "pos": "phr",
+        "meaning": "* sự mất nước",
+        "section": "P7"
+      },
+      {
+        "word": "deter",
+        "pos": "v",
+        "meaning": "ngăn cản, làm nhụt chí",
+        "section": "P7"
+      },
+      {
+        "word": "o epidemic",
+        "pos": "v",
+        "meaning": "ngăn cản, làm nhụt chí",
+        "section": "P7"
+      },
+      {
+        "word": "life expectancy",
+        "pos": "phr",
+        "meaning": "tuổi thọ trung bình",
+        "section": "P7"
+      },
+      {
+        "word": "life span",
+        "pos": "phr",
+        "meaning": "tuổi thọ",
+        "section": "P7"
+      },
+      {
+        "word": "a over-the-counter medicine",
+        "pos": "phr",
+        "meaning": "tuổi thọ",
+        "section": "P7"
+      },
+      {
+        "word": "palpitations",
+        "pos": "n",
+        "meaning": "tim đập nhanh",
+        "section": "P7"
+      },
+      {
+        "word": "perspire",
+        "pos": "v",
+        "meaning": "toát mô hôi",
+        "section": "P7"
+      },
+      {
+        "word": "quarantine",
+        "pos": "v",
+        "meaning": "toát mô hôi",
+        "section": "P7"
+      },
+      {
+        "word": "recuperate",
+        "pos": "v",
+        "meaning": "hồi phục, lấy lại",
+        "section": "P7"
+      },
+      {
+        "word": "respiratory system",
+        "pos": "v",
+        "meaning": "hồi phục, lấy lại",
+        "section": "P7"
+      },
+      {
+        "word": "respire",
+        "pos": "n",
+        "meaning": "y thở, hô hấp",
+        "section": "P7"
+      },
+      {
+        "word": "sterilize",
+        "pos": "n",
+        "meaning": "y thở, hô hấp",
+        "section": "P7"
+      }
+    ]
+  },
+  "title": "Bệnh nặng"
+}

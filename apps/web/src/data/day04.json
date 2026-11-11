@@ -1,0 +1,1744 @@
+{
+  "dayNo": 4,
+  "source": "Apple Vision OCR extraction from pages 74-89",
+  "coreWords": [
+    {
+      "no": 1,
+      "word": "lax",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "lax",
+      "ipaUs": "æks",
+      "page": 75,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "không cẩn thận, không chú ý, thiếu nghiêm túc",
+          "examples": [
+            {
+              "en": "As of late, the staff has been rather lax in turning in",
+              "vi": "reports. Gần đây, các nhân viên có phần hơi thiếu nghiêm túc trong việc nộp báo cáo. v trì hoãn, chần chừ"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 2,
+      "word": "procrastinate",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "procrastinate",
+      "ipaUs": "prakræstinêit",
+      "page": 75,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "trì hoãn, chần chừ",
+          "examples": [
+            {
+              "en": "Mr. Jones procrastinated with his fund request and missed the deadline.",
+              "vi": "Ông Jones trì hoãn việc yêu cầu cấp kinh phí của mình và đã bỏ lỡ thời hạn. adị được kết hợp, chung, tổng hợp"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 3,
+      "word": "combined",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "combined",
+      "ipaUs": "kombäind",
+      "page": 75,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "hoàn thành, làm xong, đạt được, có đủ tài năng",
+          "examples": [
+            {
+              "en": "Retail Specialists employs professionals with a combined experience of 30 years in sales.",
+              "vi": "Công ty Retail Specialists đã thuê những người chuyên nghiệp với 30 năm kinh nghiệm tổng hợp trong ngành bán hàng. combined experience kinh nghiệm tổng hợp"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 4,
+      "word": "accomplish",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "válantèrali",
+      "ipaUs": "vólontrali",
+      "page": 75,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "hoàn thành, làm xong, đạt được, có đủ tài năng",
+          "examples": [
+            {
+              "en": "Hackers TOEIC Vocabulary Careful planning is essential for accomplishing goals. Deny Bac fnc",
+              "vi": "Lập kế hoạch cẩn thận rất cần thiết cho việc hoàn thành mục tiêu. accomplished author tác giả tài năng accomplished thường đi cùng với các danh từ chỉ nghề"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 5,
+      "word": "undertake",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "Àndortéik",
+      "ipaUs": "Àndotéik",
+      "page": 76,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "cho rắng, giả sử (là đúng); đảm đương, gánh vác",
+          "examples": [
+            {
+              "en": "She had to undertake the task on short notice.",
+              "vi": "Cô ấy phải tiếp quản nhiệm vụ đó khá gấp gáp."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 6,
+      "word": "assume",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "Asu:m",
+      "ipaUs": "asjum",
+      "page": 76,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "cho rắng, giả sử (là đúng); đảm đương, gánh vác",
+          "examples": [
+            {
+              "en": "The management assumes employees are satisfied. The marketing department will assume responsibility",
+              "vi": "Ban quản lý cho rằng các nhân viên đều hài lòng. for the project. Bộ phận tiếp thị sẽ gánh vác trách nhiệm của dự ân đó."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 7,
+      "word": "occasionally",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "occasionally",
+      "ipaUs": "akéizanali",
+      "page": 76,
+      "senses": [
+        {
+          "pos": "adv",
+          "meaning": "thỉnh thoảng, đôi khi",
+          "examples": [
+            {
+              "en": "Staff should occasionally take time to relax so they",
+              "vi": "Thỉnh thoảng các nhân viên nên dành thời gian thư giãn để không bị mệt mỏi. n nhân viên, người lao động"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 8,
+      "word": "employee",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "employee",
+      "ipaUs": "implóii:",
+      "page": 76,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "nhân viên, người lao động",
+          "examples": [
+            {
+              "en": "There are only three employees working under",
+              "vi": "Chỉ có ba nhân viên làm việc dưới quyễn cô Anderson."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 9,
+      "word": "assist",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "assist",
+      "ipaUs": "asíst",
+      "page": 76,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "hài lòng, thỏa mãn",
+          "examples": [
+            {
+              "en": "A staff member assisted with preparations for the",
+              "vi": "conference. Một nhân viên đã hỗ trợ việc chuẩn bị cho hội nghị. dạng thực mới assist with hỗ trợ việc gì"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 10,
+      "word": "satisfied",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "satisfied",
+      "ipaUs": "satisfaid",
+      "page": 76,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "hài lòng, thỏa mãn",
+          "examples": [
+            {
+              "en": "Not everyone was satisfied with changes to the overtime policy.",
+              "vi": "Không phải ai cũng thấy hài lòng với những thay đổi trong chính sách làm thêm giờ."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 11,
+      "word": "manner",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "mænar",
+      "ipaUs": "mæna",
+      "page": 77,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "cách, lội; thái độ, cử chỉ",
+          "examples": [
+            {
+              "en": "Sean was annoyed by the manner in which his boss gave him orders.",
+              "vi": "Sean thấy bực mình với cái cách mà ông chủ ra lệnh cho anh ấy. adị có trách nhiệm, chịu trách nhiệm về"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 12,
+      "word": "responsible",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "kándskt, US köndskt",
+      "ipaUs": "rispônsibl",
+      "page": 77,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "Businesses are responsible for ensuring customer Sales personnel need to be responsive to Hackers TOEIC Vocabulary",
+              "vi": "satisfaction. Các doanh nghiệp có trách nhiệm đảm bảo sự hài lòng của khách hàng. dạng thức"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 13,
+      "word": "personnel",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "på:rsanél",
+      "ipaUs": "pà:sanél",
+      "page": 78,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "nhân viên, công chức",
+          "examples": [
+            {
+              "en": "We often use an agency to find reliable temporary",
+              "vi": "Chúng tôi thường sử dụng công ty môi giới để tìm những nhân viên thời vụ đáng tin cậy. sales personnel nhân viên bán hàng"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 14,
+      "word": "agree",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "agree",
+      "ipaUs": "agri:",
+      "page": 78,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "đồng ý",
+          "examples": [
+            {
+              "en": "The team agreed on the recommendations of the",
+              "vi": "advisor. Nhóm đã đồng ý với những để xuất của người cố vẫn. agree on + ý kiến đồng ý, nhất trí với ý kiến agree to + phương án, điều kiện tán thành phương"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 15,
+      "word": "supervise",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "sú:parvàiz",
+      "ipaUs": "sú:pavaiz",
+      "page": 78,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "Ms. Wilson supervises the employees in sector B.",
+              "vi": "Cô Wilson giám sát các nhân viên ở khu vực B."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 16,
+      "word": "coworker",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "kouwè:rkar",
+      "ipaUs": "kòuwá:ka",
+      "page": 79,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "đồng nghiệp",
+          "examples": [
+            {
+              "en": "Coworkers who live near each other often travel to work together.",
+              "vi": "Những đồng nghiệp sống gần nhau thường đi làm cùng nhau. V hướng dẫn, chỉ đạo"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 17,
+      "word": "direct",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "dirékt",
+      "ipaUs": "dairékt",
+      "page": 79,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "bí mật, cẩn mật, tuyệt mật",
+          "examples": [
+            {
+              "en": "The receptionist directs new employees to the auditorium where orientation will be held.",
+              "vi": "Nhân viên lễ tân hướng dẫn các nhân viên mới tới hội trường nơi buổi định hướng sẽ được tổ chức. con direct A to B hướng dẫn A tới B"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 18,
+      "word": "confidential",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "kànfadénjal",
+      "ipaUs": "könfidén{al",
+      "page": 79,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "bí mật, cẩn mật, tuyệt mật",
+          "examples": [
+            {
+              "en": "Internal documents must be kept confidential. Hackers TOEIC Vocabulary",
+              "vi": "Tài liệu nội bộ phải được giữ bí mật. sn Khi nói về bí mật liên quan đến chính phủ, tài liệu, ta có thể sử dụng classified, secret thay cho confidential."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 19,
+      "word": "assign",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "assign",
+      "ipaUs": "asáin",
+      "page": 79,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "dẫn đầu, tiên phong, hàng đầu",
+          "examples": [
+            {
+              "en": "Hackers TOEIC Vocabulary The office manager assigned desks to the new",
+              "vi": "recruits. Người quản lý văn phòng đã phân bàn làm việc cho các nhân viên mới."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 20,
+      "word": "leading",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "leading",
+      "ipaUs": "lí:din",
+      "page": 79,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "dẫn đầu, tiên phong, hàng đầu",
+          "examples": [
+            {
+              "en": "Shepherd Inc. is a leading exporter in the wood furniture industry.",
+              "vi": "Tập đoàn Shepherd là công ty xuất khẩu hàng đầu trong mảng đổ gỗ nội thất. cơm leading company công ty hàng đầu"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 21,
+      "word": "formal",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "f5:rmal",
+      "ipaUs": "o:mal",
+      "page": 80,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "The awards ceremony requires wearing formal business attire.",
+              "vi": "Buổi lễ trao giải yêu cầu phải mặc trang phục trang trọng. V xóa, dẹp; đuổi, cách chức"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 22,
+      "word": "remove",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "remove",
+      "ipaUs": "rimú:v",
+      "page": 80,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "thu thập, tập hợp",
+          "examples": [
+            {
+              "en": "The vice president was removed from his position",
+              "vi": "Ông phó chủ tịch đã bị cách chức khỏi vị trí của mình. Bại thi TOEIC dạng thực mơi remove A from B cách chức/xóa bỏ/dọn A khỏi B"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 23,
+      "word": "collect",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "collect",
+      "ipaUs": "kalekt",
+      "page": 80,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "thu thập, tập hợp",
+          "examples": [
+            {
+              "en": "The author collected management ideas from around the world for his book.",
+              "vi": "Tác giả đã tập hợp các ý tưởng về quản lý từ khắp nơi trên thế giới cho cuốn sách của mình. V điều phối, kết hợp"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 24,
+      "word": "coordinate",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "Uk koub:rdanèit",
+      "ipaUs": "kau5:dineit",
+      "page": 80,
+      "senses": [
+        {
+          "pos": "adv",
+          "meaning": "hiếm khi, khó khăn, hầu như không",
+          "examples": [
+            {
+              "en": "The Chicago office coordinated the planning process.",
+              "vi": "Văn phòng ở Chicago đã điều phối quá trình lên kế hoạch."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 25,
+      "word": "hardly",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "hardly",
+      "ipaUs": "há:dli",
+      "page": 80,
+      "senses": [
+        {
+          "pos": "adv",
+          "meaning": "hiếm khi, khó khăn, hầu như không",
+          "examples": [
+            {
+              "en": "She was hardly ever late for her shift. The staff worked hard to meet the deadline.",
+              "vi": "Cô ấy hiếm khi trể ca làm. Bai thi TOEIC dạng thức mới hardly ever hiếm khi, hầu như không"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 26,
+      "word": "abstract",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "abstract",
+      "ipaUs": "æbstrækt",
+      "page": 81,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "trừu tượng, mơ hồ",
+          "examples": [
+            {
+              "en": "Copland spent thousands of dollars on an abstract painting for the lobby. Ideals such as loyalty may seem alstract, so employees",
+              "vi": "Copland đã chi hàng nghìn đô-la cho một bức tranh trừu tượng để treo ở tiền sảnh. Những lý tưởng như lòng trung thành có vẻ mơ hỗ, vì vậy các"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 27,
+      "word": "directory",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "Uk diréktari",
+      "ipaUs": "dairéktari",
+      "page": 81,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "danh bạ, sổ địa chỉ",
+          "examples": [
+            {
+              "en": "The company directory shows where the marketing",
+              "vi": "Danh bạ của công ty sẽ cho biết phòng tiếp thị năm ở đâu. aoj chịu trách nhiệm, có thể giải thích được"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 28,
+      "word": "accountable",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "accountable",
+      "ipaUs": "akáuntabi",
+      "page": 81,
+      "senses": [
+        {
+          "pos": "adv",
+          "meaning": "thành thạo, khéo léo",
+          "examples": [
+            {
+              "en": "All employees are accountable for the duties they have been assigned to complete. Hackers TOEIC Vocabulary",
+              "vi": "Mọi nhân viên phải chịu trách nhiệm cho các nhiệm vụ mà họ được giao để hoàn thành. Bai thì TOEIC đạng thức mới"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 29,
+      "word": "skillfully",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "skillfully",
+      "ipaUs": "skilfali",
+      "page": 81,
+      "senses": [
+        {
+          "pos": "adv",
+          "meaning": "thành thạo, khéo léo",
+          "examples": [
+            {
+              "en": "Brenda skillfully edited the report to fit on one page.",
+              "vi": "Brenda đã khéo léo chỉnh sửa bản báo cáo cho vừa một trang giãy. adị riêng biệt, độc quyền"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 30,
+      "word": "exclusive",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "exclusive",
+      "ipaUs": "iksklú:siv",
+      "page": 81,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "Delegates with special passes have exclusive access",
+              "vi": "Các đại biểu có thẻ đặc biệt sẽ được tham gia riêng một chuyến tham quan thực địa."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 31,
+      "word": "intention",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "intention",
+      "ipaUs": "inténjen",
+      "page": 82,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "ý định, mục đích, ý muốn",
+          "examples": [
+            {
+              "en": "She had every intention of attending the conference, but could not. The manager showed intent to buy new office",
+              "vi": "Cô ấy có ý định tham dự hội thảo nhưng lại không thể. have every intention of -ing nhất định phải làm gì * Đề thi có thể sẽ xuất hiện câu hỏi yêu cầu lựa chọn từ"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 32,
+      "word": "transform",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "transform",
+      "ipaUs": "trænsf5:m",
+      "page": 82,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "Computerization has transformed the way companies",
+              "vi": "do business. Vi tính hóa đã thay đổi cách các công ty làm việc. adị tôn trọng, lễ phép, kính cẩn"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 33,
+      "word": "respectful",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "respectful",
+      "ipaUs": "rispéktfal",
+      "page": 82,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "Sales clerks are reminded to be respectful to all clients.",
+              "vi": "Các nhân viên bán hàng được nhắc nhở phải tôn trọng tất cả khách hàng. Bại th (GEIC đạng thức thOi"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 34,
+      "word": "duplicate",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "duplicate",
+      "ipaUs": "dju plikat",
+      "page": 82,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "A duplicate of each contract is kept in the company records.",
+              "vi": "Bản sao của mỗi hợp đồng được lưu trữ trong tài liệu hỗ sơ của công ty."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 35,
+      "word": "contrary",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "kántreri",
+      "ipaUs": "köntrari",
+      "page": 83,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự trái ngược, điều ngược lại",
+          "examples": [
+            {
+              "en": "Techworld is in financial trouble, despite claims to",
+              "vi": "Techworld đang gặp khó khăn về tài chính mặc dù họ tuyên bố điều ngược lại. evidence to the contrary bằng chứng chứng minh điều"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 36,
+      "word": "disturbing",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "dista:rbin",
+      "ipaUs": "distá:bin",
+      "page": 83,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "Shareholders found reports of the CEO's incompetence disturbing. Hackers TOEIC Vocabulary",
+              "vi": "Các cổ đông nhận thấy những báo cáo về sự kém cói của vị giám đốc điều hành thật gây nhiễu loạn. V tham gia, cam kết, thu hút"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 37,
+      "word": "engage",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "engage",
+      "ipaUs": "ingéid3",
+      "page": 83,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "be engaged in liên quan đến",
+          "examples": [
+            {
+              "en": "Each worker was engaged in at least two projects.",
+              "vi": "Mỗi công nhân đều được tham gia vào ít nhất hai dự án. dạng ThỤc TRO: engage in tham gia vào"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 38,
+      "word": "foster",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "Uk f5:star",
+      "ipaUs": "foste",
+      "page": 83,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "thúc đẩy, bồi dưỡng, bồi đấp",
+          "examples": [
+            {
+              "en": "Staff dinners helped foster better work relations.",
+              "vi": "Những bữa tối giữa các nhân viên đã giúp bồi đắp mối quan hệ tốt hơn trong công việc."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 39,
+      "word": "neutrality",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "n/u:trælati",
+      "ipaUs": "nju:trælati",
+      "page": 84,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "tính chất trung lập, thái độ trung lập",
+          "examples": [
+            {
+              "en": "Managers must display complete neutrality in disagreements between employees.",
+              "vi": "Người quản lý phải giữ thái độ hoàn toàn trung lập trong những cuộc tranh cải giữa các nhân viên. adv rộng, nhiều, xa"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 40,
+      "word": "widely",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "widely",
+      "ipaUs": "wáidli",
+      "page": 84,
+      "senses": [
+        {
+          "pos": "adv",
+          "meaning": "rộng, nhiều, xa",
+          "examples": [
+            {
+              "en": "Ben Hurley is a widely admired business leader.",
+              "vi": "Ben Hurley là một nhà điều hành doanh nghiệp được nhiều người ngưỡng mộ. 1. be widely advertised được quảng cáo rộng rãi"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    }
+  ],
+  "completeVocab": {
+    "basic": {
+      "LC": [],
+      "RC": [
+        [
+          "bookcase",
+          "n",
+          "kệ sách, tủ sách"
+        ],
+        [
+          "bookshelf",
+          "n",
+          "giá sách"
+        ],
+        [
+          "case",
+          "n",
+          "giá sách"
+        ],
+        [
+          "central office",
+          "phr",
+          "văn phòng trung tâm"
+        ],
+        [
+          "copy machine",
+          "phr",
+          "máy photocopy"
+        ],
+        [
+          "fax",
+          "n",
+          "máy fax"
+        ],
+        [
+          "file folder",
+          "phr",
+          "thư mục, tập tin"
+        ],
+        [
+          "a greet",
+          "v",
+          "chào hỏi"
+        ],
+        [
+          "handwriting",
+          "v",
+          "chào hỏi"
+        ],
+        [
+          "keypad",
+          "n",
+          "bàn phím"
+        ],
+        [
+          "a knite",
+          "n",
+          "con dao"
+        ],
+        [
+          "log on to",
+          "phr",
+          "đăng nhập vào"
+        ],
+        [
+          "online",
+          "n",
+          "adị trực tuyền, trên mạng"
+        ],
+        [
+          "photocopier",
+          "n",
+          "adị trực tuyền, trên mạng"
+        ],
+        [
+          "photocopy",
+          "n",
+          "bản sao; y sao chép"
+        ],
+        [
+          "print out",
+          "n",
+          "bản sao; y sao chép"
+        ],
+        [
+          "right away",
+          "phr",
+          "ngay, ngay lập tức"
+        ],
+        [
+          "spell",
+          "v",
+          "đánh vần, đọc chính tả"
+        ],
+        [
+          "wrap",
+          "v",
+          "đánh vần, đọc chính tả"
+        ],
+        [
+          "a fold",
+          "v",
+          "gấp"
+        ],
+        [
+          "least",
+          "n",
+          "adị ít nhất, nhỏ nhất"
+        ],
+        [
+          "paper",
+          "n",
+          "adị ít nhất, nhỏ nhất"
+        ],
+        [
+          "planning",
+          "n",
+          "việc lập kế hoạch"
+        ],
+        [
+          "post",
+          "n",
+          "y đăng lên, dán lên; gửi thư (qua"
+        ],
+        [
+          "press the button",
+          "phr",
+          "đường bưu điện)"
+        ],
+        [
+          "server",
+          "n",
+          "người phục vụ, máy chủ"
+        ],
+        [
+          "store opening",
+          "n",
+          "người phục vụ, máy chủ"
+        ],
+        [
+          "task",
+          "phr",
+          "khai trương cửa hàng"
+        ]
+      ]
+    },
+    "l800": {
+      "LC": [],
+      "P56": [
+        [
+          "be satisfied with",
+          "phr",
+          "hài lòng với"
+        ],
+        [
+          "be seated",
+          "phr",
+          "hài lòng với"
+        ],
+        [
+          "be surrounded by",
+          "phr",
+          "được bao quanh bởi"
+        ],
+        [
+          "business contacts",
+          "phr",
+          "liên hệ công việc"
+        ],
+        [
+          "chairperson",
+          "n",
+          "chủ tịch"
+        ],
+        [
+          "copy editor",
+          "phr",
+          "biên tập viên bản thảo"
+        ],
+        [
+          "deep end",
+          "phr",
+          "tận cùng"
+        ],
+        [
+          "a double-sided",
+          "phr",
+          "tận cùng"
+        ],
+        [
+          "drawer",
+          "n",
+          "ngàn kéo"
+        ],
+        [
+          "get one's approval",
+          "phr",
+          "nhận được sự chấp thuận của ai đó"
+        ],
+        [
+          "halfway",
+          "adv",
+          "ở giữa; adị nửa chừng, nửa vời"
+        ],
+        [
+          "hand over",
+          "phr",
+          "bàn giao"
+        ],
+        [
+          "o in a pile",
+          "phr",
+          "thành chồng, thành đống"
+        ],
+        [
+          "It could have been worse.",
+          "phr",
+          "Nó đã có thể tệ hơn."
+        ],
+        [
+          "o just in time",
+          "phr",
+          "vừa kịp giờ"
+        ],
+        [
+          "literacy",
+          "n",
+          "sự biết đọc, biết viết"
+        ],
+        [
+          "litter",
+          "n",
+          "lựa chọn; y nhường chỗ cho"
+        ],
+        [
+          "make a selection",
+          "phr",
+          "lựa chọn"
+        ],
+        [
+          "make room for",
+          "phr",
+          "lựa chọn"
+        ],
+        [
+          "out of paper",
+          "phr",
+          "hết giấy"
+        ],
+        [
+          "raise one's hand",
+          "phr",
+          "giơ tay"
+        ],
+        [
+          "report a problem",
+          "phr",
+          "báo lỗi"
+        ],
+        [
+          "sort",
+          "n",
+          "loại; v sắp xếp"
+        ],
+        [
+          "stationery",
+          "n",
+          "loại; v sắp xếp"
+        ],
+        [
+          "take another look",
+          "phr",
+          "nhìn lại một lần nữa"
+        ],
+        [
+          "take A out",
+          "phr",
+          "đưa A ra"
+        ],
+        [
+          "typewriter",
+          "phr",
+          "đưa A ra"
+        ],
+        [
+          "work in groups",
+          "phr",
+          "làm việc theo nhóm"
+        ],
+        [
+          "writing pad",
+          "phr",
+          "tập giấy viết, sổ tay"
+        ],
+        [
+          "anticipation",
+          "n",
+          "sự đoán trước, sự mong đợi"
+        ],
+        [
+          "automobile",
+          "n",
+          "sự đoán trước, sự mong đợi"
+        ],
+        [
+          "be asked to do",
+          "n",
+          "xe ô tô"
+        ],
+        [
+          "be paid for",
+          "phr",
+          "được trả tiền cho"
+        ]
+      ],
+      "P7": [
+        [
+          "be qualified for",
+          "phr",
+          "đủ điều kiện cho"
+        ],
+        [
+          "casual",
+          "phr",
+          "đủ điều kiện cho"
+        ],
+        [
+          "draft",
+          "v",
+          "phác thảo, dự thảo; n dự thảo"
+        ],
+        [
+          "draw on",
+          "v",
+          "phác thảo, dự thảo; n dự thảo"
+        ],
+        [
+          "excuse",
+          "n",
+          "• lý do, lời bào chữa; y tha thứ"
+        ],
+        [
+          "head office",
+          "phr",
+          "trụ sở chính"
+        ],
+        [
+          "in anticipation of",
+          "phr",
+          "phòng khi"
+        ],
+        [
+          "in light of",
+          "phr",
+          "bởi vì"
+        ],
+        [
+          "o instrument",
+          "n",
+          "dụng cụ, công cụ, nhạc cụ"
+        ],
+        [
+          "popularly",
+          "n",
+          "dụng cụ, công cụ, nhạc cụ"
+        ],
+        [
+          "regarding",
+          "prep",
+          "về, đổi với"
+        ],
+        [
+          "routinely",
+          "adv",
+          "thông thường, thường lệ"
+        ],
+        [
+          "supplementary",
+          "n",
+          "adị bổ sung, phụ thêm vào"
+        ],
+        [
+          "work overtime",
+          "phr",
+          "làm việc ngoài giờ"
+        ],
+        [
+          "workplace",
+          "n",
+          "nơi làm việc"
+        ],
+        [
+          "acting",
+          "n",
+          "nơi làm việc"
+        ],
+        [
+          "be full of",
+          "phr",
+          "ađị quyền, thay quyền; n sự thủ vai"
+        ],
+        [
+          "convert A to B",
+          "phr",
+          "chuyển đổi A thành B"
+        ],
+        [
+          "count on",
+          "phr",
+          "tin vào, trông cậy vào"
+        ],
+        [
+          "do one's best",
+          "phr",
+          "làm hết sức"
+        ],
+        [
+          "fill with",
+          "phr",
+          "làm hết sức"
+        ],
+        [
+          "get along with",
+          "phr",
+          "hòa đồng với"
+        ],
+        [
+          "go down the steps",
+          "phr",
+          "đi xuống cầu thang"
+        ],
+        [
+          "a key to success",
+          "phr",
+          "chìa khóa dẫn tới thành công"
+        ],
+        [
+          "lose one's temper",
+          "phr",
+          "tức giận, mất bình tĩnh"
+        ],
+        [
+          "make a copy",
+          "phr",
+          "tức giận, mất bình tĩnh"
+        ],
+        [
+          "obsess about",
+          "phr",
+          "ám ảnh về"
+        ],
+        [
+          "overtime hours",
+          "phr",
+          "giờ làm thêm"
+        ],
+        [
+          "personal effects",
+          "phr",
+          "giờ làm thêm"
+        ],
+        [
+          "reunion",
+          "n",
+          "• cuộc hội họp, sự hợp nhất"
+        ],
+        [
+          "sales representative",
+          "phr",
+          "đại diện bán hàng"
+        ],
+        [
+          "seamless (= without trouble)",
+          "phr",
+          "đại diện bán hàng"
+        ],
+        [
+          "submit A to B",
+          "phr",
+          "aơj không có rắc rối, suôn sẻ"
+        ],
+        [
+          "a succeed in -ing",
+          "phr",
+          "gửi A cho B"
+        ],
+        [
+          "time-consuming",
+          "n",
+          "adị tốn thời gian"
+        ]
+      ]
+    },
+    "l900": {
+      "LC": [],
+      "P56": [],
+      "P7": [
+        [
+          "bookkeeping",
+          "n",
+          "• công việc kế toán"
+        ],
+        [
+          "have one's hands full",
+          "phr",
+          "• công việc kế toán"
+        ],
+        [
+          "make an outside call",
+          "phr",
+          "gọi điện thoại ra ngoài"
+        ],
+        [
+          "motivation",
+          "n",
+          "động lực"
+        ],
+        [
+          "newly listed",
+          "phr",
+          "mới vào danh sách"
+        ],
+        [
+          "prioritize",
+          "n",
+          "y dành ưu tiên"
+        ],
+        [
+          "sit in alternate seats",
+          "phr",
+          "ngồi kế tiếp nhau"
+        ],
+        [
+          "written authorization",
+          "phr",
+          "ngồi kế tiếp nhau"
+        ],
+        [
+          "written consent",
+          "phr",
+          "văn bản thỏa thuận"
+        ],
+        [
+          "acquaintance",
+          "n",
+          "người quen"
+        ],
+        [
+          "dimension",
+          "n",
+          "kích thước, cỡ"
+        ],
+        [
+          "directive",
+          "n",
+          "kích thước, cỡ"
+        ],
+        [
+          "discerning",
+          "n",
+          "adị thông minh, có học thức"
+        ],
+        [
+          "elegantly",
+          "n",
+          "adị thông minh, có học thức"
+        ],
+        [
+          "expectant",
+          "n",
+          "adị có tính chất mong chờ"
+        ],
+        [
+          "invaluable",
+          "adj",
+          "vô giá"
+        ],
+        [
+          "a propel",
+          "v",
+          "đẩy đi"
+        ],
+        [
+          "realization",
+          "n",
+          "sự thực hiện, sự nhận thức rõ"
+        ],
+        [
+          "recline",
+          "n",
+          "sự thực hiện, sự nhận thức rõ"
+        ],
+        [
+          "repository",
+          "n",
+          "kho, chỗ chứa"
+        ],
+        [
+          "respective",
+          "n",
+          "kho, chỗ chứa"
+        ],
+        [
+          "spontaneously",
+          "n",
+          "aáy tự ý, tự phát"
+        ],
+        [
+          "trivial",
+          "n",
+          "adị tầm thường, không quan trọng"
+        ],
+        [
+          "turn in",
+          "phr",
+          "adị tầm thường, không quan trọng"
+        ],
+        [
+          "ambiance",
+          "n",
+          "môi trường, đặc điểm, không khí"
+        ],
+        [
+          "aspiration",
+          "n",
+          "(ở một nơi nào đó)"
+        ],
+        [
+          "creditable",
+          "n",
+          "adị vẻ vang, đáng khen ngợi"
+        ],
+        [
+          "a eminent",
+          "phr",
+          "adị xuất sắc, xuất chúng"
+        ],
+        [
+          "endeavor",
+          "n",
+          "adị xuất sắc, xuất chúng"
+        ],
+        [
+          "entrust A with B",
+          "phr",
+          "giao phó B cho A"
+        ],
+        [
+          "on edge",
+          "phr",
+          "giao phó B cho A"
+        ],
+        [
+          "reach one's full potential",
+          "phr",
+          "phát huy tối đa tiềm năng của ai đó"
+        ]
+      ]
+    }
+  },
+  "dailyCheckup": {
+    "page": 85,
+    "groups": [
+      {
+        "instruction": "Tìm ở cột bên phải nghĩa của các từ vựng ở cột bên trái và nối chúng với nhau.",
+        "options": [
+          {
+            "key": "a",
+            "text": "tiêu cực"
+          },
+          {
+            "key": "b",
+            "text": "ngay lập tức"
+          },
+          {
+            "key": "c",
+            "text": "cách tiếp cận"
+          },
+          {
+            "key": "d",
+            "text": "bị cấm"
+          },
+          {
+            "key": "e",
+            "text": "sự chấp thuận"
+          },
+          {
+            "key": "f",
+            "text": "truy cập"
+          }
+        ],
+        "questions": [
+          {
+            "no": 1,
+            "prompt": "assume",
+            "answer": "a"
+          },
+          {
+            "no": 2,
+            "prompt": "abstract",
+            "answer": "a"
+          },
+          {
+            "no": 3,
+            "prompt": "occasionally",
+            "answer": "a"
+          },
+          {
+            "no": 4,
+            "prompt": "responsible",
+            "answer": "a"
+          },
+          {
+            "no": 5,
+            "prompt": "directory",
+            "answer": "a"
+          }
+        ]
+      },
+      {
+        "instruction": "Hãy chọn từ phù hợp để điền vào mỗi câu của bài thi TOEIC dạng thức mới sau.",
+        "options": [
+          {
+            "key": "a",
+            "text": "inspection"
+          },
+          {
+            "key": "b",
+            "text": "effect"
+          },
+          {
+            "key": "c",
+            "text": "authorized"
+          },
+          {
+            "key": "d",
+            "text": "procedure"
+          },
+          {
+            "key": "e",
+            "text": "concern"
+          }
+        ],
+        "questions": [
+          {
+            "no": 6,
+            "prompt": "Members can",
+            "answer": "a"
+          },
+          {
+            "no": 7,
+            "prompt": "The manager will",
+            "answer": "a"
+          },
+          {
+            "no": 8,
+            "prompt": "The software was _",
+            "answer": "a"
+          },
+          {
+            "no": 9,
+            "prompt": "Allison",
+            "answer": "a"
+          }
+        ]
+      },
+      {
+        "instruction": "Hãy chọn từ phù hợp để điền vào mỗi câu của bài thi TOEIC dạng thức mới sau.",
+        "options": [
+          {
+            "key": "a",
+            "text": "obligation"
+          },
+          {
+            "key": "b",
+            "text": "drastically"
+          },
+          {
+            "key": "c",
+            "text": "revise"
+          },
+          {
+            "key": "d",
+            "text": "thoroughly"
+          },
+          {
+            "key": "e",
+            "text": "arrangements"
+          }
+        ],
+        "questions": [
+          {
+            "no": 10,
+            "prompt": "The guest speaker had a pleasant",
+            "answer": "a"
+          },
+          {
+            "no": 11,
+            "prompt": "Managers are for ensuring that projects remain on schedule.",
+            "answer": "a"
+          },
+          {
+            "no": 12,
+            "prompt": "Mr. Mills is one of the figures in coaching management styles.",
+            "answer": "a"
+          },
+          {
+            "no": 13,
+            "prompt": "Thousands of _ customers take advantage of our discounts daily.",
+            "answer": "a"
+          }
+        ]
+      }
+    ]
+  },
+  "title": "Bí quyết kinh doanh",
+  "titleVi": "Bí quyết kinh doanh",
+  "category": "Công việc văn phòng (2)"
+}

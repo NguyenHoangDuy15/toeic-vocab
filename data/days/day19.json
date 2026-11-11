@@ -1,0 +1,1866 @@
+{
+  "dayNo": 19,
+  "titleVi": "Tiền thưởng là bao nhiêu",
+  "titleEn": "Topic 19",
+  "category": "Doanh thu",
+  "coreWords": [
+    {
+      "no": 1,
+      "word": "decline",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "decline",
+      "ipaUs": "dikláin",
+      "page": 302,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự giảm, sự sụt giảm",
+          "examples": [
+            {
+              "en": "A sharp decline in the number of buyers has lowered this year's profits. The investor declined our invitation to lunch.",
+              "vi": "Số người mua giảm mạnh đã làm giảm lợi nhuận năm nay. v từ chỗi (lời mời, đơn xin) Nhà đầu tư dã từ chối lời mời ăn trưa của chúng tôi."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 2,
+      "word": "markedly",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "markedly",
+      "ipaUs": "má:rkidli",
+      "page": 302,
+      "senses": [
+        {
+          "pos": "adv",
+          "meaning": "rỗ ràng, rỗ rệt",
+          "examples": [
+            {
+              "en": "Corporate profits continue to increase markedly.",
+              "vi": "Lợi nhuận của công ty tiếp tục tăng lên rõ rệt. • sự tăng, sự tăng thêm"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 3,
+      "word": "increase",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "increase",
+      "ipaUs": "n) [inkri:s",
+      "page": 302,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "gia tăng, tăng",
+          "examples": [
+            {
+              "en": "All employees will receive a five percent pay increase next year. ers TOEIC Voc",
+              "vi": "Tất cả nhân viên sẽ được tăng 5% lương trong năm tới. Số lượng các yêu cầu giao sản phẩm mới đã tăng đáng kể. g Lưu ý phân biệt từ loại increase (n. sự tăng) và increasing"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 4,
+      "word": "revenue",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "revenue",
+      "ipaUs": "révanjù:",
+      "page": 302,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "thu nhập, doanh thu",
+          "examples": [
+            {
+              "en": "The company's revenue was boosted by higher album sales.",
+              "vi": "Doanh thu của công ty được nâng lên nhờ doanh số bán album cao hơn."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 5,
+      "word": "projection",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "projection",
+      "ipaUs": "predzékjan",
+      "page": 303,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự dự đoán, sự đặt kế hoạch",
+          "examples": [
+            {
+              "en": "This month's income projections are higher than last month's were.",
+              "vi": "Dự đoán về thu nhập của tháng này cao hơn tháng trước. Bài Thh TOETC Gạng Thức tOi spending and income projections kế hoạch thu chi"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 6,
+      "word": "substantial",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "substantial",
+      "ipaUs": "sabstænfal",
+      "page": 303,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "The company made substantial investments in several emerging markets.",
+              "vi": "Công ty đã thực hiện những phi vụ đầu tư lớn vào một số thị trường mới nổi. số lượng/sự gia tăng/sự sụt giảm đáng kể"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 7,
+      "word": "anticipate",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "æntisipeit",
+      "ipaUs": "der. anticipation (n) sự",
+      "page": 303,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "We anticipate a 40 percent increase in sales next The financiers hope for a high return on their",
+              "vi": "year. Chúng tôi dự đoán doanh số sẽ tăng 40% trong năm tới. Lưu ý phân biệt cách sử dụng của hai từ cùng mang nghĩa \"mong đợi\" này."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 8,
+      "word": "significantly",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "significantly",
+      "ipaUs": "signífikantli",
+      "page": 304,
+      "senses": [
+        {
+          "pos": "adv",
+          "meaning": "đáng kể, có ý nghĩa",
+          "examples": [
+            {
+              "en": "The layoffs will reduce expenses significantly.",
+              "vi": "Việc cắt giảm nhân công sẽ làm giảm đáng kể chi phí. v ước tính, ước lượng"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 9,
+      "word": "estimate",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "éstimat",
+      "ipaUs": "n) [ éstemat",
+      "page": 304,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "ước tính, ước lượng",
+          "examples": [
+            {
+              "en": "The laptops were estimated to bring in over $50 Profits for the second quarter failed to meet estimates made in April.",
+              "vi": "Máy tính xách tay được ước tính sẽ mang lại hơn 50 triệu đô-la. n sự ước lượng, sự đánh giá Lợi nhuận trong quý hai dã không đạt được mức dự đoán dưa ra"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 10,
+      "word": "shift",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "shift",
+      "ipaUs": "Sift",
+      "page": 304,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự thay đổi, sự luân phiên; ca làm việc",
+          "examples": [
+            {
+              "en": "The firm shifted some capital into its newest investment project. A shift in government policy could affect the",
+              "vi": "Công ty đã chuyển một số vốn vào dự án đầu tư mới nhất của minh. Một thay đổi trong chính sách của nhà nước có thể tác động đến"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 11,
+      "word": "fee",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "fee",
+      "ipaUs": "fi:",
+      "page": 304,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "lệ phí, tiền thù lao",
+          "examples": [
+            {
+              "en": "The merchant may charge a small fee to process credit card payments. The fee for installing cable television will go up next",
+              "vi": "Người bán có thể sẽ tính một khoản phí nhỏ để xử lý việc thanh toán bằng thẻ tín dụng. Lệ phí lắp đặt truyền hình cáp sẽ tăng vào tháng sau."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 12,
+      "word": "production",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "production",
+      "ipaUs": "prad&kjan",
+      "page": 305,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự sản xuất, sản lượng",
+          "examples": [
+            {
+              "en": "Production will rise drastically with the addition of a third shift.",
+              "vi": "Sản lượng sẽ tăng mạnh với việc thêm ca làm việc thứ ba. n (s) lượng bán ra, doanh số; sự bán, việc bán (giảm giá)"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 13,
+      "word": "sale",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "sale",
+      "ipaUs": "seil",
+      "page": 305,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "(s) lượng bán ra, doanh số; sự bán, việc bán (giảm giá)",
+          "examples": [
+            {
+              "en": "Domestic sales have recently begun to drop. All items are 50 percent off during the clearance",
+              "vi": "Doanh số trong nước gần đây đã bắt đầu giảm. Tất cả mặt hàng đều được giảm 50% trong thời gian bán Cn retail sales figures số liệu doanh số bán lẻ"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 14,
+      "word": "impressive",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "impressive",
+      "ipaUs": "imprésiv",
+      "page": 305,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "đầy ấn tượng",
+          "examples": [
+            {
+              "en": "NeuWear made impressive gains in the sportswear",
+              "vi": "NeuWear dã dạt được lợi nhuận ấn tượng trong thị trường đồ thể thao. impressive bị ấn tượng"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 15,
+      "word": "representative",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "representative",
+      "ipaUs": "rèprizéntativ",
+      "page": 305,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "người đại diện, người đại lý; đại biểu",
+          "examples": [
+            {
+              "en": "The sales representative developed an impressive client base. The committee will be comprised of representatives",
+              "vi": "Người đại diện bán hàng đã phát triển một danh sách khách hàng ấn tượng. Hội đồng này sẽ bao gồm các đại diện từ mỗi khu vực."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 16,
+      "word": "recent",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "recent",
+      "ipaUs": "ri:snt",
+      "page": 306,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "Additional costs are reflected in the supplier's most Our modern designs are popular with customers. Hackers TOEIC Vocabulary",
+              "vi": "recent price quote. Các chỉ phí bổ sung dược thể hiện trên báo giá gần đây nhất của nhà cung cấp. Bai thì TÔEIC đạng thức môi"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 17,
+      "word": "exceed",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "exceed",
+      "ipaUs": "iksi:d",
+      "page": 306,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự cải thiện, sự cải tiến",
+          "examples": [
+            {
+              "en": "The new restaurant's profits exceeded initial",
+              "vi": "Lợi nhuận của nhà hàng mới đã vượt qua cả dự đoán ban đầu. Bải thì TOEIC dạng thức mỏi n] Khi được dùng với nghĩa \"trội hơn\", exceed có thể được thay"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 18,
+      "word": "improvement",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "improvement",
+      "ipaUs": "imprú:vmant",
+      "page": 306,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự cải thiện, sự cải tiến",
+          "examples": [
+            {
+              "en": "The improvements to the chair designs led to increased sales.",
+              "vi": "Những cải tiến trong thiết kế của chiếc ghế đã dẫn tới việc doanh số tăng."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 19,
+      "word": "employer",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "impl5ie",
+      "ipaUs": "implbiar",
+      "page": 307,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "chủ, người sử dụng lao động",
+          "examples": [
+            {
+              "en": "The largest employer in the city is the automotive",
+              "vi": "factory. Đối tượng sử dụng lao động lớn nhất trong thành phố này là nhà máy ô tô. ad) thường kỳ; thường xuyên, đều đặn"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 20,
+      "word": "regular",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "Uk régjula",
+      "ipaUs": "régjular",
+      "page": 307,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "Regular assessments of profitability occur Special events were held to reward regular",
+              "vi": "throughout the fiscal year. Các đánh giá thường kỳ về lợi nhuận được thực hiện trong suốt năm tài chính. Customers. Các sự kiện đặc biệt được tổ chức để tri ân những"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 21,
+      "word": "summarize",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "summarize",
+      "ipaUs": "sÁmaràiz",
+      "page": 307,
+      "senses": [
+        {
+          "pos": "adv",
+          "meaning": "điển hình, thông thường",
+          "examples": [
+            {
+              "en": "EquityCorp summarized its business operations in",
+              "vi": "the annual report. EquityCorp đã tóm tắt hoạt động kinh doanh của họ trong bản báo cáo thường niên."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 22,
+      "word": "typically",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "typically",
+      "ipaUs": "típikoli",
+      "page": 307,
+      "senses": [
+        {
+          "pos": "adv",
+          "meaning": "điển hình, thông thường",
+          "examples": [
+            {
+              "en": "Cell phones typically go on sale before new models",
+              "vi": "are released. Thông thường, điện thoại di động sẽ được bản giảm giá trước khi mẫu mới được tung ra. adị toàn bộ, đầy đủ"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 23,
+      "word": "whole",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "haul",
+      "ipaUs": "houl",
+      "page": 307,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự tăng trưởng, sự lớn mạnh",
+          "examples": [
+            {
+              "en": "The whole amount of the loan must be paid in 60",
+              "vi": "days. Toàn bộ khoản nợ phải được trả trong vòng 60 ngày."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 24,
+      "word": "growth",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "growth",
+      "ipaUs": "der., grow (v) phát triển",
+      "page": 307,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự tăng trưởng, sự lớn mạnh",
+          "examples": [
+            {
+              "en": "The company will be unable to maintain its present",
+              "vi": "Công ty sẽ không thể duy trì mức tăng trưởng hiện tại được."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 25,
+      "word": "figure",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "figa",
+      "ipaUs": "figjer",
+      "page": 308,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "con số, số liệu",
+          "examples": [
+            {
+              "en": "Last quarter's sales figures need to be sent to the Oang thut mon The number 215 contains three digits.",
+              "vi": "main office. Số liệu doanh thu quý trước cần được gửi tới tổng công ty. Phân biệt cách sử dụng hai từ cùng mang nghĩa \"con số\" này."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 26,
+      "word": "steady",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "steady",
+      "ipaUs": "stédi",
+      "page": 308,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "thường xuyên",
+          "examples": [
+            {
+              "en": "Furniture sales have seen a steady rise since March. The steady stock market has given investors more",
+              "vi": "Doanh số sản phẩm nội thất đã tăng đều đặn từ tháng Ba. confidence. Thị trường chứng khoán ổn định dã đem lại thêm niềm tin cho các nhà đầu tư."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 27,
+      "word": "frequent",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "frequent",
+      "ipaUs": "fri:kwant",
+      "page": 308,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "thường xuyên",
+          "examples": [
+            {
+              "en": "The company was able to adapt quickly despite frequent market changes. Hackers TOEIC Vocabulary",
+              "vi": "Công ty có khả năng thích ứng nhanh chóng bất chấp những thay đổi thường xuyên của thị trường. V đạt được, giành được"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 28,
+      "word": "achieve",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "achieve",
+      "ipaUs": "atji:v",
+      "page": 308,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "The corporation achieved its sales goals for the",
+              "vi": "Công ty đã đạt được các mục tiêu về doanh số của năm nay. 1 nhận định, điều giả định"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 29,
+      "word": "assumption",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "assumption",
+      "ipaUs": "emp en",
+      "page": 308,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "DonCo's assumption that consumers value quality over price proved correct.",
+              "vi": "Nhận định của DonCo rằng khách hàng coi trọng chất lượng hơn giá thành đã được chứng minh là đúng."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 30,
+      "word": "share",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "uK jea",
+      "ipaUs": "[ear",
+      "page": 309,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "chia sẻ, phân phát",
+          "examples": [
+            {
+              "en": "The CEO shared some excess profits with employees through bonuses. Each partner will receive an equal share of profits",
+              "vi": "Vị giám đốc điều hành đã chia sẻ lợi nhuận với nhân viên thông qua các khoản tiền thưởng. n phần, cổ phần"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 31,
+      "word": "encouraging",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "ink&ridzin",
+      "ipaUs": "inké:ridzio",
+      "page": 309,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "mang tính khích lệ, động viên",
+          "examples": [
+            {
+              "en": "The figures for this quarter were encouraging.",
+              "vi": "Các số liệu quý này rất đáng khích lệ. Bai th TOEIC đạng thức môn Cần phân biệt rõ từ loại encouragement (n. sự động viên)"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 32,
+      "word": "incur",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "Uk ink6:",
+      "ipaUs": "inké:r",
+      "page": 309,
+      "senses": [
+        {
+          "pos": "adv",
+          "meaning": "hơi, không đáng kể",
+          "examples": [
+            {
+              "en": "We have incurred significant operating losses since our inception a decade ago.",
+              "vi": "Chúng tôi phải gánh chịu những thua lỗ đáng kể trong quá trình vận hành doanh nghiệp từ khi bắt đầu khởi nghiệp 10 trước."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 33,
+      "word": "slightly",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "slightly",
+      "ipaUs": "sláitli",
+      "page": 309,
+      "senses": [
+        {
+          "pos": "adv",
+          "meaning": "hơi, không đáng kể",
+          "examples": [
+            {
+              "en": "Inquiries regarding purchases are expected to decrease slightly.",
+              "vi": "Nhu cầu tiêu dùng được dự đoán là sẽ giảm nhẹ. • Bai thi TOEIC dạng thức mơi ng)) Cần phân biệt rõ từ loại slightly (adv. không đáng kể) và"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 34,
+      "word": "profit",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "profit",
+      "ipaUs": "práfit",
+      "page": 309,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "lợi nhuận, tiền lãi",
+          "examples": [
+            {
+              "en": "The profits from the auction will go to charity.",
+              "vi": "Lợi nhuận từ cuộc bán đấu giá sẽ được dùng làm từ thiện."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 35,
+      "word": "reliant",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "reliant",
+      "ipaUs": "rilaient",
+      "page": 310,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "dựa vào, nhờ vào",
+          "examples": [
+            {
+              "en": "Much of the business is reliant on sales from",
+              "vi": "returning customers. Phần lớn hoạt động kinh doanh đều dựa trên doanh thu từ khách hàng quen. V minh họa, làm rõ ý"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 36,
+      "word": "illustrate",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "illustrate",
+      "ipaUs": "illtrator (n) người vé",
+      "page": 310,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "không chính xác, sai",
+          "examples": [
+            {
+              "en": "The line graph illustrates the rise in expenses. Ophe the Tho",
+              "vi": "Biểu đồ đường này minh họa mức tăng trong chỉ tiêu. illustration sự minh họa - illustrator người vẽ minh họa"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 37,
+      "word": "inaccurate",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "inaccurate",
+      "ipaUs": "inækjurat",
+      "page": 310,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "không chính xác, sai",
+          "examples": [
+            {
+              "en": "The calculations in the report were inaccurate.",
+              "vi": "Các tính toán trong bản báo cáo này không chính xác. cựn inaccurate information thông tin không chính xác Từ inaccurate thường di với danh từ information."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 38,
+      "word": "percentage",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "percentage",
+      "ipaUs": "parséntid3",
+      "page": 310,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "The percentage of people buying digital music Hackers TOEIC Vocabulary players has decreased somewhat.",
+              "vi": "Tỷ lệ người mua các thiết bị nghe nhạc điện tử đã giảm đi phần nào. Cần phân biệt cách sử dụng của hai từ cùng mang nghĩa \"tỷ lệ, phần trăm\" này."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 39,
+      "word": "reduce",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "reduce",
+      "ipaUs": "rid/ú:s",
+      "page": 311,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "giảm, giảm bớt, hạ",
+          "examples": [
+            {
+              "en": "Management reduced the travel budget in an effort The company disposed of old equipment it no",
+              "vi": "Ban quản lý đã giảm bởt ngân sách cho việc đi lại trong nỗ lực nhăm cắt giảm chi phí. reduce + costs/budget giảm chi phứ/ngân sách"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 40,
+      "word": "tend",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "tend",
+      "ipaUs": "tend",
+      "page": 311,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "Corporate profits tend to rise in line with national",
+              "vi": "income. Lợi nhuận của doanh nghiệp có xu hướng tăng tương ứng với thu nhập quốc dân. m tend to do có xu hướng làm gì"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    }
+  ],
+  "dailyCheckup": {
+    "page": 0,
+    "groups": [
+      {
+        "instruction": "Tìm ở cột bên phải nghĩa của các từ vựng ở cột bên trái và nối chúng với nhau.",
+        "options": [
+          {
+            "key": "a",
+            "text": "tiêu cực"
+          },
+          {
+            "key": "b",
+            "text": "ngay lập tức"
+          },
+          {
+            "key": "c",
+            "text": "cách tiếp cận"
+          },
+          {
+            "key": "d",
+            "text": "bị cấm"
+          },
+          {
+            "key": "e",
+            "text": "sự chấp thuận"
+          },
+          {
+            "key": "f",
+            "text": "truy cập"
+          }
+        ],
+        "questions": [
+          {
+            "no": 1,
+            "prompt": "shift",
+            "answer": "a"
+          },
+          {
+            "no": 2,
+            "prompt": "projection",
+            "answer": "a"
+          },
+          {
+            "no": 3,
+            "prompt": "fee",
+            "answer": "a"
+          },
+          {
+            "no": 4,
+            "prompt": "improvement",
+            "answer": "a"
+          },
+          {
+            "no": 5,
+            "prompt": "achieve",
+            "answer": "a"
+          }
+        ]
+      },
+      {
+        "instruction": "Hãy chọn từ phù hợp để điền vào mỗi câu của bài thi TOEIC dạng thức mới sau.",
+        "options": [
+          {
+            "key": "a",
+            "text": "inspection"
+          },
+          {
+            "key": "b",
+            "text": "effect"
+          },
+          {
+            "key": "c",
+            "text": "authorized"
+          },
+          {
+            "key": "d",
+            "text": "procedure"
+          },
+          {
+            "key": "e",
+            "text": "concern"
+          }
+        ],
+        "questions": [
+          {
+            "no": 6,
+            "prompt": "The department.",
+            "answer": "a"
+          },
+          {
+            "no": 7,
+            "prompt": "Sales of heaters have remained",
+            "answer": "a"
+          },
+          {
+            "no": 8,
+            "prompt": "The",
+            "answer": "a"
+          },
+          {
+            "no": 9,
+            "prompt": "Unusually high expenses this year caused a temporary",
+            "answer": "a"
+          }
+        ]
+      },
+      {
+        "instruction": "Hãy chọn từ phù hợp để điền vào mỗi câu của bài thi TOEIC dạng thức mới sau.",
+        "options": [
+          {
+            "key": "a",
+            "text": "obligation"
+          },
+          {
+            "key": "b",
+            "text": "drastically"
+          },
+          {
+            "key": "c",
+            "text": "revise"
+          },
+          {
+            "key": "d",
+            "text": "thoroughly"
+          },
+          {
+            "key": "e",
+            "text": "arrangements"
+          }
+        ],
+        "questions": [
+          {
+            "no": 10,
+            "prompt": "The company ..",
+            "answer": "a"
+          },
+          {
+            "no": 11,
+            "prompt": "Sales_... improved this year, with profits higher than ever before.",
+            "answer": "a"
+          },
+          {
+            "no": 12,
+            "prompt": "People spend more during holiday season than other times of the year.",
+            "answer": "a"
+          },
+          {
+            "no": 13,
+            "prompt": "The manager's ... about the next trend in fashion industry was correct.",
+            "answer": "a"
+          }
+        ]
+      }
+    ]
+  },
+  "completeVocab": {
+    "basic": [
+      {
+        "word": "TỪ VỰNG TOEIC HOÀN CHÍNH",
+        "pos": "phr",
+        "meaning": "Doanh thu",
+        "section": "RC"
+      },
+      {
+        "word": "booklet",
+        "pos": "n",
+        "meaning": "tập sách nhỏ",
+        "section": "RC"
+      },
+      {
+        "word": "by telephone",
+        "pos": "phr",
+        "meaning": "bằng điện thoại",
+        "section": "RC"
+      },
+      {
+        "word": "from now",
+        "pos": "phr",
+        "meaning": "bằng điện thoại",
+        "section": "RC"
+      },
+      {
+        "word": "frying pan",
+        "pos": "phr",
+        "meaning": "chảo rán",
+        "section": "RC"
+      },
+      {
+        "word": "go shopping",
+        "pos": "phr",
+        "meaning": "di mua sắm",
+        "section": "RC"
+      },
+      {
+        "word": "goods",
+        "pos": "n",
+        "meaning": "hàng hóa",
+        "section": "RC"
+      },
+      {
+        "word": "lesson",
+        "pos": "n",
+        "meaning": "bài học",
+        "section": "RC"
+      },
+      {
+        "word": "o midday",
+        "pos": "n",
+        "meaning": "trưa, buối trưa",
+        "section": "RC"
+      },
+      {
+        "word": "o miss",
+        "pos": "n",
+        "meaning": "trưa, buối trưa",
+        "section": "RC"
+      },
+      {
+        "word": "rent",
+        "pos": "n",
+        "meaning": "cho thuê",
+        "section": "RC"
+      },
+      {
+        "word": "save",
+        "pos": "n",
+        "meaning": "* để dành, tiết kiệm",
+        "section": "RC"
+      },
+      {
+        "word": "unbelievable",
+        "pos": "n",
+        "meaning": "adi không thế tin được",
+        "section": "RC"
+      },
+      {
+        "word": "upset",
+        "pos": "n",
+        "meaning": "adị buồn lo, bực bội; v làm bối rối/khó chịu",
+        "section": "RC"
+      },
+      {
+        "word": "win",
+        "pos": "n",
+        "meaning": "adị buồn lo, bực bội; v làm bối rối/khó chịu",
+        "section": "RC"
+      },
+      {
+        "word": "work on",
+        "pos": "phr",
+        "meaning": "thực hiện, tiến hành",
+        "section": "RC"
+      },
+      {
+        "word": "change",
+        "pos": "n",
+        "meaning": "sự thay đổi",
+        "section": "RC"
+      },
+      {
+        "word": "decrease",
+        "pos": "n",
+        "meaning": "sự thay đổi",
+        "section": "RC"
+      },
+      {
+        "word": "gain",
+        "pos": "v",
+        "meaning": "đạt được",
+        "section": "RC"
+      },
+      {
+        "word": "a height",
+        "pos": "n",
+        "meaning": "chiều cao, độ cao",
+        "section": "RC"
+      },
+      {
+        "word": "a income",
+        "pos": "n",
+        "meaning": "chiều cao, độ cao",
+        "section": "RC"
+      },
+      {
+        "word": "liquid",
+        "pos": "n",
+        "meaning": "chất lỏng; adị lỏng",
+        "section": "RC"
+      },
+      {
+        "word": "loss",
+        "pos": "n",
+        "meaning": "sự mất, tổn thất, thua lỗ",
+        "section": "RC"
+      },
+      {
+        "word": "model",
+        "pos": "n",
+        "meaning": "sự mất, tổn thất, thua lỗ",
+        "section": "RC"
+      },
+      {
+        "word": "pace",
+        "pos": "n",
+        "meaning": "bước đi, tốc độ",
+        "section": "RC"
+      },
+      {
+        "word": "range",
+        "pos": "n",
+        "meaning": "dãy, phạm vi; v sắp hàng, xếp loại",
+        "section": "RC"
+      },
+      {
+        "word": "refrigerator",
+        "pos": "n",
+        "meaning": "tủ lạnh",
+        "section": "RC"
+      },
+      {
+        "word": "rely on",
+        "pos": "phr",
+        "meaning": "trông cậy vào",
+        "section": "RC"
+      },
+      {
+        "word": "send",
+        "pos": "phr",
+        "meaning": "trông cậy vào",
+        "section": "RC"
+      }
+    ],
+    "score800": [
+      {
+        "word": "be shaded",
+        "pos": "phr",
+        "meaning": "có bóng râm, bị che mờ",
+        "section": "P56"
+      },
+      {
+        "word": "bring about",
+        "pos": "phr",
+        "meaning": "gây ra",
+        "section": "P56"
+      },
+      {
+        "word": "cut costs",
+        "pos": "phr",
+        "meaning": "cắt giảm chi phí",
+        "section": "P56"
+      },
+      {
+        "word": "a figures",
+        "pos": "n",
+        "meaning": "con số, số liệu",
+        "section": "P56"
+      },
+      {
+        "word": "harsh",
+        "pos": "n",
+        "meaning": "aơị khắc nghiệt, tàn nhẫn",
+        "section": "P56"
+      },
+      {
+        "word": "have the best rates",
+        "pos": "phr",
+        "meaning": "có mức giá tốt nhất",
+        "section": "P56"
+      },
+      {
+        "word": "harm",
+        "pos": "n",
+        "meaning": "y gây hại, làm tổn hại",
+        "section": "P56"
+      },
+      {
+        "word": "link together",
+        "pos": "phr",
+        "meaning": "y gây hại, làm tổn hại",
+        "section": "P56"
+      },
+      {
+        "word": "make money",
+        "pos": "phr",
+        "meaning": "kiếm tiền",
+        "section": "P56"
+      },
+      {
+        "word": "meet one's goal",
+        "pos": "phr",
+        "meaning": "đạt được mục tiêu",
+        "section": "P56"
+      },
+      {
+        "word": "misread",
+        "pos": "n",
+        "meaning": "y đọc sai, hiểu sai",
+        "section": "P56"
+      },
+      {
+        "word": "sales report",
+        "pos": "phr",
+        "meaning": "báo cáo bán hàng",
+        "section": "P56"
+      },
+      {
+        "word": "situated",
+        "pos": "n",
+        "meaning": "adị ở vào tình thể/hoàn cảnh",
+        "section": "P56"
+      },
+      {
+        "word": "slight chance",
+        "pos": "phr",
+        "meaning": "cơ hội mong manh",
+        "section": "P56"
+      },
+      {
+        "word": "take a course",
+        "pos": "phr",
+        "meaning": "học một khóa",
+        "section": "P56"
+      },
+      {
+        "word": "a to be honest with you",
+        "pos": "phr",
+        "meaning": "nói thật với bạn",
+        "section": "P56"
+      },
+      {
+        "word": "allot",
+        "pos": "n",
+        "meaning": "y phân bổ, phân phối",
+        "section": "P56"
+      },
+      {
+        "word": "allotment",
+        "pos": "n",
+        "meaning": "sự phân bổ/phân phối",
+        "section": "P56"
+      },
+      {
+        "word": "charity",
+        "pos": "n",
+        "meaning": "sự phân bổ/phân phối",
+        "section": "P56"
+      },
+      {
+        "word": "continued",
+        "pos": "n",
+        "meaning": "adị liên tục",
+        "section": "P56"
+      },
+      {
+        "word": "desperate",
+        "pos": "n",
+        "meaning": "adị tuyệt vọng, dữ dội",
+        "section": "P56"
+      },
+      {
+        "word": "doubtful",
+        "pos": "n",
+        "meaning": "adị tuyệt vọng, dữ dội",
+        "section": "P56"
+      },
+      {
+        "word": "downfall",
+        "pos": "n",
+        "meaning": "sự sa sút/suy sụp",
+        "section": "P56"
+      },
+      {
+        "word": "enhancement",
+        "pos": "n",
+        "meaning": "sự tăng cường",
+        "section": "P56"
+      },
+      {
+        "word": "factor",
+        "pos": "n",
+        "meaning": "sự tăng cường",
+        "section": "P56"
+      },
+      {
+        "word": "fortune",
+        "pos": "n",
+        "meaning": "vận may, của cải, cơ đồ",
+        "section": "P56"
+      },
+      {
+        "word": "gross income",
+        "pos": "phr",
+        "meaning": "tổng thu nhập",
+        "section": "P56"
+      },
+      {
+        "word": "a impossible",
+        "pos": "phr",
+        "meaning": "tổng thu nhập",
+        "section": "P56"
+      },
+      {
+        "word": "linguistics",
+        "pos": "n",
+        "meaning": "ngôn ngữ học",
+        "section": "P56"
+      },
+      {
+        "word": "loosely",
+        "pos": "n",
+        "meaning": "aáv lỏng lẻo",
+        "section": "P56"
+      },
+      {
+        "word": "make up for",
+        "pos": "phr",
+        "meaning": "bù đắp cho",
+        "section": "P56"
+      },
+      {
+        "word": "moderate",
+        "pos": "phr",
+        "meaning": "bù đắp cho",
+        "section": "P56"
+      },
+      {
+        "word": "optimal",
+        "pos": "n",
+        "meaning": "adị tổi Ưu",
+        "section": "P56"
+      },
+      {
+        "word": "possess",
+        "pos": "v",
+        "meaning": "có, sở hữu",
+        "section": "P7"
+      },
+      {
+        "word": "profitable (+→ unprofitable)",
+        "pos": "phr",
+        "meaning": "adị có lợi, sinh lời",
+        "section": "P7"
+      },
+      {
+        "word": "put A in jeopardy",
+        "pos": "phr",
+        "meaning": "adị có lợi, sinh lời",
+        "section": "P7"
+      },
+      {
+        "word": "quite",
+        "pos": "adv",
+        "meaning": "khá, đúng là",
+        "section": "P7"
+      },
+      {
+        "word": "sales figure",
+        "pos": "phr",
+        "meaning": "số liệu bán hàng",
+        "section": "P7"
+      },
+      {
+        "word": "seek to do",
+        "pos": "phr",
+        "meaning": "tìm cách làm",
+        "section": "P7"
+      },
+      {
+        "word": "split",
+        "pos": "n",
+        "meaning": "y tách, chia rẽ; n vết nứt",
+        "section": "P7"
+      },
+      {
+        "word": "a submission",
+        "pos": "n",
+        "meaning": "sự trình/đệ trình",
+        "section": "P7"
+      },
+      {
+        "word": "sufficient",
+        "pos": "adj",
+        "meaning": "đủ",
+        "section": "P7"
+      },
+      {
+        "word": "a surrounding",
+        "pos": "adj",
+        "meaning": "đủ",
+        "section": "P7"
+      },
+      {
+        "word": "to that end",
+        "pos": "phr",
+        "meaning": "để đạt được mục đích đó",
+        "section": "P7"
+      },
+      {
+        "word": "transition",
+        "pos": "phr",
+        "meaning": "để đạt được mục đích đó",
+        "section": "P7"
+      },
+      {
+        "word": "unusually",
+        "pos": "adv",
+        "meaning": "khác thường",
+        "section": "P7"
+      },
+      {
+        "word": "added benefits",
+        "pos": "adv",
+        "meaning": "khác thường",
+        "section": "P7"
+      },
+      {
+        "word": "additional fee",
+        "pos": "phr",
+        "meaning": "lợi ích bổ sung",
+        "section": "P7"
+      },
+      {
+        "word": "o at a rapid rate",
+        "pos": "phr",
+        "meaning": "phụ phí",
+        "section": "P7"
+      },
+      {
+        "word": "commercial value",
+        "pos": "phr",
+        "meaning": "giá trị thương mại",
+        "section": "P7"
+      },
+      {
+        "word": "dean",
+        "pos": "phr",
+        "meaning": "giá trị thương mại",
+        "section": "P7"
+      },
+      {
+        "word": "disappointing",
+        "pos": "n",
+        "meaning": "adị làm thất vọng",
+        "section": "P7"
+      },
+      {
+        "word": "do damage",
+        "pos": "phr",
+        "meaning": "gây thiệt hại",
+        "section": "P7"
+      },
+      {
+        "word": "engineering",
+        "pos": "phr",
+        "meaning": "gây thiệt hại",
+        "section": "P7"
+      },
+      {
+        "word": "file for bankruptcy",
+        "pos": "phr",
+        "meaning": "nộp hỗ sơ xin phá sản",
+        "section": "P7"
+      },
+      {
+        "word": "growth potential",
+        "pos": "phr",
+        "meaning": "tiềm năng tăng trưởng",
+        "section": "P7"
+      },
+      {
+        "word": "o highlight",
+        "pos": "phr",
+        "meaning": "tiềm năng tăng trưởng",
+        "section": "P7"
+      },
+      {
+        "word": "o long-term stability",
+        "pos": "n",
+        "meaning": "điểm nổi bật; v làm nổi bật",
+        "section": "P7"
+      },
+      {
+        "word": "non-profit organization",
+        "pos": "phr",
+        "meaning": "tổ chức phi lợi nhuận",
+        "section": "P7"
+      },
+      {
+        "word": "on the rise",
+        "pos": "phr",
+        "meaning": "tổ chức phi lợi nhuận",
+        "section": "P7"
+      },
+      {
+        "word": "piece by piece",
+        "pos": "phr",
+        "meaning": "từng chút một",
+        "section": "P7"
+      },
+      {
+        "word": "proportion",
+        "pos": "n",
+        "meaning": "phần, tỷ lệ",
+        "section": "P7"
+      },
+      {
+        "word": "raised",
+        "pos": "n",
+        "meaning": "phần, tỷ lệ",
+        "section": "P7"
+      },
+      {
+        "word": "rising cost",
+        "pos": "phr",
+        "meaning": "chi phí tăng",
+        "section": "P7"
+      },
+      {
+        "word": "semester",
+        "pos": "n",
+        "meaning": "học kỳ",
+        "section": "P7"
+      },
+      {
+        "word": "timeline",
+        "pos": "n",
+        "meaning": "học kỳ",
+        "section": "P7"
+      },
+      {
+        "word": "a, undergraduate",
+        "pos": "n",
+        "meaning": "dòng thời gian, tiến độ",
+        "section": "P7"
+      },
+      {
+        "word": "a up to",
+        "pos": "phr",
+        "meaning": "lên đến",
+        "section": "P7"
+      }
+    ],
+    "score900": [
+      {
+        "word": "a coil",
+        "pos": "phr",
+        "meaning": "Y cuộn; n cuộn (dây), lỗi",
+        "section": "P7"
+      },
+      {
+        "word": "make forecast",
+        "pos": "phr",
+        "meaning": "(dự báo",
+        "section": "P7"
+      },
+      {
+        "word": "retrieve",
+        "pos": "v",
+        "meaning": "lấy lại, khôi phục",
+        "section": "P7"
+      },
+      {
+        "word": "uncover",
+        "pos": "n",
+        "meaning": "y khám phá, tiết lộ",
+        "section": "P7"
+      },
+      {
+        "word": "distributor",
+        "pos": "n",
+        "meaning": "nhà phân phối",
+        "section": "P7"
+      },
+      {
+        "word": "estimated",
+        "pos": "n",
+        "meaning": "adị được ước tính",
+        "section": "P7"
+      },
+      {
+        "word": "financier",
+        "pos": "n",
+        "meaning": "chuyên gia tài chính",
+        "section": "P7"
+      },
+      {
+        "word": "gratified",
+        "pos": "n",
+        "meaning": "chuyên gia tài chính",
+        "section": "P7"
+      },
+      {
+        "word": "hollow",
+        "pos": "n",
+        "meaning": "adị rỗng, rỗng tuếch, không thật",
+        "section": "P7"
+      },
+      {
+        "word": "immeasurably",
+        "pos": "adv",
+        "meaning": "vô cùng, cực kỳ",
+        "section": "P7"
+      },
+      {
+        "word": "indicated",
+        "pos": "n",
+        "meaning": "adị được chỉ ra",
+        "section": "P7"
+      },
+      {
+        "word": "indicative",
+        "pos": "n",
+        "meaning": "adị ngụ ý, biếu thị",
+        "section": "P7"
+      },
+      {
+        "word": "literally",
+        "pos": "adv",
+        "meaning": "theo nghĩa đen, đúng là",
+        "section": "P7"
+      },
+      {
+        "word": "minimally",
+        "pos": "adv",
+        "meaning": "theo nghĩa đen, đúng là",
+        "section": "P7"
+      },
+      {
+        "word": "outpace",
+        "pos": "v",
+        "meaning": "đi nhanh hơn",
+        "section": "P7"
+      },
+      {
+        "word": "outsell",
+        "pos": "v",
+        "meaning": "bán chạy hơn",
+        "section": "P7"
+      },
+      {
+        "word": "proportionate",
+        "pos": "n",
+        "meaning": "ndị theo tỷ lệ, cân đối",
+        "section": "P7"
+      },
+      {
+        "word": "rewarding",
+        "pos": "n",
+        "meaning": "adị thỏa mãn, đáng xem, đáng làm",
+        "section": "P7"
+      },
+      {
+        "word": "o signify",
+        "pos": "v",
+        "meaning": "biểu thị, báo hiệu",
+        "section": "P7"
+      },
+      {
+        "word": "steeply",
+        "pos": "adv",
+        "meaning": "dốc, cheo leo",
+        "section": "P7"
+      },
+      {
+        "word": "subside",
+        "pos": "adv",
+        "meaning": "dốc, cheo leo",
+        "section": "P7"
+      },
+      {
+        "word": "swell",
+        "pos": "n",
+        "meaning": "y rút xuống, lắng xuống",
+        "section": "P7"
+      },
+      {
+        "word": "terminology",
+        "pos": "n",
+        "meaning": "thuật ngữ",
+        "section": "P7"
+      },
+      {
+        "word": "variably",
+        "pos": "n",
+        "meaning": "ady dao động, dễ thay đổi",
+        "section": "P7"
+      },
+      {
+        "word": "vitally",
+        "pos": "n",
+        "meaning": "ady dao động, dễ thay đổi",
+        "section": "P7"
+      },
+      {
+        "word": "agile",
+        "pos": "n",
+        "meaning": "adị nhanh nhẹn, lanh lợi",
+        "section": "P7"
+      },
+      {
+        "word": "deviate",
+        "pos": "n",
+        "meaning": "y sai đường, lạc lối",
+        "section": "P7"
+      },
+      {
+        "word": "even out",
+        "pos": "phr",
+        "meaning": "y sai đường, lạc lối",
+        "section": "P7"
+      },
+      {
+        "word": "infusion",
+        "pos": "n",
+        "meaning": "nị sự bơm/truyền",
+        "section": "P7"
+      },
+      {
+        "word": "insolvent",
+        "pos": "n",
+        "meaning": "adi vỡ nợ, không trà được nợ",
+        "section": "P7"
+      },
+      {
+        "word": "offset",
+        "pos": "n",
+        "meaning": "adi vỡ nợ, không trà được nợ",
+        "section": "P7"
+      },
+      {
+        "word": "profit margin",
+        "pos": "phr",
+        "meaning": "y bù lại, bù đắp",
+        "section": "P7"
+      }
+    ]
+  },
+  "title": "Tiền thưởng là bao nhiêu"
+}

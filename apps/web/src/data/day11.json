@@ -1,0 +1,1744 @@
+{
+  "dayNo": 11,
+  "source": "Apple Vision OCR extraction from pages 186-201",
+  "coreWords": [
+    {
+      "no": 1,
+      "word": "research",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "risé:t",
+      "ipaUs": "ri:se:rt!",
+      "page": 187,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự nghiên cứu, điều tra",
+          "examples": [
+            {
+              "en": "The company started a research program into developing GPS technology.",
+              "vi": "Công ty đã bắt đầu một chương trình nghiên cứu về việc phát triển hệ thống dịnh vị toàn cầu (GPS). cụm research on nghiên cứu về"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 2,
+      "word": "devise",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "devise",
+      "ipaUs": "diváiz",
+      "page": 187,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "mang tính cách mạng, cải cách",
+          "examples": [
+            {
+              "en": "The firm devised a more efficient network system.",
+              "vi": "Công ty đã tạo ra một hệ thỗng mạng lưới hiệu quả hơn."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 3,
+      "word": "revolutionary",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "rèvalú:fanari",
+      "ipaUs": "révaluaneri",
+      "page": 187,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "mang tính cách mạng, cải cách",
+          "examples": [
+            {
+              "en": "The car's revolutionary new engine surpasses those Hackers TOEIC Vocabulary",
+              "vi": "the com ntn n cách mang của chếc xo này vuớt trập hơn các loại xe khác trong cuộc đua. Lưu ý phân biệt từ loại revolutionary (adj. mang tính cách"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 4,
+      "word": "innovative",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "fí:t[a",
+      "ipaUs": "fí:tfar",
+      "page": 187,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "tân tiến, đổi mới",
+          "examples": [
+            {
+              "en": "Simpson & Associates provides clients with innovative solutions to their needs. The latest dryer has several new features.",
+              "vi": "Simpsons & Associates cung cấp cho khách hàng những giải pháp tân tiến nhất phù hợp với nhu cầu của họ. n đặc điểm, tính năng"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 5,
+      "word": "inspiration",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "inspiration",
+      "ipaUs": "insparéifan",
+      "page": 188,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "cảm hứng, nguồn cảm hứng",
+          "examples": [
+            {
+              "en": "The new fashion designer draws her inspiration from traditional attire.",
+              "vi": "Nhà thiết kế thời trang mới đã lấy cảm hứng từ các trang phục truyền thống. adv đủ, đầy đủ, thỏa đáng"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 6,
+      "word": "sufficiently",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "sufficiently",
+      "ipaUs": "sofijentli",
+      "page": 188,
+      "senses": [
+        {
+          "pos": "adv",
+          "meaning": "đủ, đầy đủ, thỏa đáng",
+          "examples": [
+            {
+              "en": "The containers are sufficiently strong to resist",
+              "vi": "Các thùng chứa đủ chắc chắn để không bị vỡ. n bằng sáng chế, giấy đăng ký"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 7,
+      "word": "patent",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "patent",
+      "ipaUs": "péitnt",
+      "page": 188,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "bằng sáng chế, giấy đăng ký",
+          "examples": [
+            {
+              "en": "The lawyers submitted the paperwork for a patent",
+              "vi": "Các luật sư đã trình giấy tờ để xin cấp bằng sáng chế. Y hình dung, mường tượng"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 8,
+      "word": "envision",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "envision",
+      "ipaUs": "invizen",
+      "page": 188,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "Management envisions its latest product being sold in stores across the country. A switch for adjusting brightness extends from the",
+              "vi": "Ban lãnh đạo hình dung rằng sản phẩm mới nhất của họ sẽ được bày bán ở các cửa hàng trên cả nước. V mở rộng, kéo dài, gia hạn, giơ ra, tỏ ra"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 9,
+      "word": "following",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "following",
+      "ipaUs": "fálouin",
+      "page": 189,
+      "senses": [
+        {
+          "pos": "prep",
+          "meaning": "sau, tiếp theo",
+          "examples": [
+            {
+              "en": "The software was launched following months of Product brochures are available in the following",
+              "vi": "research. Phần mềm này đã được ra mất sau hàng tháng trời nghiên cứu. adj. tiếp theo, sau đây, theo sau"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 10,
+      "word": "intend",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "intend",
+      "ipaUs": "inténd",
+      "page": 189,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "ban, cấp, thừa nhận, công nhận",
+          "examples": [
+            {
+              "en": "Beauford Incorporated intends to release its new appliances this fall. The inventor intended that her mixer be used for",
+              "vi": "Tập đoàn Beauford dự định ra mắt thiết bị gia dụng mới vào mùa thu này. Nhà sáng chế có ý định sử dụng chiếc máy trộn cho việc"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 11,
+      "word": "grant",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "grant",
+      "ipaUs": "grænt",
+      "page": 189,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "ban, cấp, thừa nhận, công nhận",
+          "examples": [
+            {
+              "en": "The patent for the handheld computer was granted The research team will receive a government grant Hackers TOEIC Vocabulary",
+              "vi": "on April 27. Bằng sáng chế máy tính cầm tay đã được cấp vào ngày 27 tháng Tư. n sự ban, sự cấp cho, sự chuyển nhượng, trợ cấp"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 12,
+      "word": "allow",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "allow",
+      "ipaUs": "aláu",
+      "page": 189,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "The program's new feature allows users to conduct advanced searches.",
+              "vi": "Tính năng mới của chương trình này cho phép người dùng thực hiện các tìm kiếm nâng cao."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 13,
+      "word": "inspect",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "inspect",
+      "ipaUs": "inspékt",
+      "page": 190,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "kiểm tra, thanh tra",
+          "examples": [
+            {
+              "en": "The head researcher inspects all equipments and chemicals in the laboratory daily to ensure safety.",
+              "vi": "Trưởng nhóm nghiên cứu phải kiểm tra toàn bộ thiết bị và hóa chất trong phòng thí nghiệm hằng ngày để đảm bảo an toàn. v cải thiện, cải tiến, nâng cấp"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 14,
+      "word": "mprove",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "mprove",
+      "ipaUs": "imprú:v",
+      "page": 190,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "cải thiện, cải tiến, nâng cấp",
+          "examples": [
+            {
+              "en": "A variety of incentives can improve staff productivity.",
+              "vi": "Việc khích lệ động viên với nhiều hình thức có thể cải thiện năng suất lao động của nhân viên. adv ngày càng tăng"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 15,
+      "word": "increasingly",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "increasingly",
+      "ipaUs": "inkrí:sinli",
+      "page": 190,
+      "senses": [
+        {
+          "pos": "adv",
+          "meaning": "ngày càng tăng",
+          "examples": [
+            {
+              "en": "Technology is becoming an increasingly important",
+              "vi": "Khoa học kỹ thuật đang trở thành một nhân tố ngày càng quan trọng trong nền kinh tế quốc gia. v đầu tư"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 16,
+      "word": "invest",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "invest",
+      "ipaUs": "invést",
+      "page": 190,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "đầu tư",
+          "examples": [
+            {
+              "en": "Lamont Manufacturing invested millions of dollars in improving its assembly line.",
+              "vi": "Lamont Manufacturing đã đầu tư hàng triệu đô-la vào việc cải tiến dây chuyền lắp ráp. adj nhiều, đa dạng, khác nhau"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 17,
+      "word": "various",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "véarias",
+      "ipaUs": "véarias",
+      "page": 190,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "nhiều, đa dạng, khác nhau",
+          "examples": [
+            {
+              "en": "This car has various features not included in older",
+              "vi": "Chiếc xe hơi này có những tính năng đa dạng mà các mẫu xe cũ không có. n sự cải tiến, sự nâng cấp"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 18,
+      "word": "upgrade",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "upgrade",
+      "ipaUs": "n. [Ápgrèid",
+      "page": 190,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự cải tiến, sự nâng cấp",
+          "examples": [
+            {
+              "en": "Special customers are eligible for one free computer Gina just upgraded her cell phone software.",
+              "vi": "Các khách hàng đặc biệt sẽ được hưởng một gói nâng cấp máy tính miễn phí. V nâng cấp, cải tiến"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 19,
+      "word": "manual",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "manual",
+      "ipaUs": "mánjual",
+      "page": 191,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sổ tay, sách hướng dẫn",
+          "examples": [
+            {
+              "en": "Rachel is writing the product manual for the new",
+              "vi": "Rachel đang viết hướng dẫn sử dụng cho sản phẩm điều hòa mới. v thám hiểm, tìm tòi, khám phá"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 20,
+      "word": "explore",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "iksplo:",
+      "ipaUs": "iksplor",
+      "page": 191,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "thám hiểm, tìm tòi, khám phá",
+          "examples": [
+            {
+              "en": "Clients seeking company information can explore",
+              "vi": "Khách hàng muốn biết thêm thông tin về công ty có thể tìm hiếu trên trang web của chúng tôi. n sự phản hồi, câu trả lời, sự hưởng ứng"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 21,
+      "word": "response",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "rispóns",
+      "ipaUs": "rispäns",
+      "page": 191,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự phản hồi, câu trả lời, sự hưởng ứng",
+          "examples": [
+            {
+              "en": "Those testing the new microwave are asked to submit written responses to some questions.",
+              "vi": "Những người dùng thử sản phẩm lò vi sóng mới được yêu cầu viết câu trả lời cho một số câu hỏi. Oạng thue tnh"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 22,
+      "word": "appearance",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "appearance",
+      "ipaUs": "apiarons",
+      "page": 191,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự xuất hiện, vẻ ngoài, diện mạo",
+          "examples": [
+            {
+              "en": "The design team completely modernized the Hackers TOEIC Vocabulary",
+              "vi": "Nhóm thiết kế đã đổi mới hoàn toàn mẫu mã của sản phẩm. adj thành công, thành đạt"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 23,
+      "word": "successful",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "successful",
+      "ipaUs": "saksésfai",
+      "page": 191,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "thành công, thành đạt",
+          "examples": [
+            {
+              "en": "The floor lamps are the company's most successful",
+              "vi": "Đèn sàn là sản phẩm thành công nhất của công ty."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 24,
+      "word": "hold",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "hauld",
+      "ipaUs": "hould",
+      "page": 192,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "cầm, giữ, tổ chức",
+          "examples": [
+            {
+              "en": "The washing machine holds up to three kilograms",
+              "vi": "of laundry. Chiếc máy giặt này giặt được tới 3 kg quần áo. n.) Từ hold có thể thay thế bằng conduct với ý nghĩa \"tiến hành\" hoặc \"tổ chức\" cuộc họp hay chương trình nào đó."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 25,
+      "word": "advance",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "kwóliti",
+      "ipaUs": "kwálati",
+      "page": 192,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "thành tựu, sự tiến bộ, sự thăng tiến",
+          "examples": [
+            {
+              "en": "The product development team researches advances in computer technology. baUTh TOER.",
+              "vi": "Bộ phận cải tiến sản phẩm nghiên cứu những thành tựu trong công nghệ tin học. cụm in advance trước"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 26,
+      "word": "domestic",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "domestic",
+      "ipaUs": "daméstik",
+      "page": 193,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "trong nước, nội địa, (thuộc) việc nhà",
+          "examples": [
+            {
+              "en": "Slow sales in the domestic market forced companies to expand overseas.",
+              "vi": "Tốc độ bán chậm trong nước đã buộc các công ty phải mở rộng ra nước ngoài. n sự phát triển, sự tiến triển"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 27,
+      "word": "development",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "development",
+      "ipaUs": "divélepment",
+      "page": 193,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự phát triển, sự tiến triển",
+          "examples": [
+            {
+              "en": "The project is in the final stage of development. Developments in wireless technology allow for high-powered smart phones.",
+              "vi": "Dự án đang ở giai đoạn phát triển cuối cùng. Sự phát triển của công nghệ không dây phải kể đến điện thoại thông minh tính năng cao."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 28,
+      "word": "availability",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "avèilabíliti",
+      "ipaUs": "avèilabílati",
+      "page": 193,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự có sẵn, có thể mua được, sự có hiệu lực",
+          "examples": [
+            {
+              "en": "Availability of product depends on market demand",
+              "vi": "Sự có mặt của sản phẩm phụ thuộc vào cung và cầu của thị trường. n sự cập nhật, sự nâng cấp"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 29,
+      "word": "update",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "update",
+      "ipaUs": "n. [ùpdéit",
+      "page": 193,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự cập nhật, sự nâng cấp",
+          "examples": [
+            {
+              "en": "The website update includes information on the Hackers TOEIC Vocabulary latest hair styling appliances.",
+              "vi": "Việc cập nhật trang web bao gồm cả thông tin về những thiết bị tạo mẫu tóc mới nhất. v cập nhật, nâng cấp"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 30,
+      "word": "accurate",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "accurate",
+      "ipaUs": "ækjurat",
+      "page": 193,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "The new accounting software is accurate and precise.",
+              "vi": "Phần mềm kế toán mới rất đúng và chính xác."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 31,
+      "word": "complicated",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "kömplikeitid",
+      "ipaUs": "kámplakèitid",
+      "page": 194,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "đã hoàn thành, trọn vẹn, hoàn hảo, có tài năng",
+          "examples": [
+            {
+              "en": "Project delays often create a complicated situation for the public relations department.",
+              "vi": "Việc trì hoãn dự án thường tạo ra tình huống rắc rối cho bộ phận quan hệ công chúng."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 32,
+      "word": "accomplished",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "akAmplijt",
+      "ipaUs": "akámplijt",
+      "page": 194,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "đã hoàn thành, trọn vẹn, hoàn hảo, có tài năng",
+          "examples": [
+            {
+              "en": "The accomplished chemist has been hired to develop a flexible battery.",
+              "vi": "Nhà hóa học tài năng đó đã được thuê để phát triển một loại pin dẻo. n sự điều tra, sự thẩm vấn, câu hỏi, sự đòi hỏi"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 33,
+      "word": "inquiry",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "ink wäiari",
+      "ipaUs": "ínkwari",
+      "page": 194,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự điều tra, sự thẩm vấn, câu hỏi, sự đòi hỏi",
+          "examples": [
+            {
+              "en": "Please call our customer representatives for service",
+              "vi": "Vui lòng liên hệ nhân viên chăm sóc khách hàng để được giải đáp các câu hỏi về dịch vụ. n biểu hiện, dầu hiệu"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 34,
+      "word": "indication",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "indication",
+      "ipaUs": "ìndikéi{an",
+      "page": 194,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "biểu hiện, dầu hiệu",
+          "examples": [
+            {
+              "en": "Uneven printing is an indication of a technical fault. In a show of gratitude, staff were given bonuses.",
+              "vi": "In không đều màu là một dấu hiệu của lỗi kỹ thuật. C Đàng thực mới Bạn có thể gặp trong để thi câu hỏi yêu cầu phân biệt hai từ"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 35,
+      "word": "manufacturer",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "mænjutæktjara",
+      "ipaUs": "mænjufæktfarar",
+      "page": 194,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "nhà sản xuất, chủ xưởng, chủ xí nghiệp",
+          "examples": [
+            {
+              "en": "The manufacturer guarantees all its products for",
+              "vi": "Nhà sản xuất bảo hành toàn bộ sản phẩm của họ lên tới một năm."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 36,
+      "word": "compatible",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "kampætibl",
+      "ipaUs": "kampætabl",
+      "page": 195,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "cao, cao cấp, tốt hơn",
+          "examples": [
+            {
+              "en": "The remote control is compatible with all models. many Thal",
+              "vi": "Chiếc điều khiển từ xa này tương thích với mọi mẫu sản phẩm. be compatible with tương thích với Từ compatible thường đi cùng giới từ with."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 37,
+      "word": "superior",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "su:piaria",
+      "ipaUs": "der. superiority (n) sự",
+      "page": 195,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "cao, cao cấp, tốt hơn",
+          "examples": [
+            {
+              "en": "The company's latest television is superior to those on the market today. than thay cho to.",
+              "vi": "Chiếc tivi mới nhất của công ty cao cấp hơn các sản phẩm tivi hiện có trên thị trường. đạng Bi, mo"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 38,
+      "word": "absolute",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "absolute",
+      "ipaUs": "bsalù:t",
+      "page": 195,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "tuyệt đối, hoàn toàn, thuẩn túy",
+          "examples": [
+            {
+              "en": "The latest technology keeps production costs to an absolute minimum.",
+              "vi": "Công nghệ tiên tiến giúp giảm chi phí sản xuất xuống mức thấp nhất. Bai thì TOEIC đạng thức mội g to an absolute minimum xuống mức thấp nhất"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 39,
+      "word": "broaden",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "broaden",
+      "ipaUs": "br5:dn",
+      "page": 196,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "mở rộng",
+          "examples": [
+            {
+              "en": "The new CEO is broadening the scope of the The firm multiplied its fortunes by investing",
+              "vi": "Vị giám đốc điều hành mới đang mở rộng phạm vi nghiên cứu của công ty. Bai tu TOEIC dạng thuc mới"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 40,
+      "word": "corrosion",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "karáuzan",
+      "ipaUs": "karoan",
+      "page": 196,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự ăn mòn",
+          "examples": [
+            {
+              "en": "This steel roof is designed to be resistant to corrosion from the weather. Erosion of the coastal environment is a serious",
+              "vi": "Loại mái tôn này được thiết kế để không bị ăn mòn do thời tiết. đạng thức mới Hãy lưu ý phân biệt cách sử dụng của hai từ cùng có nghĩa"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    }
+  ],
+  "completeVocab": {
+    "basic": {
+      "LC": [],
+      "RC": [
+        [
+          "brand new",
+          "phr",
+          "hoàn toàn mới"
+        ],
+        [
+          "break down",
+          "phr",
+          "hỏng, trục trặc"
+        ],
+        [
+          "developer",
+          "n",
+          "nhà phát triển"
+        ],
+        [
+          "handmade",
+          "n",
+          "adị thủ công"
+        ],
+        [
+          "in a row",
+          "phr",
+          "xếp hàng"
+        ],
+        [
+          "late",
+          "n",
+          "adị aứv muộn, chậm, trế"
+        ],
+        [
+          "a lid",
+          "n",
+          "nắp, vung"
+        ],
+        [
+          "sample",
+          "v",
+          "mẫu, vật mẫu; n lấy mẫu, thử"
+        ],
+        [
+          "shape",
+          "v",
+          "mẫu, vật mẫu; n lấy mẫu, thử"
+        ],
+        [
+          "switch off",
+          "phr",
+          "tắt, ngắt"
+        ],
+        [
+          "turn off (+> turn on)",
+          "phr",
+          "tắt"
+        ],
+        [
+          "be known for",
+          "phr",
+          "được biết đến bởi, nổi tiếng vì"
+        ],
+        [
+          "be made of",
+          "phr",
+          "được làm từ"
+        ],
+        [
+          "catalog",
+          "phr",
+          "được làm từ"
+        ],
+        [
+          "chemist",
+          "n",
+          "nhà hóa học"
+        ],
+        [
+          "close down",
+          "phr",
+          "đóng cửa, ngừng hoạt động"
+        ],
+        [
+          "control",
+          "phr",
+          "đóng cửa, ngừng hoạt động"
+        ],
+        [
+          "a design",
+          "v",
+          "thiết kế; n bản thiết kế"
+        ],
+        [
+          "discovery",
+          "n",
+          "sự khảm phá"
+        ],
+        [
+          "historic",
+          "n",
+          "adị được ghi vào lịch sử, có tính lịch sử"
+        ],
+        [
+          "o invention",
+          "phr",
+          "• phát minh, sáng chế"
+        ],
+        [
+          "original",
+          "n",
+          "• phát minh, sáng chế"
+        ],
+        [
+          "receive",
+          "v",
+          "nhận"
+        ],
+        [
+          "repeat",
+          "v",
+          "lặp lại"
+        ],
+        [
+          "request form",
+          "v",
+          "lặp lại"
+        ],
+        [
+          "sensor",
+          "phr",
+          "phiều yêu cầu"
+        ],
+        [
+          "technique",
+          "n",
+          "công nghệ"
+        ],
+        [
+          "test",
+          "n",
+          "công nghệ"
+        ]
+      ]
+    },
+    "l800": {
+      "LC": [],
+      "P56": [
+        [
+          "a series of",
+          "phr",
+          "một chuỗi"
+        ],
+        [
+          "check the manual",
+          "phr",
+          "xem sổ tay hướng dẫn"
+        ],
+        [
+          "come up with",
+          "phr",
+          "nghi ra, tạo ra (một ý tưởng)"
+        ],
+        [
+          "enter a contest",
+          "phr",
+          "tham gia một cuộc thi"
+        ],
+        [
+          "give a demonstration of",
+          "phr",
+          "thực hiện, minh họa (cái gì)"
+        ],
+        [
+          "go straight to",
+          "phr",
+          "đi thẳng đến"
+        ],
+        [
+          "laboratory",
+          "n",
+          "phòng thí nghiệm"
+        ],
+        [
+          "latest work",
+          "phr",
+          "tác phẩm mới nhất"
+        ],
+        [
+          "lightweight",
+          "n",
+          "adị nhẹ, không quan trọng"
+        ],
+        [
+          "out-of-date",
+          "n",
+          "aơị cũ, lỗi thời"
+        ],
+        [
+          "product designer",
+          "phr",
+          "người thiết kế sản phẩm"
+        ],
+        [
+          "product display",
+          "phr",
+          "việc trưng bày sản phẩm"
+        ],
+        [
+          "redesign",
+          "n",
+          "sự thiết kể lại"
+        ],
+        [
+          "o trial period",
+          "n",
+          "sự thiết kể lại"
+        ],
+        [
+          "try out",
+          "phr",
+          "thử"
+        ],
+        [
+          "unplug the equipment",
+          "phr",
+          "rút phích cắm thiết bị"
+        ],
+        [
+          "up-to-date",
+          "n",
+          "adị cập nhật, hiện đại, hợp thời"
+        ],
+        [
+          "user's guide",
+          "phr",
+          "hướng dẫn sử dụng"
+        ],
+        [
+          "waterproof",
+          "n",
+          "aơi chống nước"
+        ],
+        [
+          "well-prepared",
+          "n",
+          "adị được chuẩn bị tốt"
+        ],
+        [
+          "with the lights on",
+          "phr",
+          "đang bật đèn"
+        ],
+        [
+          "advancement",
+          "phr",
+          "đang bật đèn"
+        ],
+        [
+          "appliance",
+          "n",
+          "thiết bị, dụng cụ"
+        ],
+        [
+          "aside from",
+          "phr",
+          "ngoại trừ"
+        ],
+        [
+          "certified",
+          "phr",
+          "ngoại trừ"
+        ],
+        [
+          "complementary",
+          "n",
+          "adị bù, bổ sung"
+        ],
+        [
+          "a composition",
+          "phr",
+          "adị bù, bổ sung"
+        ],
+        [
+          "consist of",
+          "phr",
+          "bao gồm"
+        ],
+        [
+          "cooperative",
+          "n",
+          "adị mang tính tập thể, hợp tác"
+        ],
+        [
+          "a delighted",
+          "phr",
+          "adị mang tính tập thể, hợp tác"
+        ],
+        [
+          "o designed",
+          "phr",
+          "adị được thiết kế"
+        ],
+        [
+          "durable",
+          "n",
+          "aơj bén, chắc chắn"
+        ],
+        [
+          "a electronics",
+          "phr",
+          "aơj bén, chắc chắn"
+        ]
+      ],
+      "P7": [
+        [
+          "a except for",
+          "phr",
+          "ngoại trừ"
+        ],
+        [
+          "exploration",
+          "n",
+          "sự thăm dò, sự thám hiểm"
+        ],
+        [
+          "imaginable",
+          "n",
+          "adị có thể tưởng tượng được"
+        ],
+        [
+          "innovate",
+          "n",
+          "adị có thể tưởng tượng được"
+        ],
+        [
+          "interpretation",
+          "v",
+          "đổi mới, cách tân"
+        ],
+        [
+          "licensed",
+          "n",
+          "adị được cấp phép"
+        ],
+        [
+          "mechanical",
+          "n",
+          "adị (thuộc) cơ khí, máy móc"
+        ],
+        [
+          "prediction",
+          "n",
+          "sự dự đoán, dự báo"
+        ],
+        [
+          "prototype",
+          "n",
+          "mẫu đầu tiên, nguyên máu"
+        ],
+        [
+          "quantity",
+          "n",
+          "số lượng"
+        ],
+        [
+          "remnant",
+          "n",
+          "số lượng"
+        ],
+        [
+          "screen",
+          "n",
+          "• màn hình; v kiểm tra"
+        ],
+        [
+          "suspend",
+          "n",
+          "• màn hình; v kiểm tra"
+        ],
+        [
+          "technical",
+          "n",
+          "adị thuộc về kỹ thuật"
+        ],
+        [
+          "unfavorable",
+          "n",
+          "adị bất lợi, không được ưa thích"
+        ],
+        [
+          "vulnerable to",
+          "phr",
+          "adị bất lợi, không được ưa thích"
+        ],
+        [
+          "be carried out",
+          "phr",
+          "được thực hiện"
+        ],
+        [
+          "be designed to do",
+          "phr",
+          "được thiết kế để"
+        ],
+        [
+          "breakthrough",
+          "n",
+          "i sự đột phá"
+        ],
+        [
+          "by the time",
+          "phr",
+          "vào lúc, khi"
+        ],
+        [
+          "collaboration",
+          "phr",
+          "vào lúc, khi"
+        ],
+        [
+          "copyright",
+          "n",
+          "bản quyền"
+        ],
+        [
+          "custom-built",
+          "n",
+          "bản quyền"
+        ],
+        [
+          "customize",
+          "n",
+          "hàng riêng"
+        ],
+        [
+          "disruption",
+          "n",
+          "sự gián đoạn"
+        ],
+        [
+          "energy efficiency",
+          "n",
+          "sự gián đoạn"
+        ],
+        [
+          "energy source",
+          "phr",
+          "nguồn năng lượng"
+        ],
+        [
+          "expand into",
+          "phr",
+          "mở rộng thành"
+        ],
+        [
+          "fuel consumption",
+          "phr",
+          "mở rộng thành"
+        ],
+        [
+          "guidance",
+          "n",
+          "sự hướng dẫn, sự chỉ đạo"
+        ],
+        [
+          "keep one's eye on",
+          "n",
+          "sự hướng dẫn, sự chỉ đạo"
+        ],
+        [
+          "limited edition",
+          "phr",
+          "để mắt tới"
+        ],
+        [
+          "long-lasting",
+          "n",
+          "adi bền, lâu dài"
+        ],
+        [
+          "plenty of",
+          "phr",
+          "adi bền, lâu dài"
+        ],
+        [
+          "smoke detector",
+          "phr",
+          "rất nhiều"
+        ]
+      ]
+    },
+    "l900": {
+      "LC": [],
+      "P56": [],
+      "P7": [
+        [
+          "be stacked on top of each other",
+          "phr",
+          "được xếp chồng lên nhau"
+        ],
+        [
+          "hectic",
+          "n",
+          "adị cuỗng nhiệt, sôi nổi"
+        ],
+        [
+          "a intently",
+          "phr",
+          "aấv chăm chú, chú tâm"
+        ],
+        [
+          "ornamental",
+          "n",
+          "adị để trang trí"
+        ],
+        [
+          "reassign",
+          "v",
+          "tái chỉ định, tái bổ nhiệm"
+        ],
+        [
+          "specimen",
+          "n",
+          "i mẫu, vật mẫu"
+        ],
+        [
+          "achievable",
+          "n",
+          "adị có thể dạt được, trong tầm tay"
+        ],
+        [
+          "apparatus",
+          "n",
+          "dụng cụ, bộ máy"
+        ],
+        [
+          "concession",
+          "n",
+          "sự nhượng bộ, sự hạ giá"
+        ],
+        [
+          "concurrently",
+          "adv",
+          "đồng thời, kiêm"
+        ],
+        [
+          "configuration",
+          "n",
+          "ri hình thể, hình dạng"
+        ],
+        [
+          "detectable",
+          "n",
+          "adị có thể dò ra, có thể tìm ra"
+        ],
+        [
+          "distill",
+          "v",
+          "chưng cất"
+        ],
+        [
+          "dysfunction",
+          "n",
+          "rối loạn chức năng"
+        ],
+        [
+          "embedded",
+          "n",
+          "adị được gắn vào"
+        ],
+        [
+          "evolve",
+          "v",
+          "tiến triển, tiến hóa"
+        ],
+        [
+          "flammable",
+          "n",
+          "adị dễ bén lửa, dễ cháy"
+        ],
+        [
+          "implant",
+          "n",
+          "y cấy dưới da, ghi khắc, in sâu"
+        ],
+        [
+          "patronize",
+          "n",
+          "y cấy dưới da, ghi khắc, in sâu"
+        ],
+        [
+          "staple",
+          "n",
+          "ghim dập"
+        ],
+        [
+          "a steer",
+          "v",
+          "lái, hướng dẫn, hướng theo"
+        ],
+        [
+          "sturdily",
+          "v",
+          "lái, hướng dẫn, hướng theo"
+        ],
+        [
+          "transparent",
+          "n",
+          "adị trong suốt, rõ ràng"
+        ],
+        [
+          "be geared to",
+          "phr",
+          "adị trong suốt, rõ ràng"
+        ],
+        [
+          "a bewildering",
+          "phr",
+          "aơi gây bối rối, khiến hoang mang"
+        ],
+        [
+          "bring out",
+          "phr",
+          "dưa ra, mang đến"
+        ],
+        [
+          "a cutting-edge",
+          "phr",
+          "dưa ra, mang đến"
+        ],
+        [
+          "a obsolete",
+          "phr",
+          "adị cổ xưa, lỗi thời, quá hạn"
+        ],
+        [
+          "quality control standards",
+          "phr",
+          "adị cổ xưa, lỗi thời, quá hạn"
+        ],
+        [
+          "state-of-the-art",
+          "phr",
+          "tiêu chuẩn kiểm soát chất lượng"
+        ],
+        [
+          "streamline",
+          "n",
+          "adị tiên tiến, hiện đại"
+        ],
+        [
+          "top-of-the-line",
+          "n",
+          "y tạo dáng thuôn dài, hợp lý hóa"
+        ]
+      ]
+    }
+  },
+  "dailyCheckup": {
+    "page": 197,
+    "groups": [
+      {
+        "instruction": "Tìm ở cột bên phải nghĩa của các từ vựng ở cột bên trái và nối chúng với nhau.",
+        "options": [
+          {
+            "key": "a",
+            "text": "tiêu cực"
+          },
+          {
+            "key": "b",
+            "text": "ngay lập tức"
+          },
+          {
+            "key": "c",
+            "text": "cách tiếp cận"
+          },
+          {
+            "key": "d",
+            "text": "bị cấm"
+          },
+          {
+            "key": "e",
+            "text": "sự chấp thuận"
+          },
+          {
+            "key": "f",
+            "text": "truy cập"
+          }
+        ],
+        "questions": [
+          {
+            "no": 1,
+            "prompt": "allow",
+            "answer": "a"
+          },
+          {
+            "no": 2,
+            "prompt": "invest",
+            "answer": "a"
+          },
+          {
+            "no": 3,
+            "prompt": "upgrade",
+            "answer": "a"
+          },
+          {
+            "no": 4,
+            "prompt": "response",
+            "answer": "a"
+          },
+          {
+            "no": 5,
+            "prompt": "devise",
+            "answer": "a"
+          }
+        ]
+      },
+      {
+        "instruction": "Hãy chọn từ phù hợp để điền vào mỗi câu của bài thi TOEIC dạng thức mới sau.",
+        "options": [
+          {
+            "key": "a",
+            "text": "inspection"
+          },
+          {
+            "key": "b",
+            "text": "effect"
+          },
+          {
+            "key": "c",
+            "text": "authorized"
+          },
+          {
+            "key": "d",
+            "text": "procedure"
+          },
+          {
+            "key": "e",
+            "text": "concern"
+          }
+        ],
+        "questions": [
+          {
+            "no": 6,
+            "prompt": "Mr. Smith to save money for a new van.",
+            "answer": "a"
+          },
+          {
+            "no": 7,
+            "prompt": "The research helped the student complete his design.",
+            "answer": "a"
+          },
+          {
+            "no": 8,
+            "prompt": "The company may the project deadline by one month.",
+            "answer": "a"
+          },
+          {
+            "no": 9,
+            "prompt": "Customs officers always",
+            "answer": "a"
+          }
+        ]
+      },
+      {
+        "instruction": "Hãy chọn từ phù hợp để điền vào mỗi câu của bài thi TOEIC dạng thức mới sau.",
+        "options": [
+          {
+            "key": "a",
+            "text": "obligation"
+          },
+          {
+            "key": "b",
+            "text": "drastically"
+          },
+          {
+            "key": "c",
+            "text": "revise"
+          },
+          {
+            "key": "d",
+            "text": "thoroughly"
+          },
+          {
+            "key": "e",
+            "text": "arrangements"
+          }
+        ],
+        "questions": [
+          {
+            "no": 10,
+            "prompt": "Janice",
+            "answer": "a"
+          },
+          {
+            "no": 11,
+            "prompt": "The factory",
+            "answer": "a"
+          },
+          {
+            "no": 12,
+            "prompt": "An photographer was hired to take pictures of the product.",
+            "answer": "a"
+          },
+          {
+            "no": 13,
+            "prompt": "in technology lead to breakthroughs in the manufacturing process.",
+            "answer": "a"
+          }
+        ]
+      }
+    ]
+  },
+  "title": "Ra mắt sản phẩm mới",
+  "titleVi": "Ra mắt sản phẩm mới",
+  "category": "Phát triển sản phẩm"
+}

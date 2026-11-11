@@ -1,0 +1,1721 @@
+{
+  "dayNo": 2,
+  "source": "Apple Vision OCR extraction from pages 42-57",
+  "coreWords": [
+    {
+      "no": 1,
+      "word": "attire",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "uK atáiar",
+      "ipaUs": "ataia",
+      "page": 43,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "quẩn áo, cách ăn mặc",
+          "examples": [
+            {
+              "en": "Professional business attire is required of all staff giving presentations.",
+              "vi": "Trang phục phù hợp với mỗi trường kinh doanh chuyên nghiệp là yêu cầu bắt buộc đối tất cả nhân viên thực hiện bài thuyết trình. n quy định, điều lệ, mật mã"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 2,
+      "word": "code",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "koud",
+      "ipaUs": "kaud",
+      "page": 43,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "quy định, điều lệ, mật mã",
+          "examples": [
+            {
+              "en": "Employees are expected to follow the dress code.",
+              "vi": "Các nhân viên cần phải tuân theo quy định về trang phục. n sự lo lằng, mỗi quan ngại"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 3,
+      "word": "concern",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "Uk kensé:rn",
+      "ipaUs": "konsé:n",
+      "page": 43,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự lo lằng, mỗi quan ngại",
+          "examples": [
+            {
+              "en": "The board voiced concerns about safety at the meeting. Members violating rules have become a concern for club management.",
+              "vi": "Hội đồng bày tỏ mỗi quan ngại về sự an toàn tại cuộc họp. Các thành viên vi phạm quy định đã trở thành mối quan ngại đối với việc quản lý câu lạc bộ."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 4,
+      "word": "policy",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "Uk pálasi",
+      "ipaUs": "pólasi",
+      "page": 43,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "quy chế, chính sách",
+          "examples": [
+            {
+              "en": "The employee benefit policy will be expanded next Companies must distribute health insurance policies",
+              "vi": "year. Chính sách phúc lợi cho nhân viên sẽ được mở rộng vào năm tới. Các công ty phải cung cấp chính sách bảo hiểm y tế cho tất cả người lao động."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 5,
+      "word": "comply",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "comply",
+      "ipaUs": "kemplái",
+      "page": 44,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "Employees must comply with the regulations- governing computer use. All operators of machinery must observe the",
+              "vi": "Nhân viên phải tuân thủ các quy định về quản lý sử dụng máy tính. Các từ này đều mang nghĩa \"tuân theo\", hãy phân biệt chúng qua các ví dụ."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 6,
+      "word": "regulation",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "regulation",
+      "ipaUs": "règjuléifon",
+      "page": 44,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "quy định, quy tắc, điều lệ",
+          "examples": [
+            {
+              "en": "Regulations regarding lunch breaks were established.",
+              "vi": "Những quy định về giờ nghỉ trưa đã được thiết lập. Bải thi TOEIC dạng thức mới can safety regulations quy tắc an toàn"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 7,
+      "word": "exception",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "exception",
+      "ipaUs": "• [iksépfan",
+      "page": 44,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "ngoại lệ",
+          "examples": [
+            {
+              "en": "Management decided not to make any exceptions",
+              "vi": "Ban quản lý quyết định không chấp nhận bất kỳ ngoại lệ nào đối với quy định này."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 8,
+      "word": "adhere",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "adhere",
+      "ipaUs": "adhía",
+      "page": 45,
+      "senses": [
+        {
+          "pos": "adv",
+          "meaning": "nghiêm khắc, khắt khe; gay go, dữ dội",
+          "examples": [
+            {
+              "en": "All staff should do their best to adhere to the",
+              "vi": "Tất cả nhân viên nên cố gắng hết sức để tuân thủ các chính sách của công ty. Bại thì TOEIC dạng thuc mơi"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 9,
+      "word": "severely",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "Savier li",
+      "ipaUs": "siviali",
+      "page": 45,
+      "senses": [
+        {
+          "pos": "adv",
+          "meaning": "nghiêm khắc, khắt khe; gay go, dữ dội",
+          "examples": [
+            {
+              "en": "Those who share company data with outside parties will be severely punished. Hackers TOEIC Vocabulary",
+              "vi": "Những ai chia sẻ dữ liệu của công ty ra bên ngoài sẽ bị trừng phạt nghiêm khắc. V kiểm chế, hạn chế"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 10,
+      "word": "refrain",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "refrain",
+      "ipaUs": "rifréin",
+      "page": 45,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự cho phép",
+          "examples": [
+            {
+              "en": "Hackers TOEIC Vocabulary Guards should refrain from making personal calls",
+              "vi": "V kiểm chế, hạn chế Nhân viên bảo vệ nên hạn chế thực hiện các cuộc gọi cá nhân khi đang trong ca trực."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 11,
+      "word": "permission",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "parmijan",
+      "ipaUs": "pamijan",
+      "page": 45,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự cho phép",
+          "examples": [
+            {
+              "en": "The CEO gave managers permission to hold a weekend workshop.",
+              "vi": "Giám đốc điều hành đã cho phép các quản lý tổ chức một buổi hội thảo cuối tuần."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 12,
+      "word": "access",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "access",
+      "ipaUs": "ækses",
+      "page": 46,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "quyền truy cập, sự lui tới, đường vào",
+          "examples": [
+            {
+              "en": "Only authorized personnel may gain access to client There is direct access to the subway near our new Click on the link to access the detailed job description.",
+              "vi": "files. Chỉ nhân viên được ủy quyền mới có thế truy cập vào các fi h củn tha nhn ng office. Có một lối vào thẳng ga tàu điện ngầm ở gần văn phòng"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 13,
+      "word": "thoroughly",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "Oa:rouli",
+      "ipaUs": "OÁrali",
+      "page": 46,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "sửa đổi, thay đổi (ý kiến, kế hoạch)",
+          "examples": [
+            {
+              "en": "Please read the user manual thoroughly before installing this software. The staff was thoroughly impressed with the new",
+              "vi": "Vui lòng đọc kỹ hướng dẫn sử dụng trước khi cài đặt phần mêm này. Nhân viên đã hoàn toàn bị ấn tượng với chính sách bảo hiểm"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 14,
+      "word": "approach",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "aprout{",
+      "ipaUs": "aprout{",
+      "page": 47,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "cách tiếp cận, phương pháp xử lý",
+          "examples": [
+            {
+              "en": "The manager has a strict approach to enforcing office Police approached carefully to arrest the suspect.",
+              "vi": "regulations. Viên quản lý có cách tiếp cận nghiêm khắc trong việc thực thi các quy định của văn phòng. v tiếp cận"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 15,
+      "word": "approval",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "approval",
+      "ipaUs": "aprú:val",
+      "page": 47,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự chấp thuận, sự phê duyệt",
+          "examples": [
+            {
+              "en": "Please obtain the supervisor's approval before",
+              "vi": "purchasing supplies. Vui lòng xin phê duyệt của quản lý trước khi mua vật tư. obtain approval (for) nhận/xin sự phê duyệt cho"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 16,
+      "word": "form",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "form",
+      "ipaUs": "v) tạo thành, định hình",
+      "page": 47,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "kiểu, loại, hình thưc",
+          "examples": [
+            {
+              "en": "Visitors are required to present a form of identification to security guards. 10 Hackers TOEIC Vocabulary",
+              "vi": "Du khách phải xuất trình một loại giấy tờ tùy thân cho nhân viên bảo vệ. a form of identification một loại giấy tờ tùy thân"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 17,
+      "word": "immediately",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "immediately",
+      "ipaUs": "imi:diatli",
+      "page": 47,
+      "senses": [
+        {
+          "pos": "adv",
+          "meaning": "ngay lập tức",
+          "examples": [
+            {
+              "en": "Effective immediately, taxes will be automatically deducted from each paycheck.",
+              "vi": "Ngay khi có hiệu lực, thuế sẽ được tự động khấu trừ từ lương của mỗi người. - Đạng thực thộa"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 18,
+      "word": "inspection",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "inspection",
+      "ipaUs": "inspék(an",
+      "page": 48,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự kiểm tra, sự thanh tra",
+          "examples": [
+            {
+              "en": "The facility inspection should be conducted at least",
+              "vi": "Việc kiểm tra cơ sở nên được tiến hành ít nhất mỗi tháng một lần. n sự sắp xếp, sự sắp đặt, sự chuẩn bị"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 19,
+      "word": "arrangement",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "arrangement",
+      "ipaUs": "oréindzment",
+      "page": 48,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự sắp xếp, sự sắp đặt, sự chuẩn bị",
+          "examples": [
+            {
+              "en": "The manager made arrangements for purchase of",
+              "vi": "Viên quản lý đã thu xếp cho việc mua máy móc mới. Bai thi TOEIC dạng thức mới make arrangements to do sắp xếp, chuẩn bị để làm"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 20,
+      "word": "procedure",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "prasí:dzer",
+      "ipaUs": "prasi:d3a",
+      "page": 48,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "thủ tụcù",
+          "examples": [
+            {
+              "en": "The procedure for patent applications is outlined on the APTO website.",
+              "vi": "Thủ tục xin cấp bằng sáng chế được tóm lược trên trang web của APTO. adị tiêu cực, bi quan"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 21,
+      "word": "negative",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "negative",
+      "ipaUs": "négativ",
+      "page": 48,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "The new vacation policy received negative feedback from the employees.",
+              "vi": "Chính sách nghỉ phép mới đã nhận những phản hồi tiêu cực từ các nhân viên. V ra lệnh, ủy quyền, ủy thác"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 22,
+      "word": "mandate",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "mandate",
+      "ipaUs": "mændeit",
+      "page": 48,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "The board of directors has mandated an increase for research funding. Congress gave the committee a mandate to make",
+              "vi": "Hội đồng quản trị đã ra lệnh tăng kinh phí cho nghiên cứu. m lệnh, trát, sự ủy thác Quốc hội đã ủy thác cho ủy ban quyền cắt giảm ngân sách."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 23,
+      "word": "effect",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "effect",
+      "ipaUs": "ifekt",
+      "page": 49,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "hiệu ứng, hiệu quả, hiệu lực",
+          "examples": [
+            {
+              "en": "The incentive policy will be in effect starting next He effected a sudden change in the company's",
+              "vi": "week. Chính sách động viên đó sẽ có hiệu lực bắt đầu từ tuần tới. v thực hiện, đem lại expansion plan. Anh ấy đã thực hiện một thay đổi bất ngờ"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 24,
+      "word": "drastically",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "drastically",
+      "ipaUs": "drástikali",
+      "page": 49,
+      "senses": [
+        {
+          "pos": "adv",
+          "meaning": "một cách mạnh mẽ, quyết liệt, triệt để",
+          "examples": [
+            {
+              "en": "Fines for breaking rules have been drastically increased. Hackers TOEIC Vocabulary",
+              "vi": "Hình phạt cho việc vi phạm quy định đã được tăng mạnh."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 25,
+      "word": "according",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "according",
+      "ipaUs": "according",
+      "page": 49,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "làm cho có thể, cho phép",
+          "examples": [
+            {
+              "en": "Hackers TOEIC Vocabulary All transactions must be handled according to the",
+              "vi": "guidelines. Tất cả giao dịch phải được xử lý theo hướng dẫn."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 26,
+      "word": "enable",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "enable",
+      "ipaUs": "inéibl",
+      "page": 49,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "làm cho có thể, cho phép",
+          "examples": [
+            {
+              "en": "Jenny's promotion enabled her to participate in the board meeting.",
+              "vi": "Việc Jenny được thăng chức đã cho phép cô ấy tham gia vào cuộc họp hội đồng. n tiêu chuẩn, chuẩn, trình độ"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 27,
+      "word": "standard",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "stændard",
+      "ipaUs": "standad",
+      "page": 49,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "tiêu chuẩn, chuẩn, trình độ",
+          "examples": [
+            {
+              "en": "The company must make changes to the current safety standards.",
+              "vi": "Công ty cần phải có những thay đổi đối với các tiêu chuẩn an toàn hiện tại."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 28,
+      "word": "constant",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "Uk känstant",
+      "ipaUs": "könstant",
+      "page": 50,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "việc, hành động; đạo luật",
+          "examples": [
+            {
+              "en": "The store received constant inquiries about its new return policy.",
+              "vi": "Cửa hàng nhận được những câu hỏi liên tục về chính sách hoàn trả mới."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 29,
+      "word": "act",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "act",
+      "ipaUs": "ækt",
+      "page": 50,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "việc, hành động; đạo luật",
+          "examples": [
+            {
+              "en": "The new act makes it easier to file personal income tax forms online. The act of merging with another company is",
+              "vi": "Đạo luật mới khiến cho việc nộp các biểu mẫu khai thuế thu nhập cá nhân trên mạng trở nên dễ dàng hơn. Việc sáp nhập với một công ty khác rất phức tạp và mất nhiều"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 30,
+      "word": "compensation",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "Uk kàmpanséifan",
+      "ipaUs": "kèmpenséifon",
+      "page": 50,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự đền bù, sự bối thường",
+          "examples": [
+            {
+              "en": "Employees will receive compensation based on their performance and evaluation.",
+              "vi": "Nhân viên sẽ nhận được bối thường dựa trên hiệu suất làm việc và bản đánh giá của họ. ng thức mới"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 31,
+      "word": "ban",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "ban",
+      "ipaUs": "bæn",
+      "page": 50,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "lệnh cấm, sự cẩm đoán",
+          "examples": [
+            {
+              "en": "The government placed a ban on carrying a large The company banned the use of the Internet for personal purposes.",
+              "vi": "Chính phủ ban hành lệnh cẩm đối với việc mang một lượng lớn chất lỏng lên máy bay. v cấm"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 32,
+      "word": "obligation",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "obligation",
+      "ipaUs": "öbligéi[an",
+      "page": 51,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "nghĩa vụ, trách nhiệm",
+          "examples": [
+            {
+              "en": "All researchers have an obligation to publish at least one paper every year.",
+              "vi": "Mọi nhà nghiên cứu đều có trách nhiệm phải xuất bản ít nhất một bài báo mỗi năm. v ủy quyền, cho phép"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 33,
+      "word": "authorize",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "authorize",
+      "ipaUs": "5:Oaraiz",
+      "page": 51,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "ủy quyền, cho phép",
+          "examples": [
+            {
+              "en": "Allocations of funds must be authorized by",
+              "vi": "Việc phân bổ kinh phí phải được ban quản lý cho phep. Bai thì TOEK dạng thức mời cum an authorized service center một trung tâm dịch vụ"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 34,
+      "word": "prohibit",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "prohibit",
+      "ipaUs": "prahíbit",
+      "page": 51,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "ngăn cấm, ngăn chặn, không cho phép",
+          "examples": [
+            {
+              "en": "The museum prohibits visitors from taking pictures. Hackers TOEIC Vocabulary",
+              "vi": "Bảo tàng không cho phép du khách chụp ảnh. Bai thi TOEIC dạng thức mới prohibit A from -ing cấm A làm gì"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 35,
+      "word": "abolish",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "abalif",
+      "ipaUs": "abeni",
+      "page": 51,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "Congress decided to abolish taxes on imported fruit.",
+              "vi": "Quốc hội đã quyết định bãi bỏ thuế đối với các loại trái cây nhập khẩu. V làm cho có hiệu lực, thúc ép, thi hành"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 36,
+      "word": "enforce",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "inf5:rs",
+      "ipaUs": "infó:s",
+      "page": 51,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "All departments must enforce the no smoking policy.",
+              "vi": "Tất cả các phòng ban phải thực thi quy định về cấm hút thuốc lá."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 37,
+      "word": "habit",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "habit",
+      "ipaUs": "hæbit",
+      "page": 52,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "thối quen, tập quán",
+          "examples": [
+            {
+              "en": "Setting goals should be a regular habit. Wearing a tie is a traditional corporate convention.",
+              "vi": "Việc đặt mục tiêu nên là một thói quen thường xuyên. Bải thì TOEIC dạng thu Hãy cùng phân biệt hai từ cùng mang nghĩa \"tập tính\""
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 38,
+      "word": "legislation",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "legislation",
+      "ipaUs": "ledzis éifan",
+      "page": 52,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự làm luật, pháp luật, pháp chế",
+          "examples": [
+            {
+              "en": "The committee unanimously voted for the new export limitation legislation.",
+              "vi": "Ủy ban đã nhất trí bỏ phiếu cho luật mới về hạn chế xuất khẩu. V giới hạn, hạn chế"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 39,
+      "word": "restrict",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "restrict",
+      "ipaUs": "ristrikt",
+      "page": 52,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "Access is restricted to authorized personnel.",
+              "vi": "Việc truy cập chỉ giới hạn cho các nhân viên được ủy quyền. Bải thi TOEIC dạng thức mơi m restrict A to B hạn chế A đối với B"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    }
+  ],
+  "completeVocab": {
+    "basic": {
+      "LC": [],
+      "RC": [
+        [
+          "bend over",
+          "phr",
+          "cúi xuống"
+        ],
+        [
+          "by oneself",
+          "phr",
+          "cúi xuống"
+        ],
+        [
+          "date",
+          "n",
+          "ngày"
+        ],
+        [
+          "get used to",
+          "phr",
+          "quen với"
+        ],
+        [
+          "if it's okay with you",
+          "phr",
+          "nếu bạn thấy nó ổn"
+        ],
+        [
+          "in case of",
+          "phr",
+          "trong trường hợp, nếu như vậy"
+        ],
+        [
+          "in rows",
+          "phr",
+          "xếp hàng, thành nhiều hàng"
+        ],
+        [
+          "item",
+          "n",
+          "món, mục, mặt hàng"
+        ],
+        [
+          "o legal",
+          "adj",
+          "hợp pháp"
+        ],
+        [
+          "let go",
+          "phr",
+          "buông bỏ"
+        ],
+        [
+          "ruler",
+          "n",
+          "người cai trị, bá chủ"
+        ],
+        [
+          "stop",
+          "v",
+          "dừng lại, ngừng lại"
+        ],
+        [
+          "busy",
+          "adj",
+          "bận rộn"
+        ],
+        [
+          "curriculum/",
+          "adj",
+          "bận rộn"
+        ],
+        [
+          "dress",
+          "n",
+          "váy, đầm; v mặc quần áo"
+        ],
+        [
+          "enough",
+          "n",
+          "adị đủ; n sự đủ dùng"
+        ],
+        [
+          "finish",
+          "n",
+          "adị đủ; n sự đủ dùng"
+        ],
+        [
+          "have a problem (in) -ing",
+          "v",
+          "kết thúc, hoàn thành"
+        ],
+        [
+          "large",
+          "phr",
+          "có vấn để trong việc..."
+        ],
+        [
+          "law firm",
+          "phr",
+          "công ty luật"
+        ],
+        [
+          "loudly",
+          "adv",
+          "lớn tiếng, ổn ào"
+        ],
+        [
+          "plus",
+          "adv",
+          "lớn tiếng, ổn ào"
+        ],
+        [
+          "protect",
+          "v",
+          "bảo vệ"
+        ],
+        [
+          "seldom",
+          "adv",
+          "hiểm khi, ít khi"
+        ],
+        [
+          "theft",
+          "adv",
+          "hiểm khi, ít khi"
+        ],
+        [
+          "try",
+          "n",
+          "• kẻ trộm"
+        ],
+        [
+          "witness",
+          "v",
+          "cổ gằng, thử"
+        ],
+        [
+          "write",
+          "n",
+          "nhân chứng"
+        ]
+      ]
+    },
+    "l800": {
+      "LC": [],
+      "P56": [
+        [
+          "against the law",
+          "phr",
+          "chống lại luật"
+        ],
+        [
+          "by all means",
+          "phr",
+          "bằng mọi cách"
+        ],
+        [
+          "by mistake",
+          "phr",
+          "do sơ suất"
+        ],
+        [
+          "come to an end",
+          "phr",
+          "chấm dứt"
+        ],
+        [
+          "company regulations",
+          "phr",
+          "nội quy công ty"
+        ],
+        [
+          "give directions",
+          "phr",
+          "đưa ra hướng dẫn"
+        ],
+        [
+          "hold up",
+          "phr",
+          "duy trì, chỗng đỡ, giữ lại"
+        ],
+        [
+          "if l'm not mistaken",
+          "phr",
+          "nếu tôi không nhẩm"
+        ],
+        [
+          "in progress",
+          "phr",
+          "đang trong tiến trình"
+        ],
+        [
+          "keep in mind",
+          "phr",
+          "ghi nhớ, lưu ý rắng"
+        ],
+        [
+          "legal counsel",
+          "phr",
+          "tư vấn pháp lý"
+        ],
+        [
+          "self-defense",
+          "n",
+          "sự tự vệ"
+        ],
+        [
+          "suspect",
+          "n",
+          "sự nghi ngờ; v nghi ngờ, hoài nghi"
+        ],
+        [
+          "take one's advice",
+          "phr",
+          "làm theo lời khuyên của ai đó"
+        ],
+        [
+          "to one's advantage",
+          "phr",
+          "thành lợi thế của ai"
+        ],
+        [
+          "under control",
+          "phr",
+          "thành lợi thế của ai"
+        ],
+        [
+          "under the supervision of",
+          "phr",
+          "dưới sự giám sát của"
+        ],
+        [
+          "abuse",
+          "n",
+          "sự lạm dụng; v lạm dụng"
+        ],
+        [
+          "alert",
+          "n",
+          "y cảnh báo; adị cảnh giác"
+        ],
+        [
+          "assessment",
+          "n",
+          "sự đánh giá"
+        ],
+        [
+          "at all times",
+          "n",
+          "sự đánh giá"
+        ],
+        [
+          "authorization",
+          "n",
+          "• sự cho phép, sự ủy quyền"
+        ],
+        [
+          "concerning",
+          "prep",
+          "liên quan đến"
+        ],
+        [
+          "consideration",
+          "prep",
+          "liên quan đến"
+        ],
+        [
+          "declaration",
+          "n",
+          "lời tuyên bố, tuyên ngôn"
+        ],
+        [
+          "defensive",
+          "n",
+          "adị có tính chất phòng thủ, bảo vệ"
+        ],
+        [
+          "depiction",
+          "n",
+          "sự miêu tả"
+        ],
+        [
+          "a disobedient",
+          "phr",
+          "adị nổi loạn, không tuân lệnh"
+        ],
+        [
+          "endure",
+          "n",
+          "adị nổi loạn, không tuân lệnh"
+        ],
+        [
+          "exemplary",
+          "n",
+          "adị gương mẫu, mẫu mực"
+        ],
+        [
+          "Ignore",
+          "v",
+          "lờ đi"
+        ],
+        [
+          "illegal",
+          "v",
+          "lờ đi"
+        ],
+        [
+          "in accordance with",
+          "phr",
+          "phù hợp với"
+        ]
+      ],
+      "P7": [
+        [
+          "indecisive",
+          "n",
+          "adị không quyết đoán, thiếu dứt khoát"
+        ],
+        [
+          "obey",
+          "v",
+          "tuan theo"
+        ],
+        [
+          "observance",
+          "n",
+          "sự tuân thủ"
+        ],
+        [
+          "on-site",
+          "n",
+          "adị tại chỗ"
+        ],
+        [
+          "penalty",
+          "n",
+          "adị tại chỗ"
+        ],
+        [
+          "pointed",
+          "n",
+          "hình phạt"
+        ],
+        [
+          "precious",
+          "n",
+          "adị quý giá, quý báu"
+        ],
+        [
+          "principle",
+          "n",
+          "adị quý giá, quý báu"
+        ],
+        [
+          "punishment",
+          "n",
+          "nguyên tắc"
+        ],
+        [
+          "regulate",
+          "n",
+          "y chỉnh đốn, điều chỉnh"
+        ],
+        [
+          "restricted area",
+          "phr",
+          "y chỉnh đốn, điều chỉnh"
+        ],
+        [
+          "restriction",
+          "phr",
+          "khu vực giới hạn"
+        ],
+        [
+          "safety inspection",
+          "phr",
+          "kiểm tra an toàn"
+        ],
+        [
+          "suppress",
+          "n",
+          "y cấm, chặn, ngăn cản"
+        ],
+        [
+          "tensely",
+          "n",
+          "aáv căng thẳng"
+        ],
+        [
+          "unauthorized",
+          "n",
+          "adị không được phép"
+        ],
+        [
+          "with respect to",
+          "phr",
+          "adị không được phép"
+        ],
+        [
+          "accuse",
+          "phr",
+          "liên quan đến, trong mỗi quan hệ với"
+        ],
+        [
+          "assess",
+          "v",
+          "cáo buộc, buộc tội"
+        ],
+        [
+          "attorney",
+          "n",
+          "luật sư, người được ủy quyền"
+        ],
+        [
+          "be absent from",
+          "phr",
+          "vắng mặt"
+        ],
+        [
+          "be allowed to do",
+          "phr",
+          "vắng mặt"
+        ],
+        [
+          "by way of",
+          "phr",
+          "bằng cách, như là một cách"
+        ],
+        [
+          "distrust",
+          "n",
+          "y nghi ngờ; 1 sự nghi ngờ"
+        ],
+        [
+          "from this day onward",
+          "phr",
+          "y nghi ngờ; 1 sự nghi ngờ"
+        ],
+        [
+          "have permission to do",
+          "phr",
+          "được phép làm."
+        ],
+        [
+          "in a strict way (= strictly)",
+          "phr",
+          "một cách nghiêm khắc"
+        ],
+        [
+          "make clear",
+          "phr",
+          "một cách nghiêm khắc"
+        ],
+        [
+          "a ministry",
+          "n",
+          "thủ tướng"
+        ],
+        [
+          "newly established",
+          "phr",
+          "mới được thành lập"
+        ],
+        [
+          "put into effect",
+          "phr",
+          "mới được thành lập"
+        ],
+        [
+          "registration confirmation",
+          "phr",
+          "sự xác nhận đăng ký"
+        ],
+        [
+          "stand over",
+          "phr",
+          "sự xác nhận đăng ký"
+        ],
+        [
+          "warn",
+          "phr",
+          "đứng kèm bên cạnh"
+        ],
+        [
+          "without respect to",
+          "phr",
+          "không quan tâm, không tính đến"
+        ]
+      ]
+    },
+    "l900": {
+      "LC": [],
+      "P56": [],
+      "P7": [
+        [
+          "commonplace",
+          "n",
+          "điều bình thường, chuyện thường;"
+        ],
+        [
+          "protective smock",
+          "phr",
+          "áo bảo vệ"
+        ],
+        [
+          "testimony",
+          "n",
+          "sự chứng nhận, băng chứng"
+        ],
+        [
+          "accordance",
+          "n",
+          "sự chứng nhận, băng chứng"
+        ],
+        [
+          "compel",
+          "v",
+          "bắt buộc, thúc ép"
+        ],
+        [
+          "crucial",
+          "n",
+          "adị cốt yếu, chủ yếu"
+        ],
+        [
+          "effortlessly",
+          "n",
+          "aơv dễ dàng"
+        ],
+        [
+          "in observance of",
+          "phr",
+          "tuân theo (quy tắc, luật lệ)"
+        ],
+        [
+          "inadvertently",
+          "adv",
+          "tình cờ, không cổ ý"
+        ],
+        [
+          "judicial",
+          "adv",
+          "tình cờ, không cổ ý"
+        ],
+        [
+          "keenly",
+          "adv",
+          "sắc sảo, hăng hái"
+        ],
+        [
+          "lawsuit",
+          "n",
+          "việc kiện cáo, vụ kiện"
+        ],
+        [
+          "observant",
+          "n",
+          "adị tinh mắt; phục tùng, dễ dãi"
+        ],
+        [
+          "off-limits",
+          "n",
+          "adi bị cấm không được lui tới"
+        ],
+        [
+          "ordinance",
+          "n",
+          "adi bị cấm không được lui tới"
+        ],
+        [
+          "pulled",
+          "adj",
+          "bị rút lại"
+        ],
+        [
+          "punctuality",
+          "n",
+          "sự đúng giờ"
+        ],
+        [
+          "reprimand",
+          "v",
+          "khiển trách, quở trách"
+        ],
+        [
+          "resolution",
+          "n",
+          "nghị quyết, sự quyết tâm"
+        ],
+        [
+          "stiff",
+          "n",
+          "nghị quyết, sự quyết tâm"
+        ],
+        [
+          "substantiate",
+          "v",
+          "chứng minh"
+        ],
+        [
+          "trespass",
+          "n",
+          "y xâm phạm, xâm lấn"
+        ],
+        [
+          "violate",
+          "n",
+          "y xâm phạm, xâm lấn"
+        ],
+        [
+          "at the discretion of",
+          "phr",
+          "theo quyết định của"
+        ],
+        [
+          "bound",
+          "n",
+          "adị bắt buộc, buộc phải"
+        ],
+        [
+          "a circumscribe",
+          "phr",
+          "adị bắt buộc, buộc phải"
+        ],
+        [
+          "enactment",
+          "n",
+          "sự ban hành"
+        ],
+        [
+          "impeccable",
+          "n",
+          "adị hoàn hảo, không tì vết"
+        ],
+        [
+          "a infringement",
+          "n",
+          "sự vi phạm, xâm phạm"
+        ],
+        [
+          "legitimate",
+          "n",
+          "adị hợp pháp, chính đáng"
+        ],
+        [
+          "petition",
+          "n",
+          "adị hợp pháp, chính đáng"
+        ],
+        [
+          "when it comes to",
+          "n",
+          "lời thỉnh cầu, kiến nghị"
+        ]
+      ]
+    }
+  },
+  "dailyCheckup": {
+    "page": 53,
+    "groups": [
+      {
+        "instruction": "Tìm ở cột bên phải nghĩa của các từ vựng ở cột bên trái và nối chúng với nhau.",
+        "options": [
+          {
+            "key": "a",
+            "text": "tiêu cực"
+          },
+          {
+            "key": "b",
+            "text": "ngay lập tức"
+          },
+          {
+            "key": "c",
+            "text": "cách tiếp cận"
+          },
+          {
+            "key": "d",
+            "text": "bị cấm"
+          },
+          {
+            "key": "e",
+            "text": "sự chấp thuận"
+          },
+          {
+            "key": "f",
+            "text": "truy cập"
+          }
+        ],
+        "questions": [
+          {
+            "no": 1,
+            "prompt": "access",
+            "answer": "a"
+          },
+          {
+            "no": 2,
+            "prompt": "approval",
+            "answer": "a"
+          },
+          {
+            "no": 3,
+            "prompt": "immediately",
+            "answer": "a"
+          },
+          {
+            "no": 4,
+            "prompt": "negative",
+            "answer": "a"
+          },
+          {
+            "no": 5,
+            "prompt": "approach",
+            "answer": "a"
+          }
+        ]
+      },
+      {
+        "instruction": "Hãy chọn từ phù hợp để điền vào mỗi câu của bài thi TOEIC dạng thức mới sau.",
+        "options": [
+          {
+            "key": "a",
+            "text": "inspection"
+          },
+          {
+            "key": "b",
+            "text": "effect"
+          },
+          {
+            "key": "c",
+            "text": "authorized"
+          },
+          {
+            "key": "d",
+            "text": "procedure"
+          },
+          {
+            "key": "e",
+            "text": "concern"
+          }
+        ],
+        "questions": [
+          {
+            "no": 6,
+            "prompt": "The accountant was to use the company credit card.",
+            "answer": "a"
+          },
+          {
+            "no": 7,
+            "prompt": "A(n) _ of office equipment will be conducted on Monday.",
+            "answer": "a"
+          },
+          {
+            "no": 8,
+            "prompt": "The new computer sign-in system will go into_....",
+            "answer": "a"
+          },
+          {
+            "no": 9,
+            "prompt": "The proper. for reporting tardiness is described in the handbook.",
+            "answer": "a"
+          }
+        ]
+      },
+      {
+        "instruction": "Hãy chọn từ phù hợp để điền vào mỗi câu của bài thi TOEIC dạng thức mới sau.",
+        "options": [
+          {
+            "key": "a",
+            "text": "obligation"
+          },
+          {
+            "key": "b",
+            "text": "drastically"
+          },
+          {
+            "key": "c",
+            "text": "revise"
+          },
+          {
+            "key": "d",
+            "text": "thoroughly"
+          },
+          {
+            "key": "e",
+            "text": "arrangements"
+          }
+        ],
+        "questions": [
+          {
+            "no": 10,
+            "prompt": "The ......for the meeting will be carried out by the personnel department.",
+            "answer": "a"
+          },
+          {
+            "no": 11,
+            "prompt": "The head of the department has a(n) _ to evaluate employees regularly.",
+            "answer": "a"
+          },
+          {
+            "no": 12,
+            "prompt": "Secretarial staff reviewed the new work schedule before finalizing it.",
+            "answer": "a"
+          },
+          {
+            "no": 13,
+            "prompt": "The assistant will",
+            "answer": "a"
+          }
+        ]
+      }
+    ]
+  },
+  "title": "Quy định về trang phục",
+  "titleVi": "Quy định về trang phục",
+  "category": "Phép tắc - Quy định"
+}

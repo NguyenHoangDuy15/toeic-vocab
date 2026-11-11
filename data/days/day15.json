@@ -1,0 +1,1744 @@
+{
+  "dayNo": 15,
+  "source": "Apple Vision OCR extraction from pages 250-265",
+  "coreWords": [
+    {
+      "no": 1,
+      "word": "proposal",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "propana",
+      "ipaUs": "propouzal",
+      "page": 251,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự để xuất, lời đề nghị",
+          "examples": [
+            {
+              "en": "Ms. Chryssom liked the proposal so much that she decided to invest immediately.",
+              "vi": "Bà Chryssom thích đề xuất đó đến mức bà ấy quyết định đầu tư ngay lập tức. submit a proposal nộp/ đưa ra một để xuất"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 2,
+      "word": "alliance",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "alliance",
+      "ipaUs": "alaians",
+      "page": 251,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự liên minh, khối liên minh",
+          "examples": [
+            {
+              "en": "The corporations formed an alliance to protect themselves from competitors.",
+              "vi": "Các công ty đã tạo thành một khối liên minh để tự bảo vệ mình trước các đổi thủ cạnh tranh. n sự quy dịnh, điều khoản quy định"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 3,
+      "word": "stipulation",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "stipulation",
+      "ipaUs": "stìpjuléifan",
+      "page": 251,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự quy dịnh, điều khoản quy định",
+          "examples": [
+            {
+              "en": "One of the stipulations was that the goods must",
+              "vi": "Một trong những điều khoản quy định là hàng hóa phải được bảo hành. n điều khoản; thời hạn"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 4,
+      "word": "term",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "ta:m",
+      "ipaUs": "ta:rm",
+      "page": 251,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "điều khoản; thời hạn",
+          "examples": [
+            {
+              "en": "We cannot agree to the terms offered. Hackers TOEIC Vocabulary Ms. Lee's term as chairperson will finish next year.",
+              "vi": "Chúng tôi không thể đồng ý với các điều khoản được đưa ra. Nhiệm kỳ chủ tịch của bà Lee sẽ kết thúc vào năm tới. Bạng thas mo"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 5,
+      "word": "compromise",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "kömpramaiz",
+      "ipaUs": "kámpramàiz",
+      "page": 252,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự thỏa hiệp",
+          "examples": [
+            {
+              "en": "The contractors and management finally reached a compromise following several talks.",
+              "vi": "Các nhà thầu khoán và ban quản trị cuối cùng cũng đạt được thỏa hiệp sau vài buổi đàm phán. n sự đàm phán, sự thương lượng"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 6,
+      "word": "negotiation",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "nagàufiềi{en",
+      "ipaUs": "nigoufieijan",
+      "page": 252,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự đàm phán, sự thương lượng",
+          "examples": [
+            {
+              "en": "Negotiations are now in process.",
+              "vi": "Các cuộc đàm phán hiện vẫn đang được tiến hành. Bai thì TOEIC dạng thức mới - negotiation sự đàm phán, cuộc đàm phán"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 7,
+      "word": "agreement",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "agreement",
+      "ipaUs": "agriment",
+      "page": 252,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự đồng ý; hợp đỗng, thỏa thuận",
+          "examples": [
+            {
+              "en": "The agreement has been signed by both parties. The business partners reached an agreement after",
+              "vi": "Hợp đồng đã được hai bên ký kết. Hai đối tác kinh doanh đã đạt được thỏa thuận sau hàng giờ Bài thi TOEIC dạng thức mới"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 8,
+      "word": "deadlock",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "uK dédlok",
+      "ipaUs": "dédlàk",
+      "page": 252,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự bế tắc, sự đình trệ",
+          "examples": [
+            {
+              "en": "Friday's negotiations ended in a deadlock.",
+              "vi": "Các cuộc đàm phán vào ngày thứ Sáu đã kết thúc trong bế tắc. V xem xét, duyệt lại, phê bình"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 9,
+      "word": "review",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "review",
+      "ipaUs": "rivjú:",
+      "page": 252,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "Please review all of the documents carefully.",
+              "vi": "Vui lòng xem xét các tài liệu thật cấn thận."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 10,
+      "word": "contract",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "köntrækt",
+      "ipaUs": "n. [ kántrækt",
+      "page": 253,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "hợp đồng",
+          "examples": [
+            {
+              "en": "The law requires all participants in the transaction The company contracted IBSC to deliver its cargo. The manuscript binding contracted due to humid",
+              "vi": "Luật yêu cầu tất cả các bên tham gia giao dịch này đều phải ký vào một hợp đồng. V ký hợp đồng, ký giao kèo; thu nhỏ lại, rút gọn"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 11,
+      "word": "signature",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "sígnitfa",
+      "ipaUs": "sígnatfar",
+      "page": 253,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "chữ ký",
+          "examples": [
+            {
+              "en": "The CEO's signature finalized the long-awaited deal.",
+              "vi": "Chữ ký của vị giám đốc điều hành đã hoàn thành một giao dịch được chờ đợi từ lâu. adv ban đầu, khởi đầu"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 12,
+      "word": "originally",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "Uk aridzinali",
+      "ipaUs": "arídzanali",
+      "page": 253,
+      "senses": [
+        {
+          "pos": "adv",
+          "meaning": "ban đầu, khởi đầu",
+          "examples": [
+            {
+              "en": "The company wants to change the conditions originally agreed upon. Hackers TOEIC Vocabulary",
+              "vi": "Công ty muốn thay đổi những điều khoản đã được thống nhất từ ban đầu. Bải thi TOEIC dạng thực mới"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 13,
+      "word": "direction",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "dairékjan",
+      "ipaUs": "dirék{an",
+      "page": 253,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "Hoping for a settlement, lawyers led the discussion in a different direction.",
+              "vi": "Hy vọng đạt được hòa giải, các luật sư đã dẫn dất cuộc thảo luận theo một hướng khác."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 14,
+      "word": "nitially",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "nitially",
+      "ipaUs": "inifali",
+      "page": 254,
+      "senses": [
+        {
+          "pos": "adv",
+          "meaning": "lúc đầu, ban đầu",
+          "examples": [
+            {
+              "en": "Managers initially thought the legal issues would be resolved quickly.",
+              "vi": "Các quản lý ngay từ đầu đã cho rằng những vấn để pháp lý này sẽ được giải quyết nhanh chóng. V hết hạn, hết hiệu lực"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 15,
+      "word": "expire",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "ikspáia",
+      "ipaUs": "ikspáiar",
+      "page": 254,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "The previous lease expired a few weeks ago. expiring date. The store chain invalidated the supply contract,",
+              "vi": "Hợp đồng cho thuê trước kia đã hết hạn từ vài tuần trước. observe expiration date xem hạn sử dung Lưu ý rắng \"hạn cuối\" là expiration date chứ không phải"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 16,
+      "word": "collaborate",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "collaborate",
+      "ipaUs": "kalæbarèit",
+      "page": 254,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "Moksel Company and Boston University collaborated on the research project.",
+              "vi": "Công ty Moksel và trường Đại học Boston dã hợp tác với nhau trong dự án nghiên cứu đó. Bại thì TOEIC dạng thức mới"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 17,
+      "word": "dedicate",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "dedicate",
+      "ipaUs": "dédikèit",
+      "page": 255,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "đã được hiệu đính, đã được duyệt lại",
+          "examples": [
+            {
+              "en": "Ms. Barton dedicates herself to ensuring clients get good deals.",
+              "vi": "Cô Barton cống hiến hết mình để đảm bảo khách hàng có được những thỏa thuận có lợi. be dedicated to cống hiến cho"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 18,
+      "word": "revised",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "revised",
+      "ipaUs": "riváizd",
+      "page": 255,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "đã được hiệu đính, đã được duyệt lại",
+          "examples": [
+            {
+              "en": "The company president accepted the revised project proposal.",
+              "vi": "Chủ tịch công ty đã thông qua bản để xuất dự án được sửa đổi. adị bắt buộc, rất quan trọng, khẩn cấp"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 19,
+      "word": "imperative",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "imperative",
+      "ipaUs": "impérativ",
+      "page": 255,
+      "senses": [
+        {
+          "pos": "adv",
+          "meaning": "hợp tác",
+          "examples": [
+            {
+              "en": "It is imperative that the agreement be fully honored. Hackers TOEIC Vocabulary",
+              "vi": "Việc tuân thủ tuyệt đối bản thỏa thuận là vô cùng quan trọng. đạng thức mọi It is imperative that + chủ ngữ (+ should) + động từ"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 20,
+      "word": "cooperatively",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "Uk kausperativli",
+      "ipaUs": "kouáparetivli",
+      "page": 255,
+      "senses": [
+        {
+          "pos": "adv",
+          "meaning": "hợp tác",
+          "examples": [
+            {
+              "en": "The company worked cooperatively with Pacific Corporation to build the railway. cooperation with.",
+              "vi": "Công ty đã làm việc cùng tập đoàn Pacific trên tinh thần hợp tác để xây dựng tuyến đường sắt. đạng thức mỏi"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 21,
+      "word": "commission",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "commission",
+      "ipaUs": "kamijen",
+      "page": 256,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "tiền hoa hồng; hội đồng, ủy ban",
+          "examples": [
+            {
+              "en": "The new recruit consented to work on commission. A commission has been organized to look into funding sources.",
+              "vi": "Nhân viên mới đã đồng ý làm việc để hưởng tiền hoa hồng. Một hội đồng đã được thành lập để giám sát các nguồn kinh phí. V giao nhiệm vụ, ủy thác"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 22,
+      "word": "omit",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "omit",
+      "ipaUs": "oumit",
+      "page": 256,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "cuộc xung đột, sự mâu thuẫn",
+          "examples": [
+            {
+              "en": "Grace rewrote the draft to include details omitted from the original.",
+              "vi": "Grace đã viết lại bản phác thảo để bổ sung những chi tiết bị bỏ sót trong bản gốc."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 23,
+      "word": "conflict",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "könflikt",
+      "ipaUs": "kánflikt",
+      "page": 256,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "cuộc xung đột, sự mâu thuẫn",
+          "examples": [
+            {
+              "en": "The executives had a conflict over when to expand the business internationally.",
+              "vi": "Ban diều hành có một cuộc tranh cãi về thời điểm mở rộng hoạt dộng kinh doanh ra nước ngoài. V làm mới, gia hạn (hợp đồng)"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 24,
+      "word": "renew",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "renew",
+      "ipaUs": "rin/ú:",
+      "page": 256,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "giỏi giang, thành thạo",
+          "examples": [
+            {
+              "en": "The retail company renewed the six-month contract after discussions.",
+              "vi": "Công ty bán lẻ đã gia hạn bản hợp đồng sáu tháng sau nhiều cuộc thảo luận. Bai thì TOEIC dạng thức mới"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 25,
+      "word": "proficient",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "proficient",
+      "ipaUs": "prefifant",
+      "page": 256,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "giỏi giang, thành thạo",
+          "examples": [
+            {
+              "en": "David is proficient in several languages, which helps with international negotiations.",
+              "vi": "David thành thạo vài ngôn ngữ, điều này giúp ích rất nhiều trong các cuộc đàm phán quốc tế."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 26,
+      "word": "confidentiality",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "könfidenjiæliti",
+      "ipaUs": "kànfadenfiælati",
+      "page": 257,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "bí mật, việc bảo mật",
+          "examples": [
+            {
+              "en": "Study subjects had to sign a confidentiality agreement before participating. khi tham gia.",
+              "vi": "Các đối tượng nghiên cứu phải ký một cam kết bảo mật trước n cuộc tranh luận, sự bất đồng"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 27,
+      "word": "dispute",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "dispute",
+      "ipaUs": "dispju:t",
+      "page": 257,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "cuộc tranh luận, sự bất đồng",
+          "examples": [
+            {
+              "en": "The dispute over the copyright prompted court action.",
+              "vi": "Vụ tranh chấp về bản quyền đã dẫn tới hành động pháp lý. Bai th TOEIC dạng thực mo: dispute over tranh cãi về"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 28,
+      "word": "objection",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "objection",
+      "ipaUs": "abdzékfan",
+      "page": 257,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự phản đối, sự bất bình",
+          "examples": [
+            {
+              "en": "The deal proceeded despite the board of directors'",
+              "vi": "Giao dịch vẫn được tiến hành bất chấp sự phản đối của ban giám đốc. v định nghĩa, xác dịnh"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 29,
+      "word": "define",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "define",
+      "ipaUs": "difáin",
+      "page": 257,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "định nghĩa, xác dịnh",
+          "examples": [
+            {
+              "en": "The contract defined the roles of all parties involved. Hackers TOEIC Vocabulary",
+              "vi": "Bản hợp đồng đã xác định rõ vai trò của các bên tham gia n ấn tượng"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 30,
+      "word": "impression",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "impression",
+      "ipaUs": "impréfan",
+      "page": 257,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "ấn tượng",
+          "examples": [
+            {
+              "en": "Hackers TOEIC Vocabulary The representative's presentation gave the impression that his company is well-organized.",
+              "vi": "Phần trình bày của vị đại diện đã mang lại ấn tượng rằng công ty anh ta được tổ chức rất tốt. n an ninh, sự bảo vệ"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 31,
+      "word": "security",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "sikjüariti",
+      "ipaUs": "sikjúarati",
+      "page": 257,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "an ninh, sự bảo vệ",
+          "examples": [
+            {
+              "en": "Security is a priority during next week's sensitive negotiation meetings.",
+              "vi": "An ninh là ưu tiên hàng đầu trong thời gian diễn ra các cuộc gặp đàm phán nhạy cảm vào tuần tới."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 32,
+      "word": "option",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "option",
+      "ipaUs": "ápjan",
+      "page": 258,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "lựa chọn, quyễn lựa chọn",
+          "examples": [
+            {
+              "en": "The agreement provides Banister with the option to discuss rate adjustments after one year.",
+              "vi": "Hợp đồng cho phép Banister có quyền lựa chọn thảo luận về việc điều chỉnh giá sau một năm. V tiến hành, tiếp tục"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 33,
+      "word": "proceed",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "proceed",
+      "ipaUs": "prasí:d",
+      "page": 258,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "Talks concerning the companies' merger are proceeding well.",
+              "vi": "Các cuộc thảo luận về việc sáp nhất công ty vẫn đang tiến triển tốt. Bàc thi TOER, dạng thực tho * proceed with tiếp tục với"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 34,
+      "word": "modify",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "Uk módifai",
+      "ipaUs": "mádafài",
+      "page": 258,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "thu hẹp, giảm bớt",
+          "examples": [
+            {
+              "en": "The parties agreed to modify the wording of some",
+              "vi": "Các bên đã đồng ý sửa đổi cách diễn đạt của một số điều khoản. Bai thi TOEIC dạng thứt mới ụm modify có thể thay bằng từ alter khi được dùng để chỉ sự"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 35,
+      "word": "narrow",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "nærau",
+      "ipaUs": "nærou",
+      "page": 258,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "thu hẹp, giảm bớt",
+          "examples": [
+            {
+              "en": "The number of potential building sites has been narrowed down to three.",
+              "vi": "Số lượng các địa điểm có thể xây tòa nhà đã giảm xuống còn ba. Bai thì TOEIC dạng thực mơi sm narrow down A to B giảm A xuống B, thu hẹp A thành B"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 36,
+      "word": "bid",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "bid",
+      "ipaUs": "bid",
+      "page": 259,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự đặt giá, sự bỏ thầu",
+          "examples": [
+            {
+              "en": "The construction firm Martin & Sons put in a bid for",
+              "vi": "Công ty xầy dựng Martin & Sons đã tham gia bỏ thầu cho hợp đồng do. put in a bid for bỏ thầu cho, trả giá cho"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 37,
+      "word": "settle",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "settle",
+      "ipaUs": "sét",
+      "page": 259,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "chấm dứt, hoành thành",
+          "examples": [
+            {
+              "en": "The management made attempts to settle the unfair dismissal case.",
+              "vi": "Ban quản lý đã nỗ lực để dàn xếp vụ sa thải nhân viên tùy tiện."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 38,
+      "word": "terminate",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "tö:mineit",
+      "ipaUs": "té:rmanèit",
+      "page": 259,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "chấm dứt, hoành thành",
+          "examples": [
+            {
+              "en": "The company terminated the agreement when the project wasn't completed. 20 Hackers TOEIC Vocabulary",
+              "vi": "Công ty đã chấm dứt hợp đồng khi dự án không được hoàn thành. adj đầy thách thức, khó khăn"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 39,
+      "word": "challenging",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "challenging",
+      "ipaUs": "tfælindzin",
+      "page": 259,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "đầy thách thức, khó khăn",
+          "examples": [
+            {
+              "en": "20 Hackers TOEIC Vocabulary Renovating the new wing proved to be a challenging",
+              "vi": "Cái tạo khu nhà ngang mới hóa ra lại là một dự ăn khó khăn. Bài thị TOEIC oạng thui mn7 challenging project dự án khó khăn"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 40,
+      "word": "foundation",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "foundation",
+      "ipaUs": "faundéijan",
+      "page": 260,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "nền tảng, sự thành lập",
+          "examples": [
+            {
+              "en": "The proposal served as the foundation on which the agreement was concluded. The developer finalized plans for the shopping",
+              "vi": "Đề xuất này chính là nền tảng qua đó bản hợp đồng đã được ký kết. Bai thi TOEIC nạng serve as the foundation là nên tảng"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    }
+  ],
+  "completeVocab": {
+    "basic": {
+      "LC": [],
+      "RC": [
+        [
+          "backseat",
+          "n",
+          "ghế sau"
+        ],
+        [
+          "borrow",
+          "v",
+          "vay, mượn"
+        ],
+        [
+          "bother",
+          "v",
+          "vay, mượn"
+        ],
+        [
+          "ceiling",
+          "n",
+          "trần nhà"
+        ],
+        [
+          "empty",
+          "n",
+          "nơi trống, rỗng"
+        ],
+        [
+          "exit",
+          "n",
+          "lối ra"
+        ],
+        [
+          "fashion photographer",
+          "phr",
+          "nhiếp ảnh gia thời trang"
+        ],
+        [
+          "look after",
+          "phr",
+          "trông nom, chăm sóc"
+        ],
+        [
+          "pair",
+          "n",
+          "y ghép đôi; • đôi, cặp"
+        ],
+        [
+          "per day",
+          "phr",
+          "mỗi ngày"
+        ],
+        [
+          "professor",
+          "n",
+          "giáo sư"
+        ],
+        [
+          "proof",
+          "n",
+          "bằng chứng, chứng cố"
+        ],
+        [
+          "put on",
+          "phr",
+          "mặc vào"
+        ],
+        [
+          "spray",
+          "phr",
+          "mặc vào"
+        ],
+        [
+          "think of",
+          "phr",
+          "nghĩ về"
+        ],
+        [
+          "wear",
+          "n",
+          "y mặc, mang, đeo"
+        ],
+        [
+          "climb",
+          "n",
+          "y mặc, mang, đeo"
+        ],
+        [
+          "a deny",
+          "v",
+          "phủ định"
+        ],
+        [
+          "escape",
+          "v",
+          "trốn thoát, thoát ra"
+        ],
+        [
+          "final",
+          "n",
+          "adị cuối cùng"
+        ],
+        [
+          "generally",
+          "n",
+          "av nói chung, thông thường"
+        ],
+        [
+          "loose",
+          "n",
+          "av nói chung, thông thường"
+        ],
+        [
+          "meaning",
+          "n",
+          "nghĩa, ý nghĩa"
+        ],
+        [
+          "off-season",
+          "n",
+          "mùa thấp điểm"
+        ],
+        [
+          "once",
+          "n",
+          "mùa thấp điểm"
+        ],
+        [
+          "product",
+          "n",
+          "adị trước đây, đã từng adv một khi"
+        ],
+        [
+          "o ,quit",
+          "v",
+          "từ bỏ, thôi"
+        ],
+        [
+          "volume",
+          "n",
+          "âm lượng, tập (sách)"
+        ]
+      ]
+    },
+    "l800": {
+      "LC": [],
+      "P56": [
+        [
+          "close a deal",
+          "phr",
+          "chốt một giao dịch"
+        ],
+        [
+          "complicate",
+          "phr",
+          "chốt một giao dịch"
+        ],
+        [
+          "dial a number",
+          "phr",
+          "quay số, gọi điện thoại"
+        ],
+        [
+          "disadvantage",
+          "n",
+          "sự bất lợi"
+        ],
+        [
+          "focus on",
+          "phr",
+          "tập trung vào"
+        ],
+        [
+          "for ages",
+          "phr",
+          "rất lâu"
+        ],
+        [
+          "household",
+          "n",
+          "hộ, gia dinh"
+        ],
+        [
+          "I have no idea.",
+          "phr",
+          "Tôi không biết."
+        ],
+        [
+          "lock up",
+          "phr",
+          "khóa lại, cất giữ"
+        ],
+        [
+          "make a deposit",
+          "phr",
+          "đặt cọc"
+        ],
+        [
+          "make a mistake",
+          "phr",
+          "phạm lỗi"
+        ],
+        [
+          "peak",
+          "n",
+          "• đỉnh, chỏm, chóp"
+        ],
+        [
+          "rain check",
+          "phr",
+          "phiếu mua hàng sau, để dịp sau"
+        ],
+        [
+          "rent out",
+          "phr",
+          "phiếu mua hàng sau, để dịp sau"
+        ],
+        [
+          "rental agreement",
+          "phr",
+          "hợp đồng cho thuê"
+        ],
+        [
+          "rough",
+          "n",
+          "adị khó khăn, gian khổ"
+        ],
+        [
+          "royalty",
+          "n",
+          "hoàng gia"
+        ],
+        [
+          "run in several directions",
+          "phr",
+          "mở rộng theo nhiều hướng"
+        ],
+        [
+          "scare",
+          "phr",
+          "mở rộng theo nhiều hướng"
+        ],
+        [
+          "sign a contract",
+          "phr",
+          "phi ký hợp đồng"
+        ],
+        [
+          "under a contract",
+          "phr",
+          "theo hợp đồng"
+        ],
+        [
+          "win a contract",
+          "phr",
+          "giành được hợp đồng"
+        ],
+        [
+          "agreeable",
+          "n",
+          "aơị dễ chịu, sẵn sàng đồng ý"
+        ],
+        [
+          "call out",
+          "phr",
+          "aơị dễ chịu, sẵn sàng đồng ý"
+        ],
+        [
+          "convincing",
+          "n",
+          "adị có sức thuyết phục"
+        ],
+        [
+          "diplomatic",
+          "n",
+          "adị có tính ngoại giao"
+        ],
+        [
+          "equality",
+          "n",
+          "adị có tính ngoại giao"
+        ],
+        [
+          "ethical",
+          "n",
+          "adị thuộc về đạo đức"
+        ],
+        [
+          "hesitate",
+          "v",
+          "do dự, ngập ngừng"
+        ],
+        [
+          "in contrast",
+          "v",
+          "do dự, ngập ngừng"
+        ],
+        [
+          "instrumental",
+          "n",
+          "adị thuộc nhạc cụ/dụng cụ"
+        ],
+        [
+          "lengthen",
+          "n",
+          "adị thuộc nhạc cụ/dụng cụ"
+        ],
+        [
+          "make a move",
+          "phr",
+          "hành động, ra tay"
+        ]
+      ],
+      "P7": [
+        [
+          "offend",
+          "n",
+          "y xúc phạm, vi phạm"
+        ],
+        [
+          "opposing",
+          "n",
+          "y xúc phạm, vi phạm"
+        ],
+        [
+          "origin",
+          "n",
+          "adị trái ngược, đối kháng"
+        ],
+        [
+          "rational",
+          "n",
+          "i nguồn gốc, xuất xứ"
+        ],
+        [
+          "recognition",
+          "n",
+          "sự công nhận"
+        ],
+        [
+          "refusal",
+          "n",
+          "sự từ chối"
+        ],
+        [
+          "sarcastic",
+          "n",
+          "adị chế nhạo, châm biếm"
+        ],
+        [
+          "selected",
+          "n",
+          "adị được lựa chọn, kén chọn"
+        ],
+        [
+          "sort of",
+          "phr",
+          "có phần, phần nào"
+        ],
+        [
+          "surely",
+          "n",
+          "aav chắc chắn, rỗ ràng"
+        ],
+        [
+          "a surprise",
+          "phr",
+          "· gây ngạc nhiên; n sự/điều ngạc nhiên"
+        ],
+        [
+          "uninterested",
+          "n",
+          "· gây ngạc nhiên; n sự/điều ngạc nhiên"
+        ],
+        [
+          "verbal",
+          "n",
+          "adị bằng lời nói"
+        ],
+        [
+          "virtual",
+          "adj",
+          "ảo"
+        ],
+        [
+          "within reason",
+          "phr",
+          "vừa phải, hợp lý"
+        ],
+        [
+          "be in agreement",
+          "phr",
+          "vừa phải, hợp lý"
+        ],
+        [
+          "draw up a new agreement",
+          "phr",
+          "soạn thảo một hợp đồng mới"
+        ],
+        [
+          "enclosure",
+          "n",
+          "sự gửi kèm (tài liệu)"
+        ],
+        [
+          "generation gap",
+          "n",
+          "sự gửi kèm (tài liệu)"
+        ],
+        [
+          "have difficulty (in) -ing",
+          "phr",
+          "gặp khó khăn trong việc"
+        ],
+        [
+          "in an attempt to",
+          "phr",
+          "gặp khó khăn trong việc"
+        ],
+        [
+          "in appreciation of",
+          "phr",
+          "với sự cảm kích dành cho"
+        ],
+        [
+          "in print",
+          "phr",
+          "trên văn bản/trên giấy"
+        ],
+        [
+          "in summary",
+          "phr",
+          "trên văn bản/trên giấy"
+        ],
+        [
+          "lifetime employment",
+          "phr",
+          "công việc lâu dài"
+        ],
+        [
+          "low-income resident",
+          "phr",
+          "khu dân cư thu nhập thấp"
+        ],
+        [
+          "make a bid",
+          "phr",
+          "khu dân cư thu nhập thấp"
+        ],
+        [
+          "make a contract with",
+          "phr",
+          "làm hợp đồng với"
+        ],
+        [
+          "on hand",
+          "phr",
+          "làm hợp đồng với"
+        ],
+        [
+          "replica",
+          "n",
+          "mô hình, bản sao"
+        ],
+        [
+          "a rigid",
+          "phr",
+          "aơi cứng rắn, cứng nhắc"
+        ],
+        [
+          "security deposit",
+          "phr",
+          "aơi cứng rắn, cứng nhắc"
+        ],
+        [
+          "sequential",
+          "phr",
+          "tiền bảo chứng, tiền đặt cọc"
+        ],
+        [
+          "successful candidate",
+          "phr",
+          "ứng cử viên được chọn"
+        ],
+        [
+          "take A seriously",
+          "phr",
+          "xem A là quan trọng, làm A một cách"
+        ]
+      ]
+    },
+    "l900": {
+      "LC": [],
+      "P56": [],
+      "P7": [
+        [
+          "It is no wonder (that)",
+          "phr",
+          "Không có gì lạ khi"
+        ],
+        [
+          "portray",
+          "phr",
+          "Không có gì lạ khi"
+        ],
+        [
+          "reinstall",
+          "n",
+          "y cải đặt lại, phục chức"
+        ],
+        [
+          "repave",
+          "v",
+          "lát lại (đường)"
+        ],
+        [
+          "run the risk of",
+          "phr",
+          "có nguy cơ"
+        ],
+        [
+          "think over",
+          "phr",
+          "nghỉ lại"
+        ],
+        [
+          "affiliation",
+          "n",
+          "1 sự liên kết, sự sáp nhập"
+        ],
+        [
+          "arbitration",
+          "n",
+          "• sự phân xử, trọng tài"
+        ],
+        [
+          "beside the point",
+          "phr",
+          "không quan trọng, lạc đề"
+        ],
+        [
+          "foil",
+          "n",
+          "y đánh bại, làm thất bại"
+        ],
+        [
+          "impartially",
+          "n",
+          "ady vô tư, công bằng"
+        ],
+        [
+          "inconclusively",
+          "adv",
+          "bỏ lửng, mập mờ"
+        ],
+        [
+          "omission",
+          "n",
+          "sự bỏ sót"
+        ],
+        [
+          "originate in",
+          "n",
+          "sự bỏ sót"
+        ],
+        [
+          "preferential treatment",
+          "phr",
+          "đối xử ưu ái"
+        ],
+        [
+          "recollection",
+          "n",
+          "sự nhớ lại, hồi ức"
+        ],
+        [
+          "reconcile",
+          "v",
+          "giảng hòa, hòa giải"
+        ],
+        [
+          "relinquish",
+          "v",
+          "từ bỏ"
+        ],
+        [
+          "remembrance",
+          "v",
+          "từ bỏ"
+        ],
+        [
+          "solicit",
+          "n",
+          "Y gạ gãm, khẩn khoản"
+        ],
+        [
+          "subcontract",
+          "n",
+          "hợp đồng thầu phụ; Y thầu lại"
+        ],
+        [
+          "subcontractor",
+          "n",
+          "hợp đồng thầu phụ; Y thầu lại"
+        ],
+        [
+          "trustworthy",
+          "n",
+          "adị đáng tin cậy"
+        ],
+        [
+          "annotated",
+          "n",
+          "adị được chú thích"
+        ],
+        [
+          "commercial relations",
+          "phr",
+          "quan hệ thương mại"
+        ],
+        [
+          "credit limit",
+          "phr",
+          "giới hạn tín dụng"
+        ],
+        [
+          "down payment",
+          "phr",
+          "giới hạn tín dụng"
+        ],
+        [
+          "embark",
+          "v",
+          "tham gia vào, dẫn thân"
+        ],
+        [
+          "mediation",
+          "n",
+          "sự điều chỉnh, hòa giải"
+        ],
+        [
+          "moderator",
+          "n",
+          "sự điều chỉnh, hòa giải"
+        ],
+        [
+          "provision",
+          "n",
+          "sự cung cấp, điều khoản"
+        ],
+        [
+          "a rocky",
+          "n",
+          "sự cung cấp, điều khoản"
+        ]
+      ]
+    }
+  },
+  "dailyCheckup": {
+    "page": 261,
+    "groups": [
+      {
+        "instruction": "Tìm ở cột bên phải nghĩa của các từ vựng ở cột bên trái và nối chúng với nhau.",
+        "options": [
+          {
+            "key": "a",
+            "text": "tiêu cực"
+          },
+          {
+            "key": "b",
+            "text": "ngay lập tức"
+          },
+          {
+            "key": "c",
+            "text": "cách tiếp cận"
+          },
+          {
+            "key": "d",
+            "text": "bị cấm"
+          },
+          {
+            "key": "e",
+            "text": "sự chấp thuận"
+          },
+          {
+            "key": "f",
+            "text": "truy cập"
+          }
+        ],
+        "questions": [
+          {
+            "no": 1,
+            "prompt": "commission",
+            "answer": "a"
+          },
+          {
+            "no": 2,
+            "prompt": "cooperatively",
+            "answer": "a"
+          },
+          {
+            "no": 3,
+            "prompt": "dedicate",
+            "answer": "a"
+          },
+          {
+            "no": 4,
+            "prompt": "direction",
+            "answer": "a"
+          },
+          {
+            "no": 5,
+            "prompt": "collaborate",
+            "answer": "a"
+          }
+        ]
+      },
+      {
+        "instruction": "Hãy chọn từ phù hợp để điền vào mỗi câu của bài thi TOEIC dạng thức mới sau.",
+        "options": [
+          {
+            "key": "a",
+            "text": "inspection"
+          },
+          {
+            "key": "b",
+            "text": "effect"
+          },
+          {
+            "key": "c",
+            "text": "authorized"
+          },
+          {
+            "key": "d",
+            "text": "procedure"
+          },
+          {
+            "key": "e",
+            "text": "concern"
+          }
+        ],
+        "questions": [
+          {
+            "no": 6,
+            "prompt": "The current contract_ on March 31.",
+            "answer": "a"
+          },
+          {
+            "no": 7,
+            "prompt": "The museum had tight for the special exhibit.",
+            "answer": "a"
+          },
+          {
+            "no": 8,
+            "prompt": "The international version of the book _",
+            "answer": "a"
+          },
+          {
+            "no": 9,
+            "prompt": "Most employees raised a(n)___ to the reduced incentive policy.",
+            "answer": "a"
+          }
+        ]
+      },
+      {
+        "instruction": "Hãy chọn từ phù hợp để điền vào mỗi câu của bài thi TOEIC dạng thức mới sau.",
+        "options": [
+          {
+            "key": "a",
+            "text": "obligation"
+          },
+          {
+            "key": "b",
+            "text": "drastically"
+          },
+          {
+            "key": "c",
+            "text": "revise"
+          },
+          {
+            "key": "d",
+            "text": "thoroughly"
+          },
+          {
+            "key": "e",
+            "text": "arrangements"
+          }
+        ],
+        "questions": [
+          {
+            "no": 10,
+            "prompt": "Attorneys must maintain clients'",
+            "answer": "a"
+          },
+          {
+            "no": 11,
+            "prompt": "The_ copy of the report includes budget updates.",
+            "answer": "a"
+          },
+          {
+            "no": 12,
+            "prompt": "It is_ that all staff be clearly understood of their tasks.",
+            "answer": "a"
+          },
+          {
+            "no": 13,
+            "prompt": "A child whose parents speak different languages can become .",
+            "answer": "a"
+          }
+        ]
+      }
+    ]
+  },
+  "title": "Đàm phán hợp đồng",
+  "titleVi": "Đàm phán hợp đồng",
+  "category": "Hợp đồng"
+}

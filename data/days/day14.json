@@ -1,0 +1,1716 @@
+{
+  "dayNo": 14,
+  "source": "Apple Vision OCR extraction from pages 234-249",
+  "coreWords": [
+    {
+      "no": 1,
+      "word": "international",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "intanæjanl",
+      "ipaUs": "intarnæ{an",
+      "page": 235,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "quốc tế",
+          "examples": [
+            {
+              "en": "Passengers for international flights check in at counter three.",
+              "vi": "Hành khách của các chuyến bay quốc tế làm thủ tục tại quẩy số 3. n sự thu hút, điểm tham quan"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 2,
+      "word": "attraction",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "attraction",
+      "ipaUs": "atrækjan",
+      "page": 235,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự thu hút, điểm tham quan",
+          "examples": [
+            {
+              "en": "This bus takes visitors to the city's best tourist",
+              "vi": "Chiếc xe buýt này sẽ đưa du khách tới các điểm thu hút khách tham quan nhất của thành phố. n hành trình, lộ trình"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 3,
+      "word": "tinerary",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "aitinarari",
+      "ipaUs": "aitínarèri",
+      "page": 235,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "hành trình, lộ trình",
+          "examples": [
+            {
+              "en": "The itinerary includes a visit to Boston.",
+              "vi": "Hành trình có bao gồm chuyến tham quan Boston. adj kỳ lạ, đẹp kỳ lạ"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 4,
+      "word": "exotic",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "daivé:s",
+      "ipaUs": "dáive:rs",
+      "page": 235,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "kỳ lạ, đẹp kỳ lạ",
+          "examples": [
+            {
+              "en": "Our website contains information on numerous exotic vacation spots. A diverse selection of tours is available for London.",
+              "vi": "Trang web của chúng tôi có thông tin về rất nhiều địa điểm đi nghỉ tuyệt đẹp. adị phong phú, đa dạng, nhiều loại"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 5,
+      "word": "superb",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "su:pa:b",
+      "ipaUs": "superb",
+      "page": 235,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "The service at the hotel was superb.",
+              "vi": "Dịch vụ của khách sạn này rất tuyệt."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 6,
+      "word": "baggage",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "baggage",
+      "ipaUs": "bægid3",
+      "page": 236,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "đích, điểm đến",
+          "examples": [
+            {
+              "en": "Stow baggage under the seat in front of you.",
+              "vi": "Hãy xếp hành lý vào dưới chiếc ghế ở phía trước bạn. Bai th: TOEIC dang thức mới baggage claim nơi nhận hành lý (ở sân bay)"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 7,
+      "word": "destination",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "destination",
+      "ipaUs": "dèstanéifan",
+      "page": 236,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "đích, điểm đến",
+          "examples": [
+            {
+              "en": "Travel agents can provide information about a travel",
+              "vi": "Các đại lý du lịch sẽ cung cấp thông tin về điểm du lịch. adj bị mất, thất lạc"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 8,
+      "word": "missing",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "missing",
+      "ipaUs": "misin",
+      "page": 236,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "bị mất, thất lạc",
+          "examples": [
+            {
+              "en": "The missing luggage will be sent to the hotel when",
+              "vi": "Hành lý thất lạc sẽ được gửi đến khách sạn khi được tìm thấy. Mị có vị trí, nằm ở, định vị"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 9,
+      "word": "locate",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "eit",
+      "ipaUs": "der. location (n) vi trí,",
+      "page": 236,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "Airline staff have tried to locate the lost luggage. International Arrivals is located on the next level.",
+              "vi": "Nhân viên sân bay đã cố gắng xác định vị trí hành lý bị thất lạc. Cửa đến của ga quốc tế nằm ở tầng tiếp theo. Bai thi TOEIC dạng thức mới"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 10,
+      "word": "duty",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "duty",
+      "ipaUs": "du:ti",
+      "page": 237,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "thuế, nhiệm vụ/nghĩa vụ",
+          "examples": [
+            {
+              "en": "Passengers must pay duty on goods worth more Security personnel are on duty at the airport around the clock.",
+              "vi": "Hành khách phải trả tiền thuế cho hàng hóa có giá trị lớn hơn 500 đô-la. Nhân viên an ninh làm việc tại sân bay suốt 24 giờ."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 11,
+      "word": "process",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "prauses",
+      "ipaUs": "práses",
+      "page": 237,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "The entire airline ticketing process can be done online. The Chinese Embassy processes tourist visas. Hackers TOEIC Vocabulary",
+              "vi": "Toàn bộ quá trình đặt vé máy bay có thể được thực hiện trên mạng. V gia công, xử lý, giải quyết Đại sứ quán Trung Quốc sẽ giải quyết visa cho khách du lịch."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 12,
+      "word": "board",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "bod",
+      "ipaUs": "bord",
+      "page": 237,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "Hackers TOEIC Vocabulary Business class passengers were invited to board the plane first.",
+              "vi": "V lên (tàu, xe, máy bay) Khách hàng hạng thương gia được mời lên máy bay trước. in ban, ủy ban, bộ"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 13,
+      "word": "comfortable",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "kÁmfatabl",
+      "ipaUs": "kímfartabl",
+      "page": 238,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "The beds in this hotel are very comfortable.",
+              "vi": "Giường ở khách sạn này vô cùng dễ chịu. V công bố, tuyên bố, khai (để đóng thuế)"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 14,
+      "word": "declare",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "dikléa",
+      "ipaUs": "dik Ear",
+      "page": 238,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "làm rõ, ghi rõ",
+          "examples": [
+            {
+              "en": "Goods subject to import fees must be declared.",
+              "vi": "Cần phải kê khai những hàng hóa thuộc diện đóng phí nhập khẩu."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 15,
+      "word": "specify",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "spésifai",
+      "ipaUs": "spésafài",
+      "page": 238,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "làm rõ, ghi rõ",
+          "examples": [
+            {
+              "en": "Travelers can specify on the form which cities they would like to visit.",
+              "vi": "Du khách có thể ghi rõ những thành phố họ muốn tham quan trên tờ đơn. V khởi hành"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 16,
+      "word": "depart",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "depart",
+      "ipaUs": "dipá:rt",
+      "page": 238,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "trường hợp khẩn cấp",
+          "examples": [
+            {
+              "en": "Flight QF302 to Sydney departs from London Heathrow airport at 10:45 P.M.",
+              "vi": "Chuyến hay QF302 tới Sydney sẽ khởi hành từ sản bay London Heathrow lúc 10:45 tối. Bải thi TOEIC dạng thức mỗi"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 17,
+      "word": "emergency",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "imá:dzansi",
+      "ipaUs": "imá:rdzansi",
+      "page": 238,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "trường hợp khẩn cấp",
+          "examples": [
+            {
+              "en": "In case of emergency, oxygen masks will automatically drop from above.",
+              "vi": "Trong trường hợp khẩn cấp, mặt nạ oxy sẽ tự động rơi từ trên xuống. n hành khách"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 18,
+      "word": "passenger",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "pæsand3e",
+      "ipaUs": "pasandzor",
+      "page": 238,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "hành khách",
+          "examples": [
+            {
+              "en": "Passengers boarding the cruise ship were",
+              "vi": "Những hành khách lên chuyến tàu du lịch đó sẽ được thuyền trưởng chào đón."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 19,
+      "word": "outgoing",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "áutguin",
+      "ipaUs": "áutgouin",
+      "page": 239,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "sắp đi (khởi hành); sắp nghỉ việc",
+          "examples": [
+            {
+              "en": "Outgoing trains leave from platforms three to five. The outgoing travel agency manager will train her",
+              "vi": "Những tàu sắp khởi hành sẽ lăn bánh ở sân ga số 3 tới sân ga số 5. Quản lý sắp nghỉ việc của công ty du lịch sẽ đào tạo cho người thay thế bà ấy."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 20,
+      "word": "tightly",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "tightly",
+      "ipaUs": "táitli",
+      "page": 239,
+      "senses": [
+        {
+          "pos": "adv",
+          "meaning": "chặt, chặt chẽ",
+          "examples": [
+            {
+              "en": "Please ensure your hotel room door is locked tightly.",
+              "vi": "Vui lòng đảm bảo rằng cửa phòng khách sạn của quý khách đã được khòa chạt. n chuyến du lịch, chuyến tham quan"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 21,
+      "word": "tour",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "tua",
+      "ipaUs": "tuar",
+      "page": 239,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "chuyến du lịch, chuyến tham quan",
+          "examples": [
+            {
+              "en": "The guide gave us a tour of the manufacturing plant. Hackers TOEIC Vocabulary",
+              "vi": "Hướng dẫn viên dẫn chúng tôi đi tham quan nhà máy sản xuất. dang (hưc on tour trong chuyến đi"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 22,
+      "word": "carrier",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "kæria",
+      "ipaUs": "kæriar",
+      "page": 239,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "người vận chuyển, hãng vận tải",
+          "examples": [
+            {
+              "en": "Hackers TOEIC Vocabulary Flyway Airlines is a popular carrier among travelers This plane was originally designed as a cargo carrier.",
+              "vi": "Flyway Airlines là hãng vận tải hàng không được ưa chuộng vì mức giá rẻ. Chiếc máy bay này ban đầu được thiết kế như một phương tiện"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 23,
+      "word": "customarily",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "kAstamérili",
+      "ipaUs": "ctoms (n) thuế nhập",
+      "page": 239,
+      "senses": [
+        {
+          "pos": "adv",
+          "meaning": "thông thường, theo lẽ thường",
+          "examples": [
+            {
+              "en": "Italians customarily greet one another with a kiss",
+              "vi": "Người Ý thường chào hỏi nhau bằng một nụ hôn lên má. Bai thì TOEIC dạng thức mới Cần phân biệt loại từ customarily (adv. theo lễ thường) và"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 24,
+      "word": "confuse",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "confuse",
+      "ipaUs": "kenfjú:z",
+      "page": 240,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "The building's lack of signs confused visitors.",
+              "vi": "Việc tòa nhà thiếu biển chỉ dẫn đã gây bối rối cho khách tới thăm. V đến, tới nơi"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 25,
+      "word": "arrive",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "arrive",
+      "ipaUs": "aráiv",
+      "page": 240,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "cuốn sách mỏng, tờ gấp (để quảng cáo)",
+          "examples": [
+            {
+              "en": "The tour bus will arrive at its destination on time.",
+              "vi": "Xe buýt du lịch sẽ tới điểm đến đúng giờ."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 26,
+      "word": "brochure",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "bráuja™",
+      "ipaUs": "brou uar",
+      "page": 240,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "cuốn sách mỏng, tờ gấp (để quảng cáo)",
+          "examples": [
+            {
+              "en": "Pick up a sightseeing brochure at the information Mark browsed through a catalog of duty-free Health and safety guidelines for travelers are",
+              "vi": "Hãy lấy một tờ gấp giới thiệu về các danh lam thắng cảnh tại quầy thông tin. thức mơi"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 27,
+      "word": "involve",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "Uk invólv",
+      "ipaUs": "inválv",
+      "page": 240,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "Getting to Kelford by bus involves one transfer. The opening ceremony involved many local native James enjoys involving himself in planning family",
+              "vi": "Đi tới Kelford bằng xe buýt cần qua một lần chuyển tuyến. Lễ khai trương có sự góp mặt của nhiều vũ công người bản địa trong vùng."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 28,
+      "word": "ship",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "ship",
+      "ipaUs": "Sip",
+      "page": 241,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "vận chuyển, gửi (hàng hóa, hành khách)",
+          "examples": [
+            {
+              "en": "The company's fleet ships cargo internationally. The cruise ship has a swimming pool and spa.",
+              "vi": "Đội tàu của công ty này vận chuyển hàng hóa xuyên quốc gia. n tàu Con tàu du lịch này có một bể bơi và khu spa."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 29,
+      "word": "suitcase",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "suitcase",
+      "ipaUs": "sú:tkèis",
+      "page": 241,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "va li",
+          "examples": [
+            {
+              "en": "Each person is allowed to check in one suitcase.",
+              "vi": "Môi người chỉ được phép mang theo một va li khi làm thủ tục đăng ký. adị không có sẵn, chưa xong, chưa sẵn sàng"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 30,
+      "word": "unavailable",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "unavailable",
+      "ipaUs": "Ànavéilabl",
+      "page": 241,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "The luxury suite is currently unavailable.",
+              "vi": "Phòng nghỉ cao cấp hiện không có sẵn. phr điền (thông tin)"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 31,
+      "word": "fill",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "fill",
+      "ipaUs": "fill",
+      "page": 241,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "hải quan",
+          "examples": [
+            {
+              "en": "Please fill out the form prior to landing. Hackers TOEIC Vocabulary You must fill up the tank before dropping off the",
+              "vi": "Vui lòng điền thông tin vào mẫu đơn này trước đi hạ cánh. Bài thi TOEIC dạng thực - fill out/in điền"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 32,
+      "word": "customs",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "customs",
+      "ipaUs": "kÁstamz",
+      "page": 241,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "hải quan",
+          "examples": [
+            {
+              "en": "Hundreds of passengers go through customs every hour.",
+              "vi": "Hàng trăm hành khách đi qua cửa hải quan mỗi giờ. Bai thi TOEIC dạng thức mới customs regulations diều lệ hải quan"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 33,
+      "word": "away",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "away",
+      "ipaUs": "awéi",
+      "page": 242,
+      "senses": [
+        {
+          "pos": "adv",
+          "meaning": "xa, cách xa, mất đi",
+          "examples": [
+            {
+              "en": "The city hall is located about fifteen miles away from the convention center. The subway station is located far from the",
+              "vi": "Quảng trường thành phố nằm cách trung tâm hội nghị chừng 15 dặm. Lưu ý phân biệt cách sử dụng của hai từ cùng mang nghĩa là"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 34,
+      "word": "dramatic",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "dramatic",
+      "ipaUs": "dramætik |",
+      "page": 242,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "kịch tính, gây xúc động; đột ngột, ấn tượng",
+          "examples": [
+            {
+              "en": "This tour includes admiring the country's most dramatic scenery. increase, rise hay fall.",
+              "vi": "Chuyễn du lịch này bao gồm cả hoạt động chiêm ngưỡng cảnh đẹp ấn tượng nhất đất nước. Bai thì TOEIC dạng thức mới"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 35,
+      "word": "hospitality",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "höspitælati",
+      "ipaUs": "hàspatalati",
+      "page": 242,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự hiếu khách, sự thân thiện",
+          "examples": [
+            {
+              "en": "The guests appreciated the hospitality extended to them during their stay.",
+              "vi": "Các vị khách đều rất cảm kích sự hiếu khách mà họ đã nhận được trong suỗt thời gian ở đây. Bai thi TOEIC dạng thức mới"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 36,
+      "word": "indulge",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "indulge",
+      "ipaUs": "indAld3",
+      "page": 243,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "chiều theo; tận hưởng, say mẽ",
+          "examples": [
+            {
+              "en": "Indulge in a getaway to the jungles and reefs of Belize. Beny thot ThO",
+              "vi": "Hãy tận hưởng quãng thời gian sống tách biệt trong rừng rậm và các rặng đá ngầm ở Belize. indulge in tận hưởng (= be addicted to)"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 37,
+      "word": "proximity",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "proksimiti",
+      "ipaUs": "praksímeti",
+      "page": 243,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự gần, sự lân cận",
+          "examples": [
+            {
+              "en": "The conference center is in close proximity to the hotel.",
+              "vi": "Trung tâm hội nghị ở rất gần khách sạn. Gạng Thậi, thội g in close proximity to ở rất gần với"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 38,
+      "word": "seating",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "seating",
+      "ipaUs": "sí:tin",
+      "page": 243,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "chỗ ngồi; sự xếp chỗ",
+          "examples": [
+            {
+              "en": "The seating capacity of this airplane is 250 passengers. The seating arrangements were finalized before guests arrived.",
+              "vi": "Số ghế ngồi của chiếc máy bay này đủ cho 250 hành khách. Việc bố trí chỗ ngồi đã được hoàn tất trước khi khách đến. Bại thi TOEIC dạng thức mơi"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 39,
+      "word": "unlimited",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "unlimited",
+      "ipaUs": "Ànlímitid",
+      "page": 244,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "vô hạn, vô tận, không giới hạn",
+          "examples": [
+            {
+              "en": "Unlimited mileage is included with all our car • rental quotes. 1 have unlimited access to the file",
+              "vi": "Các báo giá cho thuê xe của chúng tôi đã bao gồm việc không giới hạn về số dặm. Bai thi TOEIC dạng thực mới"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    }
+  ],
+  "completeVocab": {
+    "basic": {
+      "LC": [],
+      "RC": [
+        [
+          "agent",
+          "n",
+          "người đại lý, trung gian"
+        ],
+        [
+          "airport",
+          "n",
+          "sân bay"
+        ],
+        [
+          "beach",
+          "n",
+          "sân bay"
+        ],
+        [
+          "boat",
+          "n",
+          "thuyền, tàu"
+        ],
+        [
+          "business class",
+          "phr",
+          "hạng thương gia"
+        ],
+        [
+          "connect",
+          "v",
+          "nối, kết nối"
+        ],
+        [
+          "departure time",
+          "phr",
+          "giờ khởi hành"
+        ],
+        [
+          "duty-free shop",
+          "phr",
+          "cửa hàng miễn thuế"
+        ],
+        [
+          "first class",
+          "phr",
+          "cửa hàng miễn thuế"
+        ],
+        [
+          "a flight",
+          "n",
+          "chuyễn bay"
+        ],
+        [
+          "go on vacation",
+          "phr",
+          "di nghi"
+        ],
+        [
+          "guidebook",
+          "n",
+          "sách hướng dẫn (du lịch)"
+        ],
+        [
+          "journey",
+          "n",
+          "sách hướng dẫn (du lịch)"
+        ],
+        [
+          "nonstop flight",
+          "n",
+          "cuộc hành trinh"
+        ],
+        [
+          "pack",
+          "n",
+          "gói, túi; y đóng gói, xếp đổ"
+        ],
+        [
+          "passport",
+          "n",
+          "gói, túi; y đóng gói, xếp đổ"
+        ],
+        [
+          "pilot",
+          "n",
+          "phi công"
+        ],
+        [
+          "salon",
+          "n",
+          "tiệm (làm đẹp, thời trang)"
+        ],
+        [
+          "span",
+          "n",
+          "tiệm (làm đẹp, thời trang)"
+        ],
+        [
+          "o trip",
+          "n",
+          "chuyễn đi"
+        ],
+        [
+          "border",
+          "n",
+          "biên giới, ranh giới"
+        ],
+        [
+          "central",
+          "n",
+          "biên giới, ranh giới"
+        ],
+        [
+          "safe",
+          "adj",
+          "an toàn"
+        ],
+        [
+          "sudden",
+          "adj",
+          "an toàn"
+        ],
+        [
+          "travel",
+          "n",
+          "chuyến đi; v đi lại, du lịch"
+        ],
+        [
+          "underwater",
+          "n",
+          "chuyến đi; v đi lại, du lịch"
+        ],
+        [
+          "o unique",
+          "phr",
+          "adị dưới nước"
+        ],
+        [
+          "Visitor",
+          "n",
+          "du khách, khách đến thăm"
+        ]
+      ]
+    },
+    "l800": {
+      "LC": [
+        [
+          "aboard",
+          "adv",
+          "trên tàu/xe/máy bay; prep lên trên"
+        ],
+        [
+          "aircraft",
+          "adv",
+          "trên tàu/xe/máy bay; prep lên trên"
+        ],
+        [
+          "airfare",
+          "n",
+          "tiền vé máy bay"
+        ],
+        [
+          "aisle seat",
+          "phr",
+          "chỗ ngồi cạnh lối đi"
+        ],
+        [
+          "be on a trip",
+          "phr",
+          "trong chuyến đi"
+        ],
+        [
+          "board a flight",
+          "phr",
+          "lên máy bay"
+        ],
+        [
+          "boarding gate",
+          "phr",
+          "cửa lên máy bay"
+        ],
+        [
+          "boarding pass",
+          "phr",
+          "vé máy bay"
+        ],
+        [
+          "boarding time",
+          "phr",
+          "giờ lên máy bay"
+        ],
+        [
+          "by air",
+          "phr",
+          "bằng đường hàng không"
+        ],
+        [
+          "carry-on baggage",
+          "phr",
+          "hành lý xách tay"
+        ],
+        [
+          "connecting flight",
+          "phr",
+          "chuyến bay chuyển tiếp"
+        ],
+        [
+          "crew",
+          "n",
+          "tổ bay"
+        ],
+        [
+          "cruise",
+          "n",
+          "tổ bay"
+        ],
+        [
+          "currency exchange",
+          "phr",
+          "trao đổi tiền tệ"
+        ],
+        [
+          "a drift",
+          "phr",
+          "y trôi dạt, cuốn đi"
+        ],
+        [
+          "a ferry",
+          "phr",
+          "m phà"
+        ],
+        [
+          "flight attendant",
+          "phr",
+          "tiếp viên hàng không"
+        ],
+        [
+          "a fluid",
+          "phr",
+          "tiếp viên hàng không"
+        ],
+        [
+          "guest pass",
+          "phr",
+          "thẻ ra vào của khách"
+        ],
+        [
+          "guided tour",
+          "phr",
+          "chuyến đi có hướng dẫn viên"
+        ],
+        [
+          "immigration",
+          "n",
+          "sự nhập cư"
+        ],
+        [
+          "in-flight",
+          "n",
+          "adị trong chuyến bay"
+        ],
+        [
+          "landing",
+          "n",
+          "adị trong chuyến bay"
+        ],
+        [
+          "landmark",
+          "n",
+          "điểm mốc, mốc ranh giới"
+        ],
+        [
+          "layover",
+          "n",
+          "chặng nghỉ, thời gian tạm nghỉ"
+        ],
+        [
+          "leave for",
+          "n",
+          "chặng nghỉ, thời gian tạm nghỉ"
+        ],
+        [
+          "line up",
+          "phr",
+          "xếp hàng"
+        ],
+        [
+          "luggage tag",
+          "phr",
+          "xếp hàng"
+        ],
+        [
+          "mainland",
+          "phr",
+          "thẻ tên hành lý"
+        ],
+        [
+          "missing luggage",
+          "n",
+          "lục địa, đất liền"
+        ],
+        [
+          "native",
+          "phr",
+          "hành lý thất lạc"
+        ],
+        [
+          "observation tower",
+          "phr",
+          "dài quan sát"
+        ]
+      ],
+      "P56": [],
+      "P7": [
+        [
+          "overbook",
+          "n",
+          "y đặt chỗ trước quá nhiều (hết chỗ)"
+        ],
+        [
+          "overhead rack",
+          "phr",
+          "giá để đồ ở trên đầu"
+        ],
+        [
+          "overseas",
+          "n",
+          "adị nước ngoài"
+        ],
+        [
+          "port",
+          "n",
+          "adị nước ngoài"
+        ],
+        [
+          "porter",
+          "n",
+          "người khuân vác"
+        ],
+        [
+          "reclaim",
+          "n",
+          "y lấy lại (hành lý)"
+        ],
+        [
+          "row the boat",
+          "phr",
+          "chèo thuyền"
+        ],
+        [
+          "stop over",
+          "phr",
+          "tạm nghỉ lại"
+        ],
+        [
+          "take off",
+          "phr",
+          "cất cánh"
+        ],
+        [
+          "take one's bag off",
+          "phr",
+          "bỏ túi xuống"
+        ],
+        [
+          "train conductor",
+          "phr",
+          "nhân viên bảo vệ tàu"
+        ],
+        [
+          "travel agency",
+          "phr",
+          "dại lý du lịch"
+        ],
+        [
+          "unload",
+          "n",
+          "y dỡ ra, tháo ra"
+        ],
+        [
+          "unlock",
+          "v",
+          "mở khóa"
+        ],
+        [
+          "walking tour",
+          "phr",
+          "chuyến đi bộ tham quan"
+        ],
+        [
+          "distant",
+          "phr",
+          "chuyến đi bộ tham quan"
+        ],
+        [
+          "favor",
+          "n",
+          "sự ủng hộ, đặc ân"
+        ],
+        [
+          "overhead",
+          "n",
+          "sự ủng hộ, đặc ân"
+        ],
+        [
+          "remains",
+          "n",
+          "di tích"
+        ],
+        [
+          "remote",
+          "n",
+          "adị xa, cách biệt"
+        ],
+        [
+          "rightly",
+          "n",
+          "adị xa, cách biệt"
+        ],
+        [
+          "travel arrangement",
+          "phr",
+          "sự chuẩn bị cho chuyến đi"
+        ],
+        [
+          "accumulate",
+          "n",
+          "y chất đồng, gom góp"
+        ],
+        [
+          "geographic",
+          "n",
+          "adị thuộc về địa lý"
+        ],
+        [
+          "go through customs",
+          "phr",
+          "làm thủ tục qua cửa hải quan"
+        ],
+        [
+          "jet lag",
+          "phr",
+          "làm thủ tục qua cửa hải quan"
+        ],
+        [
+          "memorable",
+          "n",
+          "adị đáng nhớ, không quên được"
+        ],
+        [
+          "memorial",
+          "n",
+          "nị đài tưởng niệm adị thuộc ký ức"
+        ],
+        [
+          "precisely",
+          "n",
+          "nị đài tưởng niệm adị thuộc ký ức"
+        ],
+        [
+          "round trip",
+          "phr",
+          "chuyến đi khứ hồi"
+        ],
+        [
+          "runway",
+          "n",
+          "đương băng"
+        ],
+        [
+          "seasickness",
+          "n",
+          "đương băng"
+        ],
+        [
+          "suburban train line",
+          "n",
+          "say sóng"
+        ],
+        [
+          "voyage",
+          "phr",
+          "tuyến tàu ngoại ô"
+        ],
+        [
+          "wildlife",
+          "n",
+          "động vật hoang dã"
+        ]
+      ]
+    },
+    "l900": {
+      "LC": [],
+      "P56": [],
+      "P7": [
+        [
+          "airsickness",
+          "n",
+          "say máy bay"
+        ],
+        [
+          "barge",
+          "n",
+          "say máy bay"
+        ],
+        [
+          "be left unattended",
+          "phr",
+          "bị bỏ mặc"
+        ],
+        [
+          "buckle up (= fasten seatbelt)",
+          "phr",
+          "cài dây an toàn"
+        ],
+        [
+          "carousel",
+          "n",
+          "băng chuyền hành lý"
+        ],
+        [
+          "channel",
+          "n",
+          "kênh, eo biển"
+        ],
+        [
+          "deck",
+          "n",
+          "sàn (tàu, xe buýt)"
+        ],
+        [
+          "dock",
+          "n",
+          "bến tàu"
+        ],
+        [
+          "harbor",
+          "n",
+          "bến cảng; Y bỏ neo ở cảng"
+        ],
+        [
+          "life preserver",
+          "phr",
+          "đỗ cứu hộ"
+        ],
+        [
+          "meet one's flight",
+          "phr",
+          "đón ai đó đúng lúc chuyến bay vừa đến"
+        ],
+        [
+          "stall",
+          "n",
+          "quầy, sạp bán hàng; v ngăn, trì hoãn"
+        ],
+        [
+          "tie the boat to",
+          "phr",
+          "buộc thuyền vào"
+        ],
+        [
+          "turbulence",
+          "phr",
+          "buộc thuyền vào"
+        ],
+        [
+          "allowance",
+          "n",
+          "sự cho phép, sự thừa nhận, sự chiếu cố"
+        ],
+        [
+          "concourse",
+          "n",
+          "hội trường, phòng lớn"
+        ],
+        [
+          "lodging",
+          "n",
+          "nị chỗ trọ, chỗ tạm trú"
+        ],
+        [
+          "presumable",
+          "n",
+          "adị có thể đoán được"
+        ],
+        [
+          "touch down",
+          "phr",
+          "adị có thể đoán được"
+        ],
+        [
+          "aviation",
+          "n",
+          "hàng không"
+        ],
+        [
+          "charter plane",
+          "phr",
+          "máy bay thuê riêng"
+        ],
+        [
+          "confer",
+          "v",
+          "bàn bạc, hội ý"
+        ],
+        [
+          "disembark (= get off, leave)",
+          "v",
+          "xuống xe, lên bờ"
+        ],
+        [
+          "dispense",
+          "v",
+          "xuống xe, lên bờ"
+        ],
+        [
+          "impound",
+          "v",
+          "tịch thu"
+        ],
+        [
+          "motion sickness",
+          "phr",
+          "say tàu xe"
+        ],
+        [
+          "prestigious",
+          "phr",
+          "say tàu xe"
+        ],
+        [
+          "quarantine desk",
+          "phr",
+          "đội kiểm dịch"
+        ],
+        [
+          "remittance",
+          "n",
+          "việc gửi tiền, khoản tiền gửi"
+        ],
+        [
+          "swap",
+          "v",
+          "tráo đổi, hoán đổi"
+        ],
+        [
+          "turn up",
+          "phr",
+          "xuất hiện"
+        ],
+        [
+          "vessel",
+          "phr",
+          "xuất hiện"
+        ]
+      ]
+    }
+  },
+  "dailyCheckup": {
+    "page": 245,
+    "groups": [
+      {
+        "instruction": "Tìm ở cột bên phải nghĩa của các từ vựng ở cột bên trái và nối chúng với nhau.",
+        "options": [
+          {
+            "key": "a",
+            "text": "tiêu cực"
+          },
+          {
+            "key": "b",
+            "text": "ngay lập tức"
+          },
+          {
+            "key": "c",
+            "text": "cách tiếp cận"
+          },
+          {
+            "key": "d",
+            "text": "bị cấm"
+          },
+          {
+            "key": "e",
+            "text": "sự chấp thuận"
+          },
+          {
+            "key": "f",
+            "text": "truy cập"
+          }
+        ],
+        "questions": [
+          {
+            "no": 1,
+            "prompt": "specify",
+            "answer": "a"
+          },
+          {
+            "no": 2,
+            "prompt": "comfortable",
+            "answer": "a"
+          },
+          {
+            "no": 3,
+            "prompt": "customarily",
+            "answer": "a"
+          },
+          {
+            "no": 4,
+            "prompt": "destination",
+            "answer": "a"
+          },
+          {
+            "no": 5,
+            "prompt": "confuse",
+            "answer": "a"
+          }
+        ]
+      },
+      {
+        "instruction": "Hãy chọn từ phù hợp để điền vào mỗi câu của bài thi TOEIC dạng thức mới sau.",
+        "options": [
+          {
+            "key": "a",
+            "text": "inspection"
+          },
+          {
+            "key": "b",
+            "text": "effect"
+          },
+          {
+            "key": "c",
+            "text": "authorized"
+          },
+          {
+            "key": "d",
+            "text": "procedure"
+          },
+          {
+            "key": "e",
+            "text": "concern"
+          }
+        ],
+        "questions": [
+          {
+            "no": 6,
+            "prompt": "Guests of the hotel praise it for its",
+            "answer": "a"
+          },
+          {
+            "no": 7,
+            "prompt": "The_ of entering the country is simpler for residents.",
+            "answer": "a"
+          },
+          {
+            "no": 9,
+            "prompt": "Turkey has",
+            "answer": "a"
+          }
+        ]
+      },
+      {
+        "instruction": "Hãy chọn từ phù hợp để điền vào mỗi câu của bài thi TOEIC dạng thức mới sau.",
+        "options": [
+          {
+            "key": "a",
+            "text": "obligation"
+          },
+          {
+            "key": "b",
+            "text": "drastically"
+          },
+          {
+            "key": "c",
+            "text": "revise"
+          },
+          {
+            "key": "d",
+            "text": "thoroughly"
+          },
+          {
+            "key": "e",
+            "text": "arrangements"
+          }
+        ],
+        "questions": [
+          {
+            "no": 10,
+            "prompt": "Travelers to Beijing can._ their train now.",
+            "answer": "a"
+          },
+          {
+            "no": 11,
+            "prompt": "This_ is known for plentiful legroom on its planes.",
+            "answer": "a"
+          },
+          {
+            "no": 12,
+            "prompt": "Every year, millions of foreigners visit Italy for __.",
+            "answer": "a"
+          },
+          {
+            "no": 13,
+            "prompt": "The toy manufacturer _",
+            "answer": "a"
+          }
+        ]
+      }
+    ]
+  },
+  "title": "Mục đích chuyến công tác",
+  "titleVi": "Mục đích chuyến công tác",
+  "category": "Du lịch - Sân bay"
+}

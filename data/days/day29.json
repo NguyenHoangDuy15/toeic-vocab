@@ -1,0 +1,1935 @@
+{
+  "dayNo": 29,
+  "titleVi": "Dự báo thời tiết",
+  "titleEn": "Topic 29",
+  "category": "Môi trường",
+  "coreWords": [
+    {
+      "no": 1,
+      "word": "conserve",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "konse:v",
+      "ipaUs": "kansav",
+      "page": 460,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "bảo tồn, duy trì",
+          "examples": [
+            {
+              "en": "Measures were introduced to conserve forests in",
+              "vi": "Các phương án đã được đưa ra để bảo tồn những khu rừng trong vùng. syn.) Với nghĩa chỉ việc giữ gìn để không bị phá hủy hoặc lãng"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 2,
+      "word": "chance",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "ta:ns",
+      "ipaUs": "tjæns",
+      "page": 460,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "khả năng, sự có khả năng",
+          "examples": [
+            {
+              "en": "The morning weather report predicted a 30 percent chance of rain today. The Green Earth Symposium provided a good",
+              "vi": "Bản tin dự báo thời tiết buổi sáng dự đoán khả năng ngày hôm nay có mưa là 30%. Bạn có thể gặp dạng để yêu cầu phân biệt hai từ cùng mang"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 3,
+      "word": "forecast",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "f5:ka:st",
+      "ipaUs": "f5:rkæst",
+      "page": 460,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự dự báo",
+          "examples": [
+            {
+              "en": "The news station gives hourly weather forecasts.",
+              "vi": "Trung tâm tin tức phát dự báo thời tiết mỗi giờ. Đợng thi, no weather forecast dự báo thời tiết"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 4,
+      "word": "waste",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "waste",
+      "ipaUs": "weist",
+      "page": 461,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "rác, đổ bỏ đi",
+          "examples": [
+            {
+              "en": "Recyclable waste must be placed in the designated",
+              "vi": "receptacles. Rác thải có thể tái chế phải được bỏ vào trong các thùng đựng riêng. cyn.) Với nghĩa \"rác, rác thải\", waste có thể thay bằng garbage,"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 5,
+      "word": "dispose",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "Uk dispáuz",
+      "ipaUs": "*→ reable",
+      "page": 461,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "việc tái chế",
+          "examples": [
+            {
+              "en": "Manufacturers must dispose of their waste",
+              "vi": "appropriately. Các nhà sản xuất cần phải xử lý rác thải của mình đúng cách. Bai thì TOEIC dạng thực môi"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 6,
+      "word": "recycling",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "recycling",
+      "ipaUs": "rì:sáiklio",
+      "page": 461,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "việc tái chế",
+          "examples": [
+            {
+              "en": "Recycling saves energy and reduces acid rain.",
+              "vi": "Việc tái chế giúp tiết kiệm năng lượng và làm giảm hiện tượng mưa axít. adị trong, trong trẻo; rõ ràng, dễ hiểu"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 7,
+      "word": "clear",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "klia",
+      "ipaUs": "klier",
+      "page": 461,
+      "senses": [
+        {
+          "pos": "adv",
+          "meaning": "rõ ràng; hoàn toàn, hần",
+          "examples": [
+            {
+              "en": "The picnic was held at the park on a clear day. When the weather is good, you can see clear across the lake from one side to the other.",
+              "vi": "Buổi dã ngoại được tổ chức ở công viên vào một ngày trời trong. Khi trời đẹp, bạn có thể nhìn rõ từ bên này sang bên kia hồ. Bai thi TOEIC đạng thức mới"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 8,
+      "word": "damage",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "damage",
+      "ipaUs": "dæmid3",
+      "page": 462,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự thiệt hại, hư tổn",
+          "examples": [
+            {
+              "en": "The thunderstorm caused extensive damage to the The spilled chemicals damaged some factory",
+              "vi": "region. Cơn bão đã gây ra thiệt hại lớn cho khu vực. v gây thiệt hại, làm hỏng machinery. Chất hóa học bị tràn ra đã làm hỏng một số máy"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 9,
+      "word": "significant",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "significant",
+      "ipaUs": "signifikant",
+      "page": 462,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "lớn, mạnh; quan trọng, đáng kể",
+          "examples": [
+            {
+              "en": "Hurricane Aida produced significant winds in Greenhouse gases have a significant impact on global temperatures.",
+              "vi": "Cơn bão Aida gây ra gió giật mạnh vượt mức 200 km/h. Khí nhà kính có tác động đáng kể đến nhiệt độ toàn cầu. n giải pháp, đáp án"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 10,
+      "word": "solution",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "solution",
+      "ipaUs": "salú:fen",
+      "page": 462,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "giải pháp, đáp án",
+          "examples": [
+            {
+              "en": "Hackers TOEIC Vocabulary Solar power is one solution to energy problems.",
+              "vi": "Năng lượng mặt trời là một giải pháp cho vấn để năng lượng. Bài thì TOEIC dụng thực mới solution to giải pháp cho"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 11,
+      "word": "occur",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "occur",
+      "ipaUs": "aká:r",
+      "page": 462,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "Earthquakes occur frequently in several regions of",
+              "vi": "Động đất xảy ra thường xuyên tại một số vùng ở Nhật Bản."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 12,
+      "word": "ideal",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "Uk aidia!",
+      "ipaUs": "aidi:al",
+      "page": 463,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "lý tưởng",
+          "examples": [
+            {
+              "en": "The weather this week has been ideal for a",
+              "vi": "camping trip. Thời tiết tuần này rất lý tưởng cho một chuyến cầm trại. 1. ideal + venue/place dịa điểm/nơi lý tưởng"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 13,
+      "word": "preserve",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "prizé:v",
+      "ipaUs": "prizó:rv",
+      "page": 463,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "giữ gìn, bảo tồn",
+          "examples": [
+            {
+              "en": "EnviroCore's mandate is to preserve natural habitats in North America.",
+              "vi": "Nhiệm vụ của EnviroCore là bảo tồn môi trường sống tự nhiên ở Bắc Mỹ. n sự giúp dỡ, sự hỗ trợ"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 14,
+      "word": "aid",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "aid",
+      "ipaUs": "eid",
+      "page": 463,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự giúp dỡ, sự hỗ trợ",
+          "examples": [
+            {
+              "en": "The government pledged $15 million in aid to repair flood damage.",
+              "vi": "Chính phủ cam kết hỗ trợ 15 triệu đô-la để khắc phục thiệt hại do lũ lụt gây ra adj quá mức, thừa, quá đáng"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 15,
+      "word": "excessive",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "eksésiv",
+      "ipaUs": "iksésiv",
+      "page": 463,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "quá mức, thừa, quá đáng",
+          "examples": [
+            {
+              "en": "Excessive garbage is a serious problem for many",
+              "vi": "megacities. Quá nhiều rác là một vấn để nghiêm trọng của nhiều thành phố lớn. adv mạnh mẽ, sâu sắc"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 16,
+      "word": "intensively",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "intensively",
+      "ipaUs": "inténsivli",
+      "page": 463,
+      "senses": [
+        {
+          "pos": "adv",
+          "meaning": "mạnh mẽ, sâu sắc",
+          "examples": [
+            {
+              "en": "The wind blew intensively for hours during the",
+              "vi": "storm. Gió thổi mạnh nhiều giờ trong cơn bảo."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 17,
+      "word": "vary",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "uK vêari",
+      "ipaUs": "VEari",
+      "page": 464,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "thay đổi, biến đổi",
+          "examples": [
+            {
+              "en": "The level of water in the lake varies greatly from",
+              "vi": "Mực nước trong hồ thay đổi rất nhiều giữa các năm. adj dễ chịu, thú vị, làm vừa ý"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 18,
+      "word": "pleasing",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "pleasing",
+      "ipaUs": "pli:zio",
+      "page": 464,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "dễ chịu, thú vị, làm vừa ý",
+          "examples": [
+            {
+              "en": "Trees in city parks are not only pleasing to see, but environmentally beneficial. Most residents were pleased with the city",
+              "vi": "Cây cối trong công viên thành phố không chỉ đẹp mắt, mà chúng còn tốt cho môi trường. - pleasing dễ chịu, làm vừa ý"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 19,
+      "word": "mark",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "ma:k",
+      "ipaUs": "ma:rk",
+      "page": 464,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "điểm, sự đánh giá, dấu, vết",
+          "examples": [
+            {
+              "en": "Hackers TOEIC Vocabulary Allor Corp. received an excellent mark from environment monitoring groups.",
+              "vi": "Tập đoàn Allor đã nhận được sự đánh giá cao từ các tổ chức giảm sát môi trường. y cho điểm, đánh dấu, kỷ niệm"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 20,
+      "word": "inaccessible",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "inaksésibl",
+      "ipaUs": "inaksésabl",
+      "page": 465,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "không vào được, khó nằm được, khó đạt được",
+          "examples": [
+            {
+              "en": "The wildlife park is inaccessible by car, so visitors",
+              "vi": "Không thể đi vào công viên hoang dã bằng ô tô, vì vậy du khách phải đi bằng phà. Ban thì TOEIC đạng thột mơi"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 21,
+      "word": "disturb",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "Uk distá:b",
+      "ipaUs": "Uk distá:b",
+      "page": 465,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "chất gây ô nhiễm",
+          "examples": [
+            {
+              "en": "The guests were disturbed by the noise from the construction site.",
+              "vi": "Các vị khách bị làm phiền bởi tiếng ổn từ công trường xây dựng."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 22,
+      "word": "pollutant",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "pollutant",
+      "ipaUs": "palú:tnt",
+      "page": 465,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "chất gây ô nhiễm",
+          "examples": [
+            {
+              "en": "Automotive exhaust introduces harmful pollutants into the air.",
+              "vi": "Khí thải ô tô tạo ra các chất ô nhiễm độc hại trong không khí. Bai thì TOEIC dạng thực mới - pollutant chất gây ô nhiễm"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 23,
+      "word": "emission",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "emission",
+      "ipaUs": "imifan",
+      "page": 465,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "New laws now limit emissions from cars.",
+              "vi": "Luật mới giờ đã giới hạn lượng khí thải từ ô tô. adị dày đặc, đông đúc"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 24,
+      "word": "dense",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "dense",
+      "ipaUs": "dens",
+      "page": 465,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "The Black Forest is so dense that it appears dark",
+              "vi": "Rừng Đen dày đến mức nó âm u kể cả vào buổi trưa."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 25,
+      "word": "environmental",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "Uk inväirenmént|",
+      "ipaUs": "inväiaranméntl",
+      "page": 466,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "thuộc về môi trường",
+          "examples": [
+            {
+              "en": "Climate change has become a major global environmental issue.",
+              "vi": "Biến đổi khí hậu đã trở thành một vấn đề môi trường lớn trên toàn cầu. adj kiên định, nhất quán, phù hợp"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 26,
+      "word": "consistent",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "consistent",
+      "ipaUs": "kensistant",
+      "page": 466,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "kiên định, nhất quán, phù hợp",
+          "examples": [
+            {
+              "en": "Factory construction must be consistent with government environmental regulations.",
+              "vi": "Việc xây dựng nhà máy phải phù hợp với các quy định về môi trường của chính phủ. n lỗ thủng, sự rò rỉ"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 27,
+      "word": "leak",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "leak",
+      "ipaUs": "i:k",
+      "page": 466,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "lỗ thủng, sự rò rỉ",
+          "examples": [
+            {
+              "en": "A leak in an oil pipeline caused considerable Improperly sealed tanks slowly leaked chemicals into the water.",
+              "vi": "Sự cố rò rỉ ở đường ống dẫn dầu đã gây ra vấn để nghiêm trọng đối với sức khỏe của các loài động vật hoang dã. v rò rỉ, để lọt ra"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 28,
+      "word": "organization",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "›:ganaizéifon",
+      "ipaUs": "b:rganizéifan",
+      "page": 466,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "tổ chức, cơ quan",
+          "examples": [
+            {
+              "en": "Many organizations have grouped together to protect the African savanna.",
+              "vi": "Nhiều tổ chức đã tập hợp cùng nhau để bảo vệ vùng thảo nguyên châu Phi. adv liên tục, không ngớt"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 29,
+      "word": "continually",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "continually",
+      "ipaUs": "continuo (adj",
+      "page": 466,
+      "senses": [
+        {
+          "pos": "adv",
+          "meaning": "liên tục, không ngớt",
+          "examples": [
+            {
+              "en": "The processing plant continually polluted nearby xung quanh.",
+              "vi": "lakes. Nhà máy chế biến liên tục gây ô nhiễm cho các hồ nước"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 30,
+      "word": "contaminate",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "kontæmineit",
+      "ipaUs": "kantæmanèit",
+      "page": 467,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "Khi được dùng để chỉ việc làm ô nhiễm, contaminate có thể",
+          "examples": [
+            {
+              "en": "The water was contaminated with gasoline.",
+              "vi": "Nước đã bị nhiễm xăng dầu. thay bằng pollute. n thảm họa"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 31,
+      "word": "disaster",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "dizá:sta",
+      "ipaUs": "dizæstar",
+      "page": 467,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "thảm họa",
+          "examples": [
+            {
+              "en": "Emergency procedures are implemented in case of a natural disaster.",
+              "vi": "Các phương pháp khẩn cấp phải được thực hiện trong trường hợp xảy ra thảm họa thiên nhiên. v thải ra, tuôn ra, chảy ra"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 32,
+      "word": "discharge",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "discharge",
+      "ipaUs": "distjá:rd3",
+      "page": 467,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "thải ra, tuôn ra, chảy ra",
+          "examples": [
+            {
+              "en": "It is illegal to discharge industrial chemicals into",
+              "vi": "Thải chất hóa học công nghiệp ra môi trường là phạm pháp. n nguồn, nguồn tài nguyên"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 33,
+      "word": "resource",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "risô:s",
+      "ipaUs": "ris5:rs",
+      "page": 467,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "nguồn, nguồn tài nguyên",
+          "examples": [
+            {
+              "en": "Designating lands as national parks can help preserve natural resources.",
+              "vi": "Chọn các vùng đất làm công viên quốc gia có thể giúp bảo tồn nguồn tài nguyên thiên nhiên."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 34,
+      "word": "prominent",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "prôminant",
+      "ipaUs": "prámonent",
+      "page": 468,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "nổi bật, nổi tiếng",
+          "examples": [
+            {
+              "en": "Mr. Goldstein is a prominent expert in the energy",
+              "vi": "industry. Ông Goldstein là một chuyên gia nổi tiếng trong ngành công nghiệp năng lượng. byn.) Khi được dùng để chỉ sự nổi tiếng, được nhiều người biết đến,"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 35,
+      "word": "deplete",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "deplete",
+      "ipaUs": "syn.) exhat làm kiệt quệ",
+      "page": 468,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "làm suy yếu, làm cạn kiệt",
+          "examples": [
+            {
+              "en": "The area's water resources have been depleted, Hackers TOEIC Vocabular",
+              "vi": "Nguồn nước trong khu vực đã bị cạn kiệt, gây ra sự giảm sút trong sản xuất. Dn Khi được dùng để chỉ việc làm cạn kiệt tài nguyên hay"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 36,
+      "word": "purify",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "pjuarifai",
+      "ipaUs": "pjúarafài",
+      "page": 468,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "bị de doa",
+          "examples": [
+            {
+              "en": "Hackers TOEIC Vocabular The plant purifies the water before it is offered to the local population.",
+              "vi": "V lọc, làm sạch Nhà máy lọc sạch nước trước khi cung cấp cho dân cư trong vùng."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 37,
+      "word": "endangered",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "uK indéindzad",
+      "ipaUs": "indéindzord",
+      "page": 468,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "bị de doa",
+          "examples": [
+            {
+              "en": "WildAid is fighting to protect endangered species.",
+              "vi": "WildAid dang đấu tranh để bảo vệ các loài sinh vật bị đe dọa. [om. Có thể dùng threatened thay cho endangered với nghĩa chỉ tình trạng phải đối mặt với nguy cơ tuyệt chủng."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 38,
+      "word": "extinction",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "extinction",
+      "ipaUs": "ikstínk(an",
+      "page": 469,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự tuyệt chủng",
+          "examples": [
+            {
+              "en": "Polar bears are now in danger of extinction.",
+              "vi": "Gấu Bắc Cực hiện đang có nguy cơ tuyệt chủng. n hạn hán"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 39,
+      "word": "drought",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "drought",
+      "ipaUs": "draut",
+      "page": 469,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "hạn hán",
+          "examples": [
+            {
+              "en": "The persistent drought affected the water supply.",
+              "vi": "Hạn hán kéo dài đã ảnh hưởng đến nguồn cung cấp nước. V gây ra, bắt phải chịu (sự trừng phạt, thuế)"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 40,
+      "word": "inflict",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "inflict",
+      "ipaUs": "inflikt",
+      "page": 469,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự di cư, sự chuyển",
+          "examples": [
+            {
+              "en": "The new dam has inflicted considerable damage on the local communities.",
+              "vi": "Con đập mới đã gây ra thiệt hại đáng kể cho người dân dịa phương."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 41,
+      "word": "migration",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "migration",
+      "ipaUs": "maigréifon",
+      "page": 469,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự di cư, sự chuyển",
+          "examples": [
+            {
+              "en": "The tank was isolated to prevent the migration of The government adopted strict new controls on",
+              "vi": "contaminants. Chiếc bình đã được cách ly để ngăn chặn sự lây lan của các chất gây ô nhiễm. • Lưu ý phân biệt sự khác nhau giữa hai từ cùng liên quan đến"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 42,
+      "word": "ecology",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "ik5ladzi",
+      "ipaUs": "ikáladzi",
+      "page": 469,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "hệ sinh thái, sinh thái học",
+          "examples": [
+            {
+              "en": "Global warming alters the ecology of our planet.",
+              "vi": "Sự nóng lên toàn cầu làm biến đổi hệ sinh thái của hành tinh chúng ta. n môi trường sống, nơi sống"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 43,
+      "word": "habitat",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "habitat",
+      "ipaUs": "hæbitæt",
+      "page": 469,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "môi trường sống, nơi sống",
+          "examples": [
+            {
+              "en": "The plant rarely grows outside its natural habitat.",
+              "vi": "Loài cây này hiếm khi mọc ngoài môi trường sống tự nhiên của nó."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    }
+  ],
+  "dailyCheckup": {
+    "page": 0,
+    "groups": [
+      {
+        "instruction": "Tìm ở cột bên phải nghĩa của các từ vựng ở cột bên trái và nối chúng với nhau.",
+        "options": [
+          {
+            "key": "a",
+            "text": "tiêu cực"
+          },
+          {
+            "key": "b",
+            "text": "ngay lập tức"
+          },
+          {
+            "key": "c",
+            "text": "cách tiếp cận"
+          },
+          {
+            "key": "d",
+            "text": "bị cấm"
+          },
+          {
+            "key": "e",
+            "text": "sự chấp thuận"
+          },
+          {
+            "key": "f",
+            "text": "truy cập"
+          }
+        ],
+        "questions": [
+          {
+            "no": 1,
+            "prompt": "emission",
+            "answer": "a"
+          },
+          {
+            "no": 2,
+            "prompt": "consistent",
+            "answer": "a"
+          },
+          {
+            "no": 3,
+            "prompt": "clear",
+            "answer": "a"
+          },
+          {
+            "no": 4,
+            "prompt": "dispose",
+            "answer": "a"
+          },
+          {
+            "no": 5,
+            "prompt": "mark",
+            "answer": "a"
+          }
+        ]
+      },
+      {
+        "instruction": "Hãy chọn từ phù hợp để điền vào mỗi câu của bài thi TOEIC dạng thức mới sau.",
+        "options": [
+          {
+            "key": "a",
+            "text": "inspection"
+          },
+          {
+            "key": "b",
+            "text": "effect"
+          },
+          {
+            "key": "c",
+            "text": "authorized"
+          },
+          {
+            "key": "d",
+            "text": "procedure"
+          },
+          {
+            "key": "e",
+            "text": "concern"
+          }
+        ],
+        "questions": [
+          {
+            "no": 6,
+            "prompt": "Weather on the island...... daily in the spring.",
+            "answer": "a"
+          },
+          {
+            "no": 7,
+            "prompt": "The lake's reeds are too. to walk through.",
+            "answer": "a"
+          },
+          {
+            "no": 8,
+            "prompt": "Factory waste _ the river so no fish can survive.",
+            "answer": "a"
+          },
+          {
+            "no": 9,
+            "prompt": "Using recycled materials can save a(n) amount of money.",
+            "answer": "a"
+          }
+        ]
+      },
+      {
+        "instruction": "Hãy chọn từ phù hợp để điền vào mỗi câu của bài thi TOEIC dạng thức mới sau.",
+        "options": [
+          {
+            "key": "a",
+            "text": "obligation"
+          },
+          {
+            "key": "b",
+            "text": "drastically"
+          },
+          {
+            "key": "c",
+            "text": "revise"
+          },
+          {
+            "key": "d",
+            "text": "thoroughly"
+          },
+          {
+            "key": "e",
+            "text": "arrangements"
+          }
+        ],
+        "questions": [
+          {
+            "no": 10,
+            "prompt": "Congo Wildlife Park _",
+            "answer": "a"
+          },
+          {
+            "no": 11,
+            "prompt": "The company was fined for..... pollution far above standards.",
+            "answer": "a"
+          },
+          {
+            "no": 12,
+            "prompt": "The researcher studied the environmental impact of the project.",
+            "answer": "a"
+          },
+          {
+            "no": 13,
+            "prompt": "The fundraiser's proceeds will be used as for victims of the hurricane.",
+            "answer": "a"
+          }
+        ]
+      }
+    ]
+  },
+  "completeVocab": {
+    "basic": [
+      {
+        "word": "TỪ VỰNG TOEIC HOÀN CHÍNH",
+        "pos": "phr",
+        "meaning": "Môi trường",
+        "section": "RC"
+      },
+      {
+        "word": "cave",
+        "pos": "n",
+        "meaning": "hang động",
+        "section": "RC"
+      },
+      {
+        "word": "Celsius",
+        "pos": "n",
+        "meaning": "độ C",
+        "section": "RC"
+      },
+      {
+        "word": "a chilly",
+        "pos": "n",
+        "meaning": "độ C",
+        "section": "RC"
+      },
+      {
+        "word": "clean up",
+        "pos": "phr",
+        "meaning": "dọn dẹp, dọn sạch",
+        "section": "RC"
+      },
+      {
+        "word": "cleaning supply",
+        "pos": "phr",
+        "meaning": "dụng cụ vệ sinh",
+        "section": "RC"
+      },
+      {
+        "word": "desert",
+        "pos": "n",
+        "meaning": "sa mac",
+        "section": "RC"
+      },
+      {
+        "word": "dirt",
+        "pos": "n",
+        "meaning": "dất, bùn, bụi bẩn",
+        "section": "RC"
+      },
+      {
+        "word": "empty a trash can",
+        "pos": "phr",
+        "meaning": "đổ rác",
+        "section": "RC"
+      },
+      {
+        "word": "factory",
+        "pos": "phr",
+        "meaning": "đổ rác",
+        "section": "RC"
+      },
+      {
+        "word": "harvest",
+        "pos": "n",
+        "meaning": "y thu hoạch; n vụ thu hoạch",
+        "section": "RC"
+      },
+      {
+        "word": "o humid",
+        "pos": "phr",
+        "meaning": "adị ẩm, ẩm ướt",
+        "section": "RC"
+      },
+      {
+        "word": "landscape",
+        "pos": "n",
+        "meaning": "phong cảnh, cảnh quan",
+        "section": "RC"
+      },
+      {
+        "word": "a point",
+        "pos": "phr",
+        "meaning": "» điểm, chấm; v chỉ, nhắm",
+        "section": "RC"
+      },
+      {
+        "word": "seed",
+        "pos": "n",
+        "meaning": "» điểm, chấm; v chỉ, nhắm",
+        "section": "RC"
+      },
+      {
+        "word": "shade",
+        "pos": "n",
+        "meaning": "bóng, bóng tối",
+        "section": "RC"
+      },
+      {
+        "word": "a sunny",
+        "pos": "phr",
+        "meaning": "adi có nắng",
+        "section": "RC"
+      },
+      {
+        "word": "sunset",
+        "pos": "n",
+        "meaning": "adi có nắng",
+        "section": "RC"
+      },
+      {
+        "word": "wet",
+        "pos": "n",
+        "meaning": "adị ẩm, ướt",
+        "section": "RC"
+      },
+      {
+        "word": "a windy",
+        "pos": "phr",
+        "meaning": "adị có gió, lộng gió",
+        "section": "RC"
+      },
+      {
+        "word": "a wood",
+        "pos": "phr",
+        "meaning": "adị có gió, lộng gió",
+        "section": "RC"
+      },
+      {
+        "word": "dust",
+        "pos": "n",
+        "meaning": "bụi; v rắc bụi, phủi bụi",
+        "section": "RC"
+      },
+      {
+        "word": "flood",
+        "pos": "n",
+        "meaning": "bụi; v rắc bụi, phủi bụi",
+        "section": "RC"
+      },
+      {
+        "word": "general",
+        "pos": "n",
+        "meaning": "• lũ lụt",
+        "section": "RC"
+      },
+      {
+        "word": "pollution",
+        "pos": "n",
+        "meaning": "adị chung, tổng",
+        "section": "RC"
+      },
+      {
+        "word": "shower",
+        "pos": "n",
+        "meaning": "sự ô nhiễm",
+        "section": "RC"
+      },
+      {
+        "word": "source",
+        "pos": "n",
+        "meaning": "trận mưa rào",
+        "section": "RC"
+      },
+      {
+        "word": "southern",
+        "pos": "n",
+        "meaning": "nguồn, nguồn gốc",
+        "section": "RC"
+      },
+      {
+        "word": "temperature",
+        "pos": "n",
+        "meaning": "adi phía nam",
+        "section": "RC"
+      }
+    ],
+    "score800": [
+      {
+        "word": "along the shore",
+        "pos": "phr",
+        "meaning": "dọc bờ biển",
+        "section": "LC"
+      },
+      {
+        "word": "bay",
+        "pos": "n",
+        "meaning": "a vịnh",
+        "section": "LC"
+      },
+      {
+        "word": "body of water",
+        "pos": "phr",
+        "meaning": "vùng nước, thực thể chứa nước",
+        "section": "LC"
+      },
+      {
+        "word": "bush",
+        "pos": "n",
+        "meaning": "bụi cây, bụi rậm",
+        "section": "LC"
+      },
+      {
+        "word": "cliff",
+        "pos": "n",
+        "meaning": "bụi cây, bụi rậm",
+        "section": "LC"
+      },
+      {
+        "word": "countryside",
+        "pos": "n",
+        "meaning": "vùng quê, nông thôn",
+        "section": "LC"
+      },
+      {
+        "word": "eco-friendly (= environment-friendly)",
+        "pos": "n",
+        "meaning": "vùng quê, nông thôn",
+        "section": "LC"
+      },
+      {
+        "word": "footpath",
+        "pos": "n",
+        "meaning": "đường mòn, via hè",
+        "section": "LC"
+      },
+      {
+        "word": "fountain",
+        "pos": "n",
+        "meaning": "đường mòn, via hè",
+        "section": "LC"
+      },
+      {
+        "word": "freezing",
+        "pos": "n",
+        "meaning": "suỗi nước, đài phun nước",
+        "section": "LC"
+      },
+      {
+        "word": "gardening tool",
+        "pos": "phr",
+        "meaning": "dụng cụ làm vườn",
+        "section": "LC"
+      },
+      {
+        "word": "grasp",
+        "pos": "n",
+        "meaning": "y năm, túm, năm được",
+        "section": "LC"
+      },
+      {
+        "word": "hail",
+        "pos": "n",
+        "meaning": "mưa đá",
+        "section": "LC"
+      },
+      {
+        "word": "lakefront",
+        "pos": "n",
+        "meaning": "mưa đá",
+        "section": "LC"
+      },
+      {
+        "word": "landscaping",
+        "pos": "n",
+        "meaning": "sự tạo cảnh quan",
+        "section": "LC"
+      },
+      {
+        "word": "lighthouse",
+        "pos": "n",
+        "meaning": "đèn biển, hải đăng",
+        "section": "LC"
+      },
+      {
+        "word": "o nightfall",
+        "pos": "n",
+        "meaning": "lúc sẩm tối, lúc hoàng hôn",
+        "section": "LC"
+      },
+      {
+        "word": "off the shore",
+        "pos": "n",
+        "meaning": "lúc sẩm tối, lúc hoàng hôn",
+        "section": "LC"
+      },
+      {
+        "word": "overlook the water",
+        "pos": "phr",
+        "meaning": "ngoài khơi",
+        "section": "LC"
+      },
+      {
+        "word": "a pull weeds",
+        "pos": "phr",
+        "meaning": "nhỏ cỏ",
+        "section": "LC"
+      },
+      {
+        "word": "rain forest",
+        "pos": "phr",
+        "meaning": "rừng mưa nhiệt đới",
+        "section": "LC"
+      },
+      {
+        "word": "rain or shine",
+        "pos": "phr",
+        "meaning": "rừng mưa nhiệt đới",
+        "section": "LC"
+      },
+      {
+        "word": "rain shower",
+        "pos": "phr",
+        "meaning": "mưa rào",
+        "section": "LC"
+      },
+      {
+        "word": "rainstorm",
+        "pos": "n",
+        "meaning": "mưa bão",
+        "section": "LC"
+      },
+      {
+        "word": "ranger",
+        "pos": "n",
+        "meaning": "mưa bão",
+        "section": "LC"
+      },
+      {
+        "word": "riverbank",
+        "pos": "n",
+        "meaning": "bờ sông",
+        "section": "LC"
+      },
+      {
+        "word": "riverside",
+        "pos": "n",
+        "meaning": "ven sông",
+        "section": "LC"
+      },
+      {
+        "word": "scenery",
+        "pos": "n",
+        "meaning": "ven sông",
+        "section": "LC"
+      },
+      {
+        "word": "scenic",
+        "pos": "n",
+        "meaning": "adị có phong cảnh đẹp",
+        "section": "LC"
+      },
+      {
+        "word": "slope",
+        "pos": "n",
+        "meaning": "adị có phong cảnh đẹp",
+        "section": "LC"
+      },
+      {
+        "word": "stream",
+        "pos": "n",
+        "meaning": "suối, dòng chảy; v chảy ra, tuôn ra",
+        "section": "LC"
+      },
+      {
+        "word": "suburb",
+        "pos": "n",
+        "meaning": "suối, dòng chảy; v chảy ra, tuôn ra",
+        "section": "LC"
+      },
+      {
+        "word": "sweep the leaves",
+        "pos": "n",
+        "meaning": "ngoại o",
+        "section": "LC"
+      },
+      {
+        "word": "thunderstorm",
+        "pos": "n",
+        "meaning": "bão",
+        "section": "P7"
+      },
+      {
+        "word": "trail",
+        "pos": "n",
+        "meaning": "đường, đường môn",
+        "section": "P7"
+      },
+      {
+        "word": "trap",
+        "pos": "n",
+        "meaning": "đường, đường môn",
+        "section": "P7"
+      },
+      {
+        "word": "tree trunk",
+        "pos": "phr",
+        "meaning": "thân cây",
+        "section": "P7"
+      },
+      {
+        "word": "twilight",
+        "pos": "n",
+        "meaning": "lúc tranh tối tranh sáng",
+        "section": "P7"
+      },
+      {
+        "word": "weather forecast",
+        "pos": "phr",
+        "meaning": "dự báo thời tiết",
+        "section": "P7"
+      },
+      {
+        "word": "weather report",
+        "pos": "phr",
+        "meaning": "bản tin thời tiết",
+        "section": "P7"
+      },
+      {
+        "word": "windstorm",
+        "pos": "n",
+        "meaning": "gió bão",
+        "section": "P7"
+      },
+      {
+        "word": "affirmative",
+        "pos": "n",
+        "meaning": "adị khẳng định, quả quyết",
+        "section": "P7"
+      },
+      {
+        "word": "dislike",
+        "pos": "n",
+        "meaning": "adị khẳng định, quả quyết",
+        "section": "P7"
+      },
+      {
+        "word": "fertile",
+        "pos": "n",
+        "meaning": "adị tốt, màu mỡ",
+        "section": "P7"
+      },
+      {
+        "word": "in particular",
+        "pos": "phr",
+        "meaning": "nói riêng, đặc biệt",
+        "section": "P7"
+      },
+      {
+        "word": "quietly",
+        "pos": "n",
+        "meaning": "ady thanh bình, êm ả",
+        "section": "P7"
+      },
+      {
+        "word": "revolve",
+        "pos": "n",
+        "meaning": "y quay tròn, xoay quanh",
+        "section": "P7"
+      },
+      {
+        "word": "setting",
+        "pos": "n",
+        "meaning": "khung cảnh, môi trường",
+        "section": "P7"
+      },
+      {
+        "word": "sheer",
+        "pos": "n",
+        "meaning": "khung cảnh, môi trường",
+        "section": "P7"
+      },
+      {
+        "word": "solid",
+        "pos": "n",
+        "meaning": "adị dặc, rần",
+        "section": "P7"
+      },
+      {
+        "word": "tangible",
+        "pos": "n",
+        "meaning": "adị hữu hình, hiển nhiên",
+        "section": "P7"
+      },
+      {
+        "word": "thoughtfully",
+        "pos": "n",
+        "meaning": "aảv chín chắn, sâu sắc, chu đáo",
+        "section": "P7"
+      },
+      {
+        "word": "atmospheric",
+        "pos": "n",
+        "meaning": "adị thuộc khí quyển",
+        "section": "P7"
+      },
+      {
+        "word": "conservation",
+        "pos": "n",
+        "meaning": "adị thuộc khí quyển",
+        "section": "P7"
+      },
+      {
+        "word": "environmental regulations",
+        "pos": "phr",
+        "meaning": "luật môi trường",
+        "section": "P7"
+      },
+      {
+        "word": "ground",
+        "pos": "n",
+        "meaning": "đất, mặt đất, khu đất",
+        "section": "P7"
+      },
+      {
+        "word": "a inclement",
+        "pos": "n",
+        "meaning": "đất, mặt đất, khu đất",
+        "section": "P7"
+      },
+      {
+        "word": "mining",
+        "pos": "n",
+        "meaning": "sự khai thác mỏ",
+        "section": "P7"
+      },
+      {
+        "word": "natural habitat",
+        "pos": "phr",
+        "meaning": "môi trường sống tự nhiên",
+        "section": "P7"
+      },
+      {
+        "word": "noise and air pollution",
+        "pos": "phr",
+        "meaning": "môi trường sống tự nhiên",
+        "section": "P7"
+      },
+      {
+        "word": "nourishment",
+        "pos": "n",
+        "meaning": "sự nuôi dưỡng",
+        "section": "P7"
+      },
+      {
+        "word": "nurture",
+        "pos": "n",
+        "meaning": "y nuôi dưỡng",
+        "section": "P7"
+      },
+      {
+        "word": "a overflow",
+        "pos": "phr",
+        "meaning": "y nuôi dưỡng",
+        "section": "P7"
+      },
+      {
+        "word": "react to",
+        "pos": "v",
+        "meaning": "tràn qua, làm ngập tràn",
+        "section": "P7"
+      },
+      {
+        "word": "recyclable",
+        "pos": "phr",
+        "meaning": "phản ứng với",
+        "section": "P7"
+      },
+      {
+        "word": "under construction",
+        "pos": "phr",
+        "meaning": "đang được xây dựng",
+        "section": "P7"
+      },
+      {
+        "word": "vague",
+        "pos": "phr",
+        "meaning": "đang được xây dựng",
+        "section": "P7"
+      },
+      {
+        "word": "water level",
+        "pos": "phr",
+        "meaning": "mực nước",
+        "section": "P7"
+      }
+    ],
+    "score900": [
+      {
+        "word": "botanical",
+        "pos": "n",
+        "meaning": "adị thuộc thực vật/thực vật học",
+        "section": "P7"
+      },
+      {
+        "word": "irrigation system",
+        "pos": "phr",
+        "meaning": "hệ thống dẫn nước",
+        "section": "P7"
+      },
+      {
+        "word": "mow the lawn",
+        "pos": "phr",
+        "meaning": "cắt cỏ",
+        "section": "P7"
+      },
+      {
+        "word": "overpass",
+        "pos": "n",
+        "meaning": "cầu vượt",
+        "section": "P7"
+      },
+      {
+        "word": "potted",
+        "pos": "n",
+        "meaning": "adị trồng trong chậu",
+        "section": "P7"
+      },
+      {
+        "word": "a pull up",
+        "pos": "phr",
+        "meaning": "nhổ lên, dừng (xe)",
+        "section": "P7"
+      },
+      {
+        "word": "shrub",
+        "pos": "n",
+        "meaning": "bụi cây",
+        "section": "P7"
+      },
+      {
+        "word": "vacant site",
+        "pos": "n",
+        "meaning": "bụi cây",
+        "section": "P7"
+      },
+      {
+        "word": "outwardly",
+        "pos": "adv",
+        "meaning": "bề ngoài, hướng ra ngoài",
+        "section": "P7"
+      },
+      {
+        "word": "precipitation",
+        "pos": "n",
+        "meaning": "mưa, lượng mưa",
+        "section": "P7"
+      },
+      {
+        "word": "promptness",
+        "pos": "v",
+        "meaning": "sự mau lẹ, sự nhanh chóng",
+        "section": "P7"
+      },
+      {
+        "word": "revert",
+        "pos": "n",
+        "meaning": "y trở lại, trở lại nguyên thể",
+        "section": "P7"
+      },
+      {
+        "word": "sustainable (+→ unsustainable)",
+        "pos": "phr",
+        "meaning": "adị có thể chống đã được/chịu dược",
+        "section": "P7"
+      },
+      {
+        "word": "tranquility",
+        "pos": "n",
+        "meaning": "adị có thể chống đã được/chịu dược",
+        "section": "P7"
+      },
+      {
+        "word": "trimming",
+        "pos": "n",
+        "meaning": "sự cắt tỉa",
+        "section": "P7"
+      },
+      {
+        "word": "depletion",
+        "pos": "n",
+        "meaning": "sự rút hết, sự làm suy yếu",
+        "section": "P7"
+      },
+      {
+        "word": "disposal",
+        "pos": "n",
+        "meaning": "sự xử lý, sự vứt bỏ",
+        "section": "P7"
+      },
+      {
+        "word": "downpour",
+        "pos": "n",
+        "meaning": "trận mưa như trút nước",
+        "section": "P7"
+      },
+      {
+        "word": "a drench",
+        "pos": "n",
+        "meaning": "trận mưa như trút nước",
+        "section": "P7"
+      },
+      {
+        "word": "fade",
+        "pos": "n",
+        "meaning": "y làm ướt sũng, ngâm nước",
+        "section": "P7"
+      },
+      {
+        "word": "fuel emission",
+        "pos": "phr",
+        "meaning": "khí thải nhiên liệu",
+        "section": "P7"
+      },
+      {
+        "word": "fumes",
+        "pos": "phr",
+        "meaning": "khí thải nhiên liệu",
+        "section": "P7"
+      },
+      {
+        "word": "grazing",
+        "pos": "n",
+        "meaning": "đồng cỏ",
+        "section": "P7"
+      },
+      {
+        "word": "logging",
+        "pos": "n",
+        "meaning": "ị việc đốn gỗ",
+        "section": "P7"
+      },
+      {
+        "word": "outskirts",
+        "pos": "n",
+        "meaning": "ị việc đốn gỗ",
+        "section": "P7"
+      },
+      {
+        "word": "residue",
+        "pos": "n",
+        "meaning": "vùng ngoại ô",
+        "section": "P7"
+      },
+      {
+        "word": "rugged",
+        "pos": "n",
+        "meaning": "cặn, bã, dư lượng",
+        "section": "P7"
+      },
+      {
+        "word": "sewage",
+        "pos": "n",
+        "meaning": "adị gỗ ghế",
+        "section": "P7"
+      },
+      {
+        "word": "splendor",
+        "pos": "n",
+        "meaning": "sự tráng lệ, huy hoàng",
+        "section": "P7"
+      },
+      {
+        "word": "terrestrial",
+        "pos": "n",
+        "meaning": "adị ở trên mặt đất, trên cạn",
+        "section": "P7"
+      },
+      {
+        "word": "a timber",
+        "pos": "phr",
+        "meaning": "adị ở trên mặt đất, trên cạn",
+        "section": "P7"
+      },
+      {
+        "word": "toxication",
+        "pos": "n",
+        "meaning": "gỗ, gỗ làm nhà",
+        "section": "P7"
+      }
+    ]
+  },
+  "title": "Dự báo thời tiết"
+}

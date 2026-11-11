@@ -1,9 +1,15 @@
 import topicsData from './data/topics.json';
-import day01Data from './data/day01.json';
 import practice1Data from './data/practice-1.json';
 import idiomsData from './data/idioms.json';
 
-// Simple in-browser mock engine for standalone mobile demo (e.g. Vercel)
+// Dynamically glob all dayXX.json files generated from the book
+const dayModules: Record<string, any> = (import.meta as any).glob('./data/day*.json', { eager: true });
+
+function getDayData(dayNo: number) {
+  const key = `./data/day${String(dayNo).padStart(2, '0')}.json`;
+  return dayModules[key]?.default || dayModules[key] || null;
+}
+
 interface StoredProgress {
   stats: {
     streak: number;
@@ -40,6 +46,9 @@ export async function handleMockApi(path: string, options?: RequestInit): Promis
   // 1. GET /api/plan/today
   if (path.startsWith('/api/plan/today')) {
     const activeSession = Object.values(store.sessions).find((s: any) => s.status === 'active') || null;
+    const activeDayNo = activeSession ? activeSession.dayNo : 1;
+    const activeDayData = getDayData(activeDayNo) || getDayData(1);
+
     return {
       todayYmd,
       plan: {
@@ -51,28 +60,38 @@ export async function handleMockApi(path: string, options?: RequestInit): Promis
         doneTasks: Object.keys(store.attempts).length + (activeSession ? 0 : 1),
       },
       activeDay: {
-        id: 1,
-        dayIndex: 1,
+        id: activeDayNo,
+        dayIndex: activeDayNo,
         date: todayYmd,
         phase: 1,
-        label: 'Giai đoạn 1 — Từ trọng tâm (Day 01)',
+        label: `Giai đoạn 1 — Từ trọng tâm (Day ${String(activeDayNo).padStart(2, '0')})`,
         tasks: [
           {
             id: 101,
             orderNo: 1,
             type: 'learn_core',
-            topicId: 1,
+            topicId: activeDayNo,
             status: activeSession ? 'in_progress' : 'pending',
-            topic: { id: 1, dayNo: 1, title: day01Data.coreWords ? 'Thoát cảnh thất nghiệp' : 'Tuyển dụng', category: 'Tuyển dụng' },
+            topic: {
+              id: activeDayNo,
+              dayNo: activeDayNo,
+              title: topicsData[activeDayNo - 1]?.title || 'Học từ vựng',
+              category: topicsData[activeDayNo - 1]?.category || 'Chủ đề',
+            },
           },
           {
             id: 102,
             orderNo: 2,
             type: 'daily_checkup',
-            topicId: 1,
-            exerciseCode: 'day01-checkup',
-            status: store.attempts['day01-checkup'] ? 'done' : 'pending',
-            topic: { id: 1, dayNo: 1, title: 'Thoát cảnh thất nghiệp', category: 'Tuyển dụng' },
+            topicId: activeDayNo,
+            exerciseCode: `day${String(activeDayNo).padStart(2, '0')}-checkup`,
+            status: store.attempts[`day${String(activeDayNo).padStart(2, '0')}-checkup`] ? 'done' : 'pending',
+            topic: {
+              id: activeDayNo,
+              dayNo: activeDayNo,
+              title: topicsData[activeDayNo - 1]?.title || 'Học từ vựng',
+              category: topicsData[activeDayNo - 1]?.category || 'Chủ đề',
+            },
           },
         ],
       },
@@ -85,29 +104,48 @@ export async function handleMockApi(path: string, options?: RequestInit): Promis
 
   // 2. GET /api/topics
   if (path === '/api/topics') {
-    const formatted = topicsData.map((t: any) => ({
-      id: t.dayNo,
-      dayNo: t.dayNo,
-      title: t.title,
-      category: t.category,
-      pageStart: t.pageStart,
-      pageEnd: t.pageEnd,
-      exercises: [{ id: t.dayNo, code: `day${String(t.dayNo).padStart(2, '0')}-checkup`, type: 'daily_checkup', title: `DAY ${t.dayNo} Checkup` }],
-      counts: {
-        core: t.dayNo === 1 ? day01Data.coreWords.length : 0,
-        learnedCore: t.dayNo === 1 ? 40 : 0,
-        masteredCore: t.dayNo === 1 ? 25 : 0,
-        basic: t.dayNo === 1 ? 28 : 0,
-        l800: t.dayNo === 1 ? 58 : 0,
-        weakCount: t.dayNo === 1 ? 2 : 0,
-      },
-    }));
+    const formatted = topicsData.map((t: any) => {
+      const dayData = getDayData(t.dayNo);
+      const coreCount = dayData ? dayData.coreWords?.length || 0 : 0;
+      return {
+        id: t.dayNo,
+        dayNo: t.dayNo,
+        title: t.title,
+        category: t.category,
+        pageStart: t.pageStart,
+        pageEnd: t.pageEnd,
+        exercises: [
+          {
+            id: t.dayNo,
+            code: `day${String(t.dayNo).padStart(2, '0')}-checkup`,
+            type: 'daily_checkup',
+            title: `DAY ${String(t.dayNo).padStart(2, '0')} Checkup`,
+          },
+        ],
+        counts: {
+          core: coreCount,
+          learnedCore: coreCount > 0 ? coreCount : 0,
+          masteredCore: coreCount > 0 ? Math.round(coreCount * 0.6) : 0,
+          basic: Array.isArray(dayData?.completeVocab?.basic)
+            ? dayData.completeVocab.basic.length
+            : (dayData?.completeVocab?.basic ? 28 : 25),
+          l800: Array.isArray(dayData?.completeVocab?.score800)
+            ? dayData.completeVocab.score800.length
+            : (dayData?.completeVocab?.l800 ? 58 : 45),
+          weakCount: 0,
+        },
+      };
+    });
     return { topics: formatted };
   }
 
   // 3. POST /api/sessions/start
   if (path === '/api/sessions/start') {
-    const words = day01Data.coreWords.map((w: any) => ({
+    const targetDayNo = body.topicId || 1;
+    const dayData = getDayData(targetDayNo) || getDayData(1);
+    if (!dayData) throw new Error(`Day ${targetDayNo} data not found`);
+
+    const words = dayData.coreWords.map((w: any) => ({
       id: w.no,
       orderNo: w.no,
       headword: w.word,
@@ -143,10 +181,11 @@ export async function handleMockApi(path: string, options?: RequestInit): Promis
       })),
     }));
 
-    const sessionId = 1;
+    const sessionId = targetDayNo;
     const batchSize = 5;
     const sessionObj = {
       id: sessionId,
+      dayNo: targetDayNo,
       status: 'active',
       words,
       step: 'study_batch',
@@ -180,12 +219,10 @@ export async function handleMockApi(path: string, options?: RequestInit): Promis
         if (session.studyCursor + 1 < curBatchCount) {
           session.studyCursor += 1;
         } else {
-          // Switch to quick test!
           session.step = 'quick_test';
           session.quizCursor = 0;
           session.quizCorrectCount = 0;
           session.quizWrongCount = 0;
-          // Generate 5 quick questions
           const batchWords = session.words.slice(session.batchStartIndex, session.batchStartIndex + curBatchCount);
           session.quizQueue = batchWords.map((w: any) => {
             const distractors = session.words.filter((d: any) => d.id !== w.id).slice(0, 3);
@@ -222,7 +259,6 @@ export async function handleMockApi(path: string, options?: RequestInit): Promis
         session.quizCursor += 1;
       } else {
         stepFinished = true;
-        // Finished quick test! Check if we should trigger checkpoint
         const nextBatchStart = session.batchStartIndex + session.batchSize;
         if (nextBatchStart >= 20 && session.step === 'quick_test') {
           session.step = 'checkpoint_test';
@@ -266,18 +302,21 @@ export async function handleMockApi(path: string, options?: RequestInit): Promis
   // 5. GET /api/exercises/:code
   if (path.startsWith('/api/exercises/')) {
     const code = path.split('/')[3];
+    const checkupMatch = code.match(/day(\d+)-checkup/);
+    const dayNo = checkupMatch ? parseInt(checkupMatch[1], 10) : 1;
+    const dayData = getDayData(dayNo) || getDayData(1);
+
+    const checkupGroups = Array.isArray(dayData?.dailyCheckup)
+      ? dayData.dailyCheckup
+      : (dayData?.dailyCheckup?.groups || []);
+
     if (path.endsWith('/submit')) {
-      const exCode = path.split('/')[3];
       const answers = body.answers || {};
       let questions: any[] = [];
-      if (exCode.includes('checkup')) {
-        day01Data.dailyCheckup.groups.forEach((g: any) => questions.push(...g.questions));
-      } else if (exCode.includes('practice')) {
+      if (checkupGroups.length > 0) {
+        checkupGroups.forEach((g: any) => questions.push(...(g.questions || [])));
+      } else if (code.includes('practice')) {
         practice1Data.groups.forEach((g: any) => questions.push(...g.questions));
-      } else {
-        idiomsData.quizzes.forEach((qz: any) => {
-          qz.questions.forEach((q: any) => questions.push({ no: q[0], answer: q[1] }));
-        });
       }
 
       let score = 0;
@@ -295,16 +334,15 @@ export async function handleMockApi(path: string, options?: RequestInit): Promis
         };
       });
 
-      store.attempts[exCode] = { score, total: questions.length };
+      store.attempts[code] = { score, total: questions.length };
       saveStore(store);
-
       return { score, total: questions.length, details };
     }
 
-    if (code.includes('checkup')) {
+    if (checkupGroups.length > 0) {
       let qList: any[] = [];
-      day01Data.dailyCheckup.groups.forEach((g: any, gIdx: number) => {
-        g.questions.forEach((q: any) => {
+      checkupGroups.forEach((g: any, gIdx: number) => {
+        (g.questions || []).forEach((q: any) => {
           qList.push({
             id: q.no,
             orderNo: q.no,
@@ -321,12 +359,12 @@ export async function handleMockApi(path: string, options?: RequestInit): Promis
       });
       return {
         exercise: {
-          id: 1,
-          code: 'day01-checkup',
-          title: 'DAY 01 Daily Checkup',
-          sourcePage: day01Data.dailyCheckup.page,
+          id: dayNo,
+          code: `day${String(dayNo).padStart(2, '0')}-checkup`,
+          title: `DAY ${String(dayNo).padStart(2, '0')} Daily Checkup`,
+          sourcePage: dayData.dailyCheckup.page,
           questions: qList,
-          attempts: store.attempts['day01-checkup'] ? [store.attempts['day01-checkup']] : [],
+          attempts: store.attempts[code] ? [store.attempts[code]] : [],
         },
       };
     }
@@ -407,12 +445,17 @@ function buildSessionResponse(session: any) {
   const curBatchWords = session.words.slice(session.batchStartIndex, session.batchStartIndex + session.batchSize);
   const curWord = curBatchWords[session.studyCursor] || session.words[0];
   const curQ = session.quizQueue[session.quizCursor] || null;
+  const dayNo = session.dayNo || 1;
 
   return {
     session: {
       id: session.id,
-      topicId: 1,
-      topic: { dayNo: 1, title: 'Thoát cảnh thất nghiệp', category: 'Tuyển dụng' },
+      topicId: dayNo,
+      topic: {
+        dayNo,
+        title: topicsData[dayNo - 1]?.title || 'Chủ đề từ vựng',
+        category: topicsData[dayNo - 1]?.category || 'Chủ đề',
+      },
       listType: 'core',
       mode: 'learn',
       status: session.status,

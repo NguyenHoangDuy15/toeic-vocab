@@ -1,0 +1,1629 @@
+{
+  "dayNo": 10,
+  "source": "Apple Vision OCR extraction from pages 168-183",
+  "coreWords": [
+    {
+      "no": 1,
+      "word": "purchase",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "purchase",
+      "ipaUs": "paitjas",
+      "page": 169,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "mua",
+          "examples": [
+            {
+              "en": "The customer purchased a laptop computer. For every purchase of $100 or more, customers will receive a raffle ticket.",
+              "vi": "Vị khách đã mua một chiếc máy tính xách tay. n việc mua hàng Với mỗi lần mua hàng giá trị từ 100 đô-la trở lên, khách hàng sẽ"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 2,
+      "word": "installment",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "installment",
+      "ipaUs": "insto:lmant",
+      "page": 169,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự trả góp",
+          "examples": [
+            {
+              "en": "The shop allows buyers to pay for furniture in monthly installments.",
+              "vi": "Cửa hàng cho phép khách trả tiền mua đồ nội thất bằng hình thức trả góp theo tháng. adị (giá cả) phải chăng, có thể chi trả được"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 3,
+      "word": "affordable",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "affordable",
+      "ipaUs": "afó:dabl",
+      "page": 169,
+      "senses": [
+        {
+          "pos": "adv",
+          "meaning": "chính xác, đúng",
+          "examples": [
+            {
+              "en": "Toyama launched an affordable mid-range sedan. Hackers TOEIC Vocabulary",
+              "vi": "Toyama đã ra mắt một mẫu xe sedan tầm trung với mức giá hợp lý. at an affordable + rate/price với mức giá/giá cả hợp lý"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 4,
+      "word": "exactly",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "exactly",
+      "ipaUs": "igzæktli",
+      "page": 169,
+      "senses": [
+        {
+          "pos": "adv",
+          "meaning": "chính xác, đúng",
+          "examples": [
+            {
+              "en": "The sales representatives help customers decide exactly what style fits them best.",
+              "vi": "Nhân viên bán hàng giúp người người mua xác định chính xác phong cách phù hợp với họ."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 5,
+      "word": "authentic",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "a:Oéntik",
+      "ipaUs": "2:0éntik",
+      "page": 170,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "tiền phải trả, phí; nhiệm vụ, trách nhiệm",
+          "examples": [
+            {
+              "en": "The new downtown restaurant serves authentic Spanish cuisine.",
+              "vi": "Nhà hàng mới ở trung tâm thành phố phục vụ các món Tây Ban Nha đích thực."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 6,
+      "word": "charge",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "tfa:rd3",
+      "ipaUs": "tfa:d3",
+      "page": 170,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "tiền phải trả, phí; nhiệm vụ, trách nhiệm",
+          "examples": [
+            {
+              "en": "The price includes shipping and handling charges. Ms. Long is in charge of product returns. The phone company charges high fees for",
+              "vi": "Giá này đã bao gồm phí vận chuyển và xử lý. Cô Long chịu trách nhiệm khâu đổi trả sản phẩm. v thu phí, tính phí; ghi nợ"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 7,
+      "word": "notice",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "notice",
+      "ipaUs": "néutis",
+      "page": 170,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "thông báo, yết thị",
+          "examples": [
+            {
+              "en": "The prices listed in the catalog are effective until further notice.",
+              "vi": "Giá ghi trong danh mục có hiệu lực cho đến khi có thông báo thêm."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 8,
+      "word": "experienced",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "experienced",
+      "ipaUs": "ikspiarienst",
+      "page": 171,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "có kinh nghiệm, lão luyện",
+          "examples": [
+            {
+              "en": "Bill is the most experienced salesperson in the store.",
+              "vi": "Bill là nhân viên bán hàng có kinh nghiệm nhất ở cửa hàng. n lời chỉ dẫn, hướng dẫn"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 9,
+      "word": "instruction",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "instruction",
+      "ipaUs": "instrikfan",
+      "page": 171,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "lời chỉ dẫn, hướng dẫn",
+          "examples": [
+            {
+              "en": "The receipt gives instructions for returning or exchanging items.",
+              "vi": "Biên lai có cung cấp hướng dẫn cách đổi trả sản phẩm. n chuyên gia"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 10,
+      "word": "expert",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "ékspe:rt",
+      "ipaUs": "ékspa:t",
+      "page": 171,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "chuyên gia",
+          "examples": [
+            {
+              "en": "A personal shopper is an expert at finding bargains An expert designer created the layout of the store. Hackers TOEIC Vocabulary",
+              "vi": "Chuyên viên tư vấn mua sắm cá nhân chính là chuyên gia trong việc tìm ra những món hời cho khách hàng. adị về mặt chuyên môn, thành thạo, lão luyện"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 11,
+      "word": "warranty",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "wó:ronti",
+      "ipaUs": "wöranti",
+      "page": 171,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "giấy bảo hành, sự bảo hành",
+          "examples": [
+            {
+              "en": "The computer is under warranty for two years.",
+              "vi": "Máy tính được bảo hành trong vòng 2 năm. Bai thì TOEIC dạng thực mới under warranty trong thời gian bảo hành"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 12,
+      "word": "refund",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "rifánd, US ri:fánd",
+      "ipaUs": "rí:fÀnd",
+      "page": 171,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự hoàn tiền, sự hoàn trả lại",
+          "examples": [
+            {
+              "en": "Buyers can get a full refund for a defective product.",
+              "vi": "Người mua có thể được hoàn trả toàn bộ tiền nếu sản phẩm bị lỗi."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 13,
+      "word": "delivery",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "delivery",
+      "ipaUs": "dilívari",
+      "page": 172,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự giao hàng, sự phân phát",
+          "examples": [
+            {
+              "en": "We guarantee delivery within three days.",
+              "vi": "Chúng tôi cam đoan sẽ giao hàng trong vòng ba ngày. n giá, giá cả"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 14,
+      "word": "price",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "price",
+      "ipaUs": "prais",
+      "page": 172,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "giá, giá cả",
+          "examples": [
+            {
+              "en": "The new color printer has a retail price of only Uotoy Hhc Thc",
+              "vi": "Chiếc máy in màu mới có giá bán lẻ là 150,99 đô-la. a reduced price giá dã giảm a retail price giá bán lé (+→ a wholesale price)"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 15,
+      "word": "receipt",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "receipt",
+      "ipaUs": "risí:t",
+      "page": 172,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "biên lai",
+          "examples": [
+            {
+              "en": "The original receipt is required for all refunds.",
+              "vi": "Mọi khoản hoàn lại đều cần phải có biên lai gốc. original/valid + receipt biên lai gốc/hợp lệ upon receipt of vào lúc nhận được"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 16,
+      "word": "offer",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "uK S:tar",
+      "ipaUs": "bfa].",
+      "page": 173,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "cung cấp, tạo cơ hội, tặng",
+          "examples": [
+            {
+              "en": "Z-Mart offers $25 gift cards to customers signing up The supermarket entices customers with promotional",
+              "vi": "Z-Mart tặng thẻ quà tặng trị giá 25 đô-la cho những khách hàng đăng ký làm hội viên. n lời đề nghị, đề xuất, ưu đãi"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 17,
+      "word": "carefully",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "kÉarfali",
+      "ipaUs": "kéofali",
+      "page": 173,
+      "senses": [
+        {
+          "pos": "adv",
+          "meaning": "một cách cẩn thận, thận trọng",
+          "examples": [
+            {
+              "en": "Please follow the installation directions carefully. Hackers TOEIC Vocabulary",
+              "vi": "Vui lòng làm theo hướng dẫn cài đặt một cách cẩn thận. CạG tuc thợ. cg Lưu ý phân biệt từ loại: carefully (adv. một cách thận trọng)"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 18,
+      "word": "benefit",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "bénafit",
+      "ipaUs": "bénifit",
+      "page": 173,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "lợi ích, tác dụng, ưu đãi",
+          "examples": [
+            {
+              "en": "The Shoppers' Club offers many benefits to its NBC Mart shoppers benefit from various coupons and free delivery service.",
+              "vi": "Shoppers' Club cung cấp nhiều ưu đãi cho các hội viên. v được hưởng lợi, giúp ích cho Người mua hàng tại NBC Mart được hưởng lVi từ các phiếu giảm"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 19,
+      "word": "exclusively",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "exclusively",
+      "ipaUs": "der. exclive (adj",
+      "page": 174,
+      "senses": [
+        {
+          "pos": "adv",
+          "meaning": "riêng, dành riêng",
+          "examples": [
+            {
+              "en": "A 10 percent discount is available exclusively to Premium Club members.",
+              "vi": "Mức giảm giá 10% chỉ dành cho hội viên của Premium Club. wn available exclusively online chỉ được áp dụng trên mạng ae sell exclusively bán dộc quyền"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 20,
+      "word": "description",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "description",
+      "ipaUs": "diskrípjon",
+      "page": 174,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự miêu tả, sự mô tả",
+          "examples": [
+            {
+              "en": "Call customer service for a more extensive description Please contact my office for information on bulk The product specifications explain how to install",
+              "vi": "Hãy gọi tới dịch vụ khách hàng để có thêm mô tả chi tiết về các thiết bị. * job description bản mô tả công việc"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 21,
+      "word": "relatively",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "relatively",
+      "ipaUs": "rélativli",
+      "page": 175,
+      "senses": [
+        {
+          "pos": "adv",
+          "meaning": "có liên quan, tương đổi, vừa phải",
+          "examples": [
+            {
+              "en": "McCoy's has a relatively lenient return policy compared to similar stores. Ber The Tae K, Boty Ters",
+              "vi": "McCoy's có chính sách hoàn trả tương đối thoải mái so với các cửa hàng khác. tương đổi khoan dung, tương đổi thấp"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 22,
+      "word": "spare",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "spare",
+      "ipaUs": "spare",
+      "page": 175,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "để dành, miễn cho, không cần đến",
+          "examples": [
+            {
+              "en": "The shopping mall spared no expense on the 10th anniversary promotion. Customers may order spare parts at the service",
+              "vi": "Trung tâm mua sắm đã không tiếc chi phí cho chương trình khuyến mãi kỷ niệm 10 năm thành lập. adị dự trữ, dự phòng"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 23,
+      "word": "preparation",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "preparation",
+      "ipaUs": "prèperéi(en",
+      "page": 175,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự chuẩn bị",
+          "examples": [
+            {
+              "en": "Preparations are under way for the department store's grand opening. Hackers TOEIC Vocabulary",
+              "vi": "Khâu chuẩn bị cho buổi khai trương khu mua sắm đang được tiến hành. n khu vực, vùng, lĩnh vực"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 24,
+      "word": "area",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "area",
+      "ipaUs": "éaria",
+      "page": 175,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "khu vực, vùng, lĩnh vực",
+          "examples": [
+            {
+              "en": "There are excellent retail stores in this area. Brody Brothers chose a site for its new department",
+              "vi": "Có những cửa hàng bán lẻ rất tốt trong khu vực này. Bai thì TOEK cạng thức mơi Hãy phân tích sự khác biệt giữa hai từ cùng mang nghĩa \"địa"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 25,
+      "word": "clearance",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "clearance",
+      "ipaUs": "kliarans",
+      "page": 176,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "giấy phép, sự cho phép; sự dọn quang, khoảng trống",
+          "examples": [
+            {
+              "en": "There is usually a clearance sale for winter clothes The clerk got special clearance to discount the shoes.",
+              "vi": "Vào tháng Ba thường có chương trình xả hàng dọn kho quần áo mùa đông. Nhân viên có đặc quyền được mua giày giảm giá."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 26,
+      "word": "alter",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "S:ltar",
+      "ipaUs": "álta",
+      "page": 176,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "thay đổi, sửa đổi",
+          "examples": [
+            {
+              "en": "The customer asked that the length of his pants be The cashier applied the discount to all the items. Those wishing to apply for the position must be",
+              "vi": "Vị khách đã yêu cầu điều chỉnh chiều dài chiếc quần. v nộp đơn, ứng tuyển, áp dụng Nhân viên thu ngân đã áp dụng mức giảm giá cho tất cả"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 27,
+      "word": "acceptable",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "ækséptabl",
+      "ipaUs": "ekséptabl",
+      "page": 177,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "niềm mong muốn, khát khao",
+          "examples": [
+            {
+              "en": "Jenson Fashions sells clothes that are acceptable as business attire.",
+              "vi": "Jenson Fashions bán những bộ đỗ phù hợp với trang phục công sở."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 28,
+      "word": "desire",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "dizáior",
+      "ipaUs": "der. desirable (adj",
+      "page": 177,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "niềm mong muốn, khát khao",
+          "examples": [
+            {
+              "en": "Effective advertising can create a desire in consumers to buy goods they do not need. Many people desire the latest electronic devices.",
+              "vi": "Quảng cáo hiệu quả có thể khiến người tiêu dùng hình thành mong muốn mua những sản phẩm mà họ không cần. v ao ước, mơ ước, thèm muốn"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 29,
+      "word": "redeemable",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "redeemable",
+      "ipaUs": "ridí:mabl",
+      "page": 177,
+      "senses": [
+        {
+          "pos": "adv",
+          "meaning": "chính thức, trịnh trọng",
+          "examples": [
+            {
+              "en": "Hackers TOEIC Vocabulary Store gift vouchers are redeemable at any branch.",
+              "vi": "Phiếu mua hàng của cửa hàng có thể quy đổi được tại bất cứ chi nhánh nào."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 30,
+      "word": "officially",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "officially",
+      "ipaUs": "ofifali",
+      "page": 177,
+      "senses": [
+        {
+          "pos": "adv",
+          "meaning": "chính thức, trịnh trọng",
+          "examples": [
+            {
+              "en": "The online store will officially open next month.",
+              "vi": "Cửa hàng trực tuyến sẽ chính thức mở vào tháng tới. Bại thì TOeiC đạng thức mớc officially open mở cửa chính thức"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 31,
+      "word": "consumption",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "consumption",
+      "ipaUs": "kansÁmpjon",
+      "page": 178,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự tiêu thụ, sự tiêu dùng",
+          "examples": [
+            {
+              "en": "Consumption of high-end products like home theaters has increased recently.",
+              "vi": "Việc tiêu dùng các sản phẩm cao cấp như rạp chiếu phim tại gia ngày càng tăng trong thời gian gần đây. v đủ điều kiện, đủ khả năng"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 32,
+      "word": "qualify",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "kwálafai",
+      "ipaUs": "kwölifai",
+      "page": 178,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "đủ điều kiện, đủ khả năng",
+          "examples": [
+            {
+              "en": "Clients need a regular income to qualify for credit",
+              "vi": "Cards. Để đủ điều kiện làm thẻ tín dụng, khách hàng cần có thu nhập ổn định. Bải thi TOEC dạng thực mới"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 33,
+      "word": "fabric",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "fabric",
+      "ipaUs": "fæbrik",
+      "page": 178,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "vải",
+          "examples": [
+            {
+              "en": "The manufacturer's garments are made of natural fabric only.",
+              "vi": "Các sản phẩm may mặc của nhà sản xuất này đều chỉ được làm từ vải tự nhiên. adj có hiệu lực, hợp lý, hợp lệ"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 34,
+      "word": "valid",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "valid",
+      "ipaUs": "vælid",
+      "page": 178,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "có hiệu lực, hợp lý, hợp lệ",
+          "examples": [
+            {
+              "en": "A valid receipt must be presented.",
+              "vi": "Cần phải xuất trình hóa đơn hợp lệ. Bai th: TOEIC dạng thức môi cơm be valid for + thời gian có hiệu lực trong thời gian"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 35,
+      "word": "vendor",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "véndar",
+      "ipaUs": "vénda",
+      "page": 178,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "người bán hàng rong, máy bán hàng, đại lý cung cấp",
+          "examples": [
+            {
+              "en": "The street is filled with vendors during the weekly Software vendors have been instructed to sell the product at a specific retail price.",
+              "vi": "Trong phiên chợ tuần, đường tràn ngập người bán hàng rong. Các nhà cung cấp phần mềm đã được hướng dẫn bán sản phẩm với giá bán lẻ cụ thể."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    }
+  ],
+  "completeVocab": {
+    "basic": {
+      "LC": [],
+      "RC": [
+        [
+          "bakery",
+          "n",
+          "tiệm bánh, lò bánh mỳ"
+        ],
+        [
+          "best-selling",
+          "n",
+          "adị bán chạy nhất"
+        ],
+        [
+          "cashier",
+          "n",
+          "adị bán chạy nhất"
+        ],
+        [
+          "clothing",
+          "n",
+          "quần áo, y phục"
+        ],
+        [
+          "corner",
+          "n",
+          "góc, lổi rẽ"
+        ],
+        [
+          "costume",
+          "n",
+          "trang phục"
+        ],
+        [
+          "free",
+          "n",
+          "adị rảnh rỗi, tự do, miễn phí"
+        ],
+        [
+          "label",
+          "n",
+          "nhãn, nhãn hiệu"
+        ],
+        [
+          "necklace",
+          "n",
+          "nhãn, nhãn hiệu"
+        ],
+        [
+          "photography equipment",
+          "phr",
+          "thiết bị chụp ảnh"
+        ],
+        [
+          "shelf",
+          "n",
+          "• giá, kệ"
+        ],
+        [
+          "shop",
+          "n",
+          "• cửa hàng, cửa hiệu"
+        ],
+        [
+          "shopper",
+          "n",
+          "người mua hàng"
+        ],
+        [
+          "size",
+          "n",
+          "người mua hàng"
+        ],
+        [
+          "sunglasses",
+          "n",
+          "kính râm"
+        ],
+        [
+          "supermarket",
+          "n",
+          "siêu thị"
+        ],
+        [
+          "wear",
+          "n",
+          "siêu thị"
+        ],
+        [
+          "basis",
+          "n",
+          "nền tảng, cơ sở"
+        ],
+        [
+          "brand",
+          "n",
+          "nền tảng, cơ sở"
+        ],
+        [
+          "department store",
+          "phr",
+          "cửa hàng bách hóa, trung tâm"
+        ],
+        [
+          "a discount store",
+          "phr",
+          "thương mại"
+        ],
+        [
+          "display",
+          "n",
+          "y trưng bày, biểu lộ; n sự trưng bày"
+        ],
+        [
+          "fit",
+          "n",
+          "y trưng bày, biểu lộ; n sự trưng bày"
+        ],
+        [
+          "fully",
+          "n",
+          "y hợp, xứng, ăn khớp"
+        ],
+        [
+          "grocery",
+          "adv",
+          "đầy"
+        ],
+        [
+          "кеер",
+          "n",
+          "y giữ, bảo quản, chăm sóc"
+        ],
+        [
+          "a store",
+          "phr",
+          "y giữ, bảo quản, chăm sóc"
+        ],
+        [
+          "tax",
+          "n",
+          "cửa hàng; · lưu trữ, tích trữ"
+        ]
+      ]
+    },
+    "l800": {
+      "LC": [],
+      "P56": [
+        [
+          "at the moment",
+          "phr",
+          "vào thời điểm hiện tại"
+        ],
+        [
+          "celebrate",
+          "phr",
+          "vào thời điểm hiện tại"
+        ],
+        [
+          "decorative item",
+          "phr",
+          "vật trang trí"
+        ],
+        [
+          "discounted coupon",
+          "phr",
+          "phiếu giảm giá"
+        ],
+        [
+          "for sale",
+          "phr",
+          "đế bán"
+        ],
+        [
+          "half price",
+          "phr",
+          "một nữa giá"
+        ],
+        [
+          "have A strapped to one's shoulder",
+          "phr",
+          "gánh vác A trên vai"
+        ],
+        [
+          "instead",
+          "phr",
+          "gánh vác A trên vai"
+        ],
+        [
+          "make a purchase",
+          "phr",
+          "mua hàng"
+        ],
+        [
+          "make no difference",
+          "phr",
+          "không có sự khác biệt"
+        ],
+        [
+          "make payment",
+          "phr",
+          "thanh toán"
+        ],
+        [
+          "Not that I'm aware of.",
+          "phr",
+          "Đó không phải là những gì mà tôi biết."
+        ],
+        [
+          "out of town",
+          "phr",
+          "đi vắng"
+        ],
+        [
+          "overcoat",
+          "phr",
+          "đi vắng"
+        ],
+        [
+          "pay in cash",
+          "phr",
+          "thanh toán bằng tiền mặt"
+        ],
+        [
+          "put out for display",
+          "phr",
+          "đưa ra trưng bày"
+        ],
+        [
+          "shoelace",
+          "n",
+          "dây giày"
+        ],
+        [
+          "shopkeeper",
+          "n",
+          "người chủ hiệu"
+        ],
+        [
+          "showroom",
+          "n",
+          "người chủ hiệu"
+        ],
+        [
+          "sleeve",
+          "n",
+          "tay áo"
+        ],
+        [
+          "souvenir",
+          "n",
+          "đổ lưu niệm, vật kỷ niệm"
+        ],
+        [
+          "stack",
+          "n",
+          "cụm, chùm, đống; * chất thành đống"
+        ],
+        [
+          "stand in line",
+          "phr",
+          "xếp hàng"
+        ],
+        [
+          "storefront",
+          "phr",
+          "xếp hàng"
+        ],
+        [
+          "stylish",
+          "n",
+          "adị hợp thời trang, kiểu cách"
+        ],
+        [
+          "tag",
+          "n",
+          "i nhãn, mác, thẻ tên"
+        ],
+        [
+          "take the order",
+          "phr",
+          "i nhãn, mác, thẻ tên"
+        ],
+        [
+          "try on",
+          "phr",
+          "mặc thử, đi thử, mang thử"
+        ],
+        [
+          "underline",
+          "phr",
+          "mặc thử, đi thử, mang thử"
+        ],
+        [
+          "watch band",
+          "phr",
+          "dây đeo đồng hồ"
+        ],
+        [
+          "window-shopping",
+          "phr",
+          "dây đeo đồng hồ"
+        ],
+        [
+          "afford to do",
+          "phr",
+          "đủ sức, đủ khả năng làm gì"
+        ],
+        [
+          "apparel",
+          "phr",
+          "đủ sức, đủ khả năng làm gì"
+        ]
+      ],
+      "P7": [
+        [
+          "dairy products",
+          "phr",
+          "các sản phẩm từ sữa"
+        ],
+        [
+          "elsewhere",
+          "adv",
+          "ở một nơi nào khác, đâu đó"
+        ],
+        [
+          "gift certificate",
+          "phr",
+          "phiểu quà tặng"
+        ],
+        [
+          "glassware",
+          "phr",
+          "phiểu quà tặng"
+        ],
+        [
+          "inexpensive",
+          "n",
+          "adị rẻ, không đất"
+        ],
+        [
+          "lately",
+          "adv",
+          "gần đây"
+        ],
+        [
+          "latest",
+          "n",
+          "adị mới nhất"
+        ],
+        [
+          "luxury",
+          "n",
+          "sự xa xỉ, hàng xa xỉ; adi sang trọng"
+        ],
+        [
+          "outerwear",
+          "n",
+          "sự xa xỉ, hàng xa xỉ; adi sang trọng"
+        ],
+        [
+          "outlet",
+          "n",
+          "lỗi thoát, lỗi ra, cửa hàng tiêu thụ"
+        ],
+        [
+          "portable",
+          "n",
+          "adị có thể mang theo, xách tay"
+        ],
+        [
+          "readership",
+          "n",
+          "(cộng đồng) độc giả"
+        ],
+        [
+          "readily",
+          "adv",
+          "sẵn sàng, sẵn lòng"
+        ],
+        [
+          "refundable",
+          "n",
+          "adị có thể hoàn trả lại"
+        ],
+        [
+          "value",
+          "n",
+          "giá trị, giá cả"
+        ],
+        [
+          "a selection of",
+          "n",
+          "giá trị, giá cả"
+        ],
+        [
+          "a variety of (= various)",
+          "phr",
+          "nhiều"
+        ],
+        [
+          "at a discounted price",
+          "phr",
+          "với giá chiết khẩu"
+        ],
+        [
+          "by check",
+          "phr",
+          "bằng séc"
+        ],
+        [
+          "by credit card",
+          "phr",
+          "bằng thẻ tín dụng"
+        ],
+        [
+          "by no means",
+          "phr",
+          "bằng thẻ tín dụng"
+        ],
+        [
+          "extra charge",
+          "phr",
+          "phụ phí"
+        ],
+        [
+          "get in line",
+          "phr",
+          "xếp hàng"
+        ],
+        [
+          "give a discount",
+          "phr",
+          "xếp hàng"
+        ],
+        [
+          "in cash",
+          "phr",
+          "bằng tiền mặt"
+        ],
+        [
+          "merchandise",
+          "phr",
+          "bằng tiền mặt"
+        ],
+        [
+          "no later than",
+          "phr",
+          "muôn nhất là"
+        ],
+        [
+          "showcase",
+          "n",
+          "buổi biểu diễn giới thiệu"
+        ],
+        [
+          "textile",
+          "n",
+          "buổi biểu diễn giới thiệu"
+        ],
+        [
+          "o thrifty",
+          "phr",
+          "adị tiết kiệm, tăn tiện"
+        ],
+        [
+          "under warranty",
+          "phr",
+          "được bảo hành"
+        ],
+        [
+          "valid for",
+          "phr",
+          "được bảo hành"
+        ],
+        [
+          "voucher",
+          "phr",
+          "hợp lệ cho, có hiệu lực với"
+        ],
+        [
+          "wholesale",
+          "n",
+          "trước)"
+        ],
+        [
+          "wrap a present",
+          "phr",
+          "adị bán buôn, bán sỉ"
+        ]
+      ]
+    },
+    "l900": {
+      "LC": [],
+      "P56": [],
+      "P7": [
+        [
+          "automotive repair shop",
+          "phr",
+          "xưởng sửa chữa ô tô"
+        ],
+        [
+          "awning",
+          "phr",
+          "xưởng sửa chữa ô tô"
+        ],
+        [
+          "cash register",
+          "phr",
+          "máy đếm tiền"
+        ],
+        [
+          "cooking utensil (= cookware)",
+          "phr",
+          "dụng cụ nấu ăn"
+        ],
+        [
+          "display case",
+          "phr",
+          "kệ trưng bày"
+        ],
+        [
+          "garment",
+          "n",
+          "quản áo, đồ may mặc"
+        ],
+        [
+          "look different",
+          "phr",
+          "nhìn khác biệt"
+        ],
+        [
+          "tailor",
+          "n",
+          "thợ may"
+        ],
+        [
+          "wind a watch",
+          "phr",
+          "lên dây đồng hồ"
+        ],
+        [
+          "collectable",
+          "n",
+          "adị có thể sưu tầm được, đáng được"
+        ],
+        [
+          "conversely",
+          "adv",
+          "ngược lại, đảo lại"
+        ],
+        [
+          "dilute",
+          "n",
+          "y loãng, nhạt đi, giảm bớt"
+        ],
+        [
+          "exposition",
+          "n",
+          "sự phơi bày, sự bộc lộ"
+        ],
+        [
+          "generic",
+          "n",
+          "adị có đặc điểm giống loài, (thuộc)"
+        ],
+        [
+          "high-end",
+          "adj",
+          "cao cấp"
+        ],
+        [
+          "merchant",
+          "n",
+          "thương gia; adị buôn, buôn bán"
+        ],
+        [
+          "observably",
+          "adv",
+          "đáng chú ý, đáng kể"
+        ],
+        [
+          "predictably",
+          "adv",
+          "có thể dự báo, đoán trước"
+        ],
+        [
+          "secondhand",
+          "n",
+          "adị cũ, dùng lại (đỗ vật)"
+        ],
+        [
+          "stylishly",
+          "n",
+          "adị cũ, dùng lại (đỗ vật)"
+        ],
+        [
+          "at a substantial discount",
+          "phr",
+          "mức giảm giá đáng kể"
+        ],
+        [
+          "bargain over prices",
+          "phr",
+          "mặc cả về giá"
+        ],
+        [
+          "embellish",
+          "phr",
+          "mặc cả về giá"
+        ],
+        [
+          "embroider",
+          "v",
+          "thêu, thêu dệt"
+        ],
+        [
+          "equivalent",
+          "n",
+          "adị tương đương"
+        ],
+        [
+          "exhilarating",
+          "n",
+          "adị tương đương"
+        ],
+        [
+          "exorbitant price",
+          "phr",
+          "giá cắt cổ"
+        ],
+        [
+          "exquisite",
+          "phr",
+          "giá cắt cổ"
+        ],
+        [
+          "extravagance",
+          "n",
+          "tính quá mức, sự phung phí"
+        ],
+        [
+          "lavish",
+          "n",
+          "tính quá mức, sự phung phí"
+        ],
+        [
+          "redeem",
+          "n",
+          "adị lãng phí, phung phí"
+        ],
+        [
+          "undercharge",
+          "v",
+          "định giá quá thấp"
+        ]
+      ]
+    }
+  },
+  "dailyCheckup": {
+    "page": 179,
+    "groups": [
+      {
+        "instruction": "Tìm ở cột bên phải nghĩa của các từ vựng ở cột bên trái và nối chúng với nhau.",
+        "options": [
+          {
+            "key": "a",
+            "text": "tiêu cực"
+          },
+          {
+            "key": "b",
+            "text": "ngay lập tức"
+          },
+          {
+            "key": "c",
+            "text": "cách tiếp cận"
+          },
+          {
+            "key": "d",
+            "text": "bị cấm"
+          },
+          {
+            "key": "e",
+            "text": "sự chấp thuận"
+          },
+          {
+            "key": "f",
+            "text": "truy cập"
+          }
+        ],
+        "questions": [
+          {
+            "no": 1,
+            "prompt": "affordable",
+            "answer": "a"
+          },
+          {
+            "no": 2,
+            "prompt": "experienced",
+            "answer": "a"
+          },
+          {
+            "no": 3,
+            "prompt": "apply",
+            "answer": "a"
+          },
+          {
+            "no": 4,
+            "prompt": "desire",
+            "answer": "a"
+          },
+          {
+            "no": 5,
+            "prompt": "alter",
+            "answer": "a"
+          }
+        ]
+      },
+      {
+        "instruction": "Hãy chọn từ phù hợp để điền vào mỗi câu của bài thi TOEIC dạng thức mới sau.",
+        "options": [
+          {
+            "key": "a",
+            "text": "inspection"
+          },
+          {
+            "key": "b",
+            "text": "effect"
+          },
+          {
+            "key": "c",
+            "text": "authorized"
+          },
+          {
+            "key": "d",
+            "text": "procedure"
+          },
+          {
+            "key": "e",
+            "text": "concern"
+          }
+        ],
+        "questions": [
+          {
+            "no": 6,
+            "prompt": "We add a shipping_ to the cost of large items.",
+            "answer": "a"
+          },
+          {
+            "no": 7,
+            "prompt": "Most shoppers found the store's revised return policies",
+            "answer": "a"
+          },
+          {
+            "no": 8,
+            "prompt": "Customers were asked to",
+            "answer": "a"
+          },
+          {
+            "no": 9,
+            "prompt": "The company refused to__. the money for items damaged by the buyer.",
+            "answer": "a"
+          }
+        ]
+      },
+      {
+        "instruction": "Hãy chọn từ phù hợp để điền vào mỗi câu của bài thi TOEIC dạng thức mới sau.",
+        "options": [
+          {
+            "key": "a",
+            "text": "obligation"
+          },
+          {
+            "key": "b",
+            "text": "drastically"
+          },
+          {
+            "key": "c",
+            "text": "revise"
+          },
+          {
+            "key": "d",
+            "text": "thoroughly"
+          },
+          {
+            "key": "e",
+            "text": "arrangements"
+          }
+        ],
+        "questions": [
+          {
+            "no": 10,
+            "prompt": "The financial advisor is known for his __ advice.",
+            "answer": "a"
+          },
+          {
+            "no": 11,
+            "prompt": "Energy_ has dropped in recent years due to rising prices.",
+            "answer": "a"
+          },
+          {
+            "no": 12,
+            "prompt": "The retailer is holding a(n)_ sale to make way for new inventory.",
+            "answer": "a"
+          },
+          {
+            "no": 13,
+            "prompt": "Small book_.. may face difficulty competing with large bookstores.",
+            "answer": "a"
+          }
+        ]
+      }
+    ]
+  },
+  "title": "Cao thủ mua sắm",
+  "titleVi": "Cao thủ mua sắm",
+  "category": "Mua sắm"
+}

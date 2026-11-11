@@ -1,0 +1,1762 @@
+{
+  "dayNo": 6,
+  "source": "Apple Vision OCR extraction from pages 106-121",
+  "coreWords": [
+    {
+      "no": 1,
+      "word": "collection",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "collection",
+      "ipaUs": "kalekjan",
+      "page": 107,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "bộ sưu tập, sự thu thập, sự quyên góp",
+          "examples": [
+            {
+              "en": "The museum has a unique collection of stamps. Toll collection operates by means of an electronic",
+              "vi": "Bảo tàng sở hữu một bộ sưu tập tem độc đáo. Việc thu phí vận hành thông qua một hệ thống điện tử. 1 ceramic tiles collection bộ sưu tập gạch men"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 2,
+      "word": "exhibition",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "eksabijen",
+      "ipaUs": "èksibíjon",
+      "page": 107,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "cuộc triển lãm, sự trưng bày",
+          "examples": [
+            {
+              "en": "The gallery hosted an exhibition of urban scenic",
+              "vi": "Phòng trưng bày đã tổ chức một cuộc triển lãm ảnh phong cảnh thành phố. n người nổi tiếng"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 3,
+      "word": "celebrity",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "solébrati",
+      "ipaUs": "silébriti",
+      "page": 107,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "người nổi tiếng",
+          "examples": [
+            {
+              "en": "Hackers TOEIC Vocabulary Many celebrities attended the city's summer park",
+              "vi": "Rất nhiều người nổi tiếng đã tham dự lễ hội công viên mùa hè của thành phố. adj phát sóng trực tiếp (radio, TV), sống"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 4,
+      "word": "live",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "live",
+      "ipaUs": "laiv",
+      "page": 107,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "phát sóng trực tiếp (radio, TV), sống",
+          "examples": [
+            {
+              "en": "Please follow the live.",
+              "vi": "Vui lòng tuân theo live."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 5,
+      "word": "improvise",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "improvise",
+      "ipaUs": "¡mpravàiz",
+      "page": 108,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "nổi tiếng, phổ biến",
+          "examples": [
+            {
+              "en": "The performers improvised a jazz melody.",
+              "vi": "Các nghệ sĩ đã chơi ngãu hứng một khúc nhạc jazz."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 6,
+      "word": "popular",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "pápjular",
+      "ipaUs": "papjula",
+      "page": 108,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "nổi tiếng, phổ biến",
+          "examples": [
+            {
+              "en": "Broadway musicals are so popular that they Likable managers receive greater respect from Please select your preferred means of",
+              "vi": "Nhạc kịch Broadway nổi tiếng đến mức họ thường xuyên đi lưu diễn. Bai thi TOEIC dạng"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 7,
+      "word": "donation",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "dounéijen",
+      "ipaUs": "dauneijan",
+      "page": 108,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự quyên góp, từ thiện, sự tặng",
+          "examples": [
+            {
+              "en": "The library is accepting donations of children's books.",
+              "vi": "Thư viện đang tiếp nhận những khoản quyên tặng sách thiếu nhi. Bai thi TOEIC dạng thức mới - donation sự quyên tặng"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 8,
+      "word": "alumni",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "alumni",
+      "ipaUs": "alÁmnai",
+      "page": 109,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "cựu sinh viên",
+          "examples": [
+            {
+              "en": "St. John's University alumni were invited to the graduation ceremony.",
+              "vi": "Các cựu sinh viên trường Đại học St. John đã được mời đến lễ tốt nghiệp. V trình bày, giới thiệu"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 9,
+      "word": "present",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "present",
+      "ipaUs": "v. [prizent",
+      "page": 109,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự thú nhận, sự nhận vào, sự thu nạp",
+          "examples": [
+            {
+              "en": "Please present valid tickets at the door. The present owner of the resort intends to Famous athlete Matt London was present at the",
+              "vi": "Vui lòng xuất trình vé hợp lệ tại cửa ra vào. adị có mặt, hiện diện, hiện tại, hiện thời Người chủ hiện tại của khu nghỉ dưỡng có ý định cải tạo nó."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 10,
+      "word": "admission",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "admission",
+      "ipaUs": "admífan",
+      "page": 109,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự thú nhận, sự nhận vào, sự thu nạp",
+          "examples": [
+            {
+              "en": "Those wishing to visit the exhibit will be charged an Hackers TOEIC Vocabulary extra admission fee.",
+              "vi": "Những người muốn tới thăm triển lãm sẽ bị tính thêm phí vào cửa. Bai thì TOEIC dạng thức moi"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 11,
+      "word": "banquet",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "banquet",
+      "ipaUs": "bænkwit",
+      "page": 109,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "bữa tiệc lớn",
+          "examples": [
+            {
+              "en": "The hotel has facilities for large-scale wedding",
+              "vi": "Khách sạn có cơ sở vật chất để tổ chức những tiệc cưới quy mô lớn."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 12,
+      "word": "anniversary",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "anavá:rsari",
+      "ipaUs": "anivé:sori",
+      "page": 110,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "lễ kỷ niệm, ngày ký niệm",
+          "examples": [
+            {
+              "en": "The couple celebrated their 50th anniversary with a",
+              "vi": "Cặp đôi đã ăn mừng ký niệm 50 năm ngày cưới của minh bằng một bữa tiệc. adị cần thiết, được yêu cầu, phải có"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 13,
+      "word": "required",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "required",
+      "ipaUs": "rikwáiard",
+      "page": 110,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "nối tiếp, kế tiếp; thành công",
+          "examples": [
+            {
+              "en": "Proper swimming attire is required when using the hotel pool. Peggy succeeded in convincing her family to visit",
+              "vi": "Bắt buộc phải có đổ bơi phù hợp khi bạn sử dụng bể bơi của khách sạn. Sai Th TOEC dạng thựa"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 14,
+      "word": "rest",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "rest",
+      "ipaUs": "rest",
+      "page": 110,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự thư giãn, nghỉ ngơi; phần còn lại",
+          "examples": [
+            {
+              "en": "Hikers can rest on the bench halfway up the hill. The tour group had a rest before visiting the palace.",
+              "vi": "Người đi bộ có thể nghỉ chân ở chiếc ghế băng giữa đường đi lên đôi. Nhóm du lịch đã nghỉ ngơi trước khi tới thăm cung điện."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 15,
+      "word": "fund-raising",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "fund-raising",
+      "ipaUs": "fÁndrêizio",
+      "page": 111,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "việc gây quỹ",
+          "examples": [
+            {
+              "en": "Auctions are a popular form of fund-raising.",
+              "vi": "Đấu giá là một hình thức gây quý phổ biến. v lấy lại, giành lại, bắt đầu lại, lại tiếp tục"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 16,
+      "word": "resume",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "Uk rizú:m",
+      "ipaUs": "rizju:m",
+      "page": 111,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "lấy lại, giành lại, bắt đầu lại, lại tiếp tục",
+          "examples": [
+            {
+              "en": "The play will resume after a short intermission.",
+              "vi": "Vở kịch sẽ lại tiếp tục sau thời gian giải lao ngắn. n sự xuất bản, số báo, lần in; vấn để"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 17,
+      "word": "issue",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "issue",
+      "ipaUs": "¡ju:",
+      "page": 111,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự xuất bản, số báo, lần in; vấn để",
+          "examples": [
+            {
+              "en": "Jack's cake recipe was in the April issue of Baker There are many perspectives on the issue of global",
+              "vi": "Monthly. Công thức làm bánh của Jack có trong số tháng Tư của tạp chí Baker Monthly. warming. Có rất nhiều quan điểm về vấn để sự nóng lên toàn"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 18,
+      "word": "subscription",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "subscription",
+      "ipaUs": "sebskrip{an",
+      "page": 111,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự đăng ký, sự thuê bao, mua định kỳ (báo, tạp chí)",
+          "examples": [
+            {
+              "en": "I would like to get a subscription to the Weekly 10 Hackers TOEIC Vocabulary",
+              "vi": "Herald. Tôi muốn đặt mua dài hạn tạp chí Weekly Herald. V xuất hiện, trình diện"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 19,
+      "word": "appear",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "apíar",
+      "ipaUs": "apia].",
+      "page": 111,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "it appears + mệnh đề that có vẻ như là...",
+          "examples": [
+            {
+              "en": "The novelist appeared at the bookstore to sign",
+              "vi": "Nhà văn đã xuất hiện ở hiệu sách để ký tặng. Ban thì TOEK dạng thức mội appear in court trình diện tại tòa"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 20,
+      "word": "accompany",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "accompany",
+      "ipaUs": "akÁmpani",
+      "page": 112,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "Mary accompanied her grandmother to the mall. Be careful because strong winds often accompany",
+              "vi": "Mary đi cùng bà cô ấy tới trung tâm thương mại. Hãy cẩn thận vì ở trên núi gió mạnh thường kèm theo mưa."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 21,
+      "word": "edition",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "edition",
+      "ipaUs": "idifen",
+      "page": 112,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự phát hành, sự xuất bản, lần in, phiên bản",
+          "examples": [
+            {
+              "en": "A revised edition of the economics book will be published soon.",
+              "vi": "Phiên bản có chỉnh sửa của cuốn sách kinh tế này sẽ sớm được xuất bản. adv cụ thể, rõ ràng, đặc trưng"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 22,
+      "word": "specifically",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "spisífikali",
+      "ipaUs": "spasífikali",
+      "page": 112,
+      "senses": [
+        {
+          "pos": "adv",
+          "meaning": "cụ thể, rõ ràng, đặc trưng",
+          "examples": [
+            {
+              "en": "The package terms specifically stated that guests would stay at a hotel. Campgrounds around the lake are worth visiting,",
+              "vi": "Các điều khoản của gói du lịch đã nêu rõ răng du khách sẽ ở tại khách sạn. Những bãi cẩm trại ở quanh hồ rất đáng ghé thăm, cụ thể là bãi"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 23,
+      "word": "anonymous",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "anánamas",
+      "ipaUs": "enónimas",
+      "page": 112,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "The charity received $6,000 from an anonymous",
+              "vi": "Tố chức từ thiện đã nhận được 6000 đô-la từ một người quyên góp ẩn danh."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 24,
+      "word": "commit",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "commit",
+      "ipaUs": "kamit",
+      "page": 112,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "The store is committed to providing excellent customer service.",
+              "vi": "Cửa hàng luôn cam kết cung cấp dịch vụ khách hàng tuyệt hảo. Bài mi TOEI dạng thức môi be committed to -ing tận tâm với, cam kết làm gì"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 25,
+      "word": "informative",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "info:rmativ",
+      "ipaUs": "info:mativ",
+      "page": 113,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "khán giả, thính giả",
+          "examples": [
+            {
+              "en": "The documentary was informative and interesting.",
+              "vi": "Bộ phim tài liệu này rất bổ ích và thú vị. Bài th FUERE Gạng Bac nhờ informative + brochure/booklet cuốn sách/tài liệu bổ ích"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 26,
+      "word": "audience",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "audience",
+      "ipaUs": "5:diens",
+      "page": 113,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "khán giả, thính giả",
+          "examples": [
+            {
+              "en": "The audience applauded the singer enthusiastically.",
+              "vi": "Khán giả cổ vũ cho ca sĩ rất nồng nhiệt. n tác giả"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 27,
+      "word": "author",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "uK 5:0ar",
+      "ipaUs": "5:00",
+      "page": 113,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "tác giả",
+          "examples": [
+            {
+              "en": "All of the author's short stories are popular.",
+              "vi": "Tất cả truyện ngắn của tác giả đó đều nổi tiếng. V ghi chú, lưu ý"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 28,
+      "word": "note",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "nout",
+      "ipaUs": "naut",
+      "page": 113,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "đồ cổ",
+          "examples": [
+            {
+              "en": "Please note the intricate details of the architecture. Hackers TOEIC Vocabulary",
+              "vi": "Xin hãy lưu ý các chi tiết phức tạp của công trình kiến trúc này. Bại thì TOEI dạng thạt mơi sn. Khi để cập tới một điều rõ ràng, cụ thể, ta có thể thay note"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 29,
+      "word": "antique",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "antique",
+      "ipaUs": "ænti:k",
+      "page": 113,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "đồ cổ",
+          "examples": [
+            {
+              "en": "Antiques are popular for home decor.",
+              "vi": "Đồ cổ rất phổ biến trong việc trang trí nhà cửa. n bản viết tay, bản thảo"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 30,
+      "word": "manuscript",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "manuscript",
+      "ipaUs": "mænjkript",
+      "page": 113,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "bản viết tay, bản thảo",
+          "examples": [
+            {
+              "en": "The author is working on several manuscripts.",
+              "vi": "Tác giả đó đang viết một vài bản thảo."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 31,
+      "word": "beneficial",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "bènafífal",
+      "ipaUs": "bènififal",
+      "page": 114,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "có lợi, có ích",
+          "examples": [
+            {
+              "en": "Please follow the beneficial.",
+              "vi": "Vui lòng tuân theo beneficial."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 32,
+      "word": "upcoming",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "upcoming",
+      "ipaUs": "Apkâmin",
+      "page": 114,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "cho mượn, cho vay",
+          "examples": [
+            {
+              "en": "A reporter spoke to a candidate for the upcoming",
+              "vi": "Phóng viên đã trao đổi với một ứng cử viên về cuộc bầu cử sắp tới. Bài thì TOEIC dạng thức mới"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 33,
+      "word": "lend",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "lend",
+      "ipaUs": "lend",
+      "page": 114,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "cho mượn, cho vay",
+          "examples": [
+            {
+              "en": "The library lends a variety of audio-visual materials. We borrowed umbrellas at the front desk. Mark rented a car for the journey.",
+              "vi": "Thư viện cho mượn rất nhiều loại tài liệu nghe nhìn. BaI thị TOE Hãy phân biệt sự khác nhau của các từ cùng mang nghĩa \"cho"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 34,
+      "word": "current",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "ké:rent",
+      "ipaUs": "kArant",
+      "page": 115,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "hiện thời, dang lưu hanh",
+          "examples": [
+            {
+              "en": "Current subscribers to the magazine will receive a free supplement.",
+              "vi": "Những người hiện đặt mua dài hạn tạp chí sẽ được nhận một cuốn phụ trương miễn phí. B, th TOÈf Bạng tt m?"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 35,
+      "word": "local",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "us léal",
+      "ipaUs": "der. locality (n) vị trí, địa",
+      "page": 115,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "địa phương, cục bọ",
+          "examples": [
+            {
+              "en": "The tournament will be held at the local high",
+              "vi": "Trận đấu sẽ được tổ chức tại trường trung học địa phương. Bai thì TOEK, dang thức moi Hap local high school trường trung học địa phương"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 36,
+      "word": "variety",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "variety",
+      "ipaUs": "der. vario (adj) đa dạng,",
+      "page": 115,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự đa dạng, trạng thái khác nhau, giống, loại",
+          "examples": [
+            {
+              "en": "The newsstand sells a variety of magazines and Hackers TOEIC Vocabulary",
+              "vi": "newspapers. Quầy báo bán nhiều loại báo và tạp chí. Bai thì TOEIC dạng thức mơi a (large/wide) variety of + danh từ số nhiều"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 37,
+      "word": "advocate",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "advocate",
+      "ipaUs": "advokat",
+      "page": 115,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "người ủng hộ, người biện hộ",
+          "examples": [
+            {
+              "en": "The writer is an advocate of public education.",
+              "vi": "Nhà văn này là một người ủng hộ giáo dục công lập. Bải thi TOEIC dạng thức mới an advocate of người ủng hộ cái gì"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 38,
+      "word": "contributor",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "kantribjutar",
+      "ipaUs": "kantríbjuta",
+      "page": 116,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "người cống hiến, người đóng góp",
+          "examples": [
+            {
+              "en": "The doctor is a regular contributor to the medical",
+              "vi": "journal. Bác sĩ đó là người thường xuyên đóng góp cho tạp chí contributor to đóng góp cho contribute thường đi với giới từ to."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 39,
+      "word": "defy",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "defy",
+      "ipaUs": "difái",
+      "page": 116,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "The documentary series defies conventional wisdom about fitness. The play defied all description.",
+              "vi": "Những tập phim tài liệu này đi ngược lại các hiểu biết thông thường về thể hình. Không lời nào có thể diễn tả được về vở kịch này."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 40,
+      "word": "fascinating",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "fæsaneitin",
+      "ipaUs": "fæsineitin",
+      "page": 116,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự trình diễn; chứng cứ",
+          "examples": [
+            {
+              "en": "Many fascinating pieces of art were on display.",
+              "vi": "Nhiều tác phẩm nghệ thuật hấp dẫn đã được trưng bày. Bai thi TOEIC đạng thực mới - fascinating hấp dẫn, lôi cuốn"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 41,
+      "word": "showing",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "uK Sóuin",
+      "ipaUs": "Suin",
+      "page": 116,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự trình diễn; chứng cứ",
+          "examples": [
+            {
+              "en": "We attended the premiere showing of the Rita Garner movie. There will be another showing of this artist's work.",
+              "vi": "Chúng tôi đã tham dự buổi công chiếu ra mắt phim của Rita Sẽ có thêm một buổi triển lãm các tác phẩm của nghệ sĩ này."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    }
+  ],
+  "completeVocab": {
+    "basic": {
+      "LC": [],
+      "RC": [
+        [
+          "backpack",
+          "n",
+          "ba lô"
+        ],
+        [
+          "a bike",
+          "n",
+          "xe đạp"
+        ],
+        [
+          "cabin",
+          "n",
+          "buồng, buồng lái"
+        ],
+        [
+          "climb a mountain",
+          "n",
+          "buồng, buồng lái"
+        ],
+        [
+          "film festival",
+          "phr",
+          "liên hoan phim"
+        ],
+        [
+          "fishing",
+          "n",
+          "cầu cá"
+        ],
+        [
+          "gallery",
+          "n",
+          "phòng trưng bày (nghệ thuật)"
+        ],
+        [
+          "invitation",
+          "n",
+          "lời mời, giấy mời"
+        ],
+        [
+          "lawn",
+          "n",
+          "lời mời, giấy mời"
+        ],
+        [
+          "paint",
+          "n",
+          "sơn; v vễ"
+        ],
+        [
+          "painting",
+          "n",
+          "bức tranh"
+        ],
+        [
+          "play cards",
+          "phr",
+          "chơi bài"
+        ],
+        [
+          "public library",
+          "phr",
+          "thư viện công cộng"
+        ],
+        [
+          "race",
+          "phr",
+          "thư viện công cộng"
+        ],
+        [
+          "resort",
+          "n",
+          "khu nghỉ dưỡng"
+        ],
+        [
+          "theater",
+          "n",
+          "nhà hát"
+        ],
+        [
+          "watch a film",
+          "n",
+          "nhà hát"
+        ],
+        [
+          "adventure",
+          "n",
+          "cuộc phiêu lưu"
+        ],
+        [
+          "art museum",
+          "phr",
+          "bảo tàng nghệ thuật"
+        ],
+        [
+          "a begin",
+          "v",
+          "bắt dầu"
+        ],
+        [
+          "bring",
+          "n",
+          "y mang tới, mang lại"
+        ],
+        [
+          "care for",
+          "phr",
+          "y mang tới, mang lại"
+        ],
+        [
+          "a concert",
+          "n",
+          "buổi hòa nhạc"
+        ],
+        [
+          "length",
+          "n",
+          "chiều dài"
+        ],
+        [
+          "leisure",
+          "n",
+          "chiều dài"
+        ],
+        [
+          "librarian",
+          "n",
+          "thời gian rảnh rỗi"
+        ],
+        [
+          "q, menu",
+          "n",
+          "thủ thư, người quản lý thư viện"
+        ],
+        [
+          "sightseeing",
+          "n",
+          "sự tham quan, cuộc tham quan"
+        ]
+      ]
+    },
+    "l800": {
+      "LC": [
+        [
+          "amusement park",
+          "phr",
+          "công viên giải trí"
+        ],
+        [
+          "ancient history",
+          "phr",
+          "công viên giải trí"
+        ],
+        [
+          "artifact",
+          "n",
+          "• đồ tạo tác"
+        ],
+        [
+          "auditorium",
+          "n",
+          "khán phòng"
+        ],
+        [
+          "be booked up",
+          "phr",
+          "đã bán hết (vé, phòng)"
+        ],
+        [
+          "box office",
+          "phr",
+          "phe phòng vé"
+        ],
+        [
+          "cheerful",
+          "n",
+          "adị vui mừng"
+        ],
+        [
+          "choir",
+          "n",
+          "đội hợp xướng, đội đồng ca"
+        ],
+        [
+          "entertáin",
+          "v",
+          "giải trí, tiêu khiển"
+        ],
+        [
+          "flower arrangement",
+          "phr",
+          "cẩm hoa"
+        ],
+        [
+          "a flower bed",
+          "n",
+          "(phr) luống hoa"
+        ],
+        [
+          "go to a film",
+          "phr",
+          "di xem phim"
+        ],
+        [
+          "grip",
+          "v",
+          "nắm chặt, nắm vững"
+        ],
+        [
+          "have a race",
+          "phr",
+          "dua"
+        ],
+        [
+          "jog along the street",
+          "phr",
+          "chạy bộ dọc phố"
+        ],
+        [
+          "musical instrument",
+          "phr",
+          "nhạc cụ"
+        ],
+        [
+          "oar",
+          "n",
+          "mái chèo; v chèo thuyền; can thiệp"
+        ],
+        [
+          "oil painting",
+          "phr",
+          "tranh sơn dầu"
+        ],
+        [
+          "outdoor",
+          "phr",
+          "tranh sơn dầu"
+        ],
+        [
+          "paddle",
+          "n",
+          "y chèo thuyền; mái chèo"
+        ],
+        [
+          "premiere",
+          "n",
+          "buổi ra mắt"
+        ],
+        [
+          "rake leaves",
+          "phr",
+          "cào lá"
+        ],
+        [
+          "recreational activity",
+          "phr",
+          "hoạt động giải trí"
+        ],
+        [
+          "a right",
+          "phr",
+          "hoạt động giải trí"
+        ],
+        [
+          "a running time",
+          "phr",
+          "thời gian thực hiện"
+        ],
+        [
+          "sail a boat",
+          "phr",
+          "chèo thuyền"
+        ],
+        [
+          "slide down",
+          "phr",
+          "chèo thuyền"
+        ],
+        [
+          "splash",
+          "n",
+          "y bắn lên, tóe lên"
+        ],
+        [
+          "sport tournament",
+          "phr",
+          "giải thi đấu thể thao"
+        ],
+        [
+          "stadium",
+          "n",
+          "• sân vận động"
+        ],
+        [
+          "stay up",
+          "phr",
+          "• sân vận động"
+        ],
+        [
+          "stroll",
+          "phr",
+          "thức"
+        ],
+        [
+          "take a break",
+          "phr",
+          "nghỉ ngơi"
+        ]
+      ],
+      "P56": [],
+      "P7": [
+        [
+          "take A for a walk",
+          "phr",
+          "đi dạo cùng A"
+        ],
+        [
+          "take a photograph",
+          "phr",
+          "chụp một tẩm ảnh"
+        ],
+        [
+          "take a walk",
+          "phr",
+          "chụp một tẩm ảnh"
+        ],
+        [
+          "take great pleasure",
+          "phr",
+          "đi dạo, tản bộ"
+        ],
+        [
+          "touch up a photograph",
+          "phr",
+          "chỉnh sửa ảnh"
+        ],
+        [
+          "vacation package",
+          "phr",
+          "gói du lịch"
+        ],
+        [
+          "wait for seats",
+          "phr",
+          "chờ tới lượt"
+        ],
+        [
+          "wait in line",
+          "phr",
+          "xếp hàng chờ"
+        ],
+        [
+          "water the plants",
+          "phr",
+          "tươi cây"
+        ],
+        [
+          "amuse",
+          "phr",
+          "tươi cây"
+        ],
+        [
+          "artistic",
+          "n",
+          "· làm cho ai đó thích thú, giải trí"
+        ],
+        [
+          "donate",
+          "n",
+          "y quyên góp"
+        ],
+        [
+          "even though",
+          "phr",
+          "mặc dù"
+        ],
+        [
+          "exhibit",
+          "n",
+          "cuộc triển lãm; y trưng bày"
+        ],
+        [
+          "exist",
+          "n",
+          "cuộc triển lãm; y trưng bày"
+        ],
+        [
+          "free admission",
+          "phr",
+          "y tổn tại"
+        ],
+        [
+          "make oneself at home",
+          "phr",
+          "cứ tự nhiên như ở nhà"
+        ],
+        [
+          "municipal",
+          "n",
+          "adị thuộc thành phố, đô thị"
+        ],
+        [
+          "several",
+          "n",
+          "adị vài, một số"
+        ],
+        [
+          "spectator",
+          "n",
+          "adị vài, một số"
+        ],
+        [
+          "usher",
+          "n",
+          "• người chỉ chỗ (trong rạp)"
+        ],
+        [
+          "win a contest",
+          "phr",
+          "thắng cuộc thi"
+        ],
+        [
+          "admission to",
+          "phr",
+          "thắng cuộc thi"
+        ],
+        [
+          "contestant",
+          "n",
+          "a thí sinh"
+        ],
+        [
+          "a delight",
+          "n",
+          "sự vui sướng"
+        ],
+        [
+          "do one's hair",
+          "n",
+          "sự vui sướng"
+        ],
+        [
+          "enjoyable",
+          "n",
+          "adị thích thú, thú vị"
+        ],
+        [
+          "group rate",
+          "phr",
+          "mức giá theo nhóm"
+        ],
+        [
+          "head for",
+          "phr",
+          "mức giá theo nhóm"
+        ],
+        [
+          "out of order",
+          "phr",
+          "đi đến, hướng tới"
+        ],
+        [
+          "periodical",
+          "phr",
+          "bị hỏng"
+        ],
+        [
+          "playing field",
+          "n",
+          "ấn phẩm định kỳ; adị định kỳ"
+        ],
+        [
+          "register for",
+          "phr",
+          "ghi danh, đăng ký"
+        ],
+        [
+          "show up",
+          "phr",
+          "ghi danh, đăng ký"
+        ],
+        [
+          "take a tour",
+          "phr",
+          "xuất hiện"
+        ]
+      ]
+    },
+    "l900": {
+      "LC": [],
+      "P56": [],
+      "P7": [
+        [
+          "be in line",
+          "phr",
+          "xếp hàng"
+        ],
+        [
+          "for a change",
+          "phr",
+          "để thay đổi"
+        ],
+        [
+          "pass the time",
+          "phr",
+          "quá thời gian"
+        ],
+        [
+          "pose",
+          "n",
+          "Y tạo dáng; n tư thế"
+        ],
+        [
+          "stay tuned",
+          "phr",
+          "đừng chuyển kênh, tiếp tục theo dõi"
+        ],
+        [
+          "vacate",
+          "v",
+          "bỏ trống, bỏ, xin thôi"
+        ],
+        [
+          "appreciative",
+          "n",
+          "adị biết thưởng thức"
+        ],
+        [
+          "casually",
+          "n",
+          "ady tình cờ, ngẫu nhiên"
+        ],
+        [
+          "enlightening",
+          "n",
+          "adị khai sáng"
+        ],
+        [
+          "enthusiastically",
+          "adv",
+          "nhiệt tình, hăng hái"
+        ],
+        [
+          "excellence",
+          "n",
+          "sự xuất sắc, sự vượt trội"
+        ],
+        [
+          "excursion",
+          "n",
+          "cuộc du ngoạn"
+        ],
+        [
+          "festivity",
+          "n",
+          "ngày hội"
+        ],
+        [
+          "flock",
+          "n",
+          "ngày hội"
+        ],
+        [
+          "a intriguingly",
+          "adv",
+          "thích thú, tò mò"
+        ],
+        [
+          "leg room",
+          "phr",
+          "không gian để chân (trên ô tô)"
+        ],
+        [
+          "mural",
+          "n",
+          "bích họa"
+        ],
+        [
+          "portrait",
+          "n",
+          "chân dung"
+        ],
+        [
+          "publication",
+          "n",
+          "chân dung"
+        ],
+        [
+          "sculpture",
+          "n",
+          "nghệ thuật điêu khắc, tác phẩm"
+        ],
+        [
+          "transferable",
+          "n",
+          "điêu khắc"
+        ],
+        [
+          "o unsanitary",
+          "phr",
+          "adị không hợp vệ sinh"
+        ],
+        [
+          "be in the mood for -ing",
+          "phr",
+          "adị không hợp vệ sinh"
+        ],
+        [
+          "botanical garden",
+          "phr",
+          "vườn bách thảo"
+        ],
+        [
+          "censorship",
+          "n",
+          "công tác kiểm duyệt"
+        ],
+        [
+          "have yet to do",
+          "n",
+          "công tác kiểm duyệt"
+        ],
+        [
+          "intermission",
+          "n",
+          "giờ giải lao"
+        ],
+        [
+          "memoirs",
+          "n",
+          "giờ giải lao"
+        ],
+        [
+          "must-see",
+          "phr",
+          "đáng xem, nhất định phải xem"
+        ],
+        [
+          "o raily",
+          "n",
+          "đại hội"
+        ],
+        [
+          "ridiculous",
+          "n",
+          "đại hội"
+        ],
+        [
+          "roam around",
+          "adj",
+          "lỗ bịch"
+        ]
+      ]
+    }
+  },
+  "dailyCheckup": {
+    "page": 117,
+    "groups": [
+      {
+        "instruction": "Tìm ở cột bên phải nghĩa của các từ vựng ở cột bên trái và nối chúng với nhau.",
+        "options": [
+          {
+            "key": "a",
+            "text": "tiêu cực"
+          },
+          {
+            "key": "b",
+            "text": "ngay lập tức"
+          },
+          {
+            "key": "c",
+            "text": "cách tiếp cận"
+          },
+          {
+            "key": "d",
+            "text": "bị cấm"
+          },
+          {
+            "key": "e",
+            "text": "sự chấp thuận"
+          },
+          {
+            "key": "f",
+            "text": "truy cập"
+          }
+        ],
+        "questions": [
+          {
+            "no": 1,
+            "prompt": "celebrity",
+            "answer": "a"
+          },
+          {
+            "no": 2,
+            "prompt": "accompany",
+            "answer": "a"
+          },
+          {
+            "no": 3,
+            "prompt": "author",
+            "answer": "a"
+          },
+          {
+            "no": 4,
+            "prompt": "present",
+            "answer": "a"
+          },
+          {
+            "no": 5,
+            "prompt": "required",
+            "answer": "a"
+          }
+        ]
+      },
+      {
+        "instruction": "Hãy chọn từ phù hợp để điền vào mỗi câu của bài thi TOEIC dạng thức mới sau.",
+        "options": [
+          {
+            "key": "a",
+            "text": "inspection"
+          },
+          {
+            "key": "b",
+            "text": "effect"
+          },
+          {
+            "key": "c",
+            "text": "authorized"
+          },
+          {
+            "key": "d",
+            "text": "procedure"
+          },
+          {
+            "key": "e",
+            "text": "concern"
+          }
+        ],
+        "questions": [
+          {
+            "no": 6,
+            "prompt": "The city hospital is celebrating its 100th",
+            "answer": "a"
+          },
+          {
+            "no": 7,
+            "prompt": "Steak and cocktail will be served at the _",
+            "answer": "a"
+          },
+          {
+            "no": 9,
+            "prompt": "All the__ applauded after the musical performance.",
+            "answer": "a"
+          }
+        ]
+      },
+      {
+        "instruction": "Hãy chọn từ phù hợp để điền vào mỗi câu của bài thi TOEIC dạng thức mới sau.",
+        "options": [
+          {
+            "key": "a",
+            "text": "obligation"
+          },
+          {
+            "key": "b",
+            "text": "drastically"
+          },
+          {
+            "key": "c",
+            "text": "revise"
+          },
+          {
+            "key": "d",
+            "text": "thoroughly"
+          },
+          {
+            "key": "e",
+            "text": "arrangements"
+          }
+        ],
+        "questions": [
+          {
+            "no": 10,
+            "prompt": "Ms. Williams_",
+            "answer": "a"
+          },
+          {
+            "no": 11,
+            "prompt": "Bob himself to helping with organizing the charity event.",
+            "answer": "a"
+          },
+          {
+            "no": 12,
+            "prompt": "The basketball team after a three-hour training session.",
+            "answer": "a"
+          },
+          {
+            "no": 13,
+            "prompt": "The sightseeing tour will immediately after the lunch break.",
+            "answer": "a"
+          }
+        ]
+      }
+    ]
+  },
+  "title": "Ngày nghỉ",
+  "titleVi": "Ngày nghỉ",
+  "category": "Thời gian rảnh - Cộng đồng"
+}

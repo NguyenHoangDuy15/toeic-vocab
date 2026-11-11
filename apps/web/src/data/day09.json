@@ -1,0 +1,1697 @@
+{
+  "dayNo": 9,
+  "source": "Apple Vision OCR extraction from pages 154-167",
+  "coreWords": [
+    {
+      "no": 1,
+      "word": "stagnant",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "stagnant",
+      "ipaUs": "stægnont",
+      "page": 155,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "trì trệ, uể oải, lờ đờ",
+          "examples": [
+            {
+              "en": "Profits are down this year as sales have been",
+              "vi": "stagnant. Lợi nhuận năm nay giảm là do việc kinh doanh trì trệ. on Khi được dùng với nghĩa \"lình trạng suy thoái\", stagnant có"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 2,
+      "word": "dramatically",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "dramatically",
+      "ipaUs": "dramætikali",
+      "page": 155,
+      "senses": [
+        {
+          "pos": "adv",
+          "meaning": "đột ngột, đáng kể",
+          "examples": [
+            {
+              "en": "Interest rates climbed dramatically.",
+              "vi": "Lãi suất đã đột ngột tăng. tăng lên/tăng trưởng/tăng đột ngột dramatically thường đi cùng các động từ mang nghĩa \"tăng"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 3,
+      "word": "brisk",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "brisk",
+      "ipaUs": "brisk",
+      "page": 155,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "sôi động, phát đạt, nhanh nhẹn",
+          "examples": [
+            {
+              "en": "A brisk market is developing in online shopping. Hackers TOEIC Vocabulary",
+              "vi": "Một thị trường sôi động đang phát triển trên môi trường mua sắm trực tuyến. an. Khi nói về sự sôi động trong thị trường mua bán, ta có thể"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 4,
+      "word": "unstable",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "unstable",
+      "ipaUs": "Ànstéibl",
+      "page": 155,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "không ổn định, không bền vững",
+          "examples": [
+            {
+              "en": "Gas prices have been unstable in recent years.",
+              "vi": "Giá xăng dầu không ổn định trong những năm gần đây."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 5,
+      "word": "soar",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "soar",
+      "ipaUs": "soar",
+      "page": 156,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "bay vút lên, tăng vọt",
+          "examples": [
+            {
+              "en": "Interest rates have soared due to inflation.",
+              "vi": "Lãi suất tăng vọt lên do lạm phát. Y khẳng định, quả quyết, đòi"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 6,
+      "word": "assert",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "asárt",
+      "ipaUs": "asá:t",
+      "page": 156,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "The report asserts that corporate growth will",
+              "vi": "continue. Báo cáo khẳng định rằng công ty sẽ tiếp tục tăng trường. Y nâng lên, thúc đẩy"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 7,
+      "word": "boost",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "boost",
+      "ipaUs": "bu:st",
+      "page": 156,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "người phân tích, nhà phần tích",
+          "examples": [
+            {
+              "en": "The real estate industry has helped boost the",
+              "vi": "economy. Ngành bất động sản đã giúp thúc đẩy nền kinh tế."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 8,
+      "word": "analyst",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "analyst",
+      "ipaUs": "ænalist",
+      "page": 156,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "người phân tích, nhà phần tích",
+          "examples": [
+            {
+              "en": "Analysts recommend buying stock in energy",
+              "vi": "Các nhà phân tích khuyên nên mua cổ phiếu của các công ty năng lượng. adị tiềm năng, có khả năng"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 9,
+      "word": "potential",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "potential",
+      "ipaUs": "patén{al",
+      "page": 156,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "tiềm lực, tiểm năng",
+          "examples": [
+            {
+              "en": "Potential earnings from the trade deal could reach The newly formed company has great potential to",
+              "vi": "Nguồn thu nhập tiềm năng từ giao dịch thương mại này có thể lên tới hàng tỷ đô-la. succeed. Công ty mới thành lập đó có tiềm năng thành công"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 10,
+      "word": "pleased",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "pleased",
+      "ipaUs": "pli:zd",
+      "page": 156,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "hài lòng, vui",
+          "examples": [
+            {
+              "en": "Investors are pleased with the market's performance.",
+              "vi": "Nhà đầu tư rất hài lòng với hiệu quả của thị trường đó."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 11,
+      "word": "remain",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "remain",
+      "ipaUs": "riméin",
+      "page": 157,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "The cost of living will remain stable over the next It remains to be seen whether or not the tax cut",
+              "vi": "decade. Chi phí sinh hoạt vẫn sẽ ổn định trong thập kỷ tới. will be passed. Văn còn phải xem xét xem liệu việc cắt giảm thuế có được thông qua hay không."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 12,
+      "word": "limited",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "Uk kástli",
+      "ipaUs": "köstli",
+      "page": 157,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "tốn kém, đắt tiền",
+          "examples": [
+            {
+              "en": "The island nation has limited natural resources. Hackers TOEIC Vocabulary",
+              "vi": "Quốc đảo này có nguồn tài nguyên thiên nhiên hạn chế. Bai thi TOEIC dạng thức mới limited offer ưu đãi có giới hạn"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 13,
+      "word": "particular",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "• [ partikjular",
+      "ipaUs": "patikjula",
+      "page": 157,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "Import taxes are higher for particular products that",
+              "vi": "are luxury goods. Một số sản phẩm đặc biệt như là hàng xa xỉ bị áp thuế nhập khẩu cao hơn. Bai thi TOEIC dạng thức mới"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 14,
+      "word": "drastic",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "drastic",
+      "ipaUs": "dræstik",
+      "page": 158,
+      "senses": [
+        {
+          "pos": "adv",
+          "meaning": "công bằng, đều, ngang bằng nhau",
+          "examples": [
+            {
+              "en": "Resolving the financial crisis will require drastic - Private citizens want drastic reform of the banking",
+              "vi": "action. Giải quyết khủng hoảng tài chính đòi hỏi phải có những hành động quyết liệt. Người dân mong muốn cải tổ triệt để ngành ngân hàng."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 15,
+      "word": "evenly",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "evenly",
+      "ipaUs": "ivanli",
+      "page": 158,
+      "senses": [
+        {
+          "pos": "adv",
+          "meaning": "công bằng, đều, ngang bằng nhau",
+          "examples": [
+            {
+              "en": "Economic wealth is not evenly distributed.",
+              "vi": "Sự giàu có về kinh tế không được phân chia đều. n bằng chứng, dấu hiệu"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 16,
+      "word": "evidence",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "évadans",
+      "ipaUs": "évidans",
+      "page": 158,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "bằng chứng, dấu hiệu",
+          "examples": [
+            {
+              "en": "The latest employment data shows evidence that",
+              "vi": "Dữ liệu về việc làm mới nhất cho thấy bằng chứng rằng nền kinh tế đang cải thiện. n viễn cảnh, triển vọng"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 17,
+      "word": "prospect",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "uK práspekt",
+      "ipaUs": "pröspekt",
+      "page": 158,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "viễn cảnh, triển vọng",
+          "examples": [
+            {
+              "en": "Bolton Industries is facing the prospect of having to reduce its workforce.",
+              "vi": "Bolton Industries đang đối mặt với viễn cảnh phải cắt giảm nhân lực. V chỉ huy, dẫn dất, khiến cho, tạo nên (kết quả nào đó)"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 18,
+      "word": "lead",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "lead",
+      "ipaUs": "lid",
+      "page": 158,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "Ms. Vasquez helped lead the company to success. Growing oil markets will lead to economic Barthi TOEIC",
+              "vi": "Cô Vasquez đã giúp dẫn dắt công ty tới thành công. improvement. Sự phát triển của thị trường dầu khí sẽ dẫn tới những cải thiện về kinh tế."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 19,
+      "word": "fall",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "fall",
+      "ipaUs": "f:l",
+      "page": 159,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "giảm xuống (giá cả, giá trị)",
+          "examples": [
+            {
+              "en": "The rate of unemployment has fallen steadily this",
+              "vi": "quarter. Tỷ lệ thất nghiệp đã giảm đều trong quý này. n thời kỳ, giai đoạn, khoảng thời gian"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 20,
+      "word": "period",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "period",
+      "ipaUs": "piariad",
+      "page": 159,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "thời kỳ, giai đoạn, khoảng thời gian",
+          "examples": [
+            {
+              "en": "For a period of three years, the company underwent rapid expansion.",
+              "vi": "Trong khoảng thời gian ba năm, công ty đã nhanh chóng mở rộng. n chỉ số"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 21,
+      "word": "indicator",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "índikèitar",
+      "ipaUs": "índikeita",
+      "page": 159,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "chỉ số",
+          "examples": [
+            {
+              "en": "Current economic indicators show rising growth in",
+              "vi": "Các chỉ số kinh tế hiện tại cho thấy sự phát triển ngày càng tăng trong ngành khai thác mỏ. n công nghiệp, ngành, nghề"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 22,
+      "word": "industry",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "industry",
+      "ipaUs": "indtrio (adj",
+      "page": 159,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "công nghiệp, ngành, nghề",
+          "examples": [
+            {
+              "en": "Jobs in the newspaper industry are declining rapidly.",
+              "vi": "Việc làm trong ngành báo chí đang giảm nhanh chóng. adj có khả năng, có thể xảy ra"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 23,
+      "word": "likely",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "likely",
+      "ipaUs": "láikli",
+      "page": 159,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "có khả năng, có thể xảy ra",
+          "examples": [
+            {
+              "en": "The new CEO is likely to confront major challenges. Hackers TOEIC Vocabulary It is not possible to process your request at the",
+              "vi": "Vị giám đốc điều hành mới có khả năng sẽ phải đối mặt với những thách thức lớn. Bải thì TOEI động thuc tRO"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 24,
+      "word": "boom",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "boom",
+      "ipaUs": "bu:m",
+      "page": 160,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự bùng nổ",
+          "examples": [
+            {
+              "en": "Land developers are taking advantage of the. housing boom.",
+              "vi": "Các nhà phát triển dự án bất động sản đang tận dụng sự bùng nổ của thị trường nhà đất. in giám đốc, người chỉ đạo"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 25,
+      "word": "director",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "diréktar",
+      "ipaUs": "dairékta",
+      "page": 160,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "người/vật thay thế",
+          "examples": [
+            {
+              "en": "The company directors are discussing a new business strategy.",
+              "vi": "Ban giám đốc công ty đang thảo luận về một chiến lược kinh doanh mới."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 26,
+      "word": "substitute",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "SAstatju",
+      "ipaUs": "sÁbstitju:t",
+      "page": 160,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "người/vật thay thế",
+          "examples": [
+            {
+              "en": "Corn syrup is used as a substitute for sugar in many food products. Ms. Ohara will be substituting for the project",
+              "vi": "Xi-rô ngô được sử dụng như một nguyên liệu thay thế cho đường trong nhiều loại thực phẩm. v thay thể"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 27,
+      "word": "consequence",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "kánsakwèns",
+      "ipaUs": "kónsik wans",
+      "page": 160,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "hậu quả, hệ quả, kết quả",
+          "examples": [
+            {
+              "en": "Profits grew as a consequence of increased",
+              "vi": "Lợi nhuận tăng là kết quả của việc kinh doanh được cải thiện."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 28,
+      "word": "fairly",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "fÉarli",
+      "ipaUs": "féali",
+      "page": 161,
+      "senses": [
+        {
+          "pos": "adv",
+          "meaning": "công bằng, ngay thẳng, kha khá",
+          "examples": [
+            {
+              "en": "Concerns over the bankruptcy are fairly widespread.",
+              "vi": "Những lo ngại về việc phá sản là khá phổ biến. syn. Khi được dùng để chỉ sự vừa phải về mức độ hay số lượng nào đó, fairly có thể được thay thế bằng quite, reasonably."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 29,
+      "word": "economical",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "Uk ěkanámikal",
+      "ipaUs": "ì:kanómikal",
+      "page": 161,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "Companies are searching for economical ways to The latest economic indicators are available on Hackers TOEIC Vocabulary",
+              "vi": "utilize energy. Các công ty đang tìm kiểm những giải pháp tiết kiệm trong việc sử dụng năng lượng. economical kinh tế, tiết kiệm"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 30,
+      "word": "thrive",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "thrive",
+      "ipaUs": "Oraiv",
+      "page": 161,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự liên quan, sự dính líu, hàm ý",
+          "examples": [
+            {
+              "en": "Hackers TOEIC Vocabulary The delivery service industry is thriving.",
+              "vi": "V phát triển mạnh, phát đạt Ngành dịch vụ giao hàng đang phát triển mạnh."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 31,
+      "word": "implication",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "implication",
+      "ipaUs": "ìmplikéifen",
+      "page": 161,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự liên quan, sự dính líu, hàm ý",
+          "examples": [
+            {
+              "en": "The Supreme Court ruling has implications for",
+              "vi": "small businesses. Phán quyết của tòa án tối cao có liên quan đến các doanh nghiệp nhỏ. n sự suy giảm"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 32,
+      "word": "wane",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "wane",
+      "ipaUs": "wein",
+      "page": 161,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự suy giảm",
+          "examples": [
+            {
+              "en": "Consumer spending is on the wane.",
+              "vi": "Chi tiêu của người tiêu dùng đang giảm dần."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 33,
+      "word": "prosperity",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "uK prasperati",
+      "ipaUs": "prospero (adj) thịnh",
+      "page": 162,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự hưng thịnh, sự phát đạt",
+          "examples": [
+            {
+              "en": "Strong economic growth is a prerequisite for national prosperity.",
+              "vi": "Nền kinh tế phát triển mạnh mẽ là điều kiện tiên quyết cho sự hưng thịnh của quốc gia. in times of prosperity trong thời kỳ thịnh vượng"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 34,
+      "word": "depression",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "depression",
+      "ipaUs": "dipréfan",
+      "page": 162,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự sụt giá, tình trạng đình trệ",
+          "examples": [
+            {
+              "en": "The entire industry is going through an economic",
+              "vi": "Toàn bộ ngành công nghiệp đang trải qua một cuộc suy thoái kinh tế. v thu nhỏ lại, giảm"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 35,
+      "word": "dwindle",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "dwindle",
+      "ipaUs": "dwindl",
+      "page": 162,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "thu nhỏ lại, giảm",
+          "examples": [
+            {
+              "en": "The company's profits dwindled in the 1990s.",
+              "vi": "Lợi nhuận của công ty đã giảm vào những năm 1990. v cản trở, ngăn cản"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 36,
+      "word": "impede",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "impede",
+      "ipaUs": "impi:d",
+      "page": 162,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "cản trở, ngăn cản",
+          "examples": [
+            {
+              "en": "Natural calamities in the summer will impede national growth.",
+              "vi": "Thiên tai xảy ra vào mùa hè sẽ gây cản trở cho sự phát triển của cả nước. adj đầy hứa hẹn, nhiều triển vọng"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 37,
+      "word": "promising",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "prámisin",
+      "ipaUs": "promisin",
+      "page": 162,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "đầy hứa hẹn, nhiều triển vọng",
+          "examples": [
+            {
+              "en": "Many people find promising careers in health and",
+              "vi": "Rất nhiều người đang tìm kiếm những nghề nghiệp đầy triển vọng trong lĩnh vực y tế và công nghệ. n sự bất lợi, nghịch cảnh"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 38,
+      "word": "adversity",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "ædvá:rsati",
+      "ipaUs": "adva sati.",
+      "page": 162,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự bất lợi, nghịch cảnh",
+          "examples": [
+            {
+              "en": "In spite of the adversity he faced, Mike managed to",
+              "vi": "Bất chấp nghịch cảnh mà Mike phải đối mặt, anh ấy vẫn tìm được một công việc."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    }
+  ],
+  "completeVocab": {
+    "basic": {
+      "LC": [],
+      "RC": [
+        [
+          "a business hours",
+          "phr",
+          "giờ làm việc"
+        ],
+        [
+          "cast",
+          "n",
+          "y quăng, ném"
+        ],
+        [
+          "CEO (chief executive officer)",
+          "phr",
+          "y quăng, ném"
+        ],
+        [
+          "a enterprise",
+          "n",
+          "doanh nghiệp"
+        ],
+        [
+          "firm",
+          "n",
+          "hãng, công ty"
+        ],
+        [
+          "franchise",
+          "n",
+          "nhượng quyễn kinh doanh"
+        ],
+        [
+          "nice-looking",
+          "n",
+          "adị bắt mắt"
+        ],
+        [
+          "plenty",
+          "n",
+          "sự phong phú, sung túc"
+        ],
+        [
+          "speed up",
+          "n",
+          "sự phong phú, sung túc"
+        ],
+        [
+          "trading",
+          "n",
+          "sự kinh doanh, việc mua bán"
+        ],
+        [
+          "beginning",
+          "n",
+          "sự khởi đầu; adị sớm"
+        ],
+        [
+          "contribution to",
+          "phr",
+          "sự đóng góp cho"
+        ],
+        [
+          "convenient",
+          "n",
+          "adi thuận lợi, tiện lợi"
+        ],
+        [
+          "differently",
+          "adv",
+          "khác, khác biệt"
+        ],
+        [
+          "economy",
+          "n",
+          "• nến kinh tế"
+        ],
+        [
+          "formally",
+          "adv",
+          "chính thức, trang trọng"
+        ],
+        [
+          "industrial",
+          "n",
+          "adị (thuộc) công nghiệp"
+        ],
+        [
+          "lightly",
+          "n",
+          "aảy nhẹ nhâng"
+        ],
+        [
+          "merge",
+          "n",
+          "aảy nhẹ nhâng"
+        ],
+        [
+          "not A but B",
+          "phr",
+          "không phải A mà là B"
+        ],
+        [
+          "optimistic",
+          "n",
+          "adị lạc quan"
+        ],
+        [
+          "overall",
+          "n",
+          "adị lạc quan"
+        ],
+        [
+          "a possibility",
+          "phr",
+          "• khả năng"
+        ],
+        [
+          "private",
+          "n",
+          "adị riêng tư, cá nhân"
+        ],
+        [
+          "rise",
+          "n",
+          "y tăng lên, đứng lên"
+        ],
+        [
+          "situation",
+          "n",
+          "y tăng lên, đứng lên"
+        ],
+        [
+          "strengthen",
+          "n",
+          "tình huống"
+        ],
+        [
+          "up-and-down",
+          "n",
+          "adị không ổn định, thăng trẩm"
+        ]
+      ]
+    },
+    "l800": {
+      "LC": [],
+      "P56": [],
+      "P7": [
+        [
+          "a blueprint",
+          "n",
+          "bản thiết kế, bản kế hoạch"
+        ],
+        [
+          "business deal",
+          "phr",
+          "thỏa thuận kinh doanh"
+        ],
+        [
+          "family-run",
+          "phr",
+          "thỏa thuận kinh doanh"
+        ],
+        [
+          "fluctuation",
+          "n",
+          "sự dao động"
+        ],
+        [
+          "for business",
+          "phr",
+          "cho doanh nghiệp"
+        ],
+        [
+          "foreign trade",
+          "phr",
+          "ngoại thương"
+        ],
+        [
+          "go into business",
+          "phr",
+          "bắt đầu kinh doanh"
+        ],
+        [
+          "go out of business",
+          "phr",
+          "dừng kinh doanh"
+        ],
+        [
+          "mutual",
+          "phr",
+          "dừng kinh doanh"
+        ],
+        [
+          "nationwide",
+          "n",
+          "adị toàn quốc"
+        ],
+        [
+          "need monitoring",
+          "phr",
+          "cần theo dõi"
+        ],
+        [
+          "neighboring",
+          "n",
+          "aơi lân cận, gần kể"
+        ],
+        [
+          "real estate sale",
+          "phr",
+          "kinh doanh bất động sản"
+        ],
+        [
+          "recession",
+          "phr",
+          "kinh doanh bất động sản"
+        ],
+        [
+          "relieve pain",
+          "phr",
+          "giảm dau"
+        ],
+        [
+          "role model",
+          "phr",
+          "người tiêu biểu, tấm gương"
+        ],
+        [
+          "session",
+          "n",
+          "phiên họp, kỳ họp"
+        ],
+        [
+          "unplug",
+          "v",
+          "rút/tháo (phích cắm), tháo nút"
+        ],
+        [
+          "worsen",
+          "v",
+          "trở nên tổi tệ hơn"
+        ],
+        [
+          "accumulation",
+          "n",
+          "sự tích lũy"
+        ],
+        [
+          "ascend",
+          "v",
+          "đi lên"
+        ],
+        [
+          "commerce",
+          "v",
+          "đi lên"
+        ],
+        [
+          "indifferent",
+          "n",
+          "adị lãnh đạm, thờ ơ, trung lập"
+        ],
+        [
+          "prolong",
+          "n",
+          "y gia hạn"
+        ],
+        [
+          "relevantly",
+          "n",
+          "y gia hạn"
+        ],
+        [
+          "stimulate",
+          "v",
+          "thúc dẩy, khuyến khích"
+        ],
+        [
+          "supplement",
+          "v",
+          "thúc dẩy, khuyến khích"
+        ],
+        [
+          "tedious",
+          "n",
+          "adị chán ngắt, nhạt nhão"
+        ],
+        [
+          "unavoidable",
+          "n",
+          "aơị tất yếu, không thể tránh khỏi"
+        ],
+        [
+          "be related to",
+          "phr",
+          "aơị tất yếu, không thể tránh khỏi"
+        ],
+        [
+          "a bring in",
+          "phr",
+          "có liên quan đến"
+        ],
+        [
+          "brokerage",
+          "n",
+          "sự môi giới, nghể môi giới"
+        ],
+        [
+          "business management",
+          "n",
+          "sự môi giới, nghể môi giới"
+        ],
+        [
+          "business practice",
+          "phr",
+          "thực tiễn kinh doanh"
+        ],
+        [
+          "collapse",
+          "n",
+          "sự sụp đổ, sự sụt giá"
+        ],
+        [
+          "cope with",
+          "phr",
+          "đương đầu, đổi phó với"
+        ],
+        [
+          "cost-effective",
+          "n",
+          "adị mang lại lợi nhuận, sinh lời"
+        ],
+        [
+          "a descending",
+          "phr",
+          "adị giảm xuống"
+        ],
+        [
+          "dominate",
+          "n",
+          "y chi phối, lần át, thống trị"
+        ],
+        [
+          "downturn",
+          "n",
+          "a sự suy sup"
+        ],
+        [
+          "entail",
+          "n",
+          "y đòi hỏi, bắt phải"
+        ],
+        [
+          "exchange rate",
+          "phr",
+          "tý giá hỗi đoái"
+        ],
+        [
+          "flourish",
+          "n",
+          "y phát đạt, phát triển"
+        ],
+        [
+          "for large purchases",
+          "phr",
+          "y phát đạt, phát triển"
+        ],
+        [
+          "for the benefit of",
+          "phr",
+          "vì lợi ích của"
+        ],
+        [
+          "foremost",
+          "n",
+          "adị đầu tiên, trước nhất"
+        ],
+        [
+          "forerunner",
+          "n",
+          "người tiên phong, người mở đường"
+        ],
+        [
+          "from around the globe",
+          "phr",
+          "từ khắp nơi trên thế giới"
+        ],
+        [
+          "infrastructure",
+          "phr",
+          "từ khắp nơi trên thế giới"
+        ],
+        [
+          "marketable",
+          "n",
+          "adị có thể bán được, dễ tiêu thụ"
+        ],
+        [
+          "multinational corporation",
+          "phr",
+          "công ty đa quốc gia"
+        ],
+        [
+          "multi-regional",
+          "adj",
+          "da vùng"
+        ],
+        [
+          "nationality",
+          "n",
+          "quốc tịch"
+        ],
+        [
+          "net income",
+          "n",
+          "quốc tịch"
+        ],
+        [
+          "penalize",
+          "phr",
+          "lợi nhuận ròng, thu nhập ròng"
+        ],
+        [
+          "put forth",
+          "phr",
+          "đưa ra, đề xuất"
+        ],
+        [
+          "ratio",
+          "phr",
+          "đưa ra, đề xuất"
+        ],
+        [
+          "set up",
+          "phr",
+          "thành lập, thiết lập"
+        ],
+        [
+          "skyrocket",
+          "n",
+          "y tăng vọt (giá cả)"
+        ],
+        [
+          "so far (= to date)",
+          "phr",
+          "y tăng vọt (giá cả)"
+        ],
+        [
+          "surge",
+          "n",
+          "y dâng lên"
+        ],
+        [
+          "synergy",
+          "n",
+          "sự hợp lực"
+        ],
+        [
+          "synthesis",
+          "n",
+          "sự tổng hợp"
+        ],
+        [
+          "tactics",
+          "n",
+          "sự tổng hợp"
+        ],
+        [
+          "unemployment",
+          "n",
+          "chiến thuật, chiến lược"
+        ],
+        [
+          "variable",
+          "n",
+          "sự thất nghiệp, nạn thất nghiệp"
+        ],
+        [
+          "vicious cycle",
+          "phr",
+          "vòng luẩn quẩn"
+        ],
+        [
+          "without a doubt",
+          "phr",
+          "vòng luẩn quẩn"
+        ]
+      ]
+    },
+    "l900": {
+      "LC": [],
+      "P56": [],
+      "P7": [
+        [
+          "billing address",
+          "phr",
+          "địa chỉ thanh toán"
+        ],
+        [
+          "government grant",
+          "phr",
+          "địa chỉ thanh toán"
+        ],
+        [
+          "market value",
+          "phr",
+          "giá thị trường"
+        ],
+        [
+          "a pull down",
+          "phr",
+          "phá hủy, hạ xuống"
+        ],
+        [
+          "stationary",
+          "n",
+          "adị tĩnh, không di chuyển"
+        ],
+        [
+          "o abate",
+          "v",
+          "hạ, bớt, làm dịu"
+        ],
+        [
+          "cease",
+          "n",
+          "y dừng, ngừng"
+        ],
+        [
+          "conspicuously",
+          "n",
+          "y dừng, ngừng"
+        ],
+        [
+          "deteriorate",
+          "v",
+          "làm hỏng, làm giảm giá trị"
+        ],
+        [
+          "a implicitly",
+          "adv",
+          "hoàn toàn"
+        ],
+        [
+          "a leisurely",
+          "phr",
+          "adi rỗi rãi, thong thả; adv nhàn nhã, ung dung"
+        ],
+        [
+          "menace",
+          "v",
+          "de dọa"
+        ],
+        [
+          "perceptible",
+          "n",
+          "adị có thể nhận ra, có thể cảm thấy"
+        ],
+        [
+          "placement",
+          "n",
+          "adị có thể nhận ra, có thể cảm thấy"
+        ],
+        [
+          "remark",
+          "v",
+          "chú ý, nhận thấy"
+        ],
+        [
+          "retrieval",
+          "v",
+          "chú ý, nhận thấy"
+        ],
+        [
+          "slowdown",
+          "n",
+          "sự chậm lại, sự suy thoái"
+        ],
+        [
+          "solitary",
+          "n",
+          "adị một mình, đơn độc"
+        ],
+        [
+          "ailing",
+          "n",
+          "adị một mình, đơn độc"
+        ],
+        [
+          "financial statement",
+          "phr",
+          "báo cáo tài chính"
+        ],
+        [
+          "have a monopoly on",
+          "phr",
+          "độc quyển về"
+        ],
+        [
+          "in demand",
+          "phr",
+          "độc quyển về"
+        ],
+        [
+          "multilateral",
+          "n",
+          "adị nhiều phía, đa phương"
+        ],
+        [
+          "nontransferable",
+          "n",
+          "adị nhiều phía, đa phương"
+        ],
+        [
+          "parent company",
+          "phr",
+          "công ty mẹ"
+        ],
+        [
+          "privatization",
+          "n",
+          "• sự tư nhân hóa"
+        ],
+        [
+          "a rebound",
+          "phr",
+          "• sự tư nhân hóa"
+        ],
+        [
+          "runner-up",
+          "n",
+          "á quân, người xếp thứ hai"
+        ],
+        [
+          "secondary effect",
+          "phr",
+          "hiệu ứng phụ, tác dụng phụ"
+        ],
+        [
+          "a sluggish",
+          "phr",
+          "adị chậm chạp, lờ đỡ"
+        ],
+        [
+          "stagnation",
+          "n",
+          "sự đình trệ"
+        ],
+        [
+          "volatile",
+          "n",
+          "sự đình trệ"
+        ]
+      ]
+    }
+  },
+  "dailyCheckup": {
+    "page": 163,
+    "groups": [
+      {
+        "instruction": "Tìm ở cột bên phải nghĩa của các từ vựng ở cột bên trái và nối chúng với nhau.",
+        "options": [
+          {
+            "key": "a",
+            "text": "tiêu cực"
+          },
+          {
+            "key": "b",
+            "text": "ngay lập tức"
+          },
+          {
+            "key": "c",
+            "text": "cách tiếp cận"
+          },
+          {
+            "key": "d",
+            "text": "bị cấm"
+          },
+          {
+            "key": "e",
+            "text": "sự chấp thuận"
+          },
+          {
+            "key": "f",
+            "text": "truy cập"
+          }
+        ],
+        "questions": [
+          {
+            "no": 1,
+            "prompt": "brisk",
+            "answer": "a"
+          },
+          {
+            "no": 2,
+            "prompt": "director",
+            "answer": "a"
+          },
+          {
+            "no": 3,
+            "prompt": "limited",
+            "answer": "a"
+          },
+          {
+            "no": 4,
+            "prompt": "promising",
+            "answer": "a"
+          },
+          {
+            "no": 5,
+            "prompt": "analyst",
+            "answer": "a"
+          }
+        ]
+      },
+      {
+        "instruction": "Hãy chọn từ phù hợp để điền vào mỗi câu của bài thi TOEIC dạng thức mới sau.",
+        "options": [
+          {
+            "key": "a",
+            "text": "inspection"
+          },
+          {
+            "key": "b",
+            "text": "effect"
+          },
+          {
+            "key": "c",
+            "text": "authorized"
+          },
+          {
+            "key": "d",
+            "text": "procedure"
+          },
+          {
+            "key": "e",
+            "text": "concern"
+          }
+        ],
+        "questions": [
+          {
+            "no": 6,
+            "prompt": "The business expansion could be too",
+            "answer": "a"
+          },
+          {
+            "no": 7,
+            "prompt": "Oil prices are expected to ...",
+            "answer": "a"
+          },
+          {
+            "no": 8,
+            "prompt": "When wheat prices are up, consumers buy corn as a(n)",
+            "answer": "a"
+          },
+          {
+            "no": 9,
+            "prompt": "A(n) _",
+            "answer": "a"
+          }
+        ]
+      },
+      {
+        "instruction": "Hãy chọn từ phù hợp để điền vào mỗi câu của bài thi TOEIC dạng thức mới sau.",
+        "options": [
+          {
+            "key": "a",
+            "text": "obligation"
+          },
+          {
+            "key": "b",
+            "text": "drastically"
+          },
+          {
+            "key": "c",
+            "text": "revise"
+          },
+          {
+            "key": "d",
+            "text": "thoroughly"
+          },
+          {
+            "key": "e",
+            "text": "arrangements"
+          }
+        ],
+        "questions": [
+          {
+            "no": 10,
+            "prompt": "The firm saw profits drop for a(n) of two months.",
+            "answer": "a"
+          },
+          {
+            "no": 11,
+            "prompt": "Shares will be distributed",
+            "answer": "a"
+          },
+          {
+            "no": 12,
+            "prompt": "Management was hesitant about the investment due to the _ risk.",
+            "answer": "a"
+          },
+          {
+            "no": 13,
+            "prompt": "Market conditions have improved ever since the financial crisis ended.",
+            "answer": "a"
+          }
+        ]
+      }
+    ]
+  },
+  "title": "Hồi sinh nền kinh tế",
+  "titleVi": "Hồi sinh nền kinh tế",
+  "category": "Kinh tế"
+}

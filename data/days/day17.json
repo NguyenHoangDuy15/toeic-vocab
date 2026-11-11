@@ -1,0 +1,1670 @@
+{
+  "dayNo": 17,
+  "source": "Apple Vision OCR extraction from pages 282-297",
+  "coreWords": [
+    {
+      "no": 1,
+      "word": "fragile",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "frædzail",
+      "ipaUs": "frædzal",
+      "page": 283,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "dễ vỡ, mỏng manh",
+          "examples": [
+            {
+              "en": "Fragile items are wrapped in protective packaging.",
+              "vi": "Những đồ dễ vỡ được gói trong bọc bảo vệ. adj dễ hỏng, dễ thối"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 2,
+      "word": "perishable",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "perishable",
+      "ipaUs": "périjabl",
+      "page": 283,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "dễ hỏng, dễ thối",
+          "examples": [
+            {
+              "en": "Perishable goods are shipped in insulated",
+              "vi": "Hàng hóa dễ hỏng được vận chuyển trong các thùng cách nhiệt. perishable + goods/items hàng hóa/đồ đạc dễ hư hỏng Từ perishable thường đi với các danh từ chỉ sản phẩm"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 3,
+      "word": "deliver",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "diliva",
+      "ipaUs": "dilíver",
+      "page": 283,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "giao, phát; phát biểu, bày tỏ",
+          "examples": [
+            {
+              "en": "All packages are delivered by the next morning. The president delivered an address on the international financial crisis.",
+              "vi": "Tất cả các kiện hàng sẽ được giao vào sáng mai. Tổng thống đã phát biểu về cuộc khủng hoảng tài chính toàn cầu."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 4,
+      "word": "ensure",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "kúria",
+      "ipaUs": "kúriar",
+      "page": 283,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "bảo đảm, quả quyết",
+          "examples": [
+            {
+              "en": "The receptionist called to ensure the message was Hackers TOEIC Vocabulary The customer will send the package by courier.",
+              "vi": "Nhân viên lễ tân gọi điện để đảm bảo rằng tin nhắn đã được chuyển. syn. Khi được dùng với nghĩa đảm bảo chắc chần về một điều"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 5,
+      "word": "carton",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "ká:ton",
+      "ipaUs": "kä:rtn",
+      "page": 284,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "địa chỉ",
+          "examples": [
+            {
+              "en": "The carton of goods was shipped by sea.",
+              "vi": "Các thùng hàng đó đã được vận chuyển bằng đường biển."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 6,
+      "word": "address",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "adrés",
+      "ipaUs": "n) [ ædres",
+      "page": 284,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "địa chỉ",
+          "examples": [
+            {
+              "en": "A solution was found to address the clients' needs.",
+              "vi": "Một giải pháp được tìm ra để giải quyết nhu cầu của khách hàng. n việc gửi hàng, việc vận chuyển; lô hàng"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 7,
+      "word": "shipment",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "shipment",
+      "ipaUs": "shipment",
+      "page": 284,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "việc gửi hàng, việc vận chuyển; lô hàng",
+          "examples": [
+            {
+              "en": "Freightline specializes in the shipment of food The shipment was sent to the wrong port.",
+              "vi": "products. Freightline chuyên về vận chuyển các sản phẩm thực phẩm. Lô hàng đó đã không được gửi tới đúng bến cảng."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 8,
+      "word": "particularly",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "patíkjulali",
+      "ipaUs": "partikjularli",
+      "page": 284,
+      "senses": [
+        {
+          "pos": "adv",
+          "meaning": "đặc biệt, cá biệt, đặc biệt là",
+          "examples": [
+            {
+              "en": "The new trade agreement will hurt local business, particularly farmers.",
+              "vi": "Thỏa thuận thương mại mới sẽ gây tổn hại đến hoạt động buôn bán tại địa phương, đặc biệt là với người nông dân. Bải thi TOEIC dạng thức mơi"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 9,
+      "word": "adequately",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "uK ædak watli",
+      "ipaUs": "adik watli",
+      "page": 284,
+      "senses": [
+        {
+          "pos": "adv",
+          "meaning": "tương xứng, thích đáng",
+          "examples": [
+            {
+              "en": "The workers ensure that glassware is adequately",
+              "vi": "wrapped. Các công nhân cam đoan rằng những sản phẩm thủy tinh đó được gói bọc phù hợp. Bai thi TOEIC dạng thức mơ:"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 10,
+      "word": "article",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "á:tikl",
+      "ipaUs": "á:rtik!",
+      "page": 285,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "vật phẩm, đổ; bài báo, điều khoản",
+          "examples": [
+            {
+              "en": "Several articles of clothing are missing from the There was an article about tariffs in World Business",
+              "vi": "Một vài món quần áo đã bị mất trong quá trình vận chuyển. Có một bài viết về thuế xuất nhập khẩu trên tạp chí World adj có hiệu quả, có năng lực"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 11,
+      "word": "efficient",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "efficient",
+      "ipaUs": "ifijent",
+      "page": 285,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "có hiệu quả, có năng lực",
+          "examples": [
+            {
+              "en": "Seal-wrap is an efficient means of packaging.",
+              "vi": "Màng bọc là một phương tiện đóng gói hiệu quả. Bại thì TOEIC dạng thu, mới efficient + processing/administration việc xử lý/"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 12,
+      "word": "agency",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "agency",
+      "ipaUs": "éidzensi",
+      "page": 285,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "đại lý, cơ quan, hãng, sở",
+          "examples": [
+            {
+              "en": "The government hired an agency to inspect all grain Hackers TOEIC Vocabulary",
+              "vi": "imports. Chính phủ đã thuê một cơ quan để giám sát tất cả các sản phẩm lương thực nhập khẩu. tạng thức mới"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 13,
+      "word": "enclose",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "inkláuz",
+      "ipaUs": "inklouz",
+      "page": 285,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "bao gồm, gửi kèm theo; vây quanh",
+          "examples": [
+            {
+              "en": "Please find a copy of the invoice enclosed.",
+              "vi": "Vui lòng tìm bản sao hóa đơn được gửi kèm. The café is beside a courtyard enclosed by art shops. Quán cà phê nằm cạnh mảnh sân nhỏ được bao quanh bởi các"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 14,
+      "word": "careful",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "keafal",
+      "ipaUs": "kearfal",
+      "page": 286,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "Dock workers were extra careful with the crates containing sculptures.",
+              "vi": "Nhân viên ở bến tàu cẩn thận hơn với những chiếc thùng đựng các tác phẩm điêu khắc. phr nhặt lên, đến lấy; đón"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 15,
+      "word": "pick",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "pick",
+      "ipaUs": "pick",
+      "page": 286,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "Packages can be picked up from the reception desk. Joan drove to school to pick up her daughter.",
+              "vi": "Có thể đến lấy các gói hàng ở quầy lé tân. Joan đã lái xe đến trường để đón con gái. V mang, vác, đem theo; có"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 16,
+      "word": "carry",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "carry",
+      "ipaUs": "carry",
+      "page": 286,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "All delivery drivers are required to carry at least one The store carries shipping containers in six different",
+              "vi": "Mọi tài xế giao hàng đều buộc phải mang theo it nhất một loại giấy tờ tùy thân. Sizes. Cửa hàng này có bán các thùng giao hàng với sáu kích"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 17,
+      "word": "attach",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "attach",
+      "ipaUs": "atæt{",
+      "page": 287,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "đính kèm, gắn vào",
+          "examples": [
+            {
+              "en": "Carefully attach the address label to the package. BEER, NHUL THO",
+              "vi": "Hãy dán thật cẩn thận nhãn dán địa chỉ lên gói hàng. 1. attach A to B đính kèm/dán A vào B attach thường đi kèm với giới từ to."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 18,
+      "word": "formerly",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "15:mali",
+      "ipaUs": "f5:rmar li",
+      "page": 287,
+      "senses": [
+        {
+          "pos": "adv",
+          "meaning": "trước đây",
+          "examples": [
+            {
+              "en": "shipping department.",
+              "vi": "Anh Lee trước đây từng phụ trách toàn bộ phòng vận tải. n gói hàng, kiện hàng"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 19,
+      "word": "package",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "package",
+      "ipaUs": "pækid3",
+      "page": 287,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "gói hàng, kiện hàng",
+          "examples": [
+            {
+              "en": "Packages are delivered daily at 4 P.M.",
+              "vi": "Các kiện hàng được giao hằng ngày lúc 4 giờ chiều. Vị phản ứng, tác động trở lại"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 20,
+      "word": "react",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "react",
+      "ipaUs": "riækt",
+      "page": 287,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "nội dung, đổ đựng bên trong",
+          "examples": [
+            {
+              "en": "Local businesspeople reacted negatively to news of stricter import regulations. Hackers TOEIC Vocabulary",
+              "vi": "Các doanh nhân địa phương phần ứng tiêu cực với thông tin về việc luật nhập khẩu bị siết chặt hơn."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 21,
+      "word": "content",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "Uk köntent",
+      "ipaUs": "kántent",
+      "page": 287,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "nội dung, đổ đựng bên trong",
+          "examples": [
+            {
+              "en": "Please make sure that the contents of your package",
+              "vi": "Vui lòng kiếm tra chắc chắn rằng đồ bên trong kiện hàng của bạn không bị hư hỏng."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 22,
+      "word": "convenience",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "Uk kanví:nians",
+      "ipaUs": "kanví:njans",
+      "page": 288,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự tiện lợi/thuận tiện",
+          "examples": [
+            {
+              "en": "For your convenience, a tracking number is provided. Please reply at your earliest convenience.",
+              "vi": "Để thuận tiện, bạn sẽ được cung cấp một mã theo dõi. Vui lòng hồi đáp ngay khi bạn có thể. * for your convenience để thuận tiện cho bạn"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 23,
+      "word": "acknowledge",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "akn5lid3",
+      "ipaUs": "aknálid3",
+      "page": 288,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "The government acknowledged the need for reduced trade tariffs. I am writing to acknowledge receipt of your letter",
+              "vi": "Chính phủ ghi nhận nhu cầu đối với việc giảm thuế xuất nhập khẩu. Tôi viết thư này để báo rằng tôi đã nhận được lá thư của bạn"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 24,
+      "word": "caution",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "caution",
+      "ipaUs": "der. cautio (adj) thận",
+      "page": 288,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "thư từ, quan hệ thư từ",
+          "examples": [
+            {
+              "en": "Please use caution when unpacking your order.",
+              "vi": "Xin hãy cẩn trọng khi mở gói hàng của bạn. Bai thi TOEIC dạng thức mới with caution cẩn thận"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 25,
+      "word": "correspondence",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "Uk kö:rispóndens",
+      "ipaUs": "ko:raspándans",
+      "page": 288,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "thư từ, quan hệ thư từ",
+          "examples": [
+            {
+              "en": "Please send all correspondence to this address.",
+              "vi": "Vui lòng gửi tất cả thư từ tới địa chỉ này."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 26,
+      "word": "separate",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "séparat",
+      "ipaUs": "séparèit",
+      "page": 289,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "đáng chú ý, xuất sắc, đặc biệt",
+          "examples": [
+            {
+              "en": "Liquids must be separated from other materials being shipped. The shipping department separates international",
+              "vi": "Chất lỏng cần được tách riêng khỏi các chất liệu khác trong quá trình vận chuyển. Phòng vận tải phân loại các đơn hàng quốc tế với các đơn hàng"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 27,
+      "word": "remarkable",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "rimá:kabl",
+      "ipaUs": "rimá:rkabl",
+      "page": 289,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "đáng chú ý, xuất sắc, đặc biệt",
+          "examples": [
+            {
+              "en": "Epic Corporation underwent a remarkable transformation in its export strategy. Hackers TOEIC Vocabulary",
+              "vi": "Tập đoàn Epic đã trải qua một sự thay đổi đáng kể trong chiến lược xuất khẩu. V điều khiển, xử lý"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 28,
+      "word": "handle",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "handle",
+      "ipaUs": "hændl",
+      "page": 289,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "Hackers TOEIC Vocabulary The hazardous substances must be handled with",
+              "vi": "V điều khiển, xử lý Các chất độc hại cần phải được xử lý thận trọng. Bai thì TOEIC đạng thực mối"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 29,
+      "word": "warehouse",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "Uk impsuz",
+      "ipaUs": "impóuz",
+      "page": 290,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "nhà kho",
+          "examples": [
+            {
+              "en": "Crates go to the warehouse before being delivered to their respective companies. The government plans to impose taxes on",
+              "vi": "Các thùng hàng phải tới nhà kho trước khi được giao đến từng công ty. V đánh, áp (thuế)"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 30,
+      "word": "storage",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "storage",
+      "ipaUs": "st5:rid3",
+      "page": 290,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "kho, sự tích trữ",
+          "examples": [
+            {
+              "en": "Unclaimed packages will be placed in storage for",
+              "vi": "Những kiện hàng không có người nhận sẽ được cất vào kho trong 6 tháng. V gỡ, tháo, tách ra"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 31,
+      "word": "detach",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "detach",
+      "ipaUs": "ditæt",
+      "page": 290,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "phong bì",
+          "examples": [
+            {
+              "en": "Please detach and send in the completed form.",
+              "vi": "Vui lòng tách ra và gửi dưới dạng bản hoàn thiện. Bai thì TOEIC đạng thức mới [n.) Khi được dùng với nghĩa chỉ việc tháo riêng, tách rời những"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 32,
+      "word": "envelope",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "énvalaup",
+      "ipaUs": "énvalòup",
+      "page": 290,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "phong bì",
+          "examples": [
+            {
+              "en": "A return address must be stamped on each",
+              "vi": "Cần phải đóng dấu lên địa chỉ phúc đáp trên mỗi phong bì."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 33,
+      "word": "recipient",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "recipient",
+      "ipaUs": "risipiont",
+      "page": 291,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "người nhận",
+          "examples": [
+            {
+              "en": "Please enter the recipient's shipping address below.",
+              "vi": "Vui lòng nhập địa chỉ người nhận vào bên dưới. v đóng (dầu), dán (tem), ký (ten)"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 34,
+      "word": "affix",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "affix",
+      "ipaUs": "afiks",
+      "page": 291,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "đóng (dầu), dán (tem), ký (ten)",
+          "examples": [
+            {
+              "en": "Please affix a 50-cent stamp for postage to New Bang then tho",
+              "vi": "Vui lòng dán tem 50 xu cho kiện hàng gửi tới New York. affix A to B dán/gắn A vào B affix thường đi kèm với giới từ to."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 35,
+      "word": "incorrect",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "incorrect",
+      "ipaUs": "ìnkerékt",
+      "page": 291,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "không đúng, sai",
+          "examples": [
+            {
+              "en": "Incorrect mailing information will slow the order Hackers TOEIC Vocabulary",
+              "vi": "Thông tin gửi thư không đúng sẽ làm chậm quy trình đặt hàng. dạng thực mơi sn. incorrect có thể được thay bằng inaccurate khi được dùng"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 36,
+      "word": "oblige",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "oblige",
+      "ipaUs": "abláid3",
+      "page": 292,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "bước đi, bước; biện pháp, bước tiến",
+          "examples": [
+            {
+              "en": "The importers were obliged to destroy 20,000 boxes",
+              "vi": "Các hãng nhập khẩu bị buộc phải tiêu hủy 20.000 thùng táo. oblige A to do bắt A làm be obliged to do bị buộc phải làm"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 37,
+      "word": "step",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "step",
+      "ipaUs": "step",
+      "page": 292,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "bước đi, bước; biện pháp, bước tiến",
+          "examples": [
+            {
+              "en": "The importer completed the final step of customs America will take steps to expand bilateral trade.",
+              "vi": "Công ty nhập khẩu đã hoàn tất bước cuối cùng của thủ tục hải quan. Hoa Kỳ sẽ thực hiện các biện pháp để mở rộng thương mại"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    }
+  ],
+  "completeVocab": {
+    "basic": {
+      "LC": [],
+      "RC": [
+        [
+          "butcher's shop",
+          "phr",
+          "cửa hàng thịt"
+        ],
+        [
+          "cargo",
+          "n",
+          "hàng hóa (vận tải)"
+        ],
+        [
+          "a clinic",
+          "n",
+          "hàng hóa (vận tải)"
+        ],
+        [
+          "crate",
+          "n",
+          "thùng thưa, sọt"
+        ],
+        [
+          "flow",
+          "n",
+          "dòng chảy, luồng; y chảy, ùa tới"
+        ],
+        [
+          "following week",
+          "phr",
+          "tuần tiếp theo"
+        ],
+        [
+          "get a ticket",
+          "phr",
+          "lẫy vé/mua vé"
+        ],
+        [
+          "in storage",
+          "phr",
+          "trong kho"
+        ],
+        [
+          "load",
+          "n",
+          "vật nặng, gánh nặng, tải trọng"
+        ],
+        [
+          "mail",
+          "n",
+          "thư, bưu phẩm; y gửi (qua đường"
+        ],
+        [
+          "museum",
+          "n",
+          "bảo tàng"
+        ],
+        [
+          "parcel",
+          "n",
+          "bưu kiện"
+        ],
+        [
+          "pick up packages",
+          "phr",
+          "lấy hàng"
+        ],
+        [
+          "pottery",
+          "n",
+          "đỗ gồm"
+        ],
+        [
+          "public park",
+          "phr",
+          "công viên công cộng"
+        ],
+        [
+          "stamp",
+          "phr",
+          "công viên công cộng"
+        ],
+        [
+          "van",
+          "n",
+          "xe tải nhỏ"
+        ],
+        [
+          "venue",
+          "n",
+          "địa điểm"
+        ],
+        [
+          "weight",
+          "n",
+          "khối lượng, cân nặng"
+        ],
+        [
+          "barrier",
+          "n",
+          "khối lượng, cân nặng"
+        ],
+        [
+          "base",
+          "n",
+          "hàng rào, chương ngại vật"
+        ],
+        [
+          "delay",
+          "v",
+          "trì hoãn, chậm trể; n sự chậm trễ"
+        ],
+        [
+          "due date",
+          "phr",
+          "thời hạn, ngày đáo hạn"
+        ],
+        [
+          "instructor",
+          "phr",
+          "thời hạn, ngày đáo hạn"
+        ],
+        [
+          "offload",
+          "n",
+          "người dạy, giáo viên"
+        ],
+        [
+          "q, parking pass",
+          "phr",
+          "thẻ đỗ xe"
+        ],
+        [
+          "a shipping",
+          "phr",
+          "thẻ đỗ xe"
+        ],
+        [
+          "trade",
+          "n",
+          "việc vận chuyển"
+        ]
+      ]
+    },
+    "l800": {
+      "LC": [
+        [
+          "as of now",
+          "phr",
+          "ngay bây giờ, từ nay trở đi"
+        ],
+        [
+          "broker",
+          "phr",
+          "ngay bây giờ, từ nay trở đi"
+        ],
+        [
+          "canal",
+          "n",
+          "kênh, ống"
+        ],
+        [
+          "carry a large parcel",
+          "phr",
+          "mang một bưu kiện lớn"
+        ],
+        [
+          "closing",
+          "n",
+          "sự kết thúc; adị kết thúc, cuối cùng"
+        ],
+        [
+          "courier service",
+          "phr",
+          "dịch vụ chuyển phát"
+        ],
+        [
+          "door-to-door delivery",
+          "phr",
+          "giao hàng tận nơi"
+        ],
+        [
+          "drive off",
+          "phr",
+          "giao hàng tận nơi"
+        ],
+        [
+          "drop off",
+          "phr",
+          "thả xuống (xe), giảm sút"
+        ],
+        [
+          "drycleaner (= drycleaner's)",
+          "n",
+          "cửa hàng giặt khô"
+        ],
+        [
+          "floor manager",
+          "phr",
+          "quản lý tầng"
+        ],
+        [
+          "hold onto the handrail",
+          "phr",
+          "bám vào lan can"
+        ],
+        [
+          "o in transit",
+          "phr",
+          "trong khi vận chuyển"
+        ],
+        [
+          "o inn",
+          "phr",
+          "trong khi vận chuyển"
+        ],
+        [
+          "lab report",
+          "phr",
+          "báo cáo thí nghiệm"
+        ],
+        [
+          "lab technician",
+          "phr",
+          "ký thuật viên phòng thí nghiệm"
+        ],
+        [
+          "lace",
+          "n",
+          "* dây buộc, ren; n thắt, buộc"
+        ],
+        [
+          "legal department",
+          "phr",
+          "bộ phận pháp lý"
+        ],
+        [
+          "load A onto B",
+          "phr",
+          "bộ phận pháp lý"
+        ],
+        [
+          "load a truck",
+          "phr",
+          "chất hàng lên xe tải"
+        ],
+        [
+          "loaded with",
+          "phr",
+          "chất hàng lên xe tải"
+        ],
+        [
+          "loading",
+          "n",
+          "sự chất hàng, hàng trên xe"
+        ],
+        [
+          "lost in delivery",
+          "phr",
+          "thất lạc khi vận chuyển"
+        ],
+        [
+          "mailing list",
+          "phr",
+          "thất lạc khi vận chuyển"
+        ],
+        [
+          "make a delivery",
+          "phr",
+          "giao hàng"
+        ],
+        [
+          "packing tape",
+          "phr",
+          "băng dính gói hàng"
+        ],
+        [
+          "pass over",
+          "phr",
+          "bỏ qua, lờ đi"
+        ],
+        [
+          "pavement",
+          "n",
+          "via hè"
+        ],
+        [
+          "people on foot",
+          "n",
+          "via hè"
+        ],
+        [
+          "pick up passengers",
+          "phr",
+          "đón khách"
+        ],
+        [
+          "pier",
+          "phr",
+          "đón khách"
+        ],
+        [
+          "pile up",
+          "n",
+          "bến tàu, cầu tàu"
+        ],
+        [
+          "postal",
+          "n",
+          "adi (thuộc) bưu điện"
+        ]
+      ],
+      "P56": [],
+      "P7": [
+        [
+          "strap",
+          "n",
+          "Y buộc, bằng; n dây, đai"
+        ],
+        [
+          "time limit",
+          "phr",
+          "thời hạn"
+        ],
+        [
+          "waterway",
+          "n",
+          "đường thủy"
+        ],
+        [
+          "a weigh",
+          "n",
+          "đường thủy"
+        ],
+        [
+          "a weight limit",
+          "phr",
+          "giới hạn trọng lượng"
+        ],
+        [
+          "wrap up",
+          "phr",
+          "gói lại"
+        ],
+        [
+          "correction",
+          "n",
+          "à sự sửa chữa, hiệu chỉnh"
+        ],
+        [
+          "delivery option",
+          "phr",
+          "phương thức giao hàng"
+        ],
+        [
+          "discard",
+          "phr",
+          "phương thức giao hàng"
+        ],
+        [
+          "express mail",
+          "phr",
+          "y bỏ, loại bỏ"
+        ],
+        [
+          "fortunately",
+          "n",
+          "ady may thay"
+        ],
+        [
+          "ideally",
+          "adv",
+          "lý tưởng"
+        ],
+        [
+          "load size",
+          "phr",
+          "mức tải"
+        ],
+        [
+          "marginally",
+          "n",
+          "ady một chút"
+        ],
+        [
+          "ordered",
+          "n",
+          "adị có trật tự"
+        ],
+        [
+          "ordering",
+          "n",
+          "adị có trật tự"
+        ],
+        [
+          "ordinarily",
+          "n",
+          "ady thông thường"
+        ],
+        [
+          "packaging",
+          "n",
+          "bao bì"
+        ],
+        [
+          "provided (that)",
+          "conj",
+          "miễn là"
+        ],
+        [
+          "respond to",
+          "phr",
+          "đáp lại"
+        ],
+        [
+          "separation",
+          "phr",
+          "đáp lại"
+        ],
+        [
+          "sizable",
+          "n",
+          "adị to, có kích cỡ lớn"
+        ],
+        [
+          "society",
+          "n",
+          "i xã hội, đoàn thể"
+        ],
+        [
+          "accelerate",
+          "n",
+          "i xã hội, đoàn thể"
+        ],
+        [
+          "additional charge",
+          "phr",
+          "phí phải trà thêm"
+        ],
+        [
+          "ahead of schedule",
+          "phr",
+          "phí phải trà thêm"
+        ],
+        [
+          "at the last minute",
+          "phr",
+          "vào phút cuối"
+        ],
+        [
+          "by hand",
+          "phr",
+          "thủ công"
+        ],
+        [
+          "car maintenance",
+          "phr",
+          "thủ công"
+        ],
+        [
+          "city official",
+          "phr",
+          "quan chức thành phố"
+        ],
+        [
+          "free of charge",
+          "phr",
+          "miến phí"
+        ],
+        [
+          "postage",
+          "phr",
+          "miến phí"
+        ],
+        [
+          "trade negotiation",
+          "phr",
+          "• bưu phí"
+        ],
+        [
+          "trade show",
+          "phr",
+          "đàm phán thương mại"
+        ],
+        [
+          "without delay",
+          "phr",
+          "không chậm trễ"
+        ]
+      ]
+    },
+    "l900": {
+      "LC": [],
+      "P56": [],
+      "P7": [
+        [
+          "a freight",
+          "n",
+          "hàng hóa (được vận chuyển)"
+        ],
+        [
+          "heritage",
+          "n",
+          "hàng hóa (được vận chuyển)"
+        ],
+        [
+          "janitor",
+          "n",
+          "người gác cổng"
+        ],
+        [
+          "loading dock",
+          "phr",
+          "khu vực bốc dõ"
+        ],
+        [
+          "logistics",
+          "n",
+          "hậu cần, kho vận, giao nhận"
+        ],
+        [
+          "realtor (= real estate agency)",
+          "phr",
+          "• người môi giới bất động sản"
+        ],
+        [
+          "registered mail",
+          "phr",
+          "thư bảo đảm"
+        ],
+        [
+          "wheelbarrow",
+          "n",
+          "xe cút kít"
+        ],
+        [
+          "classified",
+          "n",
+          "adi đã được phân loại"
+        ],
+        [
+          "consulate",
+          "n",
+          "lãnh sự quán"
+        ],
+        [
+          "a decidedly",
+          "adv",
+          "kiên quyết, dứt khoát"
+        ],
+        [
+          "inaugurate",
+          "n",
+          "Y khai mạc, khánh thành"
+        ],
+        [
+          "a institute",
+          "n",
+          "viện, học viện"
+        ],
+        [
+          "institution",
+          "n",
+          "viện, học viện"
+        ],
+        [
+          "openly",
+          "adv",
+          "công khai, thẳng thắn"
+        ],
+        [
+          "oversight",
+          "n",
+          "• sự giám sát"
+        ],
+        [
+          "province",
+          "n",
+          "• tính"
+        ],
+        [
+          "selective",
+          "n",
+          "adi có chọn lọc"
+        ],
+        [
+          "transportable",
+          "n",
+          "adi có chọn lọc"
+        ],
+        [
+          "alumni association",
+          "phr",
+          "hội cựu sinh viên"
+        ],
+        [
+          "bilateral",
+          "n",
+          "adị hai bên, song phương"
+        ],
+        [
+          "diplomat",
+          "n",
+          "nhà ngoại giao"
+        ],
+        [
+          "embargo",
+          "n",
+          "lệnh cấm vận; sự đình chỉ hoạt động"
+        ],
+        [
+          "expatriate",
+          "n",
+          "lệnh cấm vận; sự đình chỉ hoạt động"
+        ],
+        [
+          "expedite",
+          "n",
+          "y xúc tiến, giải quyết"
+        ],
+        [
+          "handling",
+          "n",
+          "• cách xử lý"
+        ],
+        [
+          "import license",
+          "phr",
+          "• cách xử lý"
+        ],
+        [
+          "a intended recipient",
+          "phr",
+          "người nhận"
+        ],
+        [
+          "progression",
+          "n",
+          "sự tiến triển, sự tiến hành"
+        ],
+        [
+          "reciprocal",
+          "n",
+          "adị lẫn nhau, cả đôi bên"
+        ],
+        [
+          "stow",
+          "n",
+          "y cất giữ"
+        ],
+        [
+          "surplus",
+          "n",
+          "y cất giữ"
+        ]
+      ]
+    }
+  },
+  "dailyCheckup": {
+    "page": 293,
+    "groups": [
+      {
+        "instruction": "Tìm ở cột bên phải nghĩa của các từ vựng ở cột bên trái và nối chúng với nhau.",
+        "options": [
+          {
+            "key": "a",
+            "text": "tiêu cực"
+          },
+          {
+            "key": "b",
+            "text": "ngay lập tức"
+          },
+          {
+            "key": "c",
+            "text": "cách tiếp cận"
+          },
+          {
+            "key": "d",
+            "text": "bị cấm"
+          },
+          {
+            "key": "e",
+            "text": "sự chấp thuận"
+          },
+          {
+            "key": "f",
+            "text": "truy cập"
+          }
+        ],
+        "questions": [
+          {
+            "no": 1,
+            "prompt": "article",
+            "answer": "a"
+          },
+          {
+            "no": 2,
+            "prompt": "shipment",
+            "answer": "a"
+          },
+          {
+            "no": 3,
+            "prompt": "attach",
+            "answer": "a"
+          },
+          {
+            "no": 5,
+            "prompt": "adequately",
+            "answer": "a"
+          }
+        ]
+      },
+      {
+        "instruction": "Hãy chọn từ phù hợp để điền vào mỗi câu của bài thi TOEIC dạng thức mới sau.",
+        "options": [
+          {
+            "key": "a",
+            "text": "inspection"
+          },
+          {
+            "key": "b",
+            "text": "effect"
+          },
+          {
+            "key": "c",
+            "text": "authorized"
+          },
+          {
+            "key": "d",
+            "text": "procedure"
+          },
+          {
+            "key": "e",
+            "text": "concern"
+          }
+        ],
+        "questions": [
+          {
+            "no": 6,
+            "prompt": "Please find the receipt in the envelope.",
+            "answer": "a"
+          },
+          {
+            "no": 7,
+            "prompt": "To the safety, all products are packed very well.",
+            "answer": "a"
+          },
+          {
+            "no": 8,
+            "prompt": "The company will _ outside of Asia for an additional fee.",
+            "answer": "a"
+          },
+          {
+            "no": 9,
+            "prompt": "Please open the packages with as they contain fragile items.",
+            "answer": "a"
+          }
+        ]
+      },
+      {
+        "instruction": "Hãy chọn từ phù hợp để điền vào mỗi câu của bài thi TOEIC dạng thức mới sau.",
+        "options": [
+          {
+            "key": "a",
+            "text": "obligation"
+          },
+          {
+            "key": "b",
+            "text": "drastically"
+          },
+          {
+            "key": "c",
+            "text": "revise"
+          },
+          {
+            "key": "d",
+            "text": "thoroughly"
+          },
+          {
+            "key": "e",
+            "text": "arrangements"
+          }
+        ],
+        "questions": [
+          {
+            "no": 10,
+            "prompt": "The fastest way to send this package is by",
+            "answer": "a"
+          },
+          {
+            "no": 11,
+            "prompt": "The latest was a letter from the shipping company.",
+            "answer": "a"
+          },
+          {
+            "no": 12,
+            "prompt": "A of online shopping is that purchases are brought to your door.",
+            "answer": "a"
+          },
+          {
+            "no": 13,
+            "prompt": "The Department of Agriculture inspects all animals, with the",
+            "answer": "a"
+          }
+        ]
+      }
+    ]
+  },
+  "title": "Giao hàng nhanh",
+  "titleVi": "Giao hàng nhanh",
+  "category": "Thương mại - Vận chuyển"
+}

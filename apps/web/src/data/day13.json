@@ -1,0 +1,1744 @@
+{
+  "dayNo": 13,
+  "source": "Apple Vision OCR extraction from pages 218-233",
+  "coreWords": [
+    {
+      "no": 1,
+      "word": "complaint",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "complaint",
+      "ipaUs": "kampléint",
+      "page": 219,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "lời than phiền, lời phàn nàn",
+          "examples": [
+            {
+              "en": "Customers can register complaints at the customer service center or online.",
+              "vi": "Khách hàng có thể nộp đơn khiếu nại tại trung tâm chăm sóc khách hàng hoặc qua mạng. make complaints against phàn nàn về"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 2,
+      "word": "deal",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "dial",
+      "ipaUs": "di:l",
+      "page": 219,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "giải quyết; buôn bán; phân phối",
+          "examples": [
+            {
+              "en": "The problem will be dealt with immediately. Davis Automotive deals in used cars and automotive The government will deal out debt relief grants to",
+              "vi": "Vấn để này sẽ được giải quyết ngay lập tức. Davis Automotive bán xe hơi đã qua sử dụng và phụ tùng ô tô. Chính phủ sẽ dành cho người nghèo trợ cấp miễn trừ nợ."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 3,
+      "word": "argumentative",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "à:gjuméntativ",
+      "ipaUs": "à:rgjuméntativ",
+      "page": 219,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "Service personnel must avoid becoming argumentative with upset customers.",
+              "vi": "Những người làm dịch vụ cần phải tránh thói quen tranh cãi với các vị khách bất mãn."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 4,
+      "word": "appropriately",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "apréupriatli",
+      "ipaUs": "aproupriatli",
+      "page": 220,
+      "senses": [
+        {
+          "pos": "adv",
+          "meaning": "thích hợp, thích đáng",
+          "examples": [
+            {
+              "en": "Telephone representatives should know how to handle customer complaints appropriately.",
+              "vi": "Nhân viên trực tổng đài cần biết cách xử lý các phàn nàn của khách hàng một cách thích hợp. v phản ứng, phản hồi, trả lời"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 5,
+      "word": "respond",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "respond",
+      "ipaUs": "rispánd",
+      "page": 220,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "phản ứng, phản hồi, trả lời",
+          "examples": [
+            {
+              "en": "Sales staff should respond promptly to questions from customers. The clerk was unable to answer the query in a",
+              "vi": "Nhân viên bán hàng cần phải kịp thời trả lời các câu hỏi của khách hàng. Bai thì TOE"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 6,
+      "word": "infuriate",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "infuriate",
+      "ipaUs": "infjúarièit",
+      "page": 220,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "làm tức điên lên",
+          "examples": [
+            {
+              "en": "The attendant's incompetence infuriated the",
+              "vi": "Sự kém cỏi của người phục vụ khiến vị khách tức giận."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 7,
+      "word": "courteous",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "ká:tias",
+      "ipaUs": "courteoly (adv",
+      "page": 221,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự hài lòng/thỏa mãn",
+          "examples": [
+            {
+              "en": "All inquiries must be handled in a courteous manner.",
+              "vi": "Mọi thắc mắc cần phải được giải đáp bằng một thái độ lịch sự."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 8,
+      "word": "satisfaction",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "satisfaction",
+      "ipaUs": "sætisfækjan",
+      "page": 221,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự hài lòng/thỏa mãn",
+          "examples": [
+            {
+              "en": "We hope our assistance was to your satisfaction.",
+              "vi": "Hy vọng rằng sự trợ giúp của chúng tôi khiến bạn hài lòng. Bại thi TOEIC dạng thực mỗi cơm to one's satisfaction đáp ứng sự hài lòng của"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 9,
+      "word": "inconvenience",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "inkanvi:niens",
+      "ipaUs": "inkanví:njans",
+      "page": 221,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự bất lợi, bất tiện",
+          "examples": [
+            {
+              "en": "We apologize for the inconvenience during Cheryl asked the manager if it would inconvenience him to reschedule her interview.",
+              "vi": "Chúng tôi xin lỗi vì những bất tiện gây ra trong quá trình xây dựng. V làm phiền, quấy rầy Cheryl hỏi người quản lý rằng liệu đổi lịch phỏng vấn có gây bất"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 10,
+      "word": "complete",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "complete",
+      "ipaUs": "kampli:t",
+      "page": 221,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "The paperwork must be completed within one month. Once you receive a confirmation e-mail, the registration",
+              "vi": "Giãy tờ căn phải được hoàn thành trong vòng một tháng. adị đẩy đủ, hoàn toàn, trọn vẹn Khi bạn nhận được thư điện tử xác nhận, quá trình đăng ký đã"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 11,
+      "word": "specific",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "uK Spasitik",
+      "ipaUs": "spisitik",
+      "page": 222,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "trở lại, quay về",
+          "examples": [
+            {
+              "en": "When seeking help online, clients must be very specific in describing problems.",
+              "vi": "Khi cần trợ giúp trực tuyến, khách hàng phải mô tả vấn để thật cụ thể."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 12,
+      "word": "return",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "ritá:n",
+      "ipaUs": "ritá:rn",
+      "page": 222,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "trở lại, quay về",
+          "examples": [
+            {
+              "en": "Merchandise can be returned at the counter.",
+              "vi": "Hàng hóa có thể được trả lại tại quầy thanh toán. V thay thế, thay chỗ"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 13,
+      "word": "replace",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "replace",
+      "ipaUs": "ripléis",
+      "page": 222,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "bài thuyết trình, sự trình bày",
+          "examples": [
+            {
+              "en": "The mechanic replaced the generator's motor with Diners may substitute french fries for a side",
+              "vi": "Người thợ máy thay động cơ mới cho máy phát điện. Sải thi TOEIC dạng thức mới Hãy lưu ý phân biệt cách sử dụng của hai từ cùng mang nghĩa"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 14,
+      "word": "presentation",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "uK prèzantéijan",
+      "ipaUs": "prì:zentéifan",
+      "page": 222,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "bài thuyết trình, sự trình bày",
+          "examples": [
+            {
+              "en": "Melissa gave the employees a presentation about handling difficult clients.",
+              "vi": "Melissa thuyết trình với các nhân viên về cách xử lý khi gặp khách hàng khó tính."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 15,
+      "word": "evaluation",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "evaluation",
+      "ipaUs": "ivaljuéijon",
+      "page": 223,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự đánh giá, sự ước lượng",
+          "examples": [
+            {
+              "en": "Please fill out the evaluation form. cun performance evaluation",
+              "vi": "Vui lòng điền vào phiếu đánh giá. đánh giá hiệu suất làm việc (của nhân viên) course evaluation đánh giá về khóa học"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 16,
+      "word": "confident",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "Uk könfidant",
+      "ipaUs": "kánfadent",
+      "page": 223,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "tự tin",
+          "examples": [
+            {
+              "en": "Enthusiasm and a confident manner are essential for this sales position.",
+              "vi": "Sự nhiệt tình và phong thái tự tin rất quan trọng đối với vị trí nhân viên băn hàng nay. Ba: thi 7OEIC dạng thọc mơi"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 17,
+      "word": "cause",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "cause",
+      "ipaUs": "ko:z",
+      "page": 223,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "nguyên nhân, lý do",
+          "examples": [
+            {
+              "en": "The defect in the lamp was caused by improper Hackers TOEIC Vocabulary Researchers tried to find the cause of the error.",
+              "vi": "Trục trặc của chiếc đèn bàn là do mắc dây không đúng. Các nhà nghiên cứu đã nỗ lực tìm nguyên nhân của lỗi này. Bai thì TOEIC dạng thức mới"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 18,
+      "word": "commentary",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "kômantari",
+      "ipaUs": "kámantèri",
+      "page": 224,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "thông báo, sự thông báo",
+          "examples": [
+            {
+              "en": "Richard added commentary to the service training film.",
+              "vi": "Richard đã thêm chú thích vào đoạn phim đào tạo vé dịch vụ."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 19,
+      "word": "notification",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "nàutifikéifon",
+      "ipaUs": "noutafikéijan",
+      "page": 224,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "thông báo, sự thông báo",
+          "examples": [
+            {
+              "en": "We require written notification of any order",
+              "vi": "Chúng tôi yêu cầu phải có thông báo bằng văn bản với mọi trường hợp hủy đơn hàng. Bai thi TOEIC đạng thức mới"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 20,
+      "word": "apologize",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "aladzaiz",
+      "ipaUs": "apáladzàiz",
+      "page": 224,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "We apologize for the late delivery service.",
+              "vi": "Chúng tôi rất xin lỗi vì việc giao hàng chậm trế này. Bai thì TOEIC dạng thức mới apologize for + nguyên nhân xin lỗi vì"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 21,
+      "word": "interact",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "interact",
+      "ipaUs": "interækt",
+      "page": 224,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "When interacting with shoppers, clerks should deal with them in a pleasant manner.",
+              "vi": "Khi tương tác với người mua hàng, nhân viên bán hàng cần đối xử với họ bắng thái độ niềm nở. adị chắc, chắc chắn; nhất định"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 22,
+      "word": "certain",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "uK sa:tn",
+      "ipaUs": "sá:rtn",
+      "page": 224,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "Sharon was not certain where she had bought the Registrants are required to provide certain details on the form, but other information is optional.",
+              "vi": "Sharon không chắc chấn về nơi mình đã mua chiếc áo choàng này. Người đăng ký cần phải điền một số thông tin nhất định vào đơn, còn các thông tin khác thì không bắt buộc."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 23,
+      "word": "commitment",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "commitment",
+      "ipaUs": "komitmant",
+      "page": 225,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự cam kết, sự tận tâm",
+          "examples": [
+            {
+              "en": "Brand Bank has a longstanding commitment to providing excellent client assistance. Barth TOEIC",
+              "vi": "Ngân hàng Brand cam kết lâu dài rằng họ sẽ luôn mang đến cho khách hàng sự hỗ trợ tốt nhất. đạng thực mới"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 24,
+      "word": "applaud",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "applaud",
+      "ipaUs": "epl5:d",
+      "page": 225,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "tiểu sử, lý lịch",
+          "examples": [
+            {
+              "en": "The staff applauded management's decision to increase overtime pay.",
+              "vi": "Các nhân viên hoan nghênh quyết định của ban quản lý về việc tăng lương làm ngoài giờ."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 25,
+      "word": "biography",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "baiografi",
+      "ipaUs": "baiágrafi",
+      "page": 225,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "tiểu sử, lý lịch",
+          "examples": [
+            {
+              "en": "A short biography on the guest speaker was Hackers TOEIC Vocabulary",
+              "vi": "Chương trình có bao gồm một đoạn giới thiệu ngắn về lý lịch của diễn giả khách mời. adị phê bình, chỉ trích; có tính quyết định; nguy cấp"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 26,
+      "word": "critical",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "critical",
+      "ipaUs": "kritikal",
+      "page": 225,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "Hackers TOEIC Vocabulary Many customers were critical of the new services.",
+              "vi": "adị phê bình, chỉ trích; có tính quyết định; nguy cấp Nhiều khách hàng rất hay chê bai các dịch vụ mới. Bai thì TOEIC đạng thực mơi"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 27,
+      "word": "depend",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "depend",
+      "ipaUs": "der. dependent (adj",
+      "page": 226,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "kết hợp",
+          "examples": [
+            {
+              "en": "The success of a restaurant depends on the quality of the food and the customer service.",
+              "vi": "Thành công của nhà hàng phụ thuộc vào chất lượng đồ ăn và dịch vụ khách hàng."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 28,
+      "word": "combine",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "combine",
+      "ipaUs": "kambáin",
+      "page": 226,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "kết hợp",
+          "examples": [
+            {
+              "en": "The store sometimes allows customers to combine two special offers.",
+              "vi": "Của hàng cũng có lúc cho phép khách hàng kết hợp hai chương trình giảm giá. In sự ưu tiên, ưu thế"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 29,
+      "word": "priority",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "praióriti",
+      "ipaUs": "praib:rati",
+      "page": 226,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "Priority for the service will be provided according to a first come, first served basis.",
+              "vi": "Ưu tiên phục vụ sẽ được thực hiện trên cơ sở người đến trước được phục vụ trước. V theo dõi, tiến hành; tuân thủ"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 30,
+      "word": "observe",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "abé:",
+      "ipaUs": "abrarv",
+      "page": 226,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "có lỗi, có thiếu sót, nhược điểm",
+          "examples": [
+            {
+              "en": "The technicians observed a demonstration about All staff must observe the dress code of the company.",
+              "vi": "repairing phones. Các kỹ thuật viên đã thực hiện một buổi hướng dẫn cách sửa điện thoại. Mọi nhân viên phải tuân thủ quy định về trang phục của công ty."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 31,
+      "word": "defective",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "defective",
+      "ipaUs": "diféktiv",
+      "page": 226,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "có lỗi, có thiếu sót, nhược điểm",
+          "examples": [
+            {
+              "en": "The buyer requested a refund for the defective hair",
+              "vi": "dryer. Khách hàng yêu cầu được hoàn lại tiền cho chiếc máy sấy bị lỗi. Bai th TOEIC dạng thức mới"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 32,
+      "word": "reflect",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "reflect",
+      "ipaUs": "riflékt",
+      "page": 227,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "phản chiếu, phản ánh",
+          "examples": [
+            {
+              "en": "Kimdale Corporation's statement of purpose reflects",
+              "vi": "Tuyên bố về mục đích của tập đoàn Kimdale phản ánh cam kết của họ về chất lượng. bại thi TOC dạng thực thộn"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 33,
+      "word": "attitude",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "attitude",
+      "ipaUs": "titjù:d",
+      "page": 227,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "thái độ",
+          "examples": [
+            {
+              "en": "Salespeople with a positive attitude tend to sell more products.",
+              "vi": "Nhân viên bán hàng có thái độ tích cực thường bán được nhiều sản phẩm hơn. v làm thất vọng"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 34,
+      "word": "disappoint",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "disappoint",
+      "ipaUs": "disapoint",
+      "page": 227,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "làm thất vọng",
+          "examples": [
+            {
+              "en": "The poor terms of the computer warranty disappointed many buyers. Hackers TOEIC Vocabulary",
+              "vi": "Các điều khoản bảo hành không hấp dẫn của sản phẩm máy tính này làm nhiều khách hàng thất vọng. V hỏi, điều tra, thẩm vấn"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 35,
+      "word": "inquire",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "inkwáia",
+      "ipaUs": "inkwáier",
+      "page": 227,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "Hackers TOEIC Vocabulary Several people called in to inquire about the store's latest promotions.",
+              "vi": "V hỏi, điều tra, thẩm vấn Vài người đã gọi đến để hỏi về những khuyến mãi mới nhất của cửa hàng."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 36,
+      "word": "insert",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "insé:t",
+      "ipaUs": "insé:rt",
+      "page": 227,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "Please read all the instructions before inserting the CD into your computer.",
+              "vi": "Vui lòng đọc hướng dẫn trước khi cho đĩa CD vào máy tính. Bai thì TOEIC dạng thức mới Cựm insert A into B đưa A vào trong B"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 37,
+      "word": "disclose",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "diskluz",
+      "ipaUs": "disklóuz",
+      "page": 228,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "cam đoan, đảm bảo, chắc chắn",
+          "examples": [
+            {
+              "en": "Customers will be asked to disclose some personal details when ordering online.",
+              "vi": "Khách hàng sẽ được yêu cầu tiết lộ một số thông tin cá nhân khi mua hàng trên mạng. dạng thực mởi"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 38,
+      "word": "guarantee",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "guarantee",
+      "ipaUs": "gàrantí:",
+      "page": 228,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "cam đoan, đảm bảo, chắc chắn",
+          "examples": [
+            {
+              "en": "Customer satisfaction is guaranteed.",
+              "vi": "Sự hài lòng của khách hàng được đảm bảo. n sự bảo đảm cancellation. Không có đảm bảo về việc hoàn tiền trong"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 39,
+      "word": "politely",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "politely",
+      "ipaUs": "paláitli",
+      "page": 228,
+      "senses": [
+        {
+          "pos": "adv",
+          "meaning": "lịch sự, lễ phép",
+          "examples": [
+            {
+              "en": "Store personnel must always speak to customers",
+              "vi": "Nhân viên cửa hàng phải luôn ăn nói lịch sự với khách hàng. Bai thì TOEIC dạng thức mới Lưu ý phần biệt từ loại politely (adv. một cách lịch sự) và"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 40,
+      "word": "seriously",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "seriously",
+      "ipaUs": "der. serio (adj",
+      "page": 228,
+      "senses": [
+        {
+          "pos": "adv",
+          "meaning": "nghiêm túc, nghiêm trọng",
+          "examples": [
+            {
+              "en": "The manager takes customer feedback very",
+              "vi": "seriously. Viên quản lý nghiêm túc tiếp thu phản hồi của khách hàng. Bai thi TOEIC dạng thức mới"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    }
+  ],
+  "completeVocab": {
+    "basic": {
+      "LC": [],
+      "RC": [
+        [
+          "a couple of",
+          "phr",
+          "một vài, một số"
+        ],
+        [
+          "athlete",
+          "phr",
+          "một vài, một số"
+        ],
+        [
+          "call for",
+          "phr",
+          "kêu gọi, đến đón"
+        ],
+        [
+          "cart",
+          "n",
+          "xe đẩy"
+        ],
+        [
+          "customer service representative",
+          "phr",
+          "nhân viên chăm sóc khách hàng"
+        ],
+        [
+          "get a phone call",
+          "phr",
+          "nhận một cuộc gọi"
+        ],
+        [
+          "give a call",
+          "phr",
+          "thực hiện một cuộc gọi"
+        ],
+        [
+          "have one's hair cut",
+          "phr",
+          "cắt tóc"
+        ],
+        [
+          "Just for a minute.",
+          "phr",
+          "cắt tóc"
+        ],
+        [
+          "laundry service",
+          "phr",
+          "dịch vụ giặt là"
+        ],
+        [
+          "leave a message",
+          "phr",
+          "để lại lời nhắn"
+        ],
+        [
+          "product logo",
+          "phr",
+          "logo sản phẩm"
+        ],
+        [
+          "rinse",
+          "phr",
+          "logo sản phẩm"
+        ],
+        [
+          "voice mail",
+          "v",
+          "rửa, súc, giũ"
+        ],
+        [
+          "as soon as possible",
+          "phr",
+          "càng sớm càng tốt"
+        ],
+        [
+          "complain",
+          "v",
+          "phân nàn"
+        ],
+        [
+          "counselor",
+          "v",
+          "phân nàn"
+        ],
+        [
+          "for free",
+          "phr",
+          "miến phí"
+        ],
+        [
+          "grocery store",
+          "phr",
+          "cửa hàng tạp hóa"
+        ],
+        [
+          "invite",
+          "phr",
+          "cửa hàng tạp hóa"
+        ],
+        [
+          "often",
+          "n",
+          "aơv thường, thường xuyên"
+        ],
+        [
+          "option",
+          "n",
+          "aơv thường, thường xuyên"
+        ],
+        [
+          "pieasure",
+          "n",
+          "niềm vui thích"
+        ],
+        [
+          "positive",
+          "adj",
+          "lạc quan, tích cực"
+        ],
+        [
+          "relationship",
+          "adj",
+          "lạc quan, tích cực"
+        ],
+        [
+          "site",
+          "n",
+          "• mỗi quan hệ"
+        ],
+        [
+          "şuccessfully",
+          "n",
+          "aáv thành công"
+        ],
+        [
+          "a visit",
+          "phr",
+          "aáv thành công"
+        ]
+      ]
+    },
+    "l800": {
+      "LC": [],
+      "P56": [
+        [
+          "a loaf of",
+          "phr",
+          "một ổ (bánh mỳ)"
+        ],
+        [
+          "affair",
+          "phr",
+          "một ổ (bánh mỳ)"
+        ],
+        [
+          "aisle",
+          "n",
+          "lỗi đi giữa các dãy ghế"
+        ],
+        [
+          "annoy",
+          "v",
+          "gây khó chịu, chọc tức"
+        ],
+        [
+          "at no charge (=at no cost)",
+          "phr",
+          "không mất phí"
+        ],
+        [
+          "at no extra charge",
+          "phr",
+          "không mất thêm phí"
+        ],
+        [
+          "be on another call",
+          "phr",
+          "(điện thoại) đang bận"
+        ],
+        [
+          "ceremonial",
+          "n",
+          "adị thuộc nghi lễ, long trọng"
+        ],
+        [
+          "for your own satety",
+          "phr",
+          "vì sự an toàn của chính bạn"
+        ],
+        [
+          "follow-up",
+          "n",
+          "adị sắp tới, tiếp theo"
+        ],
+        [
+          "get a replacement",
+          "phr",
+          "được đổi"
+        ],
+        [
+          "handheld",
+          "adj",
+          "cẩm tay"
+        ],
+        [
+          "head toward",
+          "phr",
+          "hướng về"
+        ],
+        [
+          "hold the line",
+          "phr",
+          "hướng về"
+        ],
+        [
+          "just to make sure",
+          "phr",
+          "chỉ để chắc chẳn"
+        ],
+        [
+          "leftover",
+          "n",
+          "adị thừa, còn lại; n thức ăn thưa"
+        ],
+        [
+          "look through the manual",
+          "phr",
+          "xem qua sách hướng dẫn"
+        ],
+        [
+          "on delivery",
+          "phr",
+          "đang được giao"
+        ],
+        [
+          "pharmacist",
+          "phr",
+          "đang được giao"
+        ],
+        [
+          "potential customer",
+          "phr",
+          "khách hàng tiềm năng"
+        ],
+        [
+          "prepaid",
+          "n",
+          "aơj trả trước"
+        ],
+        [
+          "questionnaire",
+          "n",
+          "\" bảng câu hỏi"
+        ],
+        [
+          "recall",
+          "v",
+          "thu hồi (hàng lỗi); n sự thu hỗi"
+        ],
+        [
+          "return a phone call",
+          "v",
+          "thu hồi (hàng lỗi); n sự thu hỗi"
+        ],
+        [
+          "a ridiculously",
+          "adv",
+          "buồn cười, lố bịch"
+        ],
+        [
+          "take back",
+          "phr",
+          "lầy lại, rút lại"
+        ],
+        [
+          "troubleshoot",
+          "phr",
+          "lầy lại, rút lại"
+        ],
+        [
+          "tune",
+          "v",
+          "làm cho hòa hợp, điều chỉnh"
+        ],
+        [
+          "wardrobe",
+          "n",
+          "tủ quần áo"
+        ],
+        [
+          "water-resistant",
+          "n",
+          "tủ quần áo"
+        ],
+        [
+          "adverse",
+          "n",
+          "adị chống nước, không ngẫm nước"
+        ],
+        [
+          "a argument",
+          "phr",
+          "adị bất lợi, đối địch"
+        ],
+        [
+          "as requested",
+          "phr",
+          "theo yêu cầu"
+        ]
+      ],
+      "P7": [
+        [
+          "defect",
+          "n",
+          "• lỗi, khuyết điểm"
+        ],
+        [
+          "discouraging",
+          "n",
+          "aơj làm chán năn"
+        ],
+        [
+          "escort",
+          "n",
+          "y hộ tống; n đội hộ tổng"
+        ],
+        [
+          "exterior",
+          "n",
+          "y hộ tống; n đội hộ tổng"
+        ],
+        [
+          "further",
+          "n",
+          "adị xa hơn, thêm nữa; adv thêm nữa"
+        ],
+        [
+          "go on",
+          "phr",
+          "tiếp tục"
+        ],
+        [
+          "graciously",
+          "n",
+          "ady hòa nhã, tử tế"
+        ],
+        [
+          "inconvenient",
+          "n",
+          "ady hòa nhã, tử tế"
+        ],
+        [
+          "instant",
+          "n",
+          "adị lập tức, dùng ngay được"
+        ],
+        [
+          "loyalty",
+          "n",
+          "adị lập tức, dùng ngay được"
+        ],
+        [
+          "refer to",
+          "phr",
+          "để cập đến, ám chỉ"
+        ],
+        [
+          "smoothly",
+          "adv",
+          "trơn tru, trôi chảy"
+        ],
+        [
+          "a unlike",
+          "prep",
+          "khác với"
+        ],
+        [
+          "user-friendly",
+          "n",
+          "aơi thân thiện với người dùng"
+        ],
+        [
+          "vivid",
+          "n",
+          "adị sống động, sặc sỡ"
+        ],
+        [
+          "willing",
+          "n",
+          "adị sống động, sặc sỡ"
+        ],
+        [
+          "at one's request",
+          "phr",
+          "adị sẵn lòng, vui lòng"
+        ],
+        [
+          "breakage",
+          "n",
+          "ii tổn thất, đổ/chỗ bị nứt"
+        ],
+        [
+          "compliment",
+          "n",
+          "lời khen, lời ca tụng"
+        ],
+        [
+          "cut back",
+          "phr",
+          "cắt giảm"
+        ],
+        [
+          "faulty",
+          "phr",
+          "cắt giảm"
+        ],
+        [
+          "general population",
+          "phr",
+          "dân chúng"
+        ],
+        [
+          "make a complaint",
+          "phr",
+          "phàn nàn"
+        ],
+        [
+          "make a request",
+          "phr",
+          "phàn nàn"
+        ],
+        [
+          "make a response",
+          "phr",
+          "phản hồi"
+        ],
+        [
+          "make an appointment",
+          "phr",
+          "phản hồi"
+        ],
+        [
+          "meet the standards",
+          "phr",
+          "đáp ứng tiêu chuẩn"
+        ],
+        [
+          "mistakenly",
+          "adv",
+          "nhầm lẫn"
+        ],
+        [
+          "people of all ages",
+          "adv",
+          "nhầm lẫn"
+        ],
+        [
+          "post a notice on",
+          "phr",
+          "đăng thông báo về"
+        ],
+        [
+          "service depot",
+          "phr",
+          "trung tâm dịch vụ"
+        ],
+        [
+          "stain",
+          "phr",
+          "trung tâm dịch vụ"
+        ],
+        [
+          "trace",
+          "n",
+          "iị vết nhơ, vết bẩn"
+        ],
+        [
+          "wear out",
+          "phr",
+          "Y lần theo; i dấu vết, vết tích"
+        ],
+        [
+          "work properly",
+          "phr",
+          "hoạt động tốt/ổn định"
+        ]
+      ]
+    },
+    "l900": {
+      "LC": [],
+      "P56": [],
+      "P7": [
+        [
+          "bare",
+          "n",
+          "adị trần, trống không"
+        ],
+        [
+          "button up",
+          "phr",
+          "adị trần, trống không"
+        ],
+        [
+          "casualty",
+          "n",
+          "người thương vong, tổn thất"
+        ],
+        [
+          "deputy",
+          "n",
+          "người đại diện"
+        ],
+        [
+          "mend",
+          "v",
+          "hàn gắn, sửa chữa"
+        ],
+        [
+          "testimonial",
+          "n",
+          "thư tiến cử"
+        ],
+        [
+          "adaptability",
+          "n",
+          "khả năng thích nghi"
+        ],
+        [
+          "aggression",
+          "n",
+          "khả năng thích nghi"
+        ],
+        [
+          "censure",
+          "n",
+          "nị sự phê bình; * phê bình, chỉ trích"
+        ],
+        [
+          "claims department",
+          "phr",
+          "phòng bối thường (của công ty bảo hiểm)"
+        ],
+        [
+          "compelling",
+          "n",
+          "adi hấp dẫn, thuyết phục"
+        ],
+        [
+          "a decisive",
+          "phr",
+          "adị quyết định, quả quyễt"
+        ],
+        [
+          "distress",
+          "n",
+          "nỗi đau khổ; v làm đau khổ"
+        ],
+        [
+          "facilitate",
+          "v",
+          "làm cho dễ dàng, tạo điều kiện"
+        ],
+        [
+          "factually",
+          "n",
+          "aơv đúng như thật"
+        ],
+        [
+          "a fleetingly",
+          "adv",
+          "mau lẹ, nhanh chóng"
+        ],
+        [
+          "frankly",
+          "n",
+          "aay thẳng thần"
+        ],
+        [
+          "nourish",
+          "n",
+          "y nuôi dưỡng, ấp ủ"
+        ],
+        [
+          "reinforcement",
+          "n",
+          "y nuôi dưỡng, ấp ủ"
+        ],
+        [
+          "sparsely",
+          "adv",
+          "thưa thớt, rải rác"
+        ],
+        [
+          "unwavering",
+          "n",
+          "adị kiên định, vững vàng"
+        ],
+        [
+          "vibrant",
+          "n",
+          "adi rung động, sôi nổi"
+        ],
+        [
+          "wonder",
+          "v",
+          "tự hỏi; n điều kỳ diệu"
+        ],
+        [
+          "blemish",
+          "v",
+          "tự hỏi; n điều kỳ diệu"
+        ],
+        [
+          "a genuine",
+          "phr",
+          "adi xác thực, chân thật"
+        ],
+        [
+          "hazard",
+          "n",
+          "m rủi ro"
+        ],
+        [
+          "intercept",
+          "n",
+          "m rủi ro"
+        ],
+        [
+          "rebate",
+          "n",
+          "y hạ giá; n số tiền được giảm"
+        ],
+        [
+          "retrospective",
+          "n",
+          "y hạ giá; n số tiền được giảm"
+        ],
+        [
+          "slip one's mind",
+          "phr",
+          "quên"
+        ],
+        [
+          "soak up",
+          "phr",
+          "quên"
+        ],
+        [
+          "swiftly",
+          "phr",
+          "tiếp nhận, hấp thụ"
+        ]
+      ]
+    }
+  },
+  "dailyCheckup": {
+    "page": 229,
+    "groups": [
+      {
+        "instruction": "Tìm ở cột bên phải nghĩa của các từ vựng ở cột bên trái và nối chúng với nhau.",
+        "options": [
+          {
+            "key": "a",
+            "text": "tiêu cực"
+          },
+          {
+            "key": "b",
+            "text": "ngay lập tức"
+          },
+          {
+            "key": "c",
+            "text": "cách tiếp cận"
+          },
+          {
+            "key": "d",
+            "text": "bị cấm"
+          },
+          {
+            "key": "e",
+            "text": "sự chấp thuận"
+          },
+          {
+            "key": "f",
+            "text": "truy cập"
+          }
+        ],
+        "questions": [
+          {
+            "no": 1,
+            "prompt": "complaint",
+            "answer": "a"
+          },
+          {
+            "no": 2,
+            "prompt": "applaud",
+            "answer": "a"
+          },
+          {
+            "no": 3,
+            "prompt": "interact",
+            "answer": "a"
+          },
+          {
+            "no": 5,
+            "prompt": "replace",
+            "answer": "a"
+          }
+        ]
+      },
+      {
+        "instruction": "Hãy chọn từ phù hợp để điền vào mỗi câu của bài thi TOEIC dạng thức mới sau.",
+        "options": [
+          {
+            "key": "a",
+            "text": "inspection"
+          },
+          {
+            "key": "b",
+            "text": "effect"
+          },
+          {
+            "key": "c",
+            "text": "authorized"
+          },
+          {
+            "key": "d",
+            "text": "procedure"
+          },
+          {
+            "key": "e",
+            "text": "concern"
+          }
+        ],
+        "questions": [
+          {
+            "no": 6,
+            "prompt": "priority",
+            "answer": "a"
+          },
+          {
+            "no": 6,
+            "prompt": "This short will explain how the camera works.",
+            "answer": "a"
+          },
+          {
+            "no": 7,
+            "prompt": "Customers will receive_ of all special offers and sales.",
+            "answer": "a"
+          },
+          {
+            "no": 8,
+            "prompt": "Tony's... showed he had studied at a university in Texas.",
+            "answer": "a"
+          },
+          {
+            "no": 9,
+            "prompt": "This computer sells well because it received a high_ rating.",
+            "answer": "a"
+          }
+        ]
+      },
+      {
+        "instruction": "Hãy chọn từ phù hợp để điền vào mỗi câu của bài thi TOEIC dạng thức mới sau.",
+        "options": [
+          {
+            "key": "a",
+            "text": "obligation"
+          },
+          {
+            "key": "b",
+            "text": "drastically"
+          },
+          {
+            "key": "c",
+            "text": "revise"
+          },
+          {
+            "key": "d",
+            "text": "thoroughly"
+          },
+          {
+            "key": "e",
+            "text": "arrangements"
+          }
+        ],
+        "questions": [
+          {
+            "no": 10,
+            "prompt": "The engineers are_ that their car is the fastest.",
+            "answer": "a"
+          },
+          {
+            "no": 11,
+            "prompt": "The efficiency of a business __ how well it is run.",
+            "answer": "a"
+          },
+          {
+            "no": 12,
+            "prompt": "The store has_ directions for customers to return products.",
+            "answer": "a"
+          },
+          {
+            "no": 13,
+            "prompt": "Ms. Tan was _ with unprofessional manners of some hotel staff.",
+            "answer": "a"
+          }
+        ]
+      }
+    ]
+  },
+  "title": "Khách hàng là thượng đế",
+  "titleVi": "Khách hàng là thượng đế",
+  "category": "Dịch vụ khách hàng"
+}

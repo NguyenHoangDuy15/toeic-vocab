@@ -1,0 +1,1004 @@
+import json
+
+day18_data = {
+  "dayNo": 18,
+  "titleVi": "Nơi lưu trú - Nhà hàng",
+  "titleEn": "Hospitality & Restaurant",
+  "category": "Hospitality",
+  "coreWords": [
+    {
+      "no": 1,
+      "word": "check in",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "tʃek ɪn",
+      "ipaUs": "tʃek ɪn",
+      "page": 299,
+      "senses": [
+        {
+          "pos": "phr",
+          "meaning": "làm thủ tục vào (nhận phòng, lên máy bay)",
+          "examples": [
+            {
+              "en": "Please be sure to check in by 7 P.M.",
+              "vi": "Xin lưu ý làm thủ tục trước 7 giờ tối."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 2,
+      "word": "compensate",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "kömpanseit",
+      "ipaUs": "kämpanseit",
+      "page": 299,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "bù, đền bù, bồi thường",
+          "examples": [
+            {
+              "en": "The hotel compensated the guest for the erroneous charge.",
+              "vi": "Khách sạn đã bồi thường cho vị khách vì khoản phí bị sai sót."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 3,
+      "word": "elegant",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "éligent",
+      "ipaUs": "éligent",
+      "page": 300,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "thanh lịch, tao nhã",
+          "examples": [
+            {
+              "en": "The recently renovated lobby boasts elegant decor.",
+              "vi": "Khu hành lang mới được cải tạo nổi bật với thiết kế trang nhã."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 4,
+      "word": "flavor",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "fléiva",
+      "ipaUs": "fléiver",
+      "page": 300,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "vị, mùi vị",
+          "examples": [
+            {
+              "en": "The shop sells ice cream in a variety of flavors.",
+              "vi": "Cửa hàng này bán các loại kem với rất nhiều vị."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 5,
+      "word": "accommodate",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "əˈkɒmədeɪt",
+      "ipaUs": "əˈkɑːmədeɪt",
+      "page": 300,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "cung cấp chỗ ở, đáp ứng chỗ cho",
+          "examples": [
+            {
+              "en": "The hotel can accommodate up to 500 conference guests.",
+              "vi": "Khách sạn có thể cung cấp chỗ ở cho tối đa 500 khách dự hội nghị."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 6,
+      "word": "reserve",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "rɪˈzɜːv",
+      "ipaUs": "rɪˈzɜːrv",
+      "page": 301,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "đặt trước, giữ chỗ",
+          "examples": [
+            {
+              "en": "We reserved a private dining room for the celebration.",
+              "vi": "Chúng tôi đã đặt trước một phòng ăn riêng cho buổi lễ."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 7,
+      "word": "reservation",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "ˌrezəˈveɪʃn",
+      "ipaUs": "ˌrezərˈveɪʃn",
+      "page": 301,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự đặt trước (chỗ ngồi, phòng khách sạn)",
+          "examples": [
+            {
+              "en": "I'd like to confirm my dinner reservation for this Friday.",
+              "vi": "Tôi muốn xác nhận đặt chỗ ăn tối cho thứ Sáu tuần này."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 8,
+      "word": "available",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "əˈveɪləbl",
+      "ipaUs": "əˈveɪləbl",
+      "page": 302,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "có sẵn, còn trống",
+          "examples": [
+            {
+              "en": "No single rooms are available during the holiday weekend.",
+              "vi": "Không còn phòng đơn trống trong dịp cuối tuần lễ."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 9,
+      "word": "beverage",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "ˈbevərɪdʒ",
+      "ipaUs": "ˈbevərɪdʒ",
+      "page": 302,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "đồ uống, thức uống",
+          "examples": [
+            {
+              "en": "Guests may purchase beverages from the hotel bar.",
+              "vi": "Khách có thể mua đồ uống từ quầy bar của khách sạn."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 10,
+      "word": "refreshment",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "rɪˈfreʃmənt",
+      "ipaUs": "rɪˈfreʃmənt",
+      "page": 303,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "đồ ăn thức uống nhẹ",
+          "examples": [
+            {
+              "en": "Complimentary refreshments were served in the lounge.",
+              "vi": "Đồ ăn thức uống nhẹ miễn phí được phục vụ tại sảnh chờ."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 11,
+      "word": "delicious",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "dɪˈlɪʃəs",
+      "ipaUs": "dɪˈlɪʃəs",
+      "page": 303,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "ngon miệng, thơm ngon",
+          "examples": [
+            {
+              "en": "The seafood soup was extraordinarily delicious.",
+              "vi": "Món súp hải sản vô cùng thơm ngon."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 12,
+      "word": "cuisine",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "kwɪˈziːn",
+      "ipaUs": "kwɪˈziːn",
+      "page": 304,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "ẩm thực, phong cách nấu nướng",
+          "examples": [
+            {
+              "en": "The resort offers a wide selection of international cuisine.",
+              "vi": "Khu nghỉ dưỡng cung cấp nhiều lựa chọn ẩm thực quốc tế."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 13,
+      "word": "culinary",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "ˈkʌlɪnəri",
+      "ipaUs": "ˈkʌlɪneri",
+      "page": 304,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "thuộc về nấu nướng, ẩm thực",
+          "examples": [
+            {
+              "en": "She enrolled in a culinary institute to master pastry arts.",
+              "vi": "Cô đã ghi danh vào một học viện ẩm thực để làm chủ nghệ thuật làm bánh."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 14,
+      "word": "atmosphere",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "ˈætməsfɪə",
+      "ipaUs": "ˈætməsfɪr",
+      "page": 305,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "bầu không khí",
+          "examples": [
+            {
+              "en": "Live piano music creates a relaxing dining atmosphere.",
+              "vi": "Tiếng đàn piano sống tạo nên bầu không khí ăn uống thư giãn."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 15,
+      "word": "ingredient",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "ɪnˈɡriːdiənt",
+      "ipaUs": "ɪnˈɡriːdiənt",
+      "page": 305,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "thành phần, nguyên liệu",
+          "examples": [
+            {
+              "en": "Only fresh, locally sourced ingredients are used.",
+              "vi": "Chỉ những nguyên liệu tươi ngon, có nguồn gốc địa phương mới được sử dụng."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 16,
+      "word": "appetizer",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "ˈæpɪtaɪzə",
+      "ipaUs": "ˈæpɪtaɪzər",
+      "page": 306,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "món khai vị",
+          "examples": [
+            {
+              "en": "We ordered a selection of hot appetizers for the group.",
+              "vi": "Chúng tôi đã gọi một số món khai vị nóng cho nhóm."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 17,
+      "word": "entree",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "ˈɒntreɪ",
+      "ipaUs": "ˈɑːntreɪ",
+      "page": 306,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "món chính trong bữa ăn",
+          "examples": [
+            {
+              "en": "The steak entree comes with roasted vegetables.",
+              "vi": "Món bít tết chính đi kèm với rau củ nướng."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 18,
+      "word": "dessert",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "dɪˈzɜːt",
+      "ipaUs": "dɪˈzɜːrt",
+      "page": 307,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "món tráng miệng",
+          "examples": [
+            {
+              "en": "Save room for our famous homemade cheesecake dessert.",
+              "vi": "Hãy để dành bụng cho món bánh phô mai tráng miệng nhà làm nổi tiếng của chúng tôi."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 19,
+      "word": "chef",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "ʃef",
+      "ipaUs": "ʃef",
+      "page": 307,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "đầu bếp, bếp trưởng",
+          "examples": [
+            {
+              "en": "The head chef has won multiple international awards.",
+              "vi": "Bếp trưởng đã giành được nhiều giải thưởng quốc tế."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 20,
+      "word": "cater",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "ˈkeɪtə",
+      "ipaUs": "ˈkeɪtər",
+      "page": 308,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "phục vụ ăn uống (sự kiện, tiệc)",
+          "examples": [
+            {
+              "en": "They hired a reputable firm to cater the corporate gala.",
+              "vi": "Họ đã thuê một công ty danh tiếng để phục vụ ăn uống cho buổi dạ tiệc công ty."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 21,
+      "word": "banquet",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "ˈbæŋkwɪt",
+      "ipaUs": "ˈbæŋkwɪt",
+      "page": 308,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "yến tiệc, bữa tiệc lớn",
+          "examples": [
+            {
+              "en": "The awards banquet will begin promptly at eight o'clock.",
+              "vi": "Tiệc trao giải sẽ bắt đầu đúng lúc 8 giờ."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 22,
+      "word": "confirm",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "kənˈfɜːm",
+      "ipaUs": "kənˈfɜːrm",
+      "page": 309,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "xác nhận, khẳng định",
+          "examples": [
+            {
+              "en": "An email was sent to confirm your hotel reservation.",
+              "vi": "Một email đã được gửi để xác nhận đặt phòng khách sạn của bạn."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 23,
+      "word": "cancel",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "ˈkænsl",
+      "ipaUs": "ˈkænsl",
+      "page": 309,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "hủy bỏ",
+          "examples": [
+            {
+              "en": "You may cancel without penalty up to 48 hours before arrival.",
+              "vi": "Quý khách có thể hủy phòng không mất phí tối đa 48 giờ trước khi đến."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 24,
+      "word": "occupancy",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "ˈɒkjəpənsi",
+      "ipaUs": "ˈɑːkjəpənsi",
+      "page": 310,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "tỷ lệ lấp đầy phòng, sự có người ở",
+          "examples": [
+            {
+              "en": "Hotel occupancy reached ninety percent in peak tourist season.",
+              "vi": "Tỷ lệ phòng khách sạn có khách đạt 90% trong mùa du lịch cao điểm."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 25,
+      "word": "amenities",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "əˈmiːnətiz",
+      "ipaUs": "əˈmenətiz",
+      "page": 310,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "tiện nghi (hồ bơi, wifi, phòng tập)",
+          "examples": [
+            {
+              "en": "The hotel features upscale amenities including a heated pool.",
+              "vi": "Khách sạn sở hữu các tiện nghi cao cấp bao gồm hồ bơi nước ấm."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 26,
+      "word": "vacancy",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "ˈveɪkənsi",
+      "ipaUs": "ˈveɪkənsi",
+      "page": 311,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "phòng trống, chỗ trống",
+          "examples": [
+            {
+              "en": "The motel had no vacancies due to the festival in town.",
+              "vi": "Nhà nghỉ không còn phòng trống nào do lễ hội trong thị trấn."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 27,
+      "word": "rate",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "reɪt",
+      "ipaUs": "reɪt",
+      "page": 311,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "mức giá, giá cước",
+          "examples": [
+            {
+              "en": "Room rates vary depending on the season and day of the week.",
+              "vi": "Giá phòng thay đổi tùy theo mùa và ngày trong tuần."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 28,
+      "word": "deposit",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "dɪˈpɒzɪt",
+      "ipaUs": "dɪˈpɑːzɪt",
+      "page": 311,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "tiền đặt cọc",
+          "examples": [
+            {
+              "en": "A deposit of one night's stay is required to secure the room.",
+              "vi": "Cần đặt cọc một đêm tiền phòng để đảm bảo giữ phòng."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 29,
+      "word": "suite",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "swiːt",
+      "ipaUs": "swiːt",
+      "page": 311,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "phòng thượng hạng, dãy phòng sang trọng",
+          "examples": [
+            {
+              "en": "They upgraded to an executive suite overlooking the ocean.",
+              "vi": "Họ đã nâng cấp lên phòng thượng hạng có tầm nhìn ra đại dương."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 30,
+      "word": "courteous",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "ˈkɜːtiəs",
+      "ipaUs": "ˈkɜːrtiəs",
+      "page": 312,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "lịch sự, nhã nhặn",
+          "examples": [
+            {
+              "en": "The front desk staff were exceptionally courteous and helpful.",
+              "vi": "Nhân viên lễ tân đặc biệt lịch sự và nhiệt tình giúp đỡ."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 31,
+      "word": "receptionist",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "rɪˈsepʃənɪst",
+      "ipaUs": "rɪˈsepʃənɪst",
+      "page": 312,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "nhân viên lễ tân",
+          "examples": [
+            {
+              "en": "The receptionist gave us keycards and directions to the gym.",
+              "vi": "Nhân viên tiếp tân đã đưa thẻ phòng và hướng dẫn đường đến phòng gym."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 32,
+      "word": "front desk",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "ˌfrʌnt ˈdesk",
+      "ipaUs": "ˌfrʌnt ˈdesk",
+      "page": 312,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "quầy lễ tân, bàn tiếp tân",
+          "examples": [
+            {
+              "en": "Please contact the front desk if you require extra towels.",
+              "vi": "Vui lòng liên hệ với quầy lễ tân nếu bạn cần thêm khăn tắm."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 33,
+      "word": "housekeeping",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "ˈhaʊskiːpɪŋ",
+      "ipaUs": "ˈhaʊskiːpɪŋ",
+      "page": 313,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "bộ phận phục vụ phòng, công việc dọn phòng",
+          "examples": [
+            {
+              "en": "Housekeeping visits rooms daily between 10 A.M. and 2 P.M.",
+              "vi": "Bộ phận dọn phòng đến dọn phòng hàng ngày từ 10 giờ sáng đến 2 giờ chiều."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 34,
+      "word": "complimentary",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "ˌkɒmplɪˈmentri",
+      "ipaUs": "ˌkɑːmplɪˈmentri",
+      "page": 313,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "miễn phí, biếu tặng",
+          "examples": [
+            {
+              "en": "Guests are entitled to complimentary breakfast every morning.",
+              "vi": "Khách lưu trú được hưởng bữa ăn sáng miễn phí mỗi sáng."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 35,
+      "word": "hospitality",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "ˌhɒspɪˈtæləti",
+      "ipaUs": "ˌhɑːspɪˈtæləti",
+      "page": 314,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự hiếu khách, ngành du lịch nhà hàng khách sạn",
+          "examples": [
+            {
+              "en": "We appreciate the warm hospitality extended by your staff.",
+              "vi": "Chúng tôi đánh giá cao lòng hiếu khách nồng ấm của đội ngũ nhân viên các bạn."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 36,
+      "word": "buffet",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "ˈbʊfeɪ",
+      "ipaUs": "bəˈfeɪ",
+      "page": 314,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "tiệc tự chọn, bữa ăn tự chọn",
+          "examples": [
+            {
+              "en": "The dinner buffet features hot roasts and fresh seafood.",
+              "vi": "Bữa tiệc tối tự chọn có thịt nướng nóng hổi và hải sản tươi ngon."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 37,
+      "word": "patron",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "ˈpeɪtrən",
+      "ipaUs": "ˈpeɪtrən",
+      "page": 315,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "khách hàng quen, thực khách",
+          "examples": [
+            {
+              "en": "The bistro rewards loyal patrons with complimentary desserts.",
+              "vi": "Quán ăn thưởng cho những khách hàng quen các món tráng miệng miễn phí."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 38,
+      "word": "tip",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "tɪp",
+      "ipaUs": "tɪp",
+      "page": 315,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "tiền boa, tiền thưởng thêm",
+          "examples": [
+            {
+              "en": "A fifteen percent tip is standard for good restaurant service.",
+              "vi": "Tiền boa 15% là tiêu chuẩn cho chất lượng dịch vụ tốt của nhà hàng."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 39,
+      "word": "dine",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "daɪn",
+      "ipaUs": "daɪn",
+      "page": 316,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "dùng bữa, ăn tối",
+          "examples": [
+            {
+              "en": "They decided to dine outdoors under the terrace lights.",
+              "vi": "Họ đã quyết định dùng bữa ngoài trời dưới ánh đèn sân thượng."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 40,
+      "word": "retain",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "rɪˈteɪn",
+      "ipaUs": "rɪˈteɪn",
+      "page": 316,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "giữ lại, duy trì",
+          "examples": [
+            {
+              "en": "The restaurant has retained its reputation for excellence.",
+              "vi": "Nhà hàng vẫn duy trì được danh tiếng xuất sắc của mình."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    }
+  ],
+  "dailyCheckup": [
+    {
+      "instruction": "Tìm ở cột bên phải nghĩa của các từ vựng ở cột bên trái và nối chúng với nhau.",
+      "options": [
+        {"key": "a", "text": "làm thủ tục vào"},
+        {"key": "b", "text": "đền bù, bồi thường"},
+        {"key": "c", "text": "thanh lịch, tao nhã"},
+        {"key": "d", "text": "mùi vị"},
+        {"key": "e", "text": "cung cấp chỗ ở"},
+        {"key": "f", "text": "đặt chỗ trước"}
+      ],
+      "questions": [
+        {"no": 1, "prompt": "check in", "answer": "a"},
+        {"no": 2, "prompt": "compensate", "answer": "b"},
+        {"no": 3, "prompt": "elegant", "answer": "c"},
+        {"no": 4, "prompt": "flavor", "answer": "d"},
+        {"no": 5, "prompt": "accommodate", "answer": "e"}
+      ]
+    },
+    {
+      "instruction": "Hãy chọn từ phù hợp để điền vào mỗi câu của bài thi TOEIC dạng thức mới sau.",
+      "options": [
+        {"key": "a", "text": "amenities"},
+        {"key": "b", "text": "complimentary"},
+        {"key": "c", "text": "reservation"},
+        {"key": "d", "text": "available"}
+      ],
+      "questions": [
+        {"no": 6, "prompt": "Please confirm your dinner _______ before 5 P.M.", "answer": "c"},
+        {"no": 7, "prompt": "The hotel provides _______ breakfast to all staying guests.", "answer": "b"},
+        {"no": 8, "prompt": "Are there any single rooms _______ for this weekend?", "answer": "d"},
+        {"no": 9, "prompt": "The resort boasts top-notch _______ such as a sauna and pool.", "answer": "a"}
+      ]
+    },
+    {
+      "instruction": "Hãy chọn từ phù hợp để điền vào mỗi câu của bài thi TOEIC dạng thức mới sau.",
+      "options": [
+        {"key": "a", "text": "patrons"},
+        {"key": "b", "text": "occupancy"},
+        {"key": "c", "text": "hospitality"},
+        {"key": "d", "text": "cater"}
+      ],
+      "questions": [
+        {"no": 10, "prompt": "The city is celebrated for its genuine warmth and _______.", "answer": "c"},
+        {"no": 11, "prompt": "The restaurant was selected to _______ the anniversary dinner.", "answer": "d"},
+        {"no": 12, "prompt": "Summer holiday travel has driven up hotel _______ rates.", "answer": "b"},
+        {"no": 13, "prompt": "Loyal _______ receive special discount coupons upon arrival.", "answer": "a"}
+      ]
+    }
+  ],
+  "completeVocab": {
+    "basic": [
+      {"word": "inn", "pos": "n", "meaning": "quán trọ, nhà nghỉ nhỏ", "section": "LC"},
+      {"word": "motel", "pos": "n", "meaning": "nhà nghỉ bên đường", "section": "LC"},
+      {"word": "menu", "pos": "n", "meaning": "thực đơn", "section": "RC"},
+      {"word": "bill", "pos": "n", "meaning": "hóa đơn thanh toán", "section": "RC"}
+    ],
+    "score800": [
+      {"word": "concierge", "pos": "n", "meaning": "nhân viên hỗ trợ khách sạn", "section": "LC"},
+      {"word": "valet", "pos": "n", "meaning": "nhân viên đỗ xe", "section": "LC"},
+      {"word": "delicacy", "pos": "n", "meaning": "cao lương mỹ vị, món ngon", "section": "P56"},
+      {"word": "sommelier", "pos": "n", "meaning": "chuyên gia nếm rượu", "section": "P7"}
+    ],
+    "score900": [
+      {"word": "epicurean", "pos": "adj", "meaning": "sành ăn, sành sỏi ẩm thực", "section": "LC"},
+      {"word": "culinarian", "pos": "n", "meaning": "người làm bếp chuyên nghiệp", "section": "P56"},
+      {"word": "gourmet", "pos": "adj", "meaning": "thượng hạng, dành cho người sành điệu", "section": "P7"}
+    ]
+  }
+}
+
+with open("data/days/day18.json", "w", encoding="utf-8") as f:
+    json.dump(day18_data, f, ensure_ascii=False, indent=2)
+
+print("[SUCCESS] Day 18 created with 40 core words and complete checkups.")

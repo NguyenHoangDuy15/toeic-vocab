@@ -1,0 +1,1728 @@
+{
+  "dayNo": 22,
+  "titleVi": "Một cuộc họp khẩn",
+  "titleEn": "Topic 22",
+  "category": "Hội họp",
+  "coreWords": [
+    {
+      "no": 1,
+      "word": "reschedule",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "reschedule",
+      "ipaUs": "rì:skédzu:l",
+      "page": 354,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "dời lịch, đổi lịch",
+          "examples": [
+            {
+              "en": "The conference may be rescheduled if Mr. Bellman is",
+              "vi": "Hội nghị có thể bị dời lịch nếu như ông Bellman vắng mặt. n cuộc họp, cuộc gặp"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 2,
+      "word": "meeting",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "meeting",
+      "ipaUs": "mí:tio",
+      "page": 354,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "cuộc họp, cuộc gặp",
+          "examples": [
+            {
+              "en": "The meeting will begin at 10 A.M., so please be on",
+              "vi": "Cuộc họp sẽ được bắt đầu lúc 10 giờ sáng, vì vậy xin hãy có mặt đúng giờ. V xác định; quyết định"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 3,
+      "word": "determine",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "Uk dité:min",
+      "ipaUs": "dité:rmin",
+      "page": 354,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "báo cáo, thông báo, đưa tin; trình diện, có mặt",
+          "examples": [
+            {
+              "en": "The team met to determine the cause of the chemical The project participants gathered briefly to determine their next course of action.",
+              "vi": "leak. Cả đội đã họp mặt để xác định nguyên nhân của việc rò rỉ hóa chất. Những người tham gia dự án đã tập trung trong giây lát để quyết"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 4,
+      "word": "report",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "ripô:t",
+      "ipaUs": "rip5:rt",
+      "page": 354,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "báo cáo, thông báo, đưa tin; trình diện, có mặt",
+          "examples": [
+            {
+              "en": "Hackers TOEIC Vocabulary The head researcher reported his findings to the department leaders.",
+              "vi": "Trưởng nhóm nghiên cứu đã báo cáo về những khám phá của mình với các trưởng ban. Tất cả nhân viên mới cần phải đến dự buổi định hướng khi"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 5,
+      "word": "comment",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "Uk köment",
+      "ipaUs": "káment",
+      "page": 355,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "bình luận, đưa ra ý kiến",
+          "examples": [
+            {
+              "en": "The spokesperson refused to comment on the budget",
+              "vi": "cuts. Người phát ngôn từ chối đưa ra bình luận về những cắt giảm ngân sách. * comment + about/on bình luận về"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 6,
+      "word": "phase",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "phase",
+      "ipaUs": "feiz",
+      "page": 355,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "bước, giai đoạn",
+          "examples": [
+            {
+              "en": "Mr. Baker made a detailed plan for the building project's third phase.",
+              "vi": "Ông Baker đã lập một kế hoạch chi tiết cho giai đoạn thứ ba của dự án xây dựng tòa nhà. v chấp thuận, phê chuẩn"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 7,
+      "word": "approve",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "approve",
+      "ipaUs": "eprú:v",
+      "page": 355,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "chấp thuận, phê chuẩn",
+          "examples": [
+            {
+              "en": "The head architect approved the proposal for changing the design process.",
+              "vi": "Kiến trúc sư trưởng đã chấp thuận đề xuất thay đổi quy trình thiết kế. C approve the request chấp thuận lời yêu cầu"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 8,
+      "word": "enclosed",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "inklśuzd",
+      "ipaUs": "inklóuzd",
+      "page": 355,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "Please review the enclosed.",
+              "vi": "Vui lòng xem xét enclosed."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 9,
+      "word": "easy",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "easy",
+      "ipaUs": "í:zi",
+      "page": 356,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "dễ dàng, đơn giản",
+          "examples": [
+            {
+              "en": "The decision to sell the shopping mall was not easy",
+              "vi": "Thật không dễ để đưa ra quyết định bán trung tâm mua sẩm này. easy to do dễ dàng làm gì Bạn có thể sẽ gặp trong để thi cụm từ easy to do này."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 10,
+      "word": "record",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "rik5:d",
+      "ipaUs": "v) [ rik5:rd",
+      "page": 356,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "kỷ lục; hồ sơ, sổ sách ghi chép, lý lịch",
+          "examples": [
+            {
+              "en": "Managers reviewed the accounts record before making a final decision. The secretary recorded everything that was said at",
+              "vi": "Các quản lý đã xem xét hồ sơ sổ sách trước khi đưa ra quyết dịnh cuối cùng. v ghi chép, thu âm, ghi hình"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 11,
+      "word": "suggestion",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "sadzéstjan",
+      "ipaUs": "sagdzéstjon",
+      "page": 356,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự đề nghị, đề xuất",
+          "examples": [
+            {
+              "en": "Mr. Kumar made a useful suggestion to help improve profit margins.",
+              "vi": "Ông Kumar đã đưa ra một để xuất hữu ích giúp cải thiện biên lợi nhuận."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 12,
+      "word": "attention",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "attention",
+      "ipaUs": "aténjon",
+      "page": 357,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự chú ý, sự chăm sóc",
+          "examples": [
+            {
+              "en": "The officials paid attention to the incoming president's formal address.",
+              "vi": "Các quan chức dành sự chú ý đến bài phát biểu chính thức của vị tổng thống kế nhiệm. pay attention to chú ý tới"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 13,
+      "word": "object",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "object",
+      "ipaUs": "abdzékt",
+      "page": 357,
+      "senses": [
+        {
+          "pos": "adv",
+          "meaning": "trùng hợp, ngẫu nhiên",
+          "examples": [
+            {
+              "en": "No one objected to taking a short coffee break.",
+              "vi": "Không ai phản đối việc nghỉ giải lao một lúc. g object to -ing phản đối làm gì object thường đi với giới từ to và theo sau phải là một danh"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 14,
+      "word": "coincidentally",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "kauinsidéntli",
+      "ipaUs": "kouìnsidéntli",
+      "page": 357,
+      "senses": [
+        {
+          "pos": "adv",
+          "meaning": "trùng hợp, ngẫu nhiên",
+          "examples": [
+            {
+              "en": "The new managers introduced at the meeting were both coincidentally from Taiwan.",
+              "vi": "Hai quản lý mới được giới thiệu tại cuộc họp thật trùng hợp đều đến từ Đài Loan."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 15,
+      "word": "crowded",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "crowded",
+      "ipaUs": "kráudid",
+      "page": 358,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "đông đúc, chật ních",
+          "examples": [
+            {
+              "en": "Conference attendees have complained about the small venue being too crowded.",
+              "vi": "Những người tham dự hội nghị phàn nàn về việc địa điểm tổ chức nhỏ nhưng lại quá đông đúc. v trải qua, chịu đựng"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 16,
+      "word": "undergo",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "undergo",
+      "ipaUs": "indergóu",
+      "page": 358,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "trải qua, chịu đựng",
+          "examples": [
+            {
+              "en": "The meeting room is unavailable because it is undergoing renovation.",
+              "vi": "Phòng họp hiện không sử dụng được vì đang được tu sửa. - dạng thựi mộ. cựn undergo construction/renovations trải qua việc thi"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 17,
+      "word": "outcome",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "outcome",
+      "ipaUs": "áutk›m",
+      "page": 358,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "kết quả, hậu quả",
+          "examples": [
+            {
+              "en": "The outcome of the study was a topic for debate.",
+              "vi": "Kết quả nghiên cứu đã trở thành một chủ để gây tranh cãi. adv hẹp hòi, hạn chế; kỹ lưỡng, tỉ mỉ"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 18,
+      "word": "narrowly",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "nærauli",
+      "ipaUs": "nærouli",
+      "page": 358,
+      "senses": [
+        {
+          "pos": "adv",
+          "meaning": "hẹp hòi, hạn chế; kỹ lưỡng, tỉ mỉ",
+          "examples": [
+            {
+              "en": "The keynote speech was narrowly focused on trends Hackers TOEIC Vocabular)",
+              "vi": "Bài phát biểu chính tập trung nói kỹ về các xu hướng trong ngành này. be narrowly focused on tập trung sâu vào"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 19,
+      "word": "differ",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "difa",
+      "ipaUs": "difar",
+      "page": 358,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "khác, không giống, bất đồng",
+          "examples": [
+            {
+              "en": "Executives differ in their opinions on the issue of",
+              "vi": "Các giám đốc điều hành bất đồng quan điểm về vấn đề làm việc từ xa."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 20,
+      "word": "discuss",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "discuss",
+      "ipaUs": "der. discsion (n",
+      "page": 359,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "đưa ra, cho, tặng",
+          "examples": [
+            {
+              "en": "Jeremy Stevens discussed the design proposal with",
+              "vi": "Jeremy Stevens đã thảo luận về để xuất thiết kế với các đồng nghiệp. Bai thi TOEIC dạng thực mơi"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 21,
+      "word": "give",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "give",
+      "ipaUs": "giv",
+      "page": 359,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "đưa ra, cho, tặng",
+          "examples": [
+            {
+              "en": "The former president of Gascom will give a speech.",
+              "vi": "Cựu Chủ tịch của Gascom sẽ phát biểu. Bai thì TOEIC đạng thức mớn give a speech phát biểu"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 22,
+      "word": "brief",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "brief",
+      "ipaUs": "bri:f",
+      "page": 359,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "The manager briefed the staff on the policy change.",
+              "vi": "Người quản lý đã nói vẫn tắt về sự thay đổi chính sách cho nhân viên. Bài thi TOEIC dạng thức mới"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 23,
+      "word": "distract",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "distract",
+      "ipaUs": "distrækt",
+      "page": 360,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "làm sao lãng, gây phân tâm",
+          "examples": [
+            {
+              "en": "The meeting's participants were constantly distracted",
+              "vi": "Những người tham dự cuộc họp liên tục bị tiếng ổn làm sao lãng. n sự nhấn mạnh"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 24,
+      "word": "emphasis",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "emphasis",
+      "ipaUs": "émfosis",
+      "page": 360,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự nhấn mạnh",
+          "examples": [
+            {
+              "en": "The speaker placed an emphasis on economic development strategies.",
+              "vi": "Diễn giả nhấn mạnh vào các chiến lược phát triển kinh tế. \" place an emphasis on nhấn mạnh vào with emphasis với sự nhấn mạnh"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 25,
+      "word": "press",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "press",
+      "ipaUs": "pres",
+      "page": 360,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "báo chí",
+          "examples": [
+            {
+              "en": "The press covered the merger talks closely. The lecturer pressed the button to lower the screen. Hackers TOEIC Vocabulary",
+              "vi": "Bảo chí đăng tải các cuộc thảo luận về vụ sáp nhập rất sát sao. y ấn, nhấn Giảng viên nhấn nút để hạ thấp màn hình."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 26,
+      "word": "organize",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "5:ganaiz",
+      "ipaUs": "bergonàiz",
+      "page": 360,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "tổ chức, thiết lập",
+          "examples": [
+            {
+              "en": "Roy Dell organized a series of marketing seminars.",
+              "vi": "Roy Dell dã tổ chức một chuối các hội thảo về tiếp thị. Bải thì TOEIC dạng thức mới organize a committee thiết lập một ủy ban"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 27,
+      "word": "mention",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "mention",
+      "ipaUs": "mén{on",
+      "page": 361,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "nói đến, để cập đến",
+          "examples": [
+            {
+              "en": "Karl mentioned his concern about the low attendance levels.",
+              "vi": "Karl đã đề cập đến lo ngại của anh ấy về việc có ít người tham dự. adj có sức thuyết phục"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 28,
+      "word": "persuasive",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "paswéisiv",
+      "ipaUs": "parswéisiv",
+      "page": 361,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "có sức thuyết phục",
+          "examples": [
+            {
+              "en": "Julia Accord's offer was refused despite her persuasive arguments. Bae thi TOEIC dang thc mon",
+              "vi": "Để nghị của Julia Accord đã bị khước từ bất chấp những lập luận đầy sức thuyết phục của cô ấy. 1. persuasive + argument/evidence lập luận/chứng"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 29,
+      "word": "understanding",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "Àndastændin",
+      "ipaUs": "Àndorstændio",
+      "page": 361,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "The negotiator assumed an understanding attitude throughout the discussion. It is understandable that the director was so upset.",
+              "vi": "Nhà thương thuyết đã thể hiện thái độ cảm thông trong suốt cuộc thảo luận. - understanding hiểu biết, thông cảm"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 30,
+      "word": "adjourn",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "adze:n",
+      "ipaUs": "adz:n",
+      "page": 361,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "The meeting was adjourned an hour after it began.",
+              "vi": "Cuộc họp đã bị ngừng lại một tiếng sau khi bắt đầu."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 31,
+      "word": "constructive",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "constructive",
+      "ipaUs": "kanstráktiv",
+      "page": 362,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "mang tính xây dựng",
+          "examples": [
+            {
+              "en": "Supervisors should give constructive criticism to",
+              "vi": "Cấp trên nên đưa ra những nhận xét mang tính xây dựng đổi với các nhân viên. v chủ trì, chủ tọa"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 32,
+      "word": "preside",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "preside",
+      "ipaUs": "prizáid",
+      "page": 362,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "chủ trì, chủ tọa",
+          "examples": [
+            {
+              "en": "The chief of human resources will preside over the annual staff gathering. Bo th TOER Mang the Do",
+              "vi": "Giám đốc nhân sự sẽ chủ trì cuộc họp nhân viên thường niên. [ cum] preside over chủ trì, chủ tọa Sau preside và giới từ over thường là danh từ chỉ việc hội họp."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 33,
+      "word": "irrelevant",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "Uk irélivant",
+      "ipaUs": "irélovont",
+      "page": 362,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "không liên quan",
+          "examples": [
+            {
+              "en": "Hackers TOEIC Voca The argument was irrelevant to the topic. Internet conferencing allows communication",
+              "vi": "Lập luận đó không liên quan đến chủ đề. Bạn có thể gặp dạng để yêu cầu phân biệt hai từ đều mang nghĩa \"không liên quan\" này."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 34,
+      "word": "constraint",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "constraint",
+      "ipaUs": "kanstréint",
+      "page": 363,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự ràng buộc, sự hạn chế, sự eo hẹp",
+          "examples": [
+            {
+              "en": "Due to time constraints, the policy change was not With training, Roy lost all his inhibitions about public speaking.",
+              "vi": "Do hạn chế về thời gian nên sự thay đổi về chính sách đã không được thảo luận. Lh Bạn có thể gặp dạng để yêu cầu phân biệt hai từ cũng mang"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    }
+  ],
+  "dailyCheckup": {
+    "page": 0,
+    "groups": [
+      {
+        "instruction": "Tìm ở cột bên phải nghĩa của các từ vựng ở cột bên trái và nối chúng với nhau.",
+        "options": [
+          {
+            "key": "a",
+            "text": "tiêu cực"
+          },
+          {
+            "key": "b",
+            "text": "ngay lập tức"
+          },
+          {
+            "key": "c",
+            "text": "cách tiếp cận"
+          },
+          {
+            "key": "d",
+            "text": "bị cấm"
+          },
+          {
+            "key": "e",
+            "text": "sự chấp thuận"
+          },
+          {
+            "key": "f",
+            "text": "truy cập"
+          }
+        ],
+        "questions": [
+          {
+            "no": 1,
+            "prompt": "outcome",
+            "answer": "a"
+          },
+          {
+            "no": 2,
+            "prompt": "approve",
+            "answer": "a"
+          },
+          {
+            "no": 3,
+            "prompt": "consensus",
+            "answer": "a"
+          },
+          {
+            "no": 4,
+            "prompt": "crowded",
+            "answer": "a"
+          },
+          {
+            "no": 5,
+            "prompt": "object",
+            "answer": "a"
+          }
+        ]
+      },
+      {
+        "instruction": "Hãy chọn từ phù hợp để điền vào mỗi câu của bài thi TOEIC dạng thức mới sau.",
+        "options": [
+          {
+            "key": "a",
+            "text": "inspection"
+          },
+          {
+            "key": "b",
+            "text": "effect"
+          },
+          {
+            "key": "c",
+            "text": "authorized"
+          },
+          {
+            "key": "d",
+            "text": "procedure"
+          },
+          {
+            "key": "e",
+            "text": "concern"
+          }
+        ],
+        "questions": [
+          {
+            "no": 6,
+            "prompt": "The first item on the",
+            "answer": "a"
+          },
+          {
+            "no": 7,
+            "prompt": "Both speakers had... attended the same university.",
+            "answer": "a"
+          },
+          {
+            "no": 8,
+            "prompt": "Jeff",
+            "answer": "a"
+          },
+          {
+            "no": 9,
+            "prompt": "The second_ was completed faster than the first stage was.",
+            "answer": "a"
+          }
+        ]
+      },
+      {
+        "instruction": "Hãy chọn từ phù hợp để điền vào mỗi câu của bài thi TOEIC dạng thức mới sau.",
+        "options": [
+          {
+            "key": "a",
+            "text": "obligation"
+          },
+          {
+            "key": "b",
+            "text": "drastically"
+          },
+          {
+            "key": "c",
+            "text": "revise"
+          },
+          {
+            "key": "d",
+            "text": "thoroughly"
+          },
+          {
+            "key": "e",
+            "text": "arrangements"
+          }
+        ],
+        "questions": [
+          {
+            "no": 10,
+            "prompt": "Please return the _",
+            "answer": "a"
+          },
+          {
+            "no": 11,
+            "prompt": "Managers will. the meeting to a more convenient time.",
+            "answer": "a"
+          },
+          {
+            "no": 12,
+            "prompt": "The representatives will together to discuss sales strategy.",
+            "answer": "a"
+          },
+          {
+            "no": 13,
+            "prompt": "The organizer must how many invitations should be mailed.",
+            "answer": "a"
+          }
+        ]
+      }
+    ]
+  },
+  "completeVocab": {
+    "basic": [
+      {
+        "word": "TƯ VỰNG TOEIC HOÀN CHÍNH",
+        "pos": "phr",
+        "meaning": "Hội họp",
+        "section": "RC"
+      },
+      {
+        "word": "annual meeting",
+        "pos": "phr",
+        "meaning": "cuộc hợp thương niên",
+        "section": "RC"
+      },
+      {
+        "word": "conference room",
+        "pos": "phr",
+        "meaning": "phòng hợp, hội trường",
+        "section": "RC"
+      },
+      {
+        "word": "guest speaker",
+        "pos": "phr",
+        "meaning": "phòng hợp, hội trường",
+        "section": "RC"
+      },
+      {
+        "word": "hand out",
+        "pos": "phr",
+        "meaning": "phát, phân phát",
+        "section": "RC"
+      },
+      {
+        "word": "holiday",
+        "pos": "n",
+        "meaning": "ngày nghỉ, ngày lễ",
+        "section": "RC"
+      },
+      {
+        "word": "let's end",
+        "pos": "phr",
+        "meaning": "hãy kết thúc",
+        "section": "RC"
+      },
+      {
+        "word": "meeting time",
+        "pos": "phr",
+        "meaning": "giờ họp",
+        "section": "RC"
+      },
+      {
+        "word": "scan",
+        "pos": "n",
+        "meaning": "y đọc lướt, nhìn lướt, quét",
+        "section": "RC"
+      },
+      {
+        "word": "shake hands",
+        "pos": "phr",
+        "meaning": "y đọc lướt, nhìn lướt, quét",
+        "section": "RC"
+      },
+      {
+        "word": "a speech",
+        "pos": "n",
+        "meaning": "bài phát biều",
+        "section": "RC"
+      },
+      {
+        "word": "i teammate",
+        "pos": "n",
+        "meaning": "bài phát biều",
+        "section": "RC"
+      },
+      {
+        "word": "water",
+        "pos": "n",
+        "meaning": "đồng đội",
+        "section": "RC"
+      },
+      {
+        "word": "a write down",
+        "pos": "phr",
+        "meaning": "viết ra",
+        "section": "RC"
+      },
+      {
+        "word": "advise A of B",
+        "pos": "phr",
+        "meaning": "viết ra",
+        "section": "RC"
+      },
+      {
+        "word": "a be held",
+        "pos": "phr",
+        "meaning": "khuyên A về B",
+        "section": "RC"
+      },
+      {
+        "word": "a be scheduled for",
+        "pos": "phr",
+        "meaning": "được lên lịch để",
+        "section": "RC"
+      },
+      {
+        "word": "business talk",
+        "pos": "phr",
+        "meaning": "được lên lịch để",
+        "section": "RC"
+      },
+      {
+        "word": "conversation",
+        "pos": "n",
+        "meaning": "cuộc chuyện trò/hội thoại",
+        "section": "RC"
+      },
+      {
+        "word": "debate",
+        "pos": "v",
+        "meaning": "tranh luận",
+        "section": "RC"
+      },
+      {
+        "word": "express",
+        "pos": "v",
+        "meaning": "tranh luận",
+        "section": "RC"
+      },
+      {
+        "word": "gathering",
+        "pos": "n",
+        "meaning": "sự hội họp",
+        "section": "RC"
+      },
+      {
+        "word": "judge",
+        "pos": "v",
+        "meaning": "đánh giá, phán xét",
+        "section": "RC"
+      },
+      {
+        "word": "local time",
+        "pos": "v",
+        "meaning": "đánh giá, phán xét",
+        "section": "RC"
+      },
+      {
+        "word": "result in",
+        "pos": "phr",
+        "meaning": "gây ra, dẫn đến",
+        "section": "RC"
+      },
+      {
+        "word": "seating chart",
+        "pos": "phr",
+        "meaning": "sơ đỗ chỗ ngồi",
+        "section": "RC"
+      },
+      {
+        "word": "seminar",
+        "pos": "phr",
+        "meaning": "sơ đỗ chỗ ngồi",
+        "section": "RC"
+      },
+      {
+        "word": "Vote",
+        "pos": "n",
+        "meaning": "hội thảo",
+        "section": "RC"
+      },
+      {
+        "word": "weekly",
+        "pos": "n",
+        "meaning": "adị hằng tuần",
+        "section": "RC"
+      }
+    ],
+    "score800": [
+      {
+        "word": "a large attendance",
+        "pos": "phr",
+        "meaning": "lượng người tham dự lớn",
+        "section": "P56"
+      },
+      {
+        "word": "attend a conference",
+        "pos": "phr",
+        "meaning": "tham dự hội nghi",
+        "section": "P56"
+      },
+      {
+        "word": "business attire",
+        "pos": "phr",
+        "meaning": "trang phục cho môi trường kinh doanh",
+        "section": "P56"
+      },
+      {
+        "word": "conference call",
+        "pos": "phr",
+        "meaning": "cuộc gọi hội nghi",
+        "section": "P56"
+      },
+      {
+        "word": "convention",
+        "pos": "n",
+        "meaning": "hội nghị",
+        "section": "P56"
+      },
+      {
+        "word": "face to face",
+        "pos": "phr",
+        "meaning": "đổi diện, trực tiếp",
+        "section": "P56"
+      },
+      {
+        "word": "film footage",
+        "pos": "phr",
+        "meaning": "cảnh phim, đoạn phim",
+        "section": "P56"
+      },
+      {
+        "word": "get an appointment",
+        "pos": "phr",
+        "meaning": "cảnh phim, đoạn phim",
+        "section": "P56"
+      },
+      {
+        "word": "get back in touch",
+        "pos": "phr",
+        "meaning": "liên lạc lai",
+        "section": "P56"
+      },
+      {
+        "word": "get in touch with",
+        "pos": "phr",
+        "meaning": "liên lạc với",
+        "section": "P56"
+      },
+      {
+        "word": "give a presentation",
+        "pos": "phr",
+        "meaning": "thuyết trình",
+        "section": "P56"
+      },
+      {
+        "word": "have a discussion",
+        "pos": "phr",
+        "meaning": "thảo luận",
+        "section": "P56"
+      },
+      {
+        "word": "keynote address",
+        "pos": "phr",
+        "meaning": "bài phát biểu chính",
+        "section": "P56"
+      },
+      {
+        "word": "keynote speaker",
+        "pos": "phr",
+        "meaning": "bài phát biểu chính",
+        "section": "P56"
+      },
+      {
+        "word": "make a speech",
+        "pos": "phr",
+        "meaning": "phát biếu",
+        "section": "P56"
+      },
+      {
+        "word": "make adjustments",
+        "pos": "phr",
+        "meaning": "điều chỉnh",
+        "section": "P56"
+      },
+      {
+        "word": "pass around",
+        "pos": "phr",
+        "meaning": "chuyền tay",
+        "section": "P56"
+      },
+      {
+        "word": "pass out",
+        "pos": "phr",
+        "meaning": "bất tỉnh",
+        "section": "P56"
+      },
+      {
+        "word": "o put in an offer",
+        "pos": "phr",
+        "meaning": "bất tỉnh",
+        "section": "P56"
+      },
+      {
+        "word": "run a meeting",
+        "pos": "phr",
+        "meaning": "điều hành cuộc họp",
+        "section": "P56"
+      },
+      {
+        "word": "schedule an appointment",
+        "pos": "phr",
+        "meaning": "sắp đặt cuộc hẹn",
+        "section": "P56"
+      },
+      {
+        "word": "speak up",
+        "pos": "phr",
+        "meaning": "sắp đặt cuộc hẹn",
+        "section": "P56"
+      },
+      {
+        "word": "stare into",
+        "pos": "phr",
+        "meaning": "nhìn chầm chăm vào",
+        "section": "P56"
+      },
+      {
+        "word": "take down",
+        "pos": "phr",
+        "meaning": "hạ xuống, ghi lại",
+        "section": "P56"
+      },
+      {
+        "word": "take notes",
+        "pos": "phr",
+        "meaning": "hạ xuống, ghi lại",
+        "section": "P56"
+      },
+      {
+        "word": "take part in",
+        "pos": "phr",
+        "meaning": "tham gia, góp phần vào",
+        "section": "P56"
+      },
+      {
+        "word": "o visual aid",
+        "pos": "phr",
+        "meaning": "phương tiện/giáo cụ trực quan",
+        "section": "P56"
+      },
+      {
+        "word": "conventional",
+        "pos": "phr",
+        "meaning": "phương tiện/giáo cụ trực quan",
+        "section": "P56"
+      },
+      {
+        "word": "a custom",
+        "pos": "phr",
+        "meaning": "• phong tục, tục lệ",
+        "section": "P56"
+      },
+      {
+        "word": "hold back",
+        "pos": "phr",
+        "meaning": "kim nên, ngân lại",
+        "section": "P56"
+      },
+      {
+        "word": "intense",
+        "pos": "phr",
+        "meaning": "kim nên, ngân lại",
+        "section": "P56"
+      },
+      {
+        "word": "a misprint",
+        "pos": "n",
+        "meaning": "lỗi in",
+        "section": "P56"
+      },
+      {
+        "word": "occupied",
+        "pos": "n",
+        "meaning": "adị bị chiếm, bị sử dụng",
+        "section": "P56"
+      },
+      {
+        "word": "participate in",
+        "pos": "phr",
+        "meaning": "tham gia vào",
+        "section": "P7"
+      },
+      {
+        "word": "punctual",
+        "pos": "adj",
+        "meaning": "đúng giờ",
+        "section": "P7"
+      },
+      {
+        "word": "to start with",
+        "pos": "adj",
+        "meaning": "đúng giờ",
+        "section": "P7"
+      },
+      {
+        "word": "arrange a conference",
+        "pos": "phr",
+        "meaning": "sắp xếp một cuộc họp",
+        "section": "P7"
+      },
+      {
+        "word": "be supposed to do",
+        "pos": "phr",
+        "meaning": "đáng lẽ/cần phải làm gì",
+        "section": "P7"
+      },
+      {
+        "word": "biweekly",
+        "pos": "n",
+        "meaning": "adị hai tuần một lần; một tuần hai lần",
+        "section": "P7"
+      },
+      {
+        "word": "a bring up",
+        "pos": "phr",
+        "meaning": "nuôi dưỡng",
+        "section": "P7"
+      },
+      {
+        "word": "clash",
+        "pos": "n",
+        "meaning": "sự xung đột, sự mâu thuẩn",
+        "section": "P7"
+      },
+      {
+        "word": "come to a decision",
+        "pos": "phr",
+        "meaning": "đi đến một quyết định",
+        "section": "P7"
+      },
+      {
+        "word": "come to an agreement",
+        "pos": "phr",
+        "meaning": "đi đến một quyết định",
+        "section": "P7"
+      },
+      {
+        "word": "controversial",
+        "pos": "n",
+        "meaning": "adị gây tranh cãi",
+        "section": "P7"
+      },
+      {
+        "word": "develop into",
+        "pos": "phr",
+        "meaning": "phát triển thành",
+        "section": "P7"
+      },
+      {
+        "word": "get the point",
+        "pos": "phr",
+        "meaning": "hiếu, hiểu ý",
+        "section": "P7"
+      },
+      {
+        "word": "a in conclusion",
+        "pos": "phr",
+        "meaning": "kết luận lại",
+        "section": "P7"
+      },
+      {
+        "word": "a in support of",
+        "pos": "phr",
+        "meaning": "để hố trợ/ủng hộ cho",
+        "section": "P7"
+      },
+      {
+        "word": "in the middle of",
+        "pos": "phr",
+        "meaning": "để hố trợ/ủng hộ cho",
+        "section": "P7"
+      },
+      {
+        "word": "a insist",
+        "pos": "phr",
+        "meaning": "* khang kháng, nài nỉ",
+        "section": "P7"
+      },
+      {
+        "word": "insult",
+        "pos": "v",
+        "meaning": "xúc phạm, lăng mạ",
+        "section": "P7"
+      },
+      {
+        "word": "a inviting",
+        "pos": "phr",
+        "meaning": "adị mời mọc, lôi cuốn",
+        "section": "P7"
+      },
+      {
+        "word": "luncheon",
+        "pos": "n",
+        "meaning": "tiệc trưa",
+        "section": "P7"
+      },
+      {
+        "word": "make a conclusion",
+        "pos": "n",
+        "meaning": "tiệc trưa",
+        "section": "P7"
+      },
+      {
+        "word": "make a decision",
+        "pos": "phr",
+        "meaning": "đưa ra kết luận",
+        "section": "P7"
+      },
+      {
+        "word": "offer an apology to A",
+        "pos": "phr",
+        "meaning": "bày tỏ lời xin lỗi đến A",
+        "section": "P7"
+      },
+      {
+        "word": "official arrangement",
+        "pos": "phr",
+        "meaning": "bày tỏ lời xin lỗi đến A",
+        "section": "P7"
+      },
+      {
+        "word": "OJT (on-the-job training)",
+        "pos": "n",
+        "meaning": "đào tạo tại chỗ (cầm tay chỉ việc)",
+        "section": "P7"
+      },
+      {
+        "word": "a opponent",
+        "pos": "n",
+        "meaning": "đối thú, địch thủ",
+        "section": "P7"
+      },
+      {
+        "word": "postpone until",
+        "pos": "n",
+        "meaning": "đối thú, địch thủ",
+        "section": "P7"
+      },
+      {
+        "word": "public speaking",
+        "pos": "phr",
+        "meaning": "nói trước đám đông",
+        "section": "P7"
+      },
+      {
+        "word": "reach a conclusion",
+        "pos": "phr",
+        "meaning": "nói trước đám đông",
+        "section": "P7"
+      },
+      {
+        "word": "reach unanimous agreement",
+        "pos": "phr",
+        "meaning": "đạt được thỏa thuận thống nhất",
+        "section": "P7"
+      },
+      {
+        "word": "reassure",
+        "pos": "v",
+        "meaning": "trần an, làm yên lòng",
+        "section": "P7"
+      },
+      {
+        "word": "recess",
+        "pos": "v",
+        "meaning": "trần an, làm yên lòng",
+        "section": "P7"
+      },
+      {
+        "word": "to the point",
+        "pos": "n",
+        "meaning": "giờ nghỉ, giờ giải lao",
+        "section": "P7"
+      },
+      {
+        "word": "turn out",
+        "pos": "phr",
+        "meaning": "đúng trọng tâm, phù hợp",
+        "section": "P7"
+      },
+      {
+        "word": "without the consent of",
+        "pos": "phr",
+        "meaning": "hóa ra. được chứng tỏ là",
+        "section": "P7"
+      }
+    ],
+    "score900": [
+      {
+        "word": "chair",
+        "pos": "n",
+        "meaning": "y làm chủ tọa (cuộc họp)",
+        "section": "P7"
+      },
+      {
+        "word": "a conflict of interest",
+        "pos": "phr",
+        "meaning": "xung đột về lợi ích",
+        "section": "P7"
+      },
+      {
+        "word": "excerpt",
+        "pos": "n",
+        "meaning": "\" đoạn trích, phần trích",
+        "section": "P7"
+      },
+      {
+        "word": "prop against",
+        "pos": "phr",
+        "meaning": "dựa vào, đỡ bằng",
+        "section": "P7"
+      },
+      {
+        "word": "run late",
+        "pos": "phr",
+        "meaning": "bị muộn, bị trể",
+        "section": "P7"
+      },
+      {
+        "word": "sit through",
+        "pos": "phr",
+        "meaning": "ngồi đến cuối",
+        "section": "P7"
+      },
+      {
+        "word": "stand on",
+        "pos": "phr",
+        "meaning": "dứng trên",
+        "section": "P7"
+      },
+      {
+        "word": "symposium",
+        "pos": "phr",
+        "meaning": "dứng trên",
+        "section": "P7"
+      },
+      {
+        "word": "consenting",
+        "pos": "n",
+        "meaning": "adị đồng thuận, sẵn lòng",
+        "section": "P7"
+      },
+      {
+        "word": "conversationally",
+        "pos": "adv",
+        "meaning": "bằng trò chuyện, đàm thoại",
+        "section": "P7"
+      },
+      {
+        "word": "eloquent",
+        "pos": "n",
+        "meaning": "adị hùng hỗn",
+        "section": "P7"
+      },
+      {
+        "word": "faction",
+        "pos": "n",
+        "meaning": "phe phái",
+        "section": "P7"
+      },
+      {
+        "word": "illegible",
+        "pos": "n",
+        "meaning": "adị khó đọc, không đọc được",
+        "section": "P7"
+      },
+      {
+        "word": "presumably",
+        "pos": "n",
+        "meaning": "adị khó đọc, không đọc được",
+        "section": "P7"
+      },
+      {
+        "word": "abbreviate",
+        "pos": "v",
+        "meaning": "viết tắt, rút gọn",
+        "section": "P7"
+      },
+      {
+        "word": "abridgment",
+        "pos": "n",
+        "meaning": "• sự rút ngắn, sự giảm bớt",
+        "section": "P7"
+      },
+      {
+        "word": "coherent",
+        "pos": "n",
+        "meaning": "adị mạch lạc, chặt chế",
+        "section": "P7"
+      },
+      {
+        "word": "a confine",
+        "pos": "phr",
+        "meaning": "y giam hăm, hạn chế",
+        "section": "P7"
+      },
+      {
+        "word": "counteroffer",
+        "pos": "n",
+        "meaning": "y giam hăm, hạn chế",
+        "section": "P7"
+      },
+      {
+        "word": "disperse",
+        "pos": "v",
+        "meaning": "giải tán (đám đông)",
+        "section": "P7"
+      },
+      {
+        "word": "a distinguished",
+        "pos": "phr",
+        "meaning": "adị khác biệt, xuất sắc",
+        "section": "P7"
+      },
+      {
+        "word": "elaborate",
+        "pos": "n",
+        "meaning": "adị khác biệt, xuất sắc",
+        "section": "P7"
+      },
+      {
+        "word": "enthuse",
+        "pos": "n",
+        "meaning": "y tỏ ra nhiệt tình, hăng hái",
+        "section": "P7"
+      },
+      {
+        "word": "moderate a meeting",
+        "pos": "phr",
+        "meaning": "điều tiết một cuộc hợp",
+        "section": "P7"
+      },
+      {
+        "word": "off chance",
+        "pos": "phr",
+        "meaning": "điều tiết một cuộc hợp",
+        "section": "P7"
+      },
+      {
+        "word": "a presiding",
+        "pos": "adj",
+        "meaning": "chủ trì",
+        "section": "P7"
+      },
+      {
+        "word": "put off",
+        "pos": "phr",
+        "meaning": "hoãn lại",
+        "section": "P7"
+      },
+      {
+        "word": "stand up for",
+        "pos": "phr",
+        "meaning": "ủng hộ cho",
+        "section": "P7"
+      },
+      {
+        "word": "succinct",
+        "pos": "n",
+        "meaning": "adị cô đọng, ngắn gọn",
+        "section": "P7"
+      },
+      {
+        "word": "summit meeting",
+        "pos": "phr",
+        "meaning": "adị cô đọng, ngắn gọn",
+        "section": "P7"
+      },
+      {
+        "word": "summon",
+        "pos": "n",
+        "meaning": "hội nghị thượng đỉnh",
+        "section": "P7"
+      },
+      {
+        "word": "uphold",
+        "pos": "v",
+        "meaning": "ủng hộ, tán thành",
+        "section": "P7"
+      }
+    ]
+  },
+  "title": "Một cuộc họp khẩn"
+}

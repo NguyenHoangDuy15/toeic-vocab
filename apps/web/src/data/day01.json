@@ -3,633 +3,2058 @@
   "source": "manual transcription (pages 27-41)",
   "coreWords": [
     {
-      "no": 1, "word": "résumé", "stars": 2, "part": "P7", "ipaUk": "rézumèi", "ipaUs": "rézjuːmei", "page": 27,
+      "no": 1,
+      "word": "résumé",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "rézumèi",
+      "ipaUs": "rézjuːmei",
+      "page": 27,
       "senses": [
-        { "pos": "n", "meaning": "sơ yếu lý lịch", "examples": [
-          { "en": "Fax your **résumé** and cover letter to the above number.", "vi": "Hãy gửi sơ yếu lý lịch và đơn xin việc của bạn qua fax đến số bên trên." }
-        ] }
+        {
+          "pos": "n",
+          "meaning": "sơ yếu lý lịch",
+          "examples": [
+            {
+              "en": "Fax your **résumé** and cover letter to the above number.",
+              "vi": "Hãy gửi sơ yếu lý lịch và đơn xin việc của bạn qua fax đến số bên trên."
+            }
+          ]
+        }
       ]
     },
     {
-      "no": 2, "word": "opening", "stars": 2, "part": "P56", "ipaUk": "óupəniŋ", "ipaUs": "óupəniŋ", "page": 27,
+      "no": 2,
+      "word": "opening",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "óupəniŋ",
+      "ipaUs": "óupəniŋ",
+      "page": 27,
       "senses": [
-        { "pos": "n", "meaning": "vị trí trống, sự mở cửa, lễ khai trương", "examples": [
-          { "en": "There are several job **openings** at the restaurant right now.", "vi": "Ngay bây giờ đang có một vài vị trí công việc còn trống ở nhà hàng." },
-          { "en": "JX Finances officially announced the **opening** of its first international branch.", "vi": "JX Finances đã chính thức thông báo việc khai trương chi nhánh quốc tế đầu tiên của mình." }
-        ] }
-      ],
-      "relations": [ { "type": "syn", "text": "vacancy", "meaning": "khoảng trống, vị trí trống" } ],
-      "notes": [
-        { "type": "grammar", "title": "an opening: vị trí trống (danh từ đếm được)", "content": "Khi opening được dùng với nghĩa \"vị trí trống\" thì đây là danh từ đếm được, ta cần thêm mạo từ an hoặc viết dưới dạng số nhiều openings." },
-        { "type": "tip", "title": "opening = vacancy", "content": "Khi opening mang nghĩa \"vị trí trống\", ta có thể thay nó bằng vacancy." }
-      ]
-    },
-    {
-      "no": 3, "word": "applicant", "stars": 3, "part": "P56", "ipaUk": "ǽplikənt", "ipaUs": "ǽplikənt", "page": 27,
-      "senses": [
-        { "pos": "n", "meaning": "ứng viên, người xin việc", "examples": [
-          { "en": "**Applicants** are required to submit a résumé.", "vi": "Các ứng viên cần phải nộp sơ yếu lý lịch." }
-        ] }
+        {
+          "pos": "n",
+          "meaning": "vị trí trống, sự mở cửa, lễ khai trương",
+          "examples": [
+            {
+              "en": "There are several job **openings** at the restaurant right now.",
+              "vi": "Ngay bây giờ đang có một vài vị trí công việc còn trống ở nhà hàng."
+            },
+            {
+              "en": "JX Finances officially announced the **opening** of its first international branch.",
+              "vi": "JX Finances đã chính thức thông báo việc khai trương chi nhánh quốc tế đầu tiên của mình."
+            }
+          ]
+        }
       ],
       "relations": [
-        { "type": "der", "text": "apply", "pos": "v", "meaning": "áp dụng, ứng tuyển" },
-        { "type": "der", "text": "application", "pos": "n", "meaning": "đơn ứng tuyển, sự ứng dụng" },
-        { "type": "der", "text": "appliance", "pos": "n", "meaning": "thiết bị, dụng cụ" }
+        {
+          "type": "syn",
+          "text": "vacancy",
+          "meaning": "khoảng trống, vị trí trống"
+        }
       ],
       "notes": [
-        { "type": "collocation", "title": "complete/submit/receive + an application", "content": "điền/nộp/nhận đơn đăng ký. application thường đi kèm các động từ như complete, submit, receive." },
-        { "type": "confusable", "title": "applicant ↔ application", "content": "applicant: ứng viên (chỉ người); application: bản đăng ký, đơn ứng tuyển, sự ứng dụng (chỉ vật). Cùng gốc nhưng nghĩa khác nhau; tránh nhầm với appliance (thiết bị điện tử)." }
+        {
+          "type": "grammar",
+          "title": "an opening: vị trí trống (danh từ đếm được)",
+          "content": "Khi opening được dùng với nghĩa \"vị trí trống\" thì đây là danh từ đếm được, ta cần thêm mạo từ an hoặc viết dưới dạng số nhiều openings."
+        },
+        {
+          "type": "tip",
+          "title": "opening = vacancy",
+          "content": "Khi opening mang nghĩa \"vị trí trống\", ta có thể thay nó bằng vacancy."
+        }
       ]
     },
     {
-      "no": 4, "word": "requirement", "stars": 3, "part": "P7", "ipaUk": "rikwáiərmənt", "ipaUs": "rikwáiəmənt", "page": 27,
+      "no": 3,
+      "word": "applicant",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "ǽplikənt",
+      "ipaUs": "ǽplikənt",
+      "page": 27,
       "senses": [
-        { "pos": "n", "meaning": "điều kiện cần thiết, yêu cầu", "examples": [
-          { "en": "A driver's license is a **requirement** of this job.", "vi": "Giấy phép lái xe là một điều kiện cần cho công việc này." }
-        ] }
+        {
+          "pos": "n",
+          "meaning": "ứng viên, người xin việc",
+          "examples": [
+            {
+              "en": "**Applicants** are required to submit a résumé.",
+              "vi": "Các ứng viên cần phải nộp sơ yếu lý lịch."
+            }
+          ]
+        }
       ],
       "relations": [
-        { "type": "der", "text": "require", "pos": "v", "meaning": "yêu cầu" },
-        { "type": "syn", "text": "prerequisite", "meaning": "điều kiện tiên quyết" }
+        {
+          "type": "der",
+          "text": "apply",
+          "pos": "v",
+          "meaning": "áp dụng, ứng tuyển"
+        },
+        {
+          "type": "der",
+          "text": "application",
+          "pos": "n",
+          "meaning": "đơn ứng tuyển, sự ứng dụng"
+        },
+        {
+          "type": "der",
+          "text": "appliance",
+          "pos": "n",
+          "meaning": "thiết bị, dụng cụ"
+        }
       ],
       "notes": [
-        { "type": "collocation", "title": "a requirement + of/for", "content": "điều kiện cần cho. requirement thường đi kèm giới từ of, for." }
+        {
+          "type": "collocation",
+          "title": "complete/submit/receive + an application",
+          "content": "điền/nộp/nhận đơn đăng ký. application thường đi kèm các động từ như complete, submit, receive."
+        },
+        {
+          "type": "confusable",
+          "title": "applicant ↔ application",
+          "content": "applicant: ứng viên (chỉ người); application: bản đăng ký, đơn ứng tuyển, sự ứng dụng (chỉ vật). Cùng gốc nhưng nghĩa khác nhau; tránh nhầm với appliance (thiết bị điện tử)."
+        }
       ]
     },
     {
-      "no": 5, "word": "meet", "stars": 3, "part": "P56", "ipaUk": "miːt", "ipaUs": "miːt", "page": 28,
+      "no": 4,
+      "word": "requirement",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "rikwáiərmənt",
+      "ipaUs": "rikwáiəmənt",
+      "page": 27,
       "senses": [
-        { "pos": "v", "meaning": "thỏa mãn, đáp ứng (yêu cầu, điều kiện)", "examples": [
-          { "en": "Applicants must **meet** all the requirements for the job.", "vi": "Các ứng viên phải đáp ứng tất cả yêu cầu của công việc." }
-        ] }
-      ],
-      "relations": [ { "type": "syn", "text": "satisfy, fulfill", "meaning": "thỏa mãn, đáp ứng (yêu cầu, điều kiện)" } ],
-      "notes": [
-        { "type": "collocation", "title": "meet one's needs / meet requirements / meet customer demand / meet expectations", "content": "đáp ứng nhu cầu của ai đó / đáp ứng các yêu cầu / đáp ứng yêu cầu của khách hàng / thỏa mãn mong đợi. meet thường được biết đến với nghĩa \"gặp mặt\", nhưng trong bài thi TOEIC nó thường xuất hiện với nghĩa \"đáp ứng được yêu cầu nào đó\"." }
-      ]
-    },
-    {
-      "no": 6, "word": "qualified", "stars": 3, "part": "P56", "ipaUk": "kwáləfàid", "ipaUs": "kwɔ́lifaid", "page": 28,
-      "senses": [
-        { "pos": "adj", "meaning": "đủ khả năng, trình độ, điều kiện", "examples": [
-          { "en": "People with master's degrees are **qualified** for the research position.", "vi": "Những người có bằng thạc sĩ thì đủ điều kiện cho vị trí nghiên cứu này." }
-        ] }
+        {
+          "pos": "n",
+          "meaning": "điều kiện cần thiết, yêu cầu",
+          "examples": [
+            {
+              "en": "A driver's license is a **requirement** of this job.",
+              "vi": "Giấy phép lái xe là một điều kiện cần cho công việc này."
+            }
+          ]
+        }
       ],
       "relations": [
-        { "type": "der", "text": "qualify", "pos": "v", "meaning": "đủ điều kiện, phù hợp" },
-        { "type": "der", "text": "qualification", "pos": "n", "meaning": "phẩm chất, năng lực" },
-        { "type": "der", "text": "qualifier", "pos": "n", "meaning": "người đủ điều kiện" },
-        { "type": "syn", "text": "certified", "meaning": "được chứng nhận" }
+        {
+          "type": "der",
+          "text": "require",
+          "pos": "v",
+          "meaning": "yêu cầu"
+        },
+        {
+          "type": "syn",
+          "text": "prerequisite",
+          "meaning": "điều kiện tiên quyết"
+        }
       ],
       "notes": [
-        { "type": "collocation", "title": "be qualified for / qualifications for", "content": "đủ điều kiện cho / tiêu chuẩn (phẩm chất, năng lực) cho. qualified và danh từ qualification thường đi kèm giới từ for." }
+        {
+          "type": "collocation",
+          "title": "a requirement + of/for",
+          "content": "điều kiện cần cho. requirement thường đi kèm giới từ of, for."
+        }
       ]
     },
     {
-      "no": 7, "word": "candidate", "stars": 3, "part": "P56", "ipaUk": "kǽndidèit", "ipaUs": "kǽndidət", "page": 28,
+      "no": 5,
+      "word": "meet",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "miːt",
+      "ipaUs": "miːt",
+      "page": 28,
       "senses": [
-        { "pos": "n", "meaning": "thí sinh, ứng viên", "examples": [
-          { "en": "Five **candidates** will be selected for final interviews.", "vi": "Năm ứng viên sẽ được chọn vào vòng phỏng vấn cuối cùng." }
-        ] }
-      ],
-      "relations": [ { "type": "syn", "text": "applicant", "meaning": "ứng viên" } ]
-    },
-    {
-      "no": 8, "word": "confidence", "stars": 2, "part": "P56", "ipaUk": "kánfədəns", "ipaUs": "kɔ́nfidəns", "page": 28,
-      "senses": [
-        { "pos": "n", "meaning": "sự tự tin, sự tin tưởng, lòng tin", "examples": [
-          { "en": "We have **confidence** that she can handle the position.", "vi": "Chúng tôi có lòng tin rằng cô ấy có thể đảm đương được vị trí này." },
-          { "en": "The recommendations showed **confidence** in his abilities.", "vi": "Các thư giới thiệu đều thể hiện sự tin tưởng vào năng lực của anh ấy." }
-        ] }
-      ],
-      "relations": [ { "type": "der", "text": "confident", "pos": "adj", "meaning": "tự tin, tin tưởng" } ],
-      "notes": [
-        { "type": "collocation", "title": "show/express + confidence in", "content": "thể hiện sự tự tin về. confidence thường ghép cặp với các động từ thể hiện cảm xúc như show, express và thường đi với giới từ in." },
-        { "type": "confusable", "title": "confidence in ↔ in confidence", "content": "confidence in: tin chắc, tự tin về điều gì; in confidence: bí mật. Ý nghĩa hoàn toàn khác nhau tùy vào vị trí của giới từ in." }
-      ]
-    },
-    {
-      "no": 9, "word": "highly", "stars": 3, "part": "P56", "ipaUk": "háili", "ipaUs": "háili", "page": 29,
-      "senses": [
-        { "pos": "adv", "meaning": "rất, hết sức", "examples": [
-          { "en": "Mr. Monroe's experience makes him **highly** qualified for the job.", "vi": "Kinh nghiệm của Monroe khiến ông ấy rất phù hợp với công việc này." }
-        ] }
-      ],
-      "notes": [
-        { "type": "collocation", "title": "highly + competent/recommended/qualified/competitive/profitable", "content": "rất có khả năng / rất được khuyến khích / rất đủ điều kiện / có tính cạnh tranh cao / rất có lợi. highly giống như very, most, đóng vai trò bổ nghĩa cho tính từ hoặc quá khứ phân từ." }
-      ]
-    },
-    {
-      "no": 10, "word": "professional", "stars": 3, "part": "P56", "ipaUk": "prəféʃənl", "ipaUs": "prəféʃənl", "page": 29,
-      "senses": [
-        { "pos": "adj", "meaning": "có tính chuyên môn, chuyên nghiệp, lành nghề", "examples": [
-          { "en": "Jeff is known as a **professional** photographer.", "vi": "Jeff được biết đến như một nhiếp ảnh gia chuyên nghiệp." }
-        ] },
-        { "pos": "n", "meaning": "chuyên gia", "examples": [
-          { "en": "Merseyside Hospital is looking for a certified health **professional**.", "vi": "Bệnh viện Merseyside đang tìm kiếm một chuyên gia y tế có bằng cấp." }
-        ] }
+        {
+          "pos": "v",
+          "meaning": "thỏa mãn, đáp ứng (yêu cầu, điều kiện)",
+          "examples": [
+            {
+              "en": "Applicants must **meet** all the requirements for the job.",
+              "vi": "Các ứng viên phải đáp ứng tất cả yêu cầu của công việc."
+            }
+          ]
+        }
       ],
       "relations": [
-        { "type": "der", "text": "profession", "pos": "n", "meaning": "nghề nghiệp" },
-        { "type": "der", "text": "professionally", "pos": "adv", "meaning": "thành thạo, chuyên nghiệp" }
-      ]
-    },
-    {
-      "no": 11, "word": "interview", "stars": 3, "part": "P7", "ipaUk": "íntərvjùː", "ipaUs": "íntəvjuː", "page": 29,
-      "senses": [
-        { "pos": "n", "meaning": "cuộc phỏng vấn", "examples": [
-          { "en": "The **interviews** are being held in meeting room three.", "vi": "Các cuộc phỏng vấn đang được thực hiện tại phòng họp số 3." }
-        ] },
-        { "pos": "v", "meaning": "phỏng vấn", "examples": [
-          { "en": "The manager **interviewed** almost 100 applicants.", "vi": "Vị quản lý này đã phỏng vấn gần 100 ứng viên." }
-        ] }
-      ]
-    },
-    {
-      "no": 12, "word": "hire", "stars": 3, "part": "P56", "ipaUk": "haiər", "ipaUs": "haiə", "page": 30,
-      "senses": [
-        { "pos": "v", "meaning": "thuê mướn, tuyển dụng", "examples": [
-          { "en": "The company expects to **hire** several new employees next month.", "vi": "Công ty kỳ vọng sẽ tuyển được vài nhân viên mới vào tháng tới." }
-        ] }
-      ]
-    },
-    {
-      "no": 13, "word": "training", "stars": 3, "part": "P7", "ipaUk": "tréiniŋ", "ipaUs": "tréiniŋ", "page": 30,
-      "senses": [
-        { "pos": "n", "meaning": "sự đào tạo, huấn luyện", "examples": [
-          { "en": "This company offers on-the-job **training** for new staff.", "vi": "Công ty này cung cấp chương trình đào tạo tại chỗ cho nhân viên mới." }
-        ] }
-      ]
-    },
-    {
-      "no": 14, "word": "reference", "stars": 3, "part": "P56", "ipaUk": "réfərəns", "ipaUs": "réfərəns", "page": 30,
-      "senses": [
-        { "pos": "n", "meaning": "sự giới thiệu, sự tham khảo", "examples": [
-          { "en": "Philip asked his previous employer to write a **reference** letter for him.", "vi": "Philip nhờ quản lý cũ của mình viết một lá thư giới thiệu cho anh ấy." },
-          { "en": "The database contains **reference** material on all aspects of labor law.", "vi": "Cơ sở dữ liệu đó chứa tài liệu tham khảo về mọi khía cạnh của luật lao động." }
-        ] }
-      ],
-      "relations": [ { "type": "der", "text": "refer", "pos": "v", "meaning": "tham khảo, xem" } ]
-    },
-    {
-      "no": 15, "word": "position", "stars": 3, "part": "P56", "ipaUk": "pəzíʃən", "ipaUs": "pəzíʃən", "page": 30,
-      "senses": [
-        { "pos": "n", "meaning": "chức vụ, vị trí", "examples": [
-          { "en": "The advertised **position** provides health care and other benefits.", "vi": "Vị trí được quảng cáo đó cung cấp dịch vụ chăm sóc sức khỏe và các phúc lợi khác." }
-        ] },
-        { "pos": "v", "meaning": "định vị, đặt vào vị trí", "examples": [
-          { "en": "The secretary **positioned** the chairs around the table before the meeting began.", "vi": "Thư ký xếp ghế xung quanh bàn trước khi cuộc họp bắt đầu." }
-        ] }
+        {
+          "type": "syn",
+          "text": "satisfy, fulfill",
+          "meaning": "thỏa mãn, đáp ứng (yêu cầu, điều kiện)"
+        }
       ],
       "notes": [
-        { "type": "collocation", "title": "accept a position / apply for a position", "content": "chấp nhận vị trí làm việc / ứng tuyển cho một vị trí. position thường đi kèm các động từ mang nghĩa \"ứng tuyển\", \"chấp thuận\"." }
+        {
+          "type": "collocation",
+          "title": "meet one's needs / meet requirements / meet customer demand / meet expectations",
+          "content": "đáp ứng nhu cầu của ai đó / đáp ứng các yêu cầu / đáp ứng yêu cầu của khách hàng / thỏa mãn mong đợi. meet thường được biết đến với nghĩa \"gặp mặt\", nhưng trong bài thi TOEIC nó thường xuất hiện với nghĩa \"đáp ứng được yêu cầu nào đó\"."
+        }
       ]
     },
     {
-      "no": 16, "word": "achievement", "stars": 3, "part": "P56", "ipaUk": "ətʃíːvmənt", "ipaUs": "ətʃíːvmənt", "page": 30,
+      "no": 6,
+      "word": "qualified",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "kwáləfàid",
+      "ipaUs": "kwɔ́lifaid",
+      "page": 28,
       "senses": [
-        { "pos": "n", "meaning": "thành tựu, thành tích, sự đạt được", "examples": [
-          { "en": "List all of your **achievements** from previous jobs on your résumé.", "vi": "Hãy liệt kê tất cả những thành tích của bạn trong công việc trước vào bản sơ yếu lý lịch." }
-        ] }
-      ],
-      "notes": [
-        { "type": "confusable", "title": "achievement ↔ achiever", "content": "achievement: thành tựu, thành tích (chỉ vật); achiever: người đạt thành tích (chỉ người)." }
-      ]
-    },
-    {
-      "no": 17, "word": "impressed", "stars": 3, "part": "P56", "ipaUk": "imprést", "ipaUs": "imprést", "page": 31,
-      "senses": [
-        { "pos": "adj", "meaning": "có ấn tượng, cảm phục", "examples": [
-          { "en": "The CEO was **impressed** by his assistant's organizing skills.", "vi": "Vị giám đốc điều hành đã bị ấn tượng bởi kỹ năng tổ chức của viên thư ký đó." }
-        ] }
-      ],
-      "notes": [
-        { "type": "confusable", "title": "impressed ↔ impressive", "content": "impressed: có ấn tượng, bị ấn tượng (miêu tả cảm xúc của con người); impressive: gây xúc động, gợi cảm (nói về đối tượng gợi lên cảm xúc đó)." }
-      ]
-    },
-    {
-      "no": 18, "word": "excellent", "stars": 3, "part": "P56", "ipaUk": "éksələnt", "ipaUs": "éksələnt", "page": 31,
-      "senses": [
-        { "pos": "adj", "meaning": "xuất sắc, vượt trội, ưu tú", "examples": [
-          { "en": "Because of her **excellent** managerial skills, Erin was hired for the job.", "vi": "Nhờ kỹ năng quản lý xuất sắc của mình, Erin đã được tuyển dụng làm công việc này." }
-        ] }
-      ]
-    },
-    {
-      "no": 19, "word": "eligible", "stars": 2, "part": "P56", "ipaUk": "élidʒəbl", "ipaUs": "élidʒəbl", "page": 31,
-      "senses": [
-        { "pos": "adj", "meaning": "có đủ tư cách, thích hợp", "examples": [
-          { "en": "The part-time workers are also **eligible** for paid holidays.", "vi": "Các nhân viên bán thời gian cũng đủ điều kiện để được nghỉ phép có trả lương." }
-        ] }
+        {
+          "pos": "adj",
+          "meaning": "đủ khả năng, trình độ, điều kiện",
+          "examples": [
+            {
+              "en": "People with master's degrees are **qualified** for the research position.",
+              "vi": "Những người có bằng thạc sĩ thì đủ điều kiện cho vị trí nghiên cứu này."
+            }
+          ]
+        }
       ],
       "relations": [
-        { "type": "der", "text": "eligibility", "pos": "n", "meaning": "sự thích hợp, việc đủ tư cách" },
-        { "type": "ant", "text": "ineligible", "meaning": "không đủ tư cách" }
+        {
+          "type": "der",
+          "text": "qualify",
+          "pos": "v",
+          "meaning": "đủ điều kiện, phù hợp"
+        },
+        {
+          "type": "der",
+          "text": "qualification",
+          "pos": "n",
+          "meaning": "phẩm chất, năng lực"
+        },
+        {
+          "type": "der",
+          "text": "qualifier",
+          "pos": "n",
+          "meaning": "người đủ điều kiện"
+        },
+        {
+          "type": "syn",
+          "text": "certified",
+          "meaning": "được chứng nhận"
+        }
       ],
       "notes": [
-        { "type": "collocation", "title": "be eligible for + membership/compensation/position; be eligible to do", "content": "đủ điều kiện làm hội viên/nhận bồi thường/được thăng chức; có đủ tư cách làm việc gì. Sau for thường là danh từ chỉ sự ưu đãi hay chức vị." },
-        { "type": "confusable", "title": "eligible ↔ allowed", "content": "eligible: có đủ điều kiện làm gì (một người thỏa mãn điều kiện); allowed: được cho phép, được đồng ý (một việc được phép thực hiện). Ví dụ: Business dinners are included as allowed expenses." }
+        {
+          "type": "collocation",
+          "title": "be qualified for / qualifications for",
+          "content": "đủ điều kiện cho / tiêu chuẩn (phẩm chất, năng lực) cho. qualified và danh từ qualification thường đi kèm giới từ for."
+        }
       ]
     },
     {
-      "no": 20, "word": "identify", "stars": 2, "part": "P56", "ipaUk": "aidéntəfài", "ipaUs": "aidéntifai", "page": 32,
+      "no": 7,
+      "word": "candidate",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "kǽndidèit",
+      "ipaUs": "kǽndidət",
+      "page": 28,
       "senses": [
-        { "pos": "v", "meaning": "nhận diện, nhận ra", "examples": [
-          { "en": "Staff members wear uniforms so that they are easy for customers to **identify**.", "vi": "Các nhân viên mặc đồng phục để khách hàng dễ dàng nhận ra họ." }
-        ] }
-      ],
-      "relations": [ { "type": "der", "text": "identification", "pos": "n", "meaning": "sự nhận diện, giấy tờ chứng minh" } ]
-    },
-    {
-      "no": 21, "word": "associate", "stars": 2, "part": "P56", "ipaUk": "əsóuʃièit", "ipaUs": "əsə́uʃieit", "page": 32,
-      "senses": [
-        { "pos": "v", "meaning": "liên kết, kết giao", "examples": [
-          { "en": "Two of the applicants were **associated** with a competitor.", "vi": "Hai trong số các ứng viên có liên kết với một đối thủ." }
-        ] },
-        { "pos": "n", "meaning": "đồng minh, cộng sự", "examples": [] },
-        { "pos": "adj", "meaning": "cùng cộng tác, liên đới", "examples": [] }
-      ],
-      "relations": [ { "type": "der", "text": "association", "pos": "n", "meaning": "sự hợp tác, liên minh" } ],
-      "notes": [
-        { "type": "collocation", "title": "be associated with / in association with", "content": "có liên quan tới / hợp tác, liên minh với. Thể bị động be associated và danh từ association thường dùng với giới từ with." }
-      ]
-    },
-    {
-      "no": 22, "word": "condition", "stars": 2, "part": "P7", "ipaUk": "kəndíʃən", "ipaUs": "kəndíʃən", "page": 32,
-      "senses": [
-        { "pos": "n", "meaning": "điều kiện", "examples": [
-          { "en": "The **conditions** of employment are listed in the job.", "vi": "Những điều kiện của công việc được liệt kê trong thông báo tuyển dụng." }
-        ] }
-      ]
-    },
-    {
-      "no": 23, "word": "employment", "stars": 2, "part": "P56", "ipaUk": "implɔ́imənt", "ipaUs": "implɔ́imənt", "page": 32,
-      "senses": [
-        { "pos": "n", "meaning": "việc làm", "examples": [
-          { "en": "The company announced **employment** opportunities in personnel department.", "vi": "Công ty đã thông báo những cơ hội việc làm ở phòng nhân sự." }
-        ] }
+        {
+          "pos": "n",
+          "meaning": "thí sinh, ứng viên",
+          "examples": [
+            {
+              "en": "Five **candidates** will be selected for final interviews.",
+              "vi": "Năm ứng viên sẽ được chọn vào vòng phỏng vấn cuối cùng."
+            }
+          ]
+        }
       ],
       "relations": [
-        { "type": "der", "text": "employ", "pos": "v", "meaning": "tuyển dụng, thuê (= hire ↔ lay off, dismiss, fire)" },
-        { "type": "der", "text": "employee", "pos": "n", "meaning": "nhân viên" },
-        { "type": "der", "text": "employer", "pos": "n", "meaning": "người tuyển dụng" },
-        { "type": "ant", "text": "unemployment", "meaning": "thất nghiệp" }
+        {
+          "type": "syn",
+          "text": "applicant",
+          "meaning": "ứng viên"
+        }
       ]
     },
     {
-      "no": 24, "word": "lack", "stars": 2, "part": "P56", "ipaUk": "læk", "ipaUs": "læk", "page": 33,
+      "no": 8,
+      "word": "confidence",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "kánfədəns",
+      "ipaUs": "kɔ́nfidəns",
+      "page": 28,
       "senses": [
-        { "pos": "v", "meaning": "thiếu, không có", "examples": [
-          { "en": "Carl **lacked** the ability to get along well with his coworkers.", "vi": "Carl không có khả năng hòa nhập với các đồng nghiệp của mình." }
-        ] },
-        { "pos": "n", "meaning": "sự thiếu hụt", "examples": [
-          { "en": "Due to a **lack** of funds, the project has been temporarily halted.", "vi": "Do thiếu kinh phí, dự án đã tạm thời bị dừng lại." }
-        ] }
-      ]
-    },
-    {
-      "no": 25, "word": "managerial", "stars": 2, "part": "P56", "ipaUk": "mæ̀nidʒíəriəl", "ipaUs": "mæ̀nədʒíəriəl", "page": 33,
-      "senses": [
-        { "pos": "adj", "meaning": "thuộc về quản lý", "examples": [
-          { "en": "Mike is seeking a **managerial** position in the accounting field.", "vi": "Mike đang tìm kiếm một vị trí quản lý trong ngành kế toán." }
-        ] }
+        {
+          "pos": "n",
+          "meaning": "sự tự tin, sự tin tưởng, lòng tin",
+          "examples": [
+            {
+              "en": "We have **confidence** that she can handle the position.",
+              "vi": "Chúng tôi có lòng tin rằng cô ấy có thể đảm đương được vị trí này."
+            },
+            {
+              "en": "The recommendations showed **confidence** in his abilities.",
+              "vi": "Các thư giới thiệu đều thể hiện sự tin tưởng vào năng lực của anh ấy."
+            }
+          ]
+        }
       ],
       "relations": [
-        { "type": "der", "text": "manage", "pos": "v", "meaning": "quản lý, điều khiển" },
-        { "type": "syn", "text": "supervisory", "meaning": "giám sát, giám thị" }
+        {
+          "type": "der",
+          "text": "confident",
+          "pos": "adj",
+          "meaning": "tự tin, tin tưởng"
+        }
       ],
       "notes": [
-        { "type": "collocation", "title": "managerial + staff/experience", "content": "nhân viên quản lý, kinh nghiệm quản lý. managerial thường kết hợp với danh từ \"nhân viên\" hoặc \"kinh nghiệm\"." }
+        {
+          "type": "collocation",
+          "title": "show/express + confidence in",
+          "content": "thể hiện sự tự tin về. confidence thường ghép cặp với các động từ thể hiện cảm xúc như show, express và thường đi với giới từ in."
+        },
+        {
+          "type": "confusable",
+          "title": "confidence in ↔ in confidence",
+          "content": "confidence in: tin chắc, tự tin về điều gì; in confidence: bí mật. Ý nghĩa hoàn toàn khác nhau tùy vào vị trí của giới từ in."
+        }
       ]
     },
     {
-      "no": 26, "word": "diligent", "stars": 2, "part": "P7", "ipaUk": "dílədʒənt", "ipaUs": "dílidʒənt", "page": 33,
+      "no": 9,
+      "word": "highly",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "háili",
+      "ipaUs": "háili",
+      "page": 29,
       "senses": [
-        { "pos": "adj", "meaning": "siêng năng, cần cù", "examples": [
-          { "en": "Carmen is one of the most **diligent** workers in the company.", "vi": "Carmen là một trong những nhân viên siêng năng nhất ở công ty này." }
-        ] }
+        {
+          "pos": "adv",
+          "meaning": "rất, hết sức",
+          "examples": [
+            {
+              "en": "Mr. Monroe's experience makes him **highly** qualified for the job.",
+              "vi": "Kinh nghiệm của Monroe khiến ông ấy rất phù hợp với công việc này."
+            }
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "type": "collocation",
+          "title": "highly + competent/recommended/qualified/competitive/profitable",
+          "content": "rất có khả năng / rất được khuyến khích / rất đủ điều kiện / có tính cạnh tranh cao / rất có lợi. highly giống như very, most, đóng vai trò bổ nghĩa cho tính từ hoặc quá khứ phân từ."
+        }
+      ]
+    },
+    {
+      "no": 10,
+      "word": "professional",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "prəféʃənl",
+      "ipaUs": "prəféʃənl",
+      "page": 29,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "có tính chuyên môn, chuyên nghiệp, lành nghề",
+          "examples": [
+            {
+              "en": "Jeff is known as a **professional** photographer.",
+              "vi": "Jeff được biết đến như một nhiếp ảnh gia chuyên nghiệp."
+            }
+          ]
+        },
+        {
+          "pos": "n",
+          "meaning": "chuyên gia",
+          "examples": [
+            {
+              "en": "Merseyside Hospital is looking for a certified health **professional**.",
+              "vi": "Bệnh viện Merseyside đang tìm kiếm một chuyên gia y tế có bằng cấp."
+            }
+          ]
+        }
       ],
       "relations": [
-        { "type": "der", "text": "diligence", "pos": "n", "meaning": "sự cần cù, siêng năng" },
-        { "type": "der", "text": "diligently", "pos": "adv", "meaning": "một cách chăm chỉ, miệt mài" }
+        {
+          "type": "der",
+          "text": "profession",
+          "pos": "n",
+          "meaning": "nghề nghiệp"
+        },
+        {
+          "type": "der",
+          "text": "professionally",
+          "pos": "adv",
+          "meaning": "thành thạo, chuyên nghiệp"
+        }
       ]
     },
     {
-      "no": 27, "word": "familiar", "stars": 2, "part": "P56", "ipaUk": "fəmíljər", "ipaUs": "fəmíliə", "page": 33,
+      "no": 11,
+      "word": "interview",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "íntərvjùː",
+      "ipaUs": "íntəvjuː",
+      "page": 29,
       "senses": [
-        { "pos": "adj", "meaning": "quen thuộc, thuần thục", "examples": [
-          { "en": "Staff must review the handbook to become **familiar** with it.", "vi": "Nhân viên phải xem lại sổ tay hướng dẫn để nắm rõ nó." }
-        ] }
+        {
+          "pos": "n",
+          "meaning": "cuộc phỏng vấn",
+          "examples": [
+            {
+              "en": "The **interviews** are being held in meeting room three.",
+              "vi": "Các cuộc phỏng vấn đang được thực hiện tại phòng họp số 3."
+            }
+          ]
+        },
+        {
+          "pos": "v",
+          "meaning": "phỏng vấn",
+          "examples": [
+            {
+              "en": "The manager **interviewed** almost 100 applicants.",
+              "vi": "Vị quản lý này đã phỏng vấn gần 100 ứng viên."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "no": 12,
+      "word": "hire",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "haiər",
+      "ipaUs": "haiə",
+      "page": 30,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "thuê mướn, tuyển dụng",
+          "examples": [
+            {
+              "en": "The company expects to **hire** several new employees next month.",
+              "vi": "Công ty kỳ vọng sẽ tuyển được vài nhân viên mới vào tháng tới."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "no": 13,
+      "word": "training",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "tréiniŋ",
+      "ipaUs": "tréiniŋ",
+      "page": 30,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự đào tạo, huấn luyện",
+          "examples": [
+            {
+              "en": "This company offers on-the-job **training** for new staff.",
+              "vi": "Công ty này cung cấp chương trình đào tạo tại chỗ cho nhân viên mới."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "no": 14,
+      "word": "reference",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "réfərəns",
+      "ipaUs": "réfərəns",
+      "page": 30,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự giới thiệu, sự tham khảo",
+          "examples": [
+            {
+              "en": "Philip asked his previous employer to write a **reference** letter for him.",
+              "vi": "Philip nhờ quản lý cũ của mình viết một lá thư giới thiệu cho anh ấy."
+            },
+            {
+              "en": "The database contains **reference** material on all aspects of labor law.",
+              "vi": "Cơ sở dữ liệu đó chứa tài liệu tham khảo về mọi khía cạnh của luật lao động."
+            }
+          ]
+        }
       ],
       "relations": [
-        { "type": "der", "text": "familiarize", "pos": "v", "meaning": "(làm) quen, phổ biến" },
-        { "type": "ant", "text": "unfamiliar", "meaning": "không quen thuộc, không biết" }
+        {
+          "type": "der",
+          "text": "refer",
+          "pos": "v",
+          "meaning": "tham khảo, xem"
+        }
+      ]
+    },
+    {
+      "no": 15,
+      "word": "position",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "pəzíʃən",
+      "ipaUs": "pəzíʃən",
+      "page": 30,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "chức vụ, vị trí",
+          "examples": [
+            {
+              "en": "The advertised **position** provides health care and other benefits.",
+              "vi": "Vị trí được quảng cáo đó cung cấp dịch vụ chăm sóc sức khỏe và các phúc lợi khác."
+            }
+          ]
+        },
+        {
+          "pos": "v",
+          "meaning": "định vị, đặt vào vị trí",
+          "examples": [
+            {
+              "en": "The secretary **positioned** the chairs around the table before the meeting began.",
+              "vi": "Thư ký xếp ghế xung quanh bàn trước khi cuộc họp bắt đầu."
+            }
+          ]
+        }
       ],
       "notes": [
-        { "type": "collocation", "title": "be familiar with", "content": "quen thuộc với, nắm rõ. familiar thường đi kèm với giới từ with." }
+        {
+          "type": "collocation",
+          "title": "accept a position / apply for a position",
+          "content": "chấp nhận vị trí làm việc / ứng tuyển cho một vị trí. position thường đi kèm các động từ mang nghĩa \"ứng tuyển\", \"chấp thuận\"."
+        }
       ]
     },
     {
-      "no": 28, "word": "proficiency", "stars": 2, "part": "P7", "ipaUk": "prəfíʃənsi", "ipaUs": "prəfíʃənsi", "page": 33,
+      "no": 16,
+      "word": "achievement",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "ətʃíːvmənt",
+      "ipaUs": "ətʃíːvmənt",
+      "page": 30,
       "senses": [
-        { "pos": "n", "meaning": "sự thông thạo, sự thành thạo", "examples": [
-          { "en": "Overseas workers need proof of **proficiency** in a second language.", "vi": "Người lao động ở nước ngoài cần phải chứng minh sự thông thạo một ngôn ngữ thứ hai." }
-        ] }
-      ],
-      "relations": [ { "type": "der", "text": "proficient", "pos": "adj", "meaning": "thuần thục, điêu luyện" } ]
-    },
-    {
-      "no": 29, "word": "prospective", "stars": 2, "part": "P56", "ipaUk": "prəspéktiv", "ipaUs": "prəspéktiv", "page": 34,
-      "senses": [
-        { "pos": "adj", "meaning": "có triển vọng, có tiềm năng, có tương lai", "examples": [
-          { "en": "**Prospective** employees were asked to come in for a second interview.", "vi": "Các nhân viên tiềm năng được yêu cầu đến phỏng vấn vòng hai." }
-        ] }
-      ],
-      "relations": [ { "type": "der", "text": "prospect", "pos": "n", "meaning": "triển vọng, viễn cảnh" } ]
-    },
-    {
-      "no": 30, "word": "appeal", "stars": 2, "part": "P56", "ipaUk": "əpíːl", "ipaUs": "əpíːl", "page": 34,
-      "senses": [
-        { "pos": "v", "meaning": "kêu gọi, lôi cuốn, hấp dẫn", "examples": [
-          { "en": "The 10 percent pay increase **appealed** to the staff.", "vi": "Mức tăng lương 10% đã hấp dẫn các nhân viên." }
-        ] }
-      ],
-      "relations": [ { "type": "syn", "text": "attract", "meaning": "thu hút, hấp dẫn" } ],
-      "notes": [
-        { "type": "grammar", "title": "appeal to + danh từ", "content": "kêu gọi điều gì, hấp dẫn ai. appeal là nội động từ nên được sử dụng kèm giới từ to." },
-        { "type": "tip", "title": "appeal to = attract", "content": "appeal to có thể thay bằng attract khi được dùng với nghĩa \"hấp dẫn ai đó\"." }
-      ]
-    },
-    {
-      "no": 31, "word": "specialize", "stars": 2, "part": "P56", "ipaUk": "spéʃəlàiz", "ipaUs": "spéʃəlaiz", "page": 34,
-      "senses": [
-        { "pos": "v", "meaning": "chuyên làm về, học chuyên về", "examples": [
-          { "en": "Most of the programmers **specialized** in software design in college.", "vi": "Hầu hết các lập trình viên đều học chuyên về thiết kế phần mềm ở trường đại học." }
-        ] }
-      ]
-    },
-    {
-      "no": 32, "word": "apprehensive", "stars": 2, "part": "P56", "ipaUk": "æ̀prihénsiv", "ipaUs": "æ̀prihénsiv", "page": 34,
-      "senses": [
-        { "pos": "adj", "meaning": "lo lắng, e sợ", "examples": [
-          { "en": "Many people feel **apprehensive** before an important job interview.", "vi": "Nhiều người cảm thấy lo lắng trước một cuộc phỏng vấn tuyển dụng quan trọng." }
-        ] }
-      ],
-      "relations": [ { "type": "syn", "text": "concerned", "meaning": "lo lắng" } ]
-    },
-    {
-      "no": 33, "word": "consultant", "stars": 2, "part": "P56", "ipaUk": "kənsʌ́ltənt", "ipaUs": "kənsʌ́ltənt", "page": 34,
-      "senses": [
-        { "pos": "n", "meaning": "người tư vấn, cố vấn", "examples": [
-          { "en": "Emma currently works in London as an interior design **consultant**.", "vi": "Emma hiện đang làm việc ở London trong vai trò một người tư vấn thiết kế nội thất." }
-        ] }
-      ],
-      "relations": [ { "type": "der", "text": "consult", "pos": "v", "meaning": "hỏi/tham khảo ý kiến" } ],
-      "notes": [
-        { "type": "collocation", "title": "consult + chuyên gia / consult with + người ngang hàng / consult + sách, tài liệu", "content": "tham khảo ý kiến ai / hỏi ý, thảo luận với ai / tìm hiểu, tham khảo. Khi hỏi ý kiến chuyên gia hoặc tham khảo tài liệu, consult không đi kèm giới từ; khi trao đổi với bạn bè hay người ngang hàng thì cần đi kèm with." },
-        { "type": "confusable", "title": "consultant ↔ consultation", "content": "consultant: người cố vấn (chỉ người); consultation: sự hỏi ý kiến (với chuyên gia), danh từ trừu tượng." }
-      ]
-    },
-    {
-      "no": 34, "word": "entitle", "stars": 1, "part": "P56", "ipaUk": "intáitl", "ipaUs": "intáitl", "page": 35,
-      "senses": [
-        { "pos": "v", "meaning": "cho quyền (làm gì)", "examples": [
-          { "en": "Executives are **entitled** to additional benefits.", "vi": "Các ủy viên ban quản trị được hưởng những quyền lợi bổ sung." }
-        ] }
+        {
+          "pos": "n",
+          "meaning": "thành tựu, thành tích, sự đạt được",
+          "examples": [
+            {
+              "en": "List all of your **achievements** from previous jobs on your résumé.",
+              "vi": "Hãy liệt kê tất cả những thành tích của bạn trong công việc trước vào bản sơ yếu lý lịch."
+            }
+          ]
+        }
       ],
       "notes": [
-        { "type": "collocation", "title": "be entitled to + danh từ / be entitled to do", "content": "được hưởng gì đó / được quyền làm gì đó. entitle thường được sử dụng ở thể bị động và đi kèm với giới từ to hoặc động từ nguyên thể có to." }
+        {
+          "type": "confusable",
+          "title": "achievement ↔ achiever",
+          "content": "achievement: thành tựu, thành tích (chỉ vật); achiever: người đạt thành tích (chỉ người)."
+        }
       ]
     },
     {
-      "no": 35, "word": "degree", "stars": 1, "part": "P7", "ipaUk": "digríː", "ipaUs": "digríː", "page": 35,
+      "no": 17,
+      "word": "impressed",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "imprést",
+      "ipaUs": "imprést",
+      "page": 31,
       "senses": [
-        { "pos": "n", "meaning": "trình độ, bằng cấp", "examples": [
-          { "en": "A bachelor's **degree** in engineering is a requirement for this position.", "vi": "Bằng cử nhân về kỹ thuật là một điều kiện cần thiết cho vị trí này." }
-        ] }
-      ]
-    },
-    {
-      "no": 36, "word": "payroll", "stars": 1, "part": "P7", "ipaUk": "péiròul", "ipaUs": "péirəul", "page": 35,
-      "senses": [
-        { "pos": "n", "meaning": "bảng lương, tổng quỹ lương", "examples": [
-          { "en": "Fifteen new employees were added to the **payroll** last month.", "vi": "Mười lăm nhân viên mới đã được bổ sung vào bảng lương tháng trước." }
-        ] }
+        {
+          "pos": "adj",
+          "meaning": "có ấn tượng, cảm phục",
+          "examples": [
+            {
+              "en": "The CEO was **impressed** by his assistant's organizing skills.",
+              "vi": "Vị giám đốc điều hành đã bị ấn tượng bởi kỹ năng tổ chức của viên thư ký đó."
+            }
+          ]
+        }
       ],
       "notes": [
-        { "type": "collocation", "title": "on the payroll", "content": "được tuyển dụng (nghĩa gốc: thêm tên ai đó vào bảng lương). Ví dụ: Sullivan Printing currently has 22 staff members on the payroll." }
+        {
+          "type": "confusable",
+          "title": "impressed ↔ impressive",
+          "content": "impressed: có ấn tượng, bị ấn tượng (miêu tả cảm xúc của con người); impressive: gây xúc động, gợi cảm (nói về đối tượng gợi lên cảm xúc đó)."
+        }
       ]
     },
     {
-      "no": 37, "word": "recruit", "stars": 1, "part": "P7", "ipaUk": "rikrúːt", "ipaUs": "rikrúːt", "page": 35,
+      "no": 18,
+      "word": "excellent",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "éksələnt",
+      "ipaUs": "éksələnt",
+      "page": 31,
       "senses": [
-        { "pos": "v", "meaning": "tuyển dụng", "examples": [
-          { "en": "The firm **recruits** promising graduates on a yearly basis.", "vi": "Hằng năm, công ty tuyển dụng những sinh viên mới tốt nghiệp đầy triển vọng." }
-        ] },
-        { "pos": "n", "meaning": "nhân viên mới", "examples": [] }
+        {
+          "pos": "adj",
+          "meaning": "xuất sắc, vượt trội, ưu tú",
+          "examples": [
+            {
+              "en": "Because of her **excellent** managerial skills, Erin was hired for the job.",
+              "vi": "Nhờ kỹ năng quản lý xuất sắc của mình, Erin đã được tuyển dụng làm công việc này."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "no": 19,
+      "word": "eligible",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "élidʒəbl",
+      "ipaUs": "élidʒəbl",
+      "page": 31,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "có đủ tư cách, thích hợp",
+          "examples": [
+            {
+              "en": "The part-time workers are also **eligible** for paid holidays.",
+              "vi": "Các nhân viên bán thời gian cũng đủ điều kiện để được nghỉ phép có trả lương."
+            }
+          ]
+        }
       ],
       "relations": [
-        { "type": "der", "text": "recruitment", "pos": "n", "meaning": "sự tuyển dụng" },
-        { "type": "der", "text": "recruiter", "pos": "n", "meaning": "người tuyển dụng" }
+        {
+          "type": "der",
+          "text": "eligibility",
+          "pos": "n",
+          "meaning": "sự thích hợp, việc đủ tư cách"
+        },
+        {
+          "type": "ant",
+          "text": "ineligible",
+          "meaning": "không đủ tư cách"
+        }
       ],
       "notes": [
-        { "type": "tip", "title": "Đính chính", "content": "Sách in nhầm nghĩa của recruit là \"sự chứng nhận\"; nghĩa đúng theo ví dụ là \"tuyển dụng\"." }
+        {
+          "type": "collocation",
+          "title": "be eligible for + membership/compensation/position; be eligible to do",
+          "content": "đủ điều kiện làm hội viên/nhận bồi thường/được thăng chức; có đủ tư cách làm việc gì. Sau for thường là danh từ chỉ sự ưu đãi hay chức vị."
+        },
+        {
+          "type": "confusable",
+          "title": "eligible ↔ allowed",
+          "content": "eligible: có đủ điều kiện làm gì (một người thỏa mãn điều kiện); allowed: được cho phép, được đồng ý (một việc được phép thực hiện). Ví dụ: Business dinners are included as allowed expenses."
+        }
       ]
     },
     {
-      "no": 38, "word": "certification", "stars": 1, "part": "P56", "ipaUk": "sə̀ːrtəfikéiʃən", "ipaUs": "sə̀ːtifikéiʃən", "page": 36,
+      "no": 20,
+      "word": "identify",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "aidéntəfài",
+      "ipaUs": "aidéntifai",
+      "page": 32,
       "senses": [
-        { "pos": "n", "meaning": "sự chứng nhận, giấy chứng nhận", "examples": [
-          { "en": "Obtaining accounting **certification** takes approximately a year.", "vi": "Mất xấp xỉ một năm để có được giấy chứng nhận kế toán." }
-        ] }
+        {
+          "pos": "v",
+          "meaning": "nhận diện, nhận ra",
+          "examples": [
+            {
+              "en": "Staff members wear uniforms so that they are easy for customers to **identify**.",
+              "vi": "Các nhân viên mặc đồng phục để khách hàng dễ dàng nhận ra họ."
+            }
+          ]
+        }
       ],
       "relations": [
-        { "type": "der", "text": "certify", "pos": "v", "meaning": "chứng nhận" },
-        { "type": "der", "text": "certified", "pos": "adj", "meaning": "được chứng nhận, được đảm bảo" },
-        { "type": "der", "text": "certificate", "pos": "n", "meaning": "giấy chứng nhận, chứng chỉ" }
-      ],
-      "notes": [
-        { "type": "collocation", "title": "professional certification / a birth certificate", "content": "giấy chứng nhận chuyên môn / giấy khai sinh. certification thường dùng khi nói về bằng cấp chuyên môn, certificate dùng với các giấy chứng minh thông thường." }
+        {
+          "type": "der",
+          "text": "identification",
+          "pos": "n",
+          "meaning": "sự nhận diện, giấy tờ chứng minh"
+        }
       ]
     },
     {
-      "no": 39, "word": "occupation", "stars": 1, "part": "P56", "ipaUk": "àkjupéiʃən", "ipaUs": "ɔ̀kjupéiʃən", "page": 36,
+      "no": 21,
+      "word": "associate",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "əsóuʃièit",
+      "ipaUs": "əsə́uʃieit",
+      "page": 32,
       "senses": [
-        { "pos": "n", "meaning": "nghề nghiệp", "examples": [
-          { "en": "Journalism is an interesting and challenging **occupation**.", "vi": "Làm báo là một nghề thú vị và đầy thử thách." }
-        ] }
+        {
+          "pos": "v",
+          "meaning": "liên kết, kết giao",
+          "examples": [
+            {
+              "en": "Two of the applicants were **associated** with a competitor.",
+              "vi": "Hai trong số các ứng viên có liên kết với một đối thủ."
+            }
+          ]
+        },
+        {
+          "pos": "n",
+          "meaning": "đồng minh, cộng sự",
+          "examples": []
+        },
+        {
+          "pos": "adj",
+          "meaning": "cùng cộng tác, liên đới",
+          "examples": []
+        }
       ],
       "relations": [
-        { "type": "der", "text": "occupy", "pos": "v", "meaning": "giữ, chiếm (vị trí)" },
-        { "type": "der", "text": "occupational", "pos": "adj", "meaning": "(thuộc) nghề nghiệp" },
-        { "type": "der", "text": "occupant", "pos": "n", "meaning": "người sở hữu, người sử dụng" },
-        { "type": "syn", "text": "job, vocation", "meaning": "nghề nghiệp" }
+        {
+          "type": "der",
+          "text": "association",
+          "pos": "n",
+          "meaning": "sự hợp tác, liên minh"
+        }
       ],
       "notes": [
-        { "type": "confusable", "title": "occupation ↔ occupant", "content": "occupation: nghề nghiệp (danh từ trừu tượng); occupant: người thuê (nhà), người sở hữu (đất) (danh từ chỉ người)." }
+        {
+          "type": "collocation",
+          "title": "be associated with / in association with",
+          "content": "có liên quan tới / hợp tác, liên minh với. Thể bị động be associated và danh từ association thường dùng với giới từ with."
+        }
       ]
     },
     {
-      "no": 40, "word": "wage", "stars": 1, "part": "P56", "ipaUk": "weidʒ", "ipaUs": "weidʒ", "page": 36,
+      "no": 22,
+      "word": "condition",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "kəndíʃən",
+      "ipaUs": "kəndíʃən",
+      "page": 32,
       "senses": [
-        { "pos": "n", "meaning": "tiền lương, tiền công", "examples": [
-          { "en": "Workers with formal education may earn higher **wages** than those without.", "vi": "Người lao động được đào tạo chính quy có thể nhận được mức lương cao hơn những người không có trình độ." }
-        ] }
+        {
+          "pos": "n",
+          "meaning": "điều kiện",
+          "examples": [
+            {
+              "en": "The **conditions** of employment are listed in the job.",
+              "vi": "Những điều kiện của công việc được liệt kê trong thông báo tuyển dụng."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "no": 23,
+      "word": "employment",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "implɔ́imənt",
+      "ipaUs": "implɔ́imənt",
+      "page": 32,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "việc làm",
+          "examples": [
+            {
+              "en": "The company announced **employment** opportunities in personnel department.",
+              "vi": "Công ty đã thông báo những cơ hội việc làm ở phòng nhân sự."
+            }
+          ]
+        }
+      ],
+      "relations": [
+        {
+          "type": "der",
+          "text": "employ",
+          "pos": "v",
+          "meaning": "tuyển dụng, thuê (= hire ↔ lay off, dismiss, fire)"
+        },
+        {
+          "type": "der",
+          "text": "employee",
+          "pos": "n",
+          "meaning": "nhân viên"
+        },
+        {
+          "type": "der",
+          "text": "employer",
+          "pos": "n",
+          "meaning": "người tuyển dụng"
+        },
+        {
+          "type": "ant",
+          "text": "unemployment",
+          "meaning": "thất nghiệp"
+        }
+      ]
+    },
+    {
+      "no": 24,
+      "word": "lack",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "læk",
+      "ipaUs": "læk",
+      "page": 33,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "thiếu, không có",
+          "examples": [
+            {
+              "en": "Carl **lacked** the ability to get along well with his coworkers.",
+              "vi": "Carl không có khả năng hòa nhập với các đồng nghiệp của mình."
+            }
+          ]
+        },
+        {
+          "pos": "n",
+          "meaning": "sự thiếu hụt",
+          "examples": [
+            {
+              "en": "Due to a **lack** of funds, the project has been temporarily halted.",
+              "vi": "Do thiếu kinh phí, dự án đã tạm thời bị dừng lại."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "no": 25,
+      "word": "managerial",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "mæ̀nidʒíəriəl",
+      "ipaUs": "mæ̀nədʒíəriəl",
+      "page": 33,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "thuộc về quản lý",
+          "examples": [
+            {
+              "en": "Mike is seeking a **managerial** position in the accounting field.",
+              "vi": "Mike đang tìm kiếm một vị trí quản lý trong ngành kế toán."
+            }
+          ]
+        }
+      ],
+      "relations": [
+        {
+          "type": "der",
+          "text": "manage",
+          "pos": "v",
+          "meaning": "quản lý, điều khiển"
+        },
+        {
+          "type": "syn",
+          "text": "supervisory",
+          "meaning": "giám sát, giám thị"
+        }
       ],
       "notes": [
-        { "type": "confusable", "title": "wage : salary : compensation", "content": "wage: tiền công của công nhân nhà máy, tính theo giờ hoặc tháng; salary: tiền lương của nhân viên công sở, thường tính theo năm; compensation: tiền bồi thường, tiền công, có thể dùng ở lĩnh vực khác (injury compensation: bồi thường thiệt hại)." }
+        {
+          "type": "collocation",
+          "title": "managerial + staff/experience",
+          "content": "nhân viên quản lý, kinh nghiệm quản lý. managerial thường kết hợp với danh từ \"nhân viên\" hoặc \"kinh nghiệm\"."
+        }
+      ]
+    },
+    {
+      "no": 26,
+      "word": "diligent",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "dílədʒənt",
+      "ipaUs": "dílidʒənt",
+      "page": 33,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "siêng năng, cần cù",
+          "examples": [
+            {
+              "en": "Carmen is one of the most **diligent** workers in the company.",
+              "vi": "Carmen là một trong những nhân viên siêng năng nhất ở công ty này."
+            }
+          ]
+        }
+      ],
+      "relations": [
+        {
+          "type": "der",
+          "text": "diligence",
+          "pos": "n",
+          "meaning": "sự cần cù, siêng năng"
+        },
+        {
+          "type": "der",
+          "text": "diligently",
+          "pos": "adv",
+          "meaning": "một cách chăm chỉ, miệt mài"
+        }
+      ]
+    },
+    {
+      "no": 27,
+      "word": "familiar",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "fəmíljər",
+      "ipaUs": "fəmíliə",
+      "page": 33,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "quen thuộc, thuần thục",
+          "examples": [
+            {
+              "en": "Staff must review the handbook to become **familiar** with it.",
+              "vi": "Nhân viên phải xem lại sổ tay hướng dẫn để nắm rõ nó."
+            }
+          ]
+        }
+      ],
+      "relations": [
+        {
+          "type": "der",
+          "text": "familiarize",
+          "pos": "v",
+          "meaning": "(làm) quen, phổ biến"
+        },
+        {
+          "type": "ant",
+          "text": "unfamiliar",
+          "meaning": "không quen thuộc, không biết"
+        }
+      ],
+      "notes": [
+        {
+          "type": "collocation",
+          "title": "be familiar with",
+          "content": "quen thuộc với, nắm rõ. familiar thường đi kèm với giới từ with."
+        }
+      ]
+    },
+    {
+      "no": 28,
+      "word": "proficiency",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "prəfíʃənsi",
+      "ipaUs": "prəfíʃənsi",
+      "page": 33,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự thông thạo, sự thành thạo",
+          "examples": [
+            {
+              "en": "Overseas workers need proof of **proficiency** in a second language.",
+              "vi": "Người lao động ở nước ngoài cần phải chứng minh sự thông thạo một ngôn ngữ thứ hai."
+            }
+          ]
+        }
+      ],
+      "relations": [
+        {
+          "type": "der",
+          "text": "proficient",
+          "pos": "adj",
+          "meaning": "thuần thục, điêu luyện"
+        }
+      ]
+    },
+    {
+      "no": 29,
+      "word": "prospective",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "prəspéktiv",
+      "ipaUs": "prəspéktiv",
+      "page": 34,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "có triển vọng, có tiềm năng, có tương lai",
+          "examples": [
+            {
+              "en": "**Prospective** employees were asked to come in for a second interview.",
+              "vi": "Các nhân viên tiềm năng được yêu cầu đến phỏng vấn vòng hai."
+            }
+          ]
+        }
+      ],
+      "relations": [
+        {
+          "type": "der",
+          "text": "prospect",
+          "pos": "n",
+          "meaning": "triển vọng, viễn cảnh"
+        }
+      ]
+    },
+    {
+      "no": 30,
+      "word": "appeal",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "əpíːl",
+      "ipaUs": "əpíːl",
+      "page": 34,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "kêu gọi, lôi cuốn, hấp dẫn",
+          "examples": [
+            {
+              "en": "The 10 percent pay increase **appealed** to the staff.",
+              "vi": "Mức tăng lương 10% đã hấp dẫn các nhân viên."
+            }
+          ]
+        }
+      ],
+      "relations": [
+        {
+          "type": "syn",
+          "text": "attract",
+          "meaning": "thu hút, hấp dẫn"
+        }
+      ],
+      "notes": [
+        {
+          "type": "grammar",
+          "title": "appeal to + danh từ",
+          "content": "kêu gọi điều gì, hấp dẫn ai. appeal là nội động từ nên được sử dụng kèm giới từ to."
+        },
+        {
+          "type": "tip",
+          "title": "appeal to = attract",
+          "content": "appeal to có thể thay bằng attract khi được dùng với nghĩa \"hấp dẫn ai đó\"."
+        }
+      ]
+    },
+    {
+      "no": 31,
+      "word": "specialize",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "spéʃəlàiz",
+      "ipaUs": "spéʃəlaiz",
+      "page": 34,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "chuyên làm về, học chuyên về",
+          "examples": [
+            {
+              "en": "Most of the programmers **specialized** in software design in college.",
+              "vi": "Hầu hết các lập trình viên đều học chuyên về thiết kế phần mềm ở trường đại học."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "no": 32,
+      "word": "apprehensive",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "æ̀prihénsiv",
+      "ipaUs": "æ̀prihénsiv",
+      "page": 34,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "lo lắng, e sợ",
+          "examples": [
+            {
+              "en": "Many people feel **apprehensive** before an important job interview.",
+              "vi": "Nhiều người cảm thấy lo lắng trước một cuộc phỏng vấn tuyển dụng quan trọng."
+            }
+          ]
+        }
+      ],
+      "relations": [
+        {
+          "type": "syn",
+          "text": "concerned",
+          "meaning": "lo lắng"
+        }
+      ]
+    },
+    {
+      "no": 33,
+      "word": "consultant",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "kənsʌ́ltənt",
+      "ipaUs": "kənsʌ́ltənt",
+      "page": 34,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "người tư vấn, cố vấn",
+          "examples": [
+            {
+              "en": "Emma currently works in London as an interior design **consultant**.",
+              "vi": "Emma hiện đang làm việc ở London trong vai trò một người tư vấn thiết kế nội thất."
+            }
+          ]
+        }
+      ],
+      "relations": [
+        {
+          "type": "der",
+          "text": "consult",
+          "pos": "v",
+          "meaning": "hỏi/tham khảo ý kiến"
+        }
+      ],
+      "notes": [
+        {
+          "type": "collocation",
+          "title": "consult + chuyên gia / consult with + người ngang hàng / consult + sách, tài liệu",
+          "content": "tham khảo ý kiến ai / hỏi ý, thảo luận với ai / tìm hiểu, tham khảo. Khi hỏi ý kiến chuyên gia hoặc tham khảo tài liệu, consult không đi kèm giới từ; khi trao đổi với bạn bè hay người ngang hàng thì cần đi kèm with."
+        },
+        {
+          "type": "confusable",
+          "title": "consultant ↔ consultation",
+          "content": "consultant: người cố vấn (chỉ người); consultation: sự hỏi ý kiến (với chuyên gia), danh từ trừu tượng."
+        }
+      ]
+    },
+    {
+      "no": 34,
+      "word": "entitle",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "intáitl",
+      "ipaUs": "intáitl",
+      "page": 35,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "cho quyền (làm gì)",
+          "examples": [
+            {
+              "en": "Executives are **entitled** to additional benefits.",
+              "vi": "Các ủy viên ban quản trị được hưởng những quyền lợi bổ sung."
+            }
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "type": "collocation",
+          "title": "be entitled to + danh từ / be entitled to do",
+          "content": "được hưởng gì đó / được quyền làm gì đó. entitle thường được sử dụng ở thể bị động và đi kèm với giới từ to hoặc động từ nguyên thể có to."
+        }
+      ]
+    },
+    {
+      "no": 35,
+      "word": "degree",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "digríː",
+      "ipaUs": "digríː",
+      "page": 35,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "trình độ, bằng cấp",
+          "examples": [
+            {
+              "en": "A bachelor's **degree** in engineering is a requirement for this position.",
+              "vi": "Bằng cử nhân về kỹ thuật là một điều kiện cần thiết cho vị trí này."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "no": 36,
+      "word": "payroll",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "péiròul",
+      "ipaUs": "péirəul",
+      "page": 35,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "bảng lương, tổng quỹ lương",
+          "examples": [
+            {
+              "en": "Fifteen new employees were added to the **payroll** last month.",
+              "vi": "Mười lăm nhân viên mới đã được bổ sung vào bảng lương tháng trước."
+            }
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "type": "collocation",
+          "title": "on the payroll",
+          "content": "được tuyển dụng (nghĩa gốc: thêm tên ai đó vào bảng lương). Ví dụ: Sullivan Printing currently has 22 staff members on the payroll."
+        }
+      ]
+    },
+    {
+      "no": 37,
+      "word": "recruit",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "rikrúːt",
+      "ipaUs": "rikrúːt",
+      "page": 35,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "tuyển dụng",
+          "examples": [
+            {
+              "en": "The firm **recruits** promising graduates on a yearly basis.",
+              "vi": "Hằng năm, công ty tuyển dụng những sinh viên mới tốt nghiệp đầy triển vọng."
+            }
+          ]
+        },
+        {
+          "pos": "n",
+          "meaning": "nhân viên mới",
+          "examples": []
+        }
+      ],
+      "relations": [
+        {
+          "type": "der",
+          "text": "recruitment",
+          "pos": "n",
+          "meaning": "sự tuyển dụng"
+        },
+        {
+          "type": "der",
+          "text": "recruiter",
+          "pos": "n",
+          "meaning": "người tuyển dụng"
+        }
+      ],
+      "notes": [
+        {
+          "type": "tip",
+          "title": "Đính chính",
+          "content": "Sách in nhầm nghĩa của recruit là \"sự chứng nhận\"; nghĩa đúng theo ví dụ là \"tuyển dụng\"."
+        }
+      ]
+    },
+    {
+      "no": 38,
+      "word": "certification",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "sə̀ːrtəfikéiʃən",
+      "ipaUs": "sə̀ːtifikéiʃən",
+      "page": 36,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự chứng nhận, giấy chứng nhận",
+          "examples": [
+            {
+              "en": "Obtaining accounting **certification** takes approximately a year.",
+              "vi": "Mất xấp xỉ một năm để có được giấy chứng nhận kế toán."
+            }
+          ]
+        }
+      ],
+      "relations": [
+        {
+          "type": "der",
+          "text": "certify",
+          "pos": "v",
+          "meaning": "chứng nhận"
+        },
+        {
+          "type": "der",
+          "text": "certified",
+          "pos": "adj",
+          "meaning": "được chứng nhận, được đảm bảo"
+        },
+        {
+          "type": "der",
+          "text": "certificate",
+          "pos": "n",
+          "meaning": "giấy chứng nhận, chứng chỉ"
+        }
+      ],
+      "notes": [
+        {
+          "type": "collocation",
+          "title": "professional certification / a birth certificate",
+          "content": "giấy chứng nhận chuyên môn / giấy khai sinh. certification thường dùng khi nói về bằng cấp chuyên môn, certificate dùng với các giấy chứng minh thông thường."
+        }
+      ]
+    },
+    {
+      "no": 39,
+      "word": "occupation",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "àkjupéiʃən",
+      "ipaUs": "ɔ̀kjupéiʃən",
+      "page": 36,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "nghề nghiệp",
+          "examples": [
+            {
+              "en": "Journalism is an interesting and challenging **occupation**.",
+              "vi": "Làm báo là một nghề thú vị và đầy thử thách."
+            }
+          ]
+        }
+      ],
+      "relations": [
+        {
+          "type": "der",
+          "text": "occupy",
+          "pos": "v",
+          "meaning": "giữ, chiếm (vị trí)"
+        },
+        {
+          "type": "der",
+          "text": "occupational",
+          "pos": "adj",
+          "meaning": "(thuộc) nghề nghiệp"
+        },
+        {
+          "type": "der",
+          "text": "occupant",
+          "pos": "n",
+          "meaning": "người sở hữu, người sử dụng"
+        },
+        {
+          "type": "syn",
+          "text": "job, vocation",
+          "meaning": "nghề nghiệp"
+        }
+      ],
+      "notes": [
+        {
+          "type": "confusable",
+          "title": "occupation ↔ occupant",
+          "content": "occupation: nghề nghiệp (danh từ trừu tượng); occupant: người thuê (nhà), người sở hữu (đất) (danh từ chỉ người)."
+        }
+      ]
+    },
+    {
+      "no": 40,
+      "word": "wage",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "weidʒ",
+      "ipaUs": "weidʒ",
+      "page": 36,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "tiền lương, tiền công",
+          "examples": [
+            {
+              "en": "Workers with formal education may earn higher **wages** than those without.",
+              "vi": "Người lao động được đào tạo chính quy có thể nhận được mức lương cao hơn những người không có trình độ."
+            }
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "type": "confusable",
+          "title": "wage : salary : compensation",
+          "content": "wage: tiền công của công nhân nhà máy, tính theo giờ hoặc tháng; salary: tiền lương của nhân viên công sở, thường tính theo năm; compensation: tiền bồi thường, tiền công, có thể dùng ở lĩnh vực khác (injury compensation: bồi thường thiệt hại)."
+        }
       ]
     }
   ],
   "completeVocab": {
     "basic": {
       "LC": [
-        ["application form", "phr", "mẫu đơn xin việc"],
-        ["career", "n", "sự nghiệp, nghề nghiệp"],
-        ["completion", "n", "sự hoàn thành"],
-        ["fair", "adj", "công bằng, hợp lý"],
-        ["graduation", "n", "sự tốt nghiệp"],
-        ["in fact", "phr", "trong thực tế"],
-        ["job fair", "phr", "hội chợ việc làm"],
-        ["job offer", "phr", "lời mời làm việc"],
-        ["list", "n", "danh sách; (v) liệt kê"],
-        ["newcomer", "n", "người mới đến, nhân viên mới"],
-        ["part-time", "adj", "bán thời gian"],
-        ["previous job", "phr", "công việc trước đây"],
-        ["secretary", "n", "thư ký"],
-        ["send in", "phr", "nộp, giao"],
-        ["tidy", "adj", "gọn gàng, ngăn nắp"],
-        ["trainee", "n", "thực tập sinh, người được đào tạo"]
+        [
+          "application form",
+          "phr",
+          "mẫu đơn xin việc"
+        ],
+        [
+          "career",
+          "n",
+          "sự nghiệp, nghề nghiệp"
+        ],
+        [
+          "completion",
+          "n",
+          "sự hoàn thành"
+        ],
+        [
+          "fair",
+          "adj",
+          "công bằng, hợp lý"
+        ],
+        [
+          "graduation",
+          "n",
+          "sự tốt nghiệp"
+        ],
+        [
+          "in fact",
+          "phr",
+          "trong thực tế"
+        ],
+        [
+          "job fair",
+          "phr",
+          "hội chợ việc làm"
+        ],
+        [
+          "job offer",
+          "phr",
+          "lời mời làm việc"
+        ],
+        [
+          "list",
+          "n",
+          "danh sách; (v) liệt kê"
+        ],
+        [
+          "newcomer",
+          "n",
+          "người mới đến, nhân viên mới"
+        ],
+        [
+          "part-time",
+          "adj",
+          "bán thời gian"
+        ],
+        [
+          "previous job",
+          "phr",
+          "công việc trước đây"
+        ],
+        [
+          "secretary",
+          "n",
+          "thư ký"
+        ],
+        [
+          "send in",
+          "phr",
+          "nộp, giao"
+        ],
+        [
+          "tidy",
+          "adj",
+          "gọn gàng, ngăn nắp"
+        ],
+        [
+          "trainee",
+          "n",
+          "thực tập sinh, người được đào tạo"
+        ]
       ],
       "RC": [
-        ["apply for", "phr", "ứng tuyển vào"],
-        ["aptitude", "n", "năng khiếu, năng lực"],
-        ["be admitted to", "phr", "được nhận vào"],
-        ["be advised to do", "phr", "được khuyên làm"],
-        ["criteria", "n", "tiêu chuẩn (số nhiều của criterion)"],
-        ["decade", "n", "thập kỷ"],
-        ["employ", "v", "thuê, mướn"],
-        ["insufficient", "adj", "không đủ, thiếu"],
-        ["minimum", "n", "mức tối thiểu; (adj) tối thiểu"],
-        ["party", "n", "bữa tiệc, nhóm, tổ chức"],
-        ["plentiful", "adj", "dồi dào"],
-        ["profession", "n", "nghề nghiệp"]
+        [
+          "apply for",
+          "phr",
+          "ứng tuyển vào"
+        ],
+        [
+          "aptitude",
+          "n",
+          "năng khiếu, năng lực"
+        ],
+        [
+          "be admitted to",
+          "phr",
+          "được nhận vào"
+        ],
+        [
+          "be advised to do",
+          "phr",
+          "được khuyên làm"
+        ],
+        [
+          "criteria",
+          "n",
+          "tiêu chuẩn (số nhiều của criterion)"
+        ],
+        [
+          "decade",
+          "n",
+          "thập kỷ"
+        ],
+        [
+          "employ",
+          "v",
+          "thuê, mướn"
+        ],
+        [
+          "insufficient",
+          "adj",
+          "không đủ, thiếu"
+        ],
+        [
+          "minimum",
+          "n",
+          "mức tối thiểu; (adj) tối thiểu"
+        ],
+        [
+          "party",
+          "n",
+          "bữa tiệc, nhóm, tổ chức"
+        ],
+        [
+          "plentiful",
+          "adj",
+          "dồi dào"
+        ],
+        [
+          "profession",
+          "n",
+          "nghề nghiệp"
+        ]
       ]
     },
     "l800": {
       "LC": [
-        ["achieve one's goal", "phr", "đạt mục tiêu của ai đó"],
-        ["apprentice", "n", "người học việc, người tập sự"],
-        ["dress formally", "phr", "ăn mặc trang trọng"],
-        ["dressed in suit", "phr", "mặc vest, com lê"],
-        ["figure out", "phr", "tìm ra, phát hiện ra"],
-        ["full time work", "phr", "công việc toàn thời gian"],
-        ["job opportunity", "phr", "cơ hội việc làm"],
-        ["job search", "phr", "sự tìm việc làm"],
-        ["job seeker", "phr", "người tìm việc"],
-        ["lay out", "phr", "đặt ra, bày ra"],
-        ["letter of recommendation", "phr", "thư giới thiệu"],
-        ["pay raise", "phr", "sự tăng lương"],
-        ["practical experience", "phr", "kinh nghiệm thực tế"],
-        ["proof of employment", "phr", "bằng chứng công việc"],
-        ["reapply", "v", "ứng tuyển lại, áp dụng lại"],
-        ["recommendation letter", "phr", "thư giới thiệu, thư tiến cử"],
-        ["reference letter", "phr", "thư giới thiệu, thư xác nhận"],
-        ["send off to", "phr", "gửi (thư) tới"],
-        ["set up an interview", "phr", "sắp xếp một cuộc phỏng vấn"],
-        ["take an examination", "phr", "làm một bài kiểm tra"],
-        ["training center", "phr", "trung tâm đào tạo"],
-        ["waiting room", "phr", "phòng chờ"],
-        ["well-educated", "adj", "có học thức, được giáo dục tốt"],
-        ["workstation", "n", "chỗ ngồi (để làm việc)"],
-        ["zealous", "adj", "hăng hái, nhiệt huyết"]
+        [
+          "achieve one's goal",
+          "phr",
+          "đạt mục tiêu của ai đó"
+        ],
+        [
+          "apprentice",
+          "n",
+          "người học việc, người tập sự"
+        ],
+        [
+          "dress formally",
+          "phr",
+          "ăn mặc trang trọng"
+        ],
+        [
+          "dressed in suit",
+          "phr",
+          "mặc vest, com lê"
+        ],
+        [
+          "figure out",
+          "phr",
+          "tìm ra, phát hiện ra"
+        ],
+        [
+          "full time work",
+          "phr",
+          "công việc toàn thời gian"
+        ],
+        [
+          "job opportunity",
+          "phr",
+          "cơ hội việc làm"
+        ],
+        [
+          "job search",
+          "phr",
+          "sự tìm việc làm"
+        ],
+        [
+          "job seeker",
+          "phr",
+          "người tìm việc"
+        ],
+        [
+          "lay out",
+          "phr",
+          "đặt ra, bày ra"
+        ],
+        [
+          "letter of recommendation",
+          "phr",
+          "thư giới thiệu"
+        ],
+        [
+          "pay raise",
+          "phr",
+          "sự tăng lương"
+        ],
+        [
+          "practical experience",
+          "phr",
+          "kinh nghiệm thực tế"
+        ],
+        [
+          "proof of employment",
+          "phr",
+          "bằng chứng công việc"
+        ],
+        [
+          "reapply",
+          "v",
+          "ứng tuyển lại, áp dụng lại"
+        ],
+        [
+          "recommendation letter",
+          "phr",
+          "thư giới thiệu, thư tiến cử"
+        ],
+        [
+          "reference letter",
+          "phr",
+          "thư giới thiệu, thư xác nhận"
+        ],
+        [
+          "send off to",
+          "phr",
+          "gửi (thư) tới"
+        ],
+        [
+          "set up an interview",
+          "phr",
+          "sắp xếp một cuộc phỏng vấn"
+        ],
+        [
+          "take an examination",
+          "phr",
+          "làm một bài kiểm tra"
+        ],
+        [
+          "training center",
+          "phr",
+          "trung tâm đào tạo"
+        ],
+        [
+          "waiting room",
+          "phr",
+          "phòng chờ"
+        ],
+        [
+          "well-educated",
+          "adj",
+          "có học thức, được giáo dục tốt"
+        ],
+        [
+          "workstation",
+          "n",
+          "chỗ ngồi (để làm việc)"
+        ],
+        [
+          "zealous",
+          "adj",
+          "hăng hái, nhiệt huyết"
+        ]
       ],
       "P56": [
-        ["cover letter", "phr", "đơn xin việc"],
-        ["devoted", "adj", "hết lòng, tận tâm"],
-        ["energetic", "adj", "tràn đầy năng lượng, năng động"],
-        ["enthusiastic", "adj", "nhiệt tình"],
-        ["excel", "v", "trội hơn, xuất sắc hơn"],
-        ["exclude", "v", "ngoại trừ, không bao gồm"],
-        ["fluently", "adv", "một cách trôi chảy"],
-        ["get through", "phr", "vượt qua, đỗ"],
-        ["match", "v", "hợp với, xứng với"],
-        ["necessity", "n", "sự cần thiết, điều bắt buộc"],
-        ["qualification", "n", "năng lực chuyên môn, bằng cấp"],
-        ["relevant", "adj", "có liên quan, thích hợp"],
-        ["sign up for", "phr", "đăng ký"],
-        ["talented", "adj", "có tài"],
-        ["visiting", "n", "sự thăm viếng; (adj) thăm viếng, tham quan"],
-        ["workforce", "n", "lực lượng lao động"]
+        [
+          "cover letter",
+          "phr",
+          "đơn xin việc"
+        ],
+        [
+          "devoted",
+          "adj",
+          "hết lòng, tận tâm"
+        ],
+        [
+          "energetic",
+          "adj",
+          "tràn đầy năng lượng, năng động"
+        ],
+        [
+          "enthusiastic",
+          "adj",
+          "nhiệt tình"
+        ],
+        [
+          "excel",
+          "v",
+          "trội hơn, xuất sắc hơn"
+        ],
+        [
+          "exclude",
+          "v",
+          "ngoại trừ, không bao gồm"
+        ],
+        [
+          "fluently",
+          "adv",
+          "một cách trôi chảy"
+        ],
+        [
+          "get through",
+          "phr",
+          "vượt qua, đỗ"
+        ],
+        [
+          "match",
+          "v",
+          "hợp với, xứng với"
+        ],
+        [
+          "necessity",
+          "n",
+          "sự cần thiết, điều bắt buộc"
+        ],
+        [
+          "qualification",
+          "n",
+          "năng lực chuyên môn, bằng cấp"
+        ],
+        [
+          "relevant",
+          "adj",
+          "có liên quan, thích hợp"
+        ],
+        [
+          "sign up for",
+          "phr",
+          "đăng ký"
+        ],
+        [
+          "talented",
+          "adj",
+          "có tài"
+        ],
+        [
+          "visiting",
+          "n",
+          "sự thăm viếng; (adj) thăm viếng, tham quan"
+        ],
+        [
+          "workforce",
+          "n",
+          "lực lượng lao động"
+        ]
       ],
       "P7": [
-        ["address the audience", "phr", "giao lưu với khán giả"],
-        ["be influenced by appearance", "phr", "bị chi phối bởi vẻ ngoài"],
-        ["bilingual", "adj", "song ngữ"],
-        ["curriculum vitae", "phr", "sơ yếu lý lịch"],
-        ["diploma", "n", "bằng tốt nghiệp"],
-        ["endurance", "n", "sự chịu đựng, khả năng chịu đựng"],
-        ["external", "adj", "bên ngoài"],
-        ["fluency", "n", "sự lưu loát, trôi chảy"],
-        ["fluent in", "phr", "thành thạo về"],
-        ["human resources", "phr", "quản lý nhân lực, nhân sự"],
-        ["improperly", "adv", "không đúng cách, không thích hợp"],
-        ["in a positive manner", "phr", "theo một cách tích cực"],
-        ["in the field of", "phr", "trong lĩnh vực"],
-        ["inexperience", "n", "sự thiếu kinh nghiệm"],
-        ["lack confidence", "phr", "thiếu sự tự tin"],
-        ["make A a regular habit", "phr", "biến A thành thói quen thường xuyên"],
-        ["make a commitment to", "phr", "đưa ra cam kết, gắn bó với"],
-        ["make a point of -ing", "phr", "quan tâm, tận tâm với (việc gì)"],
-        ["manpower", "n", "nhân lực"],
-        ["master's degree", "phr", "bằng thạc sĩ"],
-        ["novice", "n", "người học việc, tập sự"],
-        ["paycheck", "n", "tiền lương, tiền công"],
-        ["self-motivation", "n", "sự tự tạo động lực cho bản thân"],
-        ["send a notification", "phr", "gửi thông báo"],
-        ["vacancy", "n", "vị trí còn trống"],
-        ["wanted", "adj", "được cần đến, được yêu cầu"],
-        ["work history", "phr", "lịch sử làm việc, kinh nghiệm làm việc"]
+        [
+          "address the audience",
+          "phr",
+          "giao lưu với khán giả"
+        ],
+        [
+          "be influenced by appearance",
+          "phr",
+          "bị chi phối bởi vẻ ngoài"
+        ],
+        [
+          "bilingual",
+          "adj",
+          "song ngữ"
+        ],
+        [
+          "curriculum vitae",
+          "phr",
+          "sơ yếu lý lịch"
+        ],
+        [
+          "diploma",
+          "n",
+          "bằng tốt nghiệp"
+        ],
+        [
+          "endurance",
+          "n",
+          "sự chịu đựng, khả năng chịu đựng"
+        ],
+        [
+          "external",
+          "adj",
+          "bên ngoài"
+        ],
+        [
+          "fluency",
+          "n",
+          "sự lưu loát, trôi chảy"
+        ],
+        [
+          "fluent in",
+          "phr",
+          "thành thạo về"
+        ],
+        [
+          "human resources",
+          "phr",
+          "quản lý nhân lực, nhân sự"
+        ],
+        [
+          "improperly",
+          "adv",
+          "không đúng cách, không thích hợp"
+        ],
+        [
+          "in a positive manner",
+          "phr",
+          "theo một cách tích cực"
+        ],
+        [
+          "in the field of",
+          "phr",
+          "trong lĩnh vực"
+        ],
+        [
+          "inexperience",
+          "n",
+          "sự thiếu kinh nghiệm"
+        ],
+        [
+          "lack confidence",
+          "phr",
+          "thiếu sự tự tin"
+        ],
+        [
+          "make A a regular habit",
+          "phr",
+          "biến A thành thói quen thường xuyên"
+        ],
+        [
+          "make a commitment to",
+          "phr",
+          "đưa ra cam kết, gắn bó với"
+        ],
+        [
+          "make a point of -ing",
+          "phr",
+          "quan tâm, tận tâm với (việc gì)"
+        ],
+        [
+          "manpower",
+          "n",
+          "nhân lực"
+        ],
+        [
+          "master's degree",
+          "phr",
+          "bằng thạc sĩ"
+        ],
+        [
+          "novice",
+          "n",
+          "người học việc, tập sự"
+        ],
+        [
+          "paycheck",
+          "n",
+          "tiền lương, tiền công"
+        ],
+        [
+          "self-motivation",
+          "n",
+          "sự tự tạo động lực cho bản thân"
+        ],
+        [
+          "send a notification",
+          "phr",
+          "gửi thông báo"
+        ],
+        [
+          "vacancy",
+          "n",
+          "vị trí còn trống"
+        ],
+        [
+          "wanted",
+          "adj",
+          "được cần đến, được yêu cầu"
+        ],
+        [
+          "work history",
+          "phr",
+          "lịch sử làm việc, kinh nghiệm làm việc"
+        ]
       ]
     },
     "l900": {
       "LC": [
-        ["credential", "n", "thông tin xác thực, giấy chứng nhận"],
-        ["firsthand", "adj", "trực tiếp, mắt thấy tai nghe"],
-        ["hiring committee", "phr", "ủy ban tuyển dụng"],
-        ["not to mention", "phr", "không để cập đến"],
-        ["on occasion", "phr", "nhân dịp"],
-        ["overqualified", "adj", "có thừa năng lực, trình độ"],
-        ["screening", "n", "sự sàng lọc, sự phân loại"]
+        [
+          "credential",
+          "n",
+          "thông tin xác thực, giấy chứng nhận"
+        ],
+        [
+          "firsthand",
+          "adj",
+          "trực tiếp, mắt thấy tai nghe"
+        ],
+        [
+          "hiring committee",
+          "phr",
+          "ủy ban tuyển dụng"
+        ],
+        [
+          "not to mention",
+          "phr",
+          "không để cập đến"
+        ],
+        [
+          "on occasion",
+          "phr",
+          "nhân dịp"
+        ],
+        [
+          "overqualified",
+          "adj",
+          "có thừa năng lực, trình độ"
+        ],
+        [
+          "screening",
+          "n",
+          "sự sàng lọc, sự phân loại"
+        ]
       ],
       "P56": [
-        ["lag", "v", "chậm trễ"],
-        ["on the waiting list", "phr", "trong danh sách chờ"],
-        ["oriented", "adj", "được định hướng"],
-        ["pertaining to", "phr", "gắn liền, đi đôi với"],
-        ["questionably", "adv", "đáng ngờ, có vấn đề"],
-        ["regularity", "n", "sự đều đặn, thường xuyên"],
-        ["replenish", "v", "cấp thêm, bổ sung"],
-        ["simplicity", "n", "sự đơn giản"],
-        ["stellar", "adj", "xuất sắc, ưu tú"],
-        ["versatile", "adj", "nhiều tài, linh hoạt"]
+        [
+          "lag",
+          "v",
+          "chậm trễ"
+        ],
+        [
+          "on the waiting list",
+          "phr",
+          "trong danh sách chờ"
+        ],
+        [
+          "oriented",
+          "adj",
+          "được định hướng"
+        ],
+        [
+          "pertaining to",
+          "phr",
+          "gắn liền, đi đôi với"
+        ],
+        [
+          "questionably",
+          "adv",
+          "đáng ngờ, có vấn đề"
+        ],
+        [
+          "regularity",
+          "n",
+          "sự đều đặn, thường xuyên"
+        ],
+        [
+          "replenish",
+          "v",
+          "cấp thêm, bổ sung"
+        ],
+        [
+          "simplicity",
+          "n",
+          "sự đơn giản"
+        ],
+        [
+          "stellar",
+          "adj",
+          "xuất sắc, ưu tú"
+        ],
+        [
+          "versatile",
+          "adj",
+          "nhiều tài, linh hoạt"
+        ]
       ],
       "P7": [
-        ["adept", "adj", "thành thạo, tinh thông"],
-        ["against all odds", "phr", "bất chấp sự chống đối mạnh mẽ / mọi điều kiện bất lợi"],
-        ["command", "n", "lệnh, sự điều khiển, sự chỉ huy"],
-        ["commensurate", "adj", "tỷ lệ thuận, xứng với"],
-        ["computer literate", "phr", "biết sử dụng máy tính"],
-        ["eagerness", "n", "sự say mê, sự háo hức"],
-        ["familiarize oneself with", "phr", "tự tìm hiểu, tự làm quen với"],
-        ["increment", "n", "sự tăng dần"],
-        ["interpersonal skills", "phr", "khả năng kết nối, kỹ năng mềm"],
-        ["mindful", "adj", "lưu tâm, quan tâm"],
-        ["preeminent", "adj", "xuất sắc, ưu việt, vượt trội"],
-        ["preliminary", "adj", "sơ bộ, mở đầu"],
-        ["prerequisite", "n", "điều kiện tiên quyết; (adj) cần thiết"],
-        ["probationer", "n", "nhân viên tập sự, người bị quản chế"],
-        ["sternly", "adv", "nghiêm khắc, cứng rắn"]
+        [
+          "adept",
+          "adj",
+          "thành thạo, tinh thông"
+        ],
+        [
+          "against all odds",
+          "phr",
+          "bất chấp sự chống đối mạnh mẽ / mọi điều kiện bất lợi"
+        ],
+        [
+          "command",
+          "n",
+          "lệnh, sự điều khiển, sự chỉ huy"
+        ],
+        [
+          "commensurate",
+          "adj",
+          "tỷ lệ thuận, xứng với"
+        ],
+        [
+          "computer literate",
+          "phr",
+          "biết sử dụng máy tính"
+        ],
+        [
+          "eagerness",
+          "n",
+          "sự say mê, sự háo hức"
+        ],
+        [
+          "familiarize oneself with",
+          "phr",
+          "tự tìm hiểu, tự làm quen với"
+        ],
+        [
+          "increment",
+          "n",
+          "sự tăng dần"
+        ],
+        [
+          "interpersonal skills",
+          "phr",
+          "khả năng kết nối, kỹ năng mềm"
+        ],
+        [
+          "mindful",
+          "adj",
+          "lưu tâm, quan tâm"
+        ],
+        [
+          "preeminent",
+          "adj",
+          "xuất sắc, ưu việt, vượt trội"
+        ],
+        [
+          "preliminary",
+          "adj",
+          "sơ bộ, mở đầu"
+        ],
+        [
+          "prerequisite",
+          "n",
+          "điều kiện tiên quyết; (adj) cần thiết"
+        ],
+        [
+          "probationer",
+          "n",
+          "nhân viên tập sự, người bị quản chế"
+        ],
+        [
+          "sternly",
+          "adv",
+          "nghiêm khắc, cứng rắn"
+        ]
       ]
     }
   },
@@ -639,55 +2064,157 @@
       {
         "instruction": "Tìm ở cột bên phải nghĩa của các từ vựng ở cột bên trái và nối chúng với nhau.",
         "options": [
-          { "key": "a", "text": "đào tạo, huấn luyện" },
-          { "key": "b", "text": "quen thuộc" },
-          { "key": "c", "text": "tìm hiểu, xác nhận" },
-          { "key": "d", "text": "thỏa mãn, đáp ứng" },
-          { "key": "e", "text": "ứng viên" },
-          { "key": "f", "text": "có ấn tượng" }
+          {
+            "key": "a",
+            "text": "đào tạo, huấn luyện"
+          },
+          {
+            "key": "b",
+            "text": "quen thuộc"
+          },
+          {
+            "key": "c",
+            "text": "tìm hiểu, xác nhận"
+          },
+          {
+            "key": "d",
+            "text": "thỏa mãn, đáp ứng"
+          },
+          {
+            "key": "e",
+            "text": "ứng viên"
+          },
+          {
+            "key": "f",
+            "text": "có ấn tượng"
+          }
         ],
         "questions": [
-          { "no": 1, "prompt": "applicant", "answer": "e" },
-          { "no": 2, "prompt": "impressed", "answer": "f" },
-          { "no": 3, "prompt": "training", "answer": "a" },
-          { "no": 4, "prompt": "meet", "answer": "d" },
-          { "no": 5, "prompt": "familiar", "answer": "b" }
+          {
+            "no": 1,
+            "prompt": "applicant",
+            "answer": "e"
+          },
+          {
+            "no": 2,
+            "prompt": "impressed",
+            "answer": "f"
+          },
+          {
+            "no": 3,
+            "prompt": "training",
+            "answer": "a"
+          },
+          {
+            "no": 4,
+            "prompt": "meet",
+            "answer": "d"
+          },
+          {
+            "no": 5,
+            "prompt": "familiar",
+            "answer": "b"
+          }
         ]
       },
       {
         "instruction": "Hãy chọn từ phù hợp để điền vào mỗi câu của bài thi TOEIC dạng thức mới sau.",
         "hint": "Danh từ skill thường đi cùng với các tính từ như excellent, useful.",
         "options": [
-          { "key": "a", "text": "candidate" },
-          { "key": "b", "text": "excellent" },
-          { "key": "c", "text": "managerial" },
-          { "key": "d", "text": "lack" },
-          { "key": "e", "text": "hire" }
+          {
+            "key": "a",
+            "text": "candidate"
+          },
+          {
+            "key": "b",
+            "text": "excellent"
+          },
+          {
+            "key": "c",
+            "text": "managerial"
+          },
+          {
+            "key": "d",
+            "text": "lack"
+          },
+          {
+            "key": "e",
+            "text": "hire"
+          }
         ],
         "questions": [
-          { "no": 6, "prompt": "Mark's ___ language skills helped him to get the job.", "answer": "b" },
-          { "no": 7, "prompt": "The ___ with a business major wants to work as a manager.", "answer": "a" },
-          { "no": 8, "prompt": "The store will ___ five people to work at the recently opened branch.", "answer": "e" },
-          { "no": 9, "prompt": "New employees ___ practical experience, so extra training is required.", "answer": "d" }
+          {
+            "no": 6,
+            "prompt": "Mark's ___ language skills helped him to get the job.",
+            "answer": "b"
+          },
+          {
+            "no": 7,
+            "prompt": "The ___ with a business major wants to work as a manager.",
+            "answer": "a"
+          },
+          {
+            "no": 8,
+            "prompt": "The store will ___ five people to work at the recently opened branch.",
+            "answer": "e"
+          },
+          {
+            "no": 9,
+            "prompt": "New employees ___ practical experience, so extra training is required.",
+            "answer": "d"
+          }
         ]
       },
       {
         "instruction": "Hãy chọn từ phù hợp để điền vào mỗi câu của bài thi TOEIC dạng thức mới sau.",
         "options": [
-          { "key": "a", "text": "qualified" },
-          { "key": "b", "text": "diligent" },
-          { "key": "c", "text": "prospective" },
-          { "key": "d", "text": "interview" },
-          { "key": "e", "text": "achievement" }
+          {
+            "key": "a",
+            "text": "qualified"
+          },
+          {
+            "key": "b",
+            "text": "diligent"
+          },
+          {
+            "key": "c",
+            "text": "prospective"
+          },
+          {
+            "key": "d",
+            "text": "interview"
+          },
+          {
+            "key": "e",
+            "text": "achievement"
+          }
         ],
         "questions": [
-          { "no": 10, "prompt": "During the ___, Jennifer was asked some difficult questions.", "answer": "d" },
-          { "no": 11, "prompt": "Only those who are proficient in programming are ___ to apply.", "answer": "a" },
-          { "no": 12, "prompt": "A ___ attitude is required to complete long-term projects successfully.", "answer": "b" },
-          { "no": 13, "prompt": "Veronica's greatest ___ was winning a profitable contract with Bethel.", "answer": "e" }
+          {
+            "no": 10,
+            "prompt": "During the ___, Jennifer was asked some difficult questions.",
+            "answer": "d"
+          },
+          {
+            "no": 11,
+            "prompt": "Only those who are proficient in programming are ___ to apply.",
+            "answer": "a"
+          },
+          {
+            "no": 12,
+            "prompt": "A ___ attitude is required to complete long-term projects successfully.",
+            "answer": "b"
+          },
+          {
+            "no": 13,
+            "prompt": "Veronica's greatest ___ was winning a profitable contract with Bethel.",
+            "answer": "e"
+          }
         ]
       }
     ]
-  }
+  },
+  "title": "Thoát cảnh thất nghiệp",
+  "titleVi": "Thoát cảnh thất nghiệp",
+  "category": "Tuyển dụng"
 }
-

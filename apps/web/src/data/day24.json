@@ -1,0 +1,1838 @@
+{
+  "dayNo": 24,
+  "titleVi": "Ngày đầu thăng chức",
+  "titleEn": "Topic 24",
+  "category": "Luân chuyển nhân sự",
+  "coreWords": [
+    {
+      "no": 1,
+      "word": "appoint",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "appoint",
+      "ipaUs": "epsint",
+      "page": 386,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "chỉ định, bổ nhiệm",
+          "examples": [
+            {
+              "en": "President Davis appointed Roger Lance as head of",
+              "vi": "Chủ tịch Davis đã bổ nhiệm Roger Lance làm trưởng phòng tài chính. n sự đánh giá, sự thẩm định"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 2,
+      "word": "appraisal",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "appraisal",
+      "ipaUs": "apréizal",
+      "page": 386,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự đánh giá, sự thẩm định",
+          "examples": [
+            {
+              "en": "Supervisors carry out performance appraisals every three months.",
+              "vi": "Cứ ba tháng một lần, giám sát viên lại tiến hành đánh giá hiệu suất công việc. Si thì TOEIC đạng thức mơ"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 3,
+      "word": "promote",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "promote",
+      "ipaUs": "pramout",
+      "page": 386,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "thăng chức, đề bạt; khuyến khích, thúc đẩy",
+          "examples": [
+            {
+              "en": "Ms. Wilson was promoted in April to the position of marketing director. Managers need to promote better communication",
+              "vi": "Cô Wilson được để bạt hồi tháng Tư vào vị trí giám đốc tiếp thị. Người quản lý cần khuyến khích sự giao tiếp tốt hơn giữa các nhân viên."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 4,
+      "word": "skilled",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "skilled",
+      "ipaUs": "skild",
+      "page": 386,
+      "senses": [
+        {
+          "pos": "adv",
+          "meaning": "căn bản, tận gốc, triệt để",
+          "examples": [
+            {
+              "en": "Several production plants are short of skilled",
+              "vi": "Một số nhà máy sản xuất đang thiểu công nhân lành nghề. Bai thi TOEIC dạng thức mới \" be skilled at giỏi/thành thạo về"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 5,
+      "word": "radically",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "radically",
+      "ipaUs": "rædikali",
+      "page": 386,
+      "senses": [
+        {
+          "pos": "adv",
+          "meaning": "căn bản, tận gốc, triệt để",
+          "examples": [
+            {
+              "en": "Several divisions will be radically restructured.",
+              "vi": "Một vài bộ phận sẽ được tái cấu trúc triệt để."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 6,
+      "word": "exceptional",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "exceptional",
+      "ipaUs": "iksepfan",
+      "page": 387,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "xuất chúng, đặc biệt",
+          "examples": [
+            {
+              "en": "Paul Lang showed exceptional talent in computer",
+              "vi": "programming. Paul Lang thể hiện tài năng xuất chúng trong lập trình máy tính. 2ã Cần lưu ý phân biệt từ loại exceptional (adị. xuất chúng) và"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 7,
+      "word": "appreciation",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "appreciation",
+      "ipaUs": "aprì:fiei{on",
+      "page": 387,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự đánh giá cao, sự cảm kích",
+          "examples": [
+            {
+              "en": "The director gave a short speech to express his",
+              "vi": "appreciation. Giám đốc dã có một bài phát biểu ngắn bày tỏ lòng biết ơn của mình. v đánh giá"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 8,
+      "word": "evaluate",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "evaluate",
+      "ipaUs": "ivæljuèit",
+      "page": 387,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "đánh giá",
+          "examples": [
+            {
+              "en": "Workers' performance should be evaluated annually.",
+              "vi": "Hiệu quả công việc của người lao động cần được đánh giá hằng năm. v đề xuất, kiến nghị"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 9,
+      "word": "suggest",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "sadzest",
+      "ipaUs": "sogdzést",
+      "page": 387,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "đề xuất, kiến nghị",
+          "examples": [
+            {
+              "en": "Charles suggested posting a job advertisement.",
+              "vi": "Charles đề nghị đăng một quảng cáo tuyển dụng. n sự thích hơn, sở thích"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 10,
+      "word": "preference",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "preference",
+      "ipaUs": "préfarens",
+      "page": 387,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự thích hơn, sở thích",
+          "examples": [
+            {
+              "en": "Rita has no preference for working the night shift",
+              "vi": "or the day shift. Rita không có sự ưu ái nào hơn giữa việc làm ca ngày hay ca đêm. 58 Bh FORC, Bạng Thes, mьộ"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 11,
+      "word": "management",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "management",
+      "ipaUs": "\" management***",
+      "page": 387,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự quản lý, ban quản lý",
+          "examples": [
+            {
+              "en": "Management announced a new hiring plan this",
+              "vi": "month. Ban quản lý đã thông báo kế hoạch tuyển dụng mới tháng này."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 12,
+      "word": "predict",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "predict",
+      "ipaUs": "pridikt",
+      "page": 388,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "dự đoán",
+          "examples": [
+            {
+              "en": "Many predict that the CEO will retire soon.",
+              "vi": "Nhiều người dự đoán rằng vị giám đốc điều hành sẽ sớm nghỉ hưu. V chuyển, dời; thuyên chuyển"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 13,
+      "word": "transfer",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "trænsfé:",
+      "ipaUs": "trænsfá:r",
+      "page": 388,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "giải thưởng, phần thưởng",
+          "examples": [
+            {
+              "en": "The technology department will transfer the old The administrator has been transferred to England.",
+              "vi": "Bộ phận công nghệ sẽ chuyển các tập tin cũ đến máy chủ mới. Nhà quản lý đó đã được thuyên chuyển tới Anh. transfer A to B gửi A cho B, chuyển A cho B"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 14,
+      "word": "award",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "awad",
+      "ipaUs": "awad",
+      "page": 388,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "giải thưởng, phần thưởng",
+          "examples": [
+            {
+              "en": "The best-employee award is given every year. The company awards a prize to the most dedicated Hackers TOEIC Vocabulary",
+              "vi": "Giải thưởng nhân viên xuất sắc nhất sẽ được trao mỗi năm. v tặng, trao thưởng Công ty trao một giải thưởng cho nhân viên tận tụy nhất."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 15,
+      "word": "mandatory",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "mændatari",
+      "ipaUs": "mændotò:ri",
+      "page": 388,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "bắt buộc",
+          "examples": [
+            {
+              "en": "Hackers TOEIC Vocabulary Attendance to the weekly staff meeting is",
+              "vi": "Việc tham dự cuộc hợp nhân viên hằng tuần là bắt buộc. adị có khả năng, giỏi"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 16,
+      "word": "competent",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "competent",
+      "ipaUs": "kâmpatant",
+      "page": 388,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "Eileen is very competent at her job and is well-liked",
+              "vi": "Eileen rất có năng lực trong công việc và được nhân viên quý mến."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 17,
+      "word": "performance",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "performance",
+      "ipaUs": "parfó:rmans",
+      "page": 389,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "thành quả, hiệu suất; phần biểu diễn",
+          "examples": [
+            {
+              "en": "The CEO attributed the company's outstanding The director's welcoming ceremony included a performance by a string quartet.",
+              "vi": "Giám đốc điều hành cho rắng thành quả vượt bậc của công ty là nhờ vào đội ngũ nhân viên. Buổi lễ chào mừng của giám đốc bao gồm một màn trình diễn tứ"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 18,
+      "word": "reward",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "riw5:d",
+      "ipaUs": "Us riw5wd",
+      "page": 389,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "thưởng",
+          "examples": [
+            {
+              "en": "Management plans to reward employees' efforts with wage increases. He was given the job as a reward for meeting his",
+              "vi": "Ban quản lý dự định sẽ thưởng cho sự nỗ lực của các nhân viên bằng cách tăng lương. n sự thưởng, phần thưởng"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 19,
+      "word": "search",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "search",
+      "ipaUs": "sart{",
+      "page": 389,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự tìm kiếm, sự điều tra",
+          "examples": [
+            {
+              "en": "We have been in search of a new president ever since Mr. Rowles resigned.",
+              "vi": "Chúng tôi vẫn đang trong quá trình tìm kiếm một vị chủ tịch mới từ khi ông Rowles từ chức. adj thiếu kinh nghiệm"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 20,
+      "word": "early",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "5:li",
+      "ipaUs": "á:rli",
+      "page": 390,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "sớm, gần đây",
+          "examples": [
+            {
+              "en": "Ms. Jones opted for an early retirement. Her previous post was sales manager.",
+              "vi": "Bà Jones đã chọn phương án nghỉ hưu sớm. Bai thì TO&lC dăng thực mơi Bạn có thể gặp dạng để yêu cầu phân biệt các từ vựng cùng"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 21,
+      "word": "designate",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "designate",
+      "ipaUs": "dézignèit",
+      "page": 390,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "chỉ định, bổ nhiệm",
+          "examples": [
+            {
+              "en": "Ms. Carling designated Owen to be the project's team leader.",
+              "vi": "Bà Carling dã chỉ định Owen làm trưởng nhóm dự án. adj (thuộc) sự thi hành, điều hành"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 22,
+      "word": "executive",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "executive",
+      "ipaUs": "gzékjutiv",
+      "page": 390,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "(thuộc) sự thi hành, điều hành",
+          "examples": [
+            {
+              "en": "Mr. Fulton holds an executive position at Greenway",
+              "vi": "Bank. Ông Fulton giữ chức vụ điều hành tại ngân hàng n sự cống hiến"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 23,
+      "word": "dedication",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "dedication",
+      "ipaUs": "dedikéi{on",
+      "page": 390,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự cống hiến",
+          "examples": [
+            {
+              "en": "Ms. Hayes was recognized for her dedication to the Hackers TOEIc Vocabulary",
+              "vi": "Có Hayes được ghi nhận vì sự cống hiến cho công ty. Bai thì TOEIC dạng thức mỗi cựn dedication to sự cống hiến cho"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 24,
+      "word": "unanimously",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "ju:nænimasli",
+      "ipaUs": "ju:nænomosli",
+      "page": 390,
+      "senses": [
+        {
+          "pos": "adv",
+          "meaning": "đồng thuận, nhất trí",
+          "examples": [
+            {
+              "en": "The board voted unanimously to replace the underperforming CEO.",
+              "vi": "Hội đồng quản trị đã nhất trí bỏ phiếu cho việc thay thế vị giám đốc điều hành kém năng lực."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 25,
+      "word": "progress",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "práugres",
+      "ipaUs": "prágres",
+      "page": 391,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự tiến hành, quá trình, sự tiến bộ",
+          "examples": [
+            {
+              "en": "Daily reports are good tools for measuring . employees' work progress.",
+              "vi": "Báo cáo hằng ngày là công cụ tốt để đánh giá sự tiến bộ trong công việc của nhân viên. v chúc mừng"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 26,
+      "word": "congratulate",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "uK kangrætjuleit",
+      "ipaUs": "kangræt{ulèit",
+      "page": 391,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "chúc mừng",
+          "examples": [
+            {
+              "en": "The president personally congratulated the",
+              "vi": "Chủ tịch đích thân chúc mừng người trợ lý nhân dịp cô ấy được thăng chức. or congratulate A on B chúc mừng A về B"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 27,
+      "word": "dismiss",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "dismiss",
+      "ipaUs": "dismís",
+      "page": 391,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự độc lập, nền độc lập",
+          "examples": [
+            {
+              "en": "Those staff found in violation of company regulations may be dismissed. Branch managers are given the independence to",
+              "vi": "Những nhân viên bị phát hiện vi phạm quy định của công ty có thể sẽ bị đuổi việc. Quản lý chi nhánh được trao quyền độc lập trong việc đưa ra"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 28,
+      "word": "participation",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "pa:tisipéifon",
+      "ipaUs": "partisapéifon",
+      "page": 391,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự tham gia, sự tham dự",
+          "examples": [
+            {
+              "en": "Workers gained valuable knowledge through",
+              "vi": "Công nhân thu nhận được những kiến thức quý báu thông qua việc tham gia vào chương trình này. a [ participation sự tham gia"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 29,
+      "word": "praise",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "praise",
+      "ipaUs": "preiz",
+      "page": 392,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự khen ngợi, lời tán dương",
+          "examples": [
+            {
+              "en": "Stacey Randall received praise for her outstanding sales record.",
+              "vi": "Stacey Randall nhận được lời khen ngợi vì kỷ lục doanh số xuất sắc của cô ấy. n thành quả, thành tích, sự hoàn thành"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 30,
+      "word": "accomplishment",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "akAmpli{mant",
+      "ipaUs": "akámpli{ment",
+      "page": 392,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "thành quả, thành tích, sự hoàn thành",
+          "examples": [
+            {
+              "en": "The team was given a bonus for its accomplishments last quarter.",
+              "vi": "Cả đội được nhận tiền thưởng nhờ thành tích của họ trong quý trước. n sự suy xét, cân nhắc, cuộc bàn cải"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 31,
+      "word": "deliberation",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "deliberation",
+      "ipaUs": "diliboréijan",
+      "page": 392,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự suy xét, cân nhắc, cuộc bàn cải",
+          "examples": [
+            {
+              "en": "The deliberation about hiring new staff lasted for nearly two hours.",
+              "vi": "Cuộc bàn cãi về việc tuyển dụng nhân viên mới đã kéo dài gần hai tiếng đồng hồ. n sự lãnh đạo, khả năng lãnh đạo"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 32,
+      "word": "leadership",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "leadership",
+      "ipaUs": "li:darjip",
+      "page": 392,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự lãnh đạo, khả năng lãnh đạo",
+          "examples": [
+            {
+              "en": "Ms. Robinson's display of leadership has earned her",
+              "vi": "Sự thể hiện tài lãnh dạo của Robinson đã khiến cô ấy giành được sự nề phục của nhân viên. V thôi việc, về hưu"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 33,
+      "word": "retire",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "ritáio",
+      "ipaUs": "ritáiar",
+      "page": 392,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự bổ nhiệm, sự để cử",
+          "examples": [
+            {
+              "en": "Hackers TOEIC Vocabulary Peter Oswald retires in May after 40 years with the",
+              "vi": "Peter Oswald sẽ nghỉ hưu vào tháng Năm sau 40 năm gắn bó với công ty."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 34,
+      "word": "nomination",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "nôminéifon",
+      "ipaUs": "nàmenéifen",
+      "page": 392,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự bổ nhiệm, sự để cử",
+          "examples": [
+            {
+              "en": "Sue Blaine's nomination to the board was a",
+              "vi": "Việc để cử Sue Blaine vào hội đồng quản trị là một bất ngờ. Bì thì TOEIC dạng thức môi [em. Khi được dùng để chỉ việc để cử, bổ nhiệm ai đó cho một vị"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 35,
+      "word": "reorganize",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "ri:5:ganaiz",
+      "ipaUs": "rì:5rganaiz",
+      "page": 393,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "The marketing team will be reorganized after the",
+              "vi": "Nhóm tiếp thị sẽ được cải tổ lại sau vụ sáp nhập này V phục vụ, phụ trách, đảm nhiệm"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 36,
+      "word": "serve",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "Se:V",
+      "ipaUs": "der. service (n) dịch vu",
+      "page": 393,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự khuyến khích, sự động viên",
+          "examples": [
+            {
+              "en": "The marketing director will serve as the acting director of consumer relations for now.",
+              "vi": "Giám đốc tiếp thị sẽ đảm nhiệm vai trò giám đốc bộ phận quan hệ khách hàng vào thời gian này. Bại thi TOEIC dạng thực mới"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 37,
+      "word": "encouragement",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "ink&ridsmant",
+      "ipaUs": "ink5:ridsment",
+      "page": 393,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự khuyến khích, sự động viên",
+          "examples": [
+            {
+              "en": "Mr. Vance offers regular encouragement to his",
+              "vi": "Ông Vance thường xuyên đưa ra những lời khích lệ đối với nhân viên. n sự từ chức"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 38,
+      "word": "resignation",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "resignation",
+      "ipaUs": "rèzignéifon",
+      "page": 393,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự từ chức",
+          "examples": [
+            {
+              "en": "The company announced the resignation of its",
+              "vi": "Công ty đã thông báo về việc từ chức của trưởng bộ phận phát triến. adv nghiêm khắc, hoàn toàn"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 39,
+      "word": "strictly",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "strictly",
+      "ipaUs": "striktli",
+      "page": 393,
+      "senses": [
+        {
+          "pos": "adv",
+          "meaning": "nghiêm khắc, hoàn toàn",
+          "examples": [
+            {
+              "en": "International transfer opportunities are strictly",
+              "vi": "Các cơ hội chuyển tiền quốc tế bị hạn chế hoàn toàn. Bài thi TOEIC dạng thức mơi w strictly + limited/prohibited bị hạn chế/cấm hoàn toàn"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    }
+  ],
+  "dailyCheckup": {
+    "page": 0,
+    "groups": [
+      {
+        "instruction": "Tìm ở cột bên phải nghĩa của các từ vựng ở cột bên trái và nối chúng với nhau.",
+        "options": [
+          {
+            "key": "a",
+            "text": "tiêu cực"
+          },
+          {
+            "key": "b",
+            "text": "ngay lập tức"
+          },
+          {
+            "key": "c",
+            "text": "cách tiếp cận"
+          },
+          {
+            "key": "d",
+            "text": "bị cấm"
+          },
+          {
+            "key": "e",
+            "text": "sự chấp thuận"
+          },
+          {
+            "key": "f",
+            "text": "truy cập"
+          }
+        ],
+        "questions": [
+          {
+            "no": 1,
+            "prompt": "mandatory",
+            "answer": "a"
+          },
+          {
+            "no": 2,
+            "prompt": "competent",
+            "answer": "a"
+          },
+          {
+            "no": 3,
+            "prompt": "early",
+            "answer": "a"
+          },
+          {
+            "no": 5,
+            "prompt": "unanimously",
+            "answer": "a"
+          }
+        ]
+      },
+      {
+        "instruction": "Hãy chọn từ phù hợp để điền vào mỗi câu của bài thi TOEIC dạng thức mới sau.",
+        "options": [
+          {
+            "key": "a",
+            "text": "inspection"
+          },
+          {
+            "key": "b",
+            "text": "effect"
+          },
+          {
+            "key": "c",
+            "text": "authorized"
+          },
+          {
+            "key": "d",
+            "text": "procedure"
+          },
+          {
+            "key": "e",
+            "text": "concern"
+          }
+        ],
+        "questions": [
+          {
+            "no": 6,
+            "prompt": "Ms. Verano....... for three years as the branch director.",
+            "answer": "a"
+          },
+          {
+            "no": 7,
+            "prompt": "Mr. Dubois was",
+            "answer": "a"
+          },
+          {
+            "no": 8,
+            "prompt": "The employee of the year was",
+            "answer": "a"
+          },
+          {
+            "no": 9,
+            "prompt": "Beth was...... to a higher position after just eight months with the firm.",
+            "answer": "a"
+          }
+        ]
+      },
+      {
+        "instruction": "Hãy chọn từ phù hợp để điền vào mỗi câu của bài thi TOEIC dạng thức mới sau.",
+        "options": [
+          {
+            "key": "a",
+            "text": "obligation"
+          },
+          {
+            "key": "b",
+            "text": "drastically"
+          },
+          {
+            "key": "c",
+            "text": "revise"
+          },
+          {
+            "key": "d",
+            "text": "thoroughly"
+          },
+          {
+            "key": "e",
+            "text": "arrangements"
+          }
+        ],
+        "questions": [
+          {
+            "no": 10,
+            "prompt": "Only _",
+            "answer": "a"
+          },
+          {
+            "no": 11,
+            "prompt": "Ms. Wang was recognized for her exemplary over the past year.",
+            "answer": "a"
+          },
+          {
+            "no": 12,
+            "prompt": "Employees have a measure of with regard to their work schedule.",
+            "answer": "a"
+          },
+          {
+            "no": 13,
+            "prompt": "Burton Ltd. showed its _",
+            "answer": "a"
+          }
+        ]
+      }
+    ]
+  },
+  "completeVocab": {
+    "basic": [
+      {
+        "word": "TƯ VỰNG TOEIC HOÀN CHÍNH",
+        "pos": "phr",
+        "meaning": "Luân chuyển nhân sự",
+        "section": "RC"
+      },
+      {
+        "word": "accept an award",
+        "pos": "phr",
+        "meaning": "nhận một giải thưởng",
+        "section": "RC"
+      },
+      {
+        "word": "anniversary celebration",
+        "pos": "phr",
+        "meaning": "lễ kỷ niệm",
+        "section": "RC"
+      },
+      {
+        "word": "fire",
+        "pos": "phr",
+        "meaning": "lễ kỷ niệm",
+        "section": "RC"
+      },
+      {
+        "word": "flash",
+        "pos": "n",
+        "meaning": "ánh sáng lóe lên, đèn nháy",
+        "section": "RC"
+      },
+      {
+        "word": "go downstairs",
+        "pos": "phr",
+        "meaning": "đi xuống tầng dưới",
+        "section": "RC"
+      },
+      {
+        "word": "greenhouse",
+        "pos": "n",
+        "meaning": "nhà kính",
+        "section": "RC"
+      },
+      {
+        "word": "gymnasium",
+        "pos": "n",
+        "meaning": "phòng tập thể dục",
+        "section": "RC"
+      },
+      {
+        "word": "a job title",
+        "pos": "phr",
+        "meaning": "chức vụ",
+        "section": "RC"
+      },
+      {
+        "word": "knob",
+        "pos": "phr",
+        "meaning": "chức vụ",
+        "section": "RC"
+      },
+      {
+        "word": "ladder",
+        "pos": "n",
+        "meaning": "cái thang",
+        "section": "RC"
+      },
+      {
+        "word": "lengthy",
+        "pos": "n",
+        "meaning": "adị dài, lâu, dông dài",
+        "section": "RC"
+      },
+      {
+        "word": "move around",
+        "pos": "phr",
+        "meaning": "adị dài, lâu, dông dài",
+        "section": "RC"
+      },
+      {
+        "word": "plan",
+        "pos": "n",
+        "meaning": "kế hoạch; v lên kế hoạch, dự kiến",
+        "section": "RC"
+      },
+      {
+        "word": "point at",
+        "pos": "n",
+        "meaning": "kế hoạch; v lên kế hoạch, dự kiến",
+        "section": "RC"
+      },
+      {
+        "word": "scale",
+        "pos": "phr",
+        "meaning": "chĩa vào, nhằm vào",
+        "section": "RC"
+      },
+      {
+        "word": "scatter",
+        "pos": "n",
+        "meaning": "quy mô",
+        "section": "RC"
+      },
+      {
+        "word": "send out",
+        "pos": "v",
+        "meaning": "gieo, rắc, vãi",
+        "section": "RC"
+      },
+      {
+        "word": "yell",
+        "pos": "n",
+        "meaning": "y keu la, la hét",
+        "section": "RC"
+      },
+      {
+        "word": "appointment",
+        "pos": "n",
+        "meaning": "cuộc hẹn, sự bổ nhiệm",
+        "section": "RC"
+      },
+      {
+        "word": "characteristic",
+        "pos": "n",
+        "meaning": "cuộc hẹn, sự bổ nhiệm",
+        "section": "RC"
+      },
+      {
+        "word": "helping",
+        "pos": "n",
+        "meaning": "adị có ích; n sự giúp đỡ",
+        "section": "RC"
+      },
+      {
+        "word": "hopeful",
+        "pos": "n",
+        "meaning": "adị đầy hy vọng, hứa hẹn",
+        "section": "RC"
+      },
+      {
+        "word": "a level",
+        "pos": "phr",
+        "meaning": "adị đầy hy vọng, hứa hẹn",
+        "section": "RC"
+      },
+      {
+        "word": "a resign",
+        "pos": "v",
+        "meaning": "từ chức, xin thôi",
+        "section": "RC"
+      },
+      {
+        "word": "role",
+        "pos": "n",
+        "meaning": "vai trò",
+        "section": "RC"
+      },
+      {
+        "word": "safeguard",
+        "pos": "n",
+        "meaning": "vai trò",
+        "section": "RC"
+      },
+      {
+        "word": "throughout the day",
+        "pos": "n",
+        "meaning": "bộ phận an ninh, sự bảo vệ",
+        "section": "RC"
+      },
+      {
+        "word": "view",
+        "pos": "n",
+        "meaning": "tầm nhìn, quan điểm; v nhìn, xem",
+        "section": "RC"
+      }
+    ],
+    "score800": [
+      {
+        "word": "arm in arm",
+        "pos": "phr",
+        "meaning": "khoác tay nhau",
+        "section": "P56"
+      },
+      {
+        "word": "a experienced employee",
+        "pos": "phr",
+        "meaning": "nhân viên giàu kinh nghiệm",
+        "section": "P56"
+      },
+      {
+        "word": "face away from",
+        "pos": "phr",
+        "meaning": "ngoảnh mặt khỏi",
+        "section": "P56"
+      },
+      {
+        "word": "fill in for",
+        "pos": "phr",
+        "meaning": "thế chỗ cho",
+        "section": "P56"
+      },
+      {
+        "word": "get a promotion",
+        "pos": "phr",
+        "meaning": "được thắng chức",
+        "section": "P56"
+      },
+      {
+        "word": "give A an advance",
+        "pos": "phr",
+        "meaning": "trả trước tiền cho A",
+        "section": "P56"
+      },
+      {
+        "word": "a kneel",
+        "pos": "phr",
+        "meaning": "y quý, quý xuống",
+        "section": "P56"
+      },
+      {
+        "word": "language acquisition",
+        "pos": "phr",
+        "meaning": "y quý, quý xuống",
+        "section": "P56"
+      },
+      {
+        "word": "move over one seat",
+        "pos": "phr",
+        "meaning": "phi chuyển sang một ghế nữa",
+        "section": "P56"
+      },
+      {
+        "word": "move up",
+        "pos": "phr",
+        "meaning": "thăng chức",
+        "section": "P56"
+      },
+      {
+        "word": "newly arrived",
+        "pos": "phr",
+        "meaning": "mới được bổ nhiệm",
+        "section": "P56"
+      },
+      {
+        "word": "obviously qualified",
+        "pos": "phr",
+        "meaning": "rõ ràng có trình độ",
+        "section": "P56"
+      },
+      {
+        "word": "pavilion",
+        "pos": "n",
+        "meaning": "gian hàng",
+        "section": "P56"
+      },
+      {
+        "word": "personnel management",
+        "pos": "n",
+        "meaning": "gian hàng",
+        "section": "P56"
+      },
+      {
+        "word": "rear",
+        "pos": "n",
+        "meaning": "phía sau",
+        "section": "P56"
+      },
+      {
+        "word": "regional director",
+        "pos": "phr",
+        "meaning": "giám đốc khu vực",
+        "section": "P56"
+      },
+      {
+        "word": "a reposition",
+        "pos": "v",
+        "meaning": "sắp xếp lại vị trí",
+        "section": "P56"
+      },
+      {
+        "word": "a retiree",
+        "pos": "phr",
+        "meaning": "• người nghỉ hưu",
+        "section": "P56"
+      },
+      {
+        "word": "retirement",
+        "pos": "n",
+        "meaning": "• người nghỉ hưu",
+        "section": "P56"
+      },
+      {
+        "word": "a senior executive",
+        "pos": "phr",
+        "meaning": "quan chức cấp cao",
+        "section": "P56"
+      },
+      {
+        "word": "spare key",
+        "pos": "phr",
+        "meaning": "chìa khóa dự phòng",
+        "section": "P56"
+      },
+      {
+        "word": "take early retirement",
+        "pos": "phr",
+        "meaning": "chìa khóa dự phòng",
+        "section": "P56"
+      },
+      {
+        "word": "take note",
+        "pos": "phr",
+        "meaning": "ghi chép",
+        "section": "P56"
+      },
+      {
+        "word": "take one's place",
+        "pos": "phr",
+        "meaning": "ngồi vào chỗ của",
+        "section": "P56"
+      },
+      {
+        "word": "take over",
+        "pos": "phr",
+        "meaning": "ngồi vào chỗ của",
+        "section": "P56"
+      },
+      {
+        "word": "achiever",
+        "pos": "phr",
+        "meaning": "tiếp quản",
+        "section": "P56"
+      },
+      {
+        "word": "admired",
+        "pos": "n",
+        "meaning": "adị đáng ngưỡng mộ",
+        "section": "P56"
+      },
+      {
+        "word": "as a result of",
+        "pos": "phr",
+        "meaning": "adị đáng ngưỡng mộ",
+        "section": "P56"
+      },
+      {
+        "word": "elect",
+        "pos": "n",
+        "meaning": "y chọn, bầu",
+        "section": "P56"
+      },
+      {
+        "word": "incompetent",
+        "pos": "n",
+        "meaning": "y chọn, bầu",
+        "section": "P56"
+      },
+      {
+        "word": "knowledgeable",
+        "pos": "n",
+        "meaning": "adị thiếu khả năng, bất tài",
+        "section": "P56"
+      },
+      {
+        "word": "namely",
+        "pos": "adv",
+        "meaning": "là, ấy là",
+        "section": "P56"
+      },
+      {
+        "word": "nearby",
+        "pos": "n",
+        "meaning": "adị gần",
+        "section": "P56"
+      },
+      {
+        "word": "nominate",
+        "pos": "n",
+        "meaning": "y để cử, giới thiệu",
+        "section": "P7"
+      },
+      {
+        "word": "promotion",
+        "pos": "n",
+        "meaning": "sự thăng chức",
+        "section": "P7"
+      },
+      {
+        "word": "put in for",
+        "pos": "n",
+        "meaning": "sự thăng chức",
+        "section": "P7"
+      },
+      {
+        "word": "recommendable",
+        "pos": "n",
+        "meaning": "adị có thể tiến cử",
+        "section": "P7"
+      },
+      {
+        "word": "specially",
+        "pos": "adv",
+        "meaning": "đặc biệt",
+        "section": "P7"
+      },
+      {
+        "word": "stand in for",
+        "pos": "phr",
+        "meaning": "thay thế tạm thời",
+        "section": "P7"
+      },
+      {
+        "word": "state",
+        "pos": "n",
+        "meaning": "trạng thái, tình trạng; v phát biểu",
+        "section": "P7"
+      },
+      {
+        "word": "tech-savvy",
+        "pos": "n",
+        "meaning": "adị am hiểu công nghệ",
+        "section": "P7"
+      },
+      {
+        "word": "undoubtedly",
+        "pos": "adv",
+        "meaning": "không nghi ngờ, rõ ràng, chắc chắn",
+        "section": "P7"
+      },
+      {
+        "word": "aspire to",
+        "pos": "adv",
+        "meaning": "không nghi ngờ, rõ ràng, chắc chắn",
+        "section": "P7"
+      },
+      {
+        "word": "dismissal",
+        "pos": "n",
+        "meaning": "sự sa thải",
+        "section": "P7"
+      },
+      {
+        "word": "empower",
+        "pos": "v",
+        "meaning": "trao quyễn",
+        "section": "P7"
+      },
+      {
+        "word": "go forward",
+        "pos": "phr",
+        "meaning": "tiến tới, tiến triển",
+        "section": "P7"
+      },
+      {
+        "word": "heighten",
+        "pos": "v",
+        "meaning": "tôn lên, làm cao hơn",
+        "section": "P7"
+      },
+      {
+        "word": "immigrant",
+        "pos": "n",
+        "meaning": "\" người nhập cư",
+        "section": "P7"
+      },
+      {
+        "word": "initiative",
+        "pos": "n",
+        "meaning": "\" người nhập cư",
+        "section": "P7"
+      },
+      {
+        "word": "inter-department",
+        "pos": "n",
+        "meaning": "adị liên vụ, liên bộ",
+        "section": "P7"
+      },
+      {
+        "word": "job cutback",
+        "pos": "phr",
+        "meaning": "cắt giảm nhân sự",
+        "section": "P7"
+      },
+      {
+        "word": "lay off",
+        "pos": "phr",
+        "meaning": "cho thôi việc",
+        "section": "P7"
+      },
+      {
+        "word": "named representative",
+        "pos": "phr",
+        "meaning": "dại diện được đề cử",
+        "section": "P7"
+      },
+      {
+        "word": "new appointment",
+        "pos": "phr",
+        "meaning": "dại diện được đề cử",
+        "section": "P7"
+      },
+      {
+        "word": "official title",
+        "pos": "phr",
+        "meaning": "sự bổ nhiệm mới",
+        "section": "P7"
+      },
+      {
+        "word": "on the recommendation of",
+        "pos": "phr",
+        "meaning": "theo sự tiến cử của",
+        "section": "P7"
+      },
+      {
+        "word": "pass up",
+        "pos": "phr",
+        "meaning": "theo sự tiến cử của",
+        "section": "P7"
+      },
+      {
+        "word": "preach",
+        "pos": "v",
+        "meaning": "thuyết giáo, khuyên răn",
+        "section": "P7"
+      },
+      {
+        "word": "predecessor",
+        "pos": "n",
+        "meaning": "người tiền nhiệm",
+        "section": "P7"
+      },
+      {
+        "word": "provincial",
+        "pos": "n",
+        "meaning": "người tiền nhiệm",
+        "section": "P7"
+      },
+      {
+        "word": "push back",
+        "pos": "phr",
+        "meaning": "trì hoán, lùi lại",
+        "section": "P7"
+      },
+      {
+        "word": "ritual",
+        "pos": "phr",
+        "meaning": "trì hoán, lùi lại",
+        "section": "P7"
+      },
+      {
+        "word": "run for",
+        "pos": "n",
+        "meaning": "nghi thức",
+        "section": "P7"
+      },
+      {
+        "word": "speck",
+        "pos": "n",
+        "meaning": "đốm, vết",
+        "section": "P7"
+      },
+      {
+        "word": "supervisory",
+        "pos": "adj",
+        "meaning": "giam sat",
+        "section": "P7"
+      },
+      {
+        "word": "turn away",
+        "pos": "adj",
+        "meaning": "giam sat",
+        "section": "P7"
+      },
+      {
+        "word": "underestimate",
+        "pos": "phr",
+        "meaning": "quay đi, khước từ",
+        "section": "P7"
+      },
+      {
+        "word": "understaffed",
+        "pos": "n",
+        "meaning": "adị thiếu nhân viên",
+        "section": "P7"
+      }
+    ],
+    "score900": [
+      {
+        "word": "plunge",
+        "pos": "n",
+        "meaning": "y nhúng vào, nhấn chìm",
+        "section": "P7"
+      },
+      {
+        "word": "salute",
+        "pos": "v",
+        "meaning": "chào",
+        "section": "P7"
+      },
+      {
+        "word": "a scheme",
+        "pos": "n",
+        "meaning": "kế hoạch, ý đồ, sơ đổ",
+        "section": "P7"
+      },
+      {
+        "word": "cordially",
+        "pos": "adv",
+        "meaning": "thân ái, chân thành",
+        "section": "P7"
+      },
+      {
+        "word": "delicate",
+        "pos": "n",
+        "meaning": "adị thanh tú, tinh tế",
+        "section": "P7"
+      },
+      {
+        "word": "designation",
+        "pos": "n",
+        "meaning": "sự chỉ định, sự bổ nhiệm",
+        "section": "P7"
+      },
+      {
+        "word": "a intent",
+        "pos": "n",
+        "meaning": "ý định, mục đích",
+        "section": "P7"
+      },
+      {
+        "word": "irreversible",
+        "pos": "n",
+        "meaning": "ý định, mục đích",
+        "section": "P7"
+      },
+      {
+        "word": "a lingering",
+        "pos": "phr",
+        "meaning": "adị kéo dài, còn rơi rớt lại",
+        "section": "P7"
+      },
+      {
+        "word": "a lose oneself in",
+        "pos": "phr",
+        "meaning": "đắm chìm trong",
+        "section": "P7"
+      },
+      {
+        "word": "perpetual",
+        "pos": "n",
+        "meaning": "adị vĩnh viễn, bất diệt",
+        "section": "P7"
+      },
+      {
+        "word": "tolerant",
+        "pos": "n",
+        "meaning": "adi khoan dung, vi tha",
+        "section": "P7"
+      },
+      {
+        "word": "degrade",
+        "pos": "v",
+        "meaning": "hạ thấp, làm giảm giá trị",
+        "section": "P7"
+      },
+      {
+        "word": "a demote",
+        "pos": "v",
+        "meaning": "hạ thấp, làm giảm giá trị",
+        "section": "P7"
+      },
+      {
+        "word": "deploy",
+        "pos": "n",
+        "meaning": "y dàn trận, triển khai",
+        "section": "P7"
+      },
+      {
+        "word": "dignitary",
+        "pos": "n",
+        "meaning": "người có chức sắc",
+        "section": "P7"
+      },
+      {
+        "word": "disorient",
+        "pos": "v",
+        "meaning": "làm mất phương hướng",
+        "section": "P7"
+      },
+      {
+        "word": "extraordinary feat",
+        "pos": "phr",
+        "meaning": "thành tựu phi thường",
+        "section": "P7"
+      },
+      {
+        "word": "forage",
+        "pos": "phr",
+        "meaning": "thành tựu phi thường",
+        "section": "P7"
+      },
+      {
+        "word": "gratis",
+        "pos": "adv",
+        "meaning": "cho không, không mất tiền",
+        "section": "P7"
+      },
+      {
+        "word": "hurdle",
+        "pos": "n",
+        "meaning": "• rào, chương ngại vật",
+        "section": "P7"
+      },
+      {
+        "word": "a immensity",
+        "pos": "phr",
+        "meaning": "• rào, chương ngại vật",
+        "section": "P7"
+      },
+      {
+        "word": "in defiance of",
+        "pos": "phr",
+        "meaning": "bất chấp, chống lại",
+        "section": "P7"
+      },
+      {
+        "word": "in one's grasp",
+        "pos": "phr",
+        "meaning": "trong tầm tay, trong khả năng",
+        "section": "P7"
+      },
+      {
+        "word": "incumbent",
+        "pos": "phr",
+        "meaning": "trong tầm tay, trong khả năng",
+        "section": "P7"
+      },
+      {
+        "word": "miscellaneous",
+        "pos": "n",
+        "meaning": "adị pha tạp, hỗn hợp",
+        "section": "P7"
+      },
+      {
+        "word": "reinstate",
+        "pos": "v",
+        "meaning": "phục hồi, sắp đặt lại",
+        "section": "P7"
+      },
+      {
+        "word": "scuff",
+        "pos": "v",
+        "meaning": "phục hồi, sắp đặt lại",
+        "section": "P7"
+      },
+      {
+        "word": "a shred",
+        "pos": "phr",
+        "meaning": "y cắt nhỏ, xé vụn",
+        "section": "P7"
+      },
+      {
+        "word": "underpass",
+        "pos": "n",
+        "meaning": "y cắt nhỏ, xé vụn",
+        "section": "P7"
+      },
+      {
+        "word": "a unwind",
+        "pos": "phr",
+        "meaning": "y nới lỏng (căng thẳng)",
+        "section": "P7"
+      },
+      {
+        "word": "upbeat",
+        "pos": "n",
+        "meaning": "y nới lỏng (căng thẳng)",
+        "section": "P7"
+      }
+    ]
+  },
+  "title": "Ngày đầu thăng chức"
+}

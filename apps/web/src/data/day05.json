@@ -1,0 +1,1721 @@
+{
+  "dayNo": 5,
+  "source": "Apple Vision OCR extraction from pages 90-105",
+  "coreWords": [
+    {
+      "no": 1,
+      "word": "sophisticated",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "safistakeitid",
+      "ipaUs": "safistikeitid",
+      "page": 91,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "tinh vi, tinh tế, phức tạp, công phu",
+          "examples": [
+            {
+              "en": "A sophisticated surveillance system was installed. The decorator exhibited a sophisticated taste in art.",
+              "vi": "Một hệ thống giám sát tinh vi đã được cài đặt. Người trang trí dã thể hiện gu thẩm mĩ rất tinh tế. adj kịp thời"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 2,
+      "word": "timely",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "timely",
+      "ipaUs": "táimli",
+      "page": 91,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "kịp thời",
+          "examples": [
+            {
+              "en": "The report was completed in a timely manner.",
+              "vi": "Bản báo cáo đã được hoàn thành kịp thời. in a timely manner kịp thời Lse Đề thi có thể sẽ xuất hiện câu hỏi yêu cầu lựa chọn giới từ in"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 3,
+      "word": "realistically",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "rialístikali",
+      "ipaUs": "rielístikali",
+      "page": 91,
+      "senses": [
+        {
+          "pos": "adv",
+          "meaning": "theo thực tế, thực tế là",
+          "examples": [
+            {
+              "en": "We cannot realistically expect to have the presentation 10 Hackers TOEIC Vocabulary",
+              "vi": "ready on time. Thực tế là chúng tôi không thể mong đợi bài thuyết trình đó được hoàn thành kịp thời hạn. cannot realistically expect + to verb/mệnh đề that"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 4,
+      "word": "promptly",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "prámptli",
+      "ipaUs": "prómptli",
+      "page": 91,
+      "senses": [
+        {
+          "pos": "adv",
+          "meaning": "nhanh chóng, ngay lập tức, đúng giờ",
+          "examples": [
+            {
+              "en": "It is company policy to respond promptly to all The train will leave promptly at 4 P.M. Aegng Tate toes",
+              "vi": "inquiries. Chính sách của công ty là phản hồi mọi thắc mắc ngay lập tức. Tàu sẽ rời đi đúng 4 giờ chiều."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 5,
+      "word": "accessible",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "uK æksésabl",
+      "ipaUs": "aksésabl",
+      "page": 92,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "có thể truy cập/tiếp cận được, có thể sử dụng được",
+          "examples": [
+            {
+              "en": "The 18th floor is only accessible to executive staff. Please make the manual accessible to all employees.",
+              "vi": "Chỉ nhân viên hành chính mới được sử dụng tầng 18. Vui lòng để tất cả nhân viên đều có thể sử dụng cuốn sách hướng dẫn này."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 6,
+      "word": "implement",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "implamênt",
+      "ipaUs": "impliment",
+      "page": 92,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "phản hỗi, ý kiến nhận xét",
+          "examples": [
+            {
+              "en": "Board members voted to implement an innovative marketing campaign.",
+              "vi": "Các thành viên hội đồng quản trị đã biểu quyết để tiến hành một chiến dịch tiếp thị sáng tạo. Bại thi TOEIC dạng thức mới"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 7,
+      "word": "feedback",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "feedback",
+      "ipaUs": "fi:dbæk",
+      "page": 92,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "phản hỗi, ý kiến nhận xét",
+          "examples": [
+            {
+              "en": "Feedback from colleagues can be of great assistance.",
+              "vi": "Ý kiến nhận xét từ các đồng nghiệp có thể là một sự trợ giúp rất lớn."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 8,
+      "word": "outstanding",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "outstanding",
+      "ipaUs": "àutstændin",
+      "page": 93,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "nổi bật, đáng chú ý; còn tổn tại, chưa trả (tiên nợ)",
+          "examples": [
+            {
+              "en": "The director presented an outstanding business plan. By clearing its outstanding debt, Cottonvale was able to finance new product development.",
+              "vi": "Giám đốc đã trình bày một kế hoạch kinh doanh xuất sắc. Với việc thanh toán hết khoản nợ còn tổn đọng, Cottonvale dã có thể đầu tư cho việc phát triển sản phẩm mới."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 9,
+      "word": "inform",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "Uk inf5:rm",
+      "ipaUs": "inf5:m",
+      "page": 93,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự thay thế, vật/người thay thế",
+          "examples": [
+            {
+              "en": "Please inform the director that the meeting has been canceled. The CEO explained to the board that the",
+              "vi": "Vui lòng báo cho giám đốc biết là cuộc họp đã bị hủy. dạng thực mơi năn Hãy phân biệt hai từ cùng mang nghĩa \"cung cấp thông tin\""
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 10,
+      "word": "replacement",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "replacement",
+      "ipaUs": "ripléismant",
+      "page": 93,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự thay thế, vật/người thay thế",
+          "examples": [
+            {
+              "en": "Hackers TOEIC Vocabulary We need a replacement for this broken laptop. Human resources is looking for a replacement for",
+              "vi": "Chúng ta cần một chiếc máy thay cho chiếc máy tính xách tay bị hỏng này. Bộ phận nhân sự đang tìm một người thay thế cho ông Winters."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 11,
+      "word": "department",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "dipá:rtmant",
+      "ipaUs": "dipá:rtmant",
+      "page": 93,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "bộ, ban, bộ phận của một đơn vị (chính phủ, trường học,",
+          "examples": [
+            {
+              "en": "Report payroll problems to the finance department.",
+              "vi": "Hãy báo cáo những vấn để về tiền lương cho bộ phận tài chính."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 12,
+      "word": "permanently",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "pố:rmanantli",
+      "ipaUs": "pá:manentli",
+      "page": 94,
+      "senses": [
+        {
+          "pos": "adv",
+          "meaning": "vĩnh cửu, lâu dài, vĩnh viến",
+          "examples": [
+            {
+              "en": "The computer files have been permanently deleted",
+              "vi": "Các tệp tin trên máy tính đã bị xóa vĩnh viễn và không thể lấy lại được. V hoàn thành, đáp ứng (yêu cầu), thực thi, giữ (lời hứa,"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 13,
+      "word": "fulfill",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "fulfill",
+      "ipaUs": "fulfil",
+      "page": 94,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "bản thảo, nét phác thảo, dàn bài",
+          "examples": [
+            {
+              "en": "The final product design fulfilled the terms of the",
+              "vi": "contract. Thiết kế cuối của sản phẩm đã đáp ứng được các điều khoản trong hợp đồng."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 14,
+      "word": "outline",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "outline",
+      "ipaUs": "autlàin",
+      "page": 94,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "bản thảo, nét phác thảo, dàn bài",
+          "examples": [
+            {
+              "en": "Begin making the report by arranging the main ideas The salesman outlined the features of the vacuum",
+              "vi": "Hãy bắt đầu làm báo cáo bằng việc sắp xếp những ý chính thành một dàn bài. y vẽ phác thảo, vạch ra/chỉ ra những ý chính"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 15,
+      "word": "explain",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "explain",
+      "ipaUs": "ikspléin",
+      "page": 94,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "bao gồm, chứa",
+          "examples": [
+            {
+              "en": "The manager explained the new regulations to",
+              "vi": "Người quản lý giải thích những quy định mới cho mọi người trong phòng."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 16,
+      "word": "contain",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "contain",
+      "ipaUs": "kentéin",
+      "page": 94,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "bao gồm, chứa",
+          "examples": [
+            {
+              "en": "The filing cabinet contains copies of all our invoices.",
+              "vi": "Tủ hồ sơ chứa bản sao tất cả các hóa đơn của chúng ta. Bai thi TOBC dạng thức môi yn. Khi được dùng với nghĩa \"bao gồm\", contain có thể thay bằng"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 17,
+      "word": "compile",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "compile",
+      "ipaUs": "kempáil",
+      "page": 95,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "biên soạn, tập hợp, tổng hợp (tài liệu)",
+          "examples": [
+            {
+              "en": "The assistant compiled a list of tablet computer Ms. Atkins will compile all year-end reports and submit them to Ms. Woo.",
+              "vi": "Người trợ lý đã tổng hợp một danh sách các nhà sản xuất máy tính bảng. Cô Atkins sẽ tập hợp các báo cáo cuối năm và nộp chúng cho"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 18,
+      "word": "subsequent",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "subsequent",
+      "ipaUs": "sÁbsikwant",
+      "page": 95,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "đến sau, xáy ra sau",
+          "examples": [
+            {
+              "en": "Some employees received separation pay subsequent naby Thet mo",
+              "vi": "Một số nhân viên đã nhận được khoản tiền bồi thường thôi việc sau khi công ty bị đóng cửa. Hãy ghi nhớ từ subsequent đi với giới từ to."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 19,
+      "word": "overview",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "Ouvar vjù:",
+      "ipaUs": "vanja",
+      "page": 95,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "tổng quát, khái quat",
+          "examples": [
+            {
+              "en": "Scott gave an overview of the topic before the Hackers TOEIC Vocabulary",
+              "vi": "Scott đã đưa ra một cái nhìn khái quát về chủ để trước khi thuyết trình. n người cung cấp, nhà cung cấp"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 20,
+      "word": "provider",
+      "stars": 3,
+      "part": "P56",
+      "ipaUk": "preváidar",
+      "ipaUs": "prováida",
+      "page": 95,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "người cung cấp, nhà cung cấp",
+          "examples": [
+            {
+              "en": "There are numerous Internet and cable providers in",
+              "vi": "the city. Có rất nhiều nhà cung cấp dịch vụ Internet và truyền hình cáp trong thành phố. n vấn để, công việc"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 21,
+      "word": "matter",
+      "stars": 3,
+      "part": "P7",
+      "ipaUk": "mætar",
+      "ipaUs": "mæta",
+      "page": 95,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "vấn để, công việc",
+          "examples": [
+            {
+              "en": "Please deal with personal matters outside the office.",
+              "vi": "Vui lòng giải quyết các vấn để cá nhân ở ngoài văn phòng. n sự tinh thông, sự thành thạo, kỹ năng chuyên môn"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 22,
+      "word": "expertise",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "expertise",
+      "ipaUs": "èkspa:tí:z",
+      "page": 95,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự tinh thông, sự thành thạo, kỹ năng chuyên môn",
+          "examples": [
+            {
+              "en": "This kind of project falls outside the firm's area of",
+              "vi": "Loại dự án này nằm ngoài lĩnh vực chuyên môn của công ty."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 23,
+      "word": "demonstrate",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "demonstrate",
+      "ipaUs": "démanstrèit",
+      "page": 96,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "Sales figures demonstrate that the advertising campaign was successful. Our representative will demonstrate how to use",
+              "vi": "Các số liệu bán hàng chứng minh rằng chiến dịch quảng cáo đã thành công. the instrument. Người đại diện của chúng tôi sẽ minh họa"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 24,
+      "word": "remainder",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "riméindar",
+      "ipaUs": "riméinda",
+      "page": 96,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "Audits will continue throughout the remainder of Management issued a reminder to submit monthly reports by Friday.",
+              "vi": "the month. Việc kiểm toán sẽ tiếp tục trong suốt thời gian còn lại của tháng. Bai thi TOEIC dạng thực mới"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 25,
+      "word": "essential",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "essential",
+      "ipaUs": "isénjal",
+      "page": 97,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "cần thiết, thiết yếu, cốt yếu",
+          "examples": [
+            {
+              "en": "Please follow the essential.",
+              "vi": "Vui lòng tuân theo essential."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 26,
+      "word": "divide",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "divide",
+      "ipaUs": "diváid",
+      "page": 97,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "Required overtime will be divided equally among The firm decided to cut 80 full-time positions. Hackers TOEIC Vocabulary",
+              "vi": "employees. Thời gian làm ngoài giờ bắt buộc sẽ được phân chia công băng giữa các nhân viên. Bài th TOEiC dạng thọc"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 27,
+      "word": "major",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "uK méidzar",
+      "ipaUs": "méidza",
+      "page": 97,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự tuần theo, sự phục tùng (mệnh lệnh, luật pháp)",
+          "examples": [
+            {
+              "en": "A major figure in publishing, Ms. Yarrow is highly The new manager has had a major impact on",
+              "vi": "influential. Là một nhân vật chủ chốt trong ngành xuất bản, cô Yarrow có ảnh hưởng rất lớn. productivity. Người quản lý mới có một ảnh hưởng quan trọng"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 28,
+      "word": "compliance",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "compliance",
+      "ipaUs": "kampláians",
+      "page": 97,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "sự tuần theo, sự phục tùng (mệnh lệnh, luật pháp)",
+          "examples": [
+            {
+              "en": "Government officials will inspect the plant's compliance with safety guidelines.",
+              "vi": "Các quan chức chính phủ sẽ giám sát việc tuân thủ các quy định an toàn của nhà máy."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 29,
+      "word": "clarify",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "klærafài",
+      "ipaUs": "klærifai",
+      "page": 98,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "sàng lọc, làm rõ",
+          "examples": [
+            {
+              "en": "The notice clarified some details of the vacation policy modifications.",
+              "vi": "Thông báo đã làm rõ một số chi tiết trong những thay đổi về. chính sách nghỉ phép. v đương đầu, đối mặt, hướng về"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 30,
+      "word": "face",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "face",
+      "ipaUs": "feis",
+      "page": 98,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "đương đầu, đối mặt, hướng về",
+          "examples": [
+            {
+              "en": "Businesses are faced with the challenge of foreign The elevator faces the lobby of the building.",
+              "vi": "competition. Các doanh nghiệp phải đổi mặt với thách thức cạnh tranh từ nước ngoài. Thang máy hướng ra sảnh của tòa nhà."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 31,
+      "word": "follow",
+      "stars": 2,
+      "part": "P7",
+      "ipaUk": "fálou",
+      "ipaUs": "f5lau",
+      "page": 98,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "định nghĩa",
+          "examples": [
+            {
+              "en": "The guests followed the guide into the exhibition Bill followed the conversations at the meeting The manager realized the staff was not following",
+              "vi": "hall. Các vị khách đi theo chỉ dẫn vào trong sảnh triển lãm. closely. Bill theo dõi sát sao các cuộc trao đổi trong buổi họp. his talk. Người quản lý nhận ra rằng các nhân viên không chú"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 32,
+      "word": "aspect",
+      "stars": 2,
+      "part": "P56",
+      "ipaUk": "aspect",
+      "ipaUs": "spekt",
+      "page": 99,
+      "senses": [
+        {
+          "pos": "n",
+          "meaning": "khia cạnh",
+          "examples": [
+            {
+              "en": "Every aspect of the problem must be taken into",
+              "vi": "Mọi khía cạnh của vấn để này đều phải được cân nhắc. adv hình như"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 33,
+      "word": "apparently",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "apparently",
+      "ipaUs": "apærantli",
+      "page": 99,
+      "senses": [
+        {
+          "pos": "adv",
+          "meaning": "hình như",
+          "examples": [
+            {
+              "en": "Apparently, Mr. Jones was not invited to this meeting.",
+              "vi": "Hình như ông Jones không được mời tới buổi họp này. adj biết, nhận thầy, nhận thức được"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 34,
+      "word": "aware",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "awÉaY",
+      "ipaUs": "ae",
+      "page": 99,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "biết, nhận thầy, nhận thức được",
+          "examples": [
+            {
+              "en": "Workers should be made aware of safety procedures.",
+              "vi": "Cần cho công nhân biết về các quy trình an toàn. a: th TOLl dạng Iut me cựn be aware + of/mệnh đề that biết/ý thức về diều gì"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 35,
+      "word": "extended",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "extended",
+      "ipaUs": "iksténdid",
+      "page": 99,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "mở rộng, kéo dài",
+          "examples": [
+            {
+              "en": "The accounting department works extended hours on the first week of every month. 10 Hackers TOEIC Vocabulary",
+              "vi": "Bộ phận kế toán phải làm thêm giờ vào tuần đầu tiên hằng tháng. Bai thi TOEIC dạng thức com work extended hours làm tăng giờ, làm thêm giờ"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 36,
+      "word": "accidentally",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "accidentally",
+      "ipaUs": "àksidéntali",
+      "page": 99,
+      "senses": [
+        {
+          "pos": "adv",
+          "meaning": "tình cờ, ngoài ý muốn",
+          "examples": [
+            {
+              "en": "Alison accidentally made some errors in the financial statements.",
+              "vi": "Alison đã vô tình mắc một vài sai sót trong báo cáo tài chính. adj nên làm, thích hợp"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 37,
+      "word": "advisable",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "uK ædváizabl",
+      "ipaUs": "adváizabl",
+      "page": 99,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "nên làm, thích hợp",
+          "examples": [
+            {
+              "en": "It is advisable to update computer equipment",
+              "vi": "regularly. Nâng cấp thiết bị máy tính thường xuyên là việc nên làm."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 38,
+      "word": "concerned",
+      "stars": 1,
+      "part": "P56",
+      "ipaUk": "Uk kansé:rnd",
+      "ipaUs": "kense:nd",
+      "page": 100,
+      "senses": [
+        {
+          "pos": "adj",
+          "meaning": "lo lắng, lo âu, có liên quan đến",
+          "examples": [
+            {
+              "en": "Management is concerned about security. The report is mainly concerned with current",
+              "vi": "Ban quản lý đang lo lắng về vấn đề an ninh. investments. Báo cáo này chủ yếu liên quan đến các vụ đầu tư gần đây."
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    },
+    {
+      "no": 39,
+      "word": "speak",
+      "stars": 1,
+      "part": "P7",
+      "ipaUk": "speak",
+      "ipaUs": "spi:k",
+      "page": 100,
+      "senses": [
+        {
+          "pos": "v",
+          "meaning": "nói",
+          "examples": [
+            {
+              "en": "Mr. Brooke spoke to his clients about a new venture. Mr. Bennett told reporters that he would retire soon. The customer said to the clerk that he was happy",
+              "vi": "Ông Brooke đã nói với các khách hàng của mình về một dự án kinh doanh mạo hiểm mới. Đề thi có thể sẽ xuất hiện câu hỏi yêu cầu phân biệt giữa các"
+            }
+          ]
+        }
+      ],
+      "relations": [],
+      "notes": []
+    }
+  ],
+  "completeVocab": {
+    "basic": {
+      "LC": [],
+      "RC": [
+        [
+          "TỪ VỰNG TOEIC HOÀN CHỈNH",
+          "phr",
+          "Công việc văn phòng (3)"
+        ],
+        [
+          "briefcase",
+          "n",
+          "cặp đựng tài liệu"
+        ],
+        [
+          "business trip",
+          "phr",
+          "chuyến công tác"
+        ],
+        [
+          "come over",
+          "phr",
+          "ghé thăm"
+        ],
+        [
+          "counter",
+          "phr",
+          "ghé thăm"
+        ],
+        [
+          "e-mail",
+          "n",
+          "quầy thu ngân; ađi trái lại, đối lập lại"
+        ],
+        [
+          "filing cabinet",
+          "phr",
+          "tủ hỗ sơ"
+        ],
+        [
+          "folder",
+          "n",
+          "thư mục"
+        ],
+        [
+          "headache",
+          "n",
+          "chứng nhức đầu"
+        ],
+        [
+          "a internship",
+          "n",
+          "chứng nhức đầu"
+        ],
+        [
+          "redo",
+          "v",
+          "làm lại"
+        ],
+        [
+          "routine",
+          "n",
+          "công việc hãng ngày; aơi thường lệ"
+        ],
+        [
+          "table lamp",
+          "phr",
+          "đèn để bàn"
+        ],
+        [
+          "thanks to",
+          "phr",
+          "nhờ có"
+        ],
+        [
+          "timetable",
+          "phr",
+          "nhờ có"
+        ],
+        [
+          "window display",
+          "phr",
+          "cửa sổ trưng bày (của cửa hàng)"
+        ],
+        [
+          "chief",
+          "n",
+          "adi trọng yếu, chính; n người đứng đầu, trưởng"
+        ],
+        [
+          "conceal",
+          "n",
+          "adi trọng yếu, chính; n người đứng đầu, trưởng"
+        ],
+        [
+          "correct",
+          "n",
+          "adị đúng, chính xác; y hiệu chỉnh ."
+        ],
+        [
+          "economic",
+          "n",
+          "adị thuộc kinh tế, mang lại lợi nhuận"
+        ],
+        [
+          "embrace",
+          "n",
+          "adị thuộc kinh tế, mang lại lợi nhuận"
+        ],
+        [
+          "expected",
+          "n",
+          "adị được chờ đợi, kỳ vọng"
+        ],
+        [
+          "forum",
+          "n",
+          "adị được chờ đợi, kỳ vọng"
+        ],
+        [
+          "instead of",
+          "phr",
+          "thay vi"
+        ],
+        [
+          "mission",
+          "n",
+          "nhiệm vụ"
+        ],
+        [
+          "programming",
+          "n",
+          "nhiệm vụ"
+        ],
+        [
+          "remaining",
+          "n",
+          "lập trình"
+        ],
+        [
+          "Jush",
+          "v",
+          "đổ xô tới, tăng lên đột ngột"
+        ],
+        [
+          "unfortunately",
+          "v",
+          "đổ xô tới, tăng lên đột ngột"
+        ]
+      ]
+    },
+    "l800": {
+      "LC": [
+        [
+          "archive",
+          "n",
+          "kho trữ"
+        ],
+        [
+          "be unwilling to do",
+          "phr",
+          "miễn cưỡng làm gì đó"
+        ],
+        [
+          "be up late",
+          "phr",
+          "thức khuya"
+        ],
+        [
+          "blackout",
+          "n",
+          "sự tắt đèn, cúp điện"
+        ],
+        [
+          "board meeting",
+          "phr",
+          "cuộc họp hội đồng quản trị"
+        ],
+        [
+          "board of directors",
+          "phr",
+          "ban giám đốc"
+        ],
+        [
+          "cross one's arms",
+          "phr",
+          "khoanh tay"
+        ],
+        [
+          "depressing",
+          "n",
+          "adị làm chán nản, thất vọng"
+        ],
+        [
+          "drag",
+          "v",
+          "lôi kéo, kéo lê"
+        ],
+        [
+          "fold in half",
+          "phr",
+          "gấp đôi"
+        ],
+        [
+          "fold up",
+          "phr",
+          "gập lại"
+        ],
+        [
+          "frighten",
+          "v",
+          "làm hoảng sợ"
+        ],
+        [
+          "keep going",
+          "phr",
+          "tiếp tục"
+        ],
+        [
+          "long-term",
+          "n",
+          "aơj dài hạn"
+        ],
+        [
+          "look up",
+          "phr",
+          "tra cứu, tìm kiếm"
+        ],
+        [
+          "look up to",
+          "phr",
+          "tra cứu, tìm kiếm"
+        ],
+        [
+          "make a presentation",
+          "phr",
+          "thuyết trình"
+        ],
+        [
+          "make a revision",
+          "phr",
+          "sửa đổi"
+        ],
+        [
+          "make an error",
+          "phr",
+          "mắc lỗi, mắc sai lẩm"
+        ],
+        [
+          "meet the deadline",
+          "phr",
+          "đáp ứng đúng thời hạn"
+        ],
+        [
+          "meet the requirements",
+          "phr",
+          "đáp ứng đúng thời hạn"
+        ],
+        [
+          "mess up",
+          "phr",
+          "rối tung lên"
+        ],
+        [
+          "My schedule doesn't permit it.",
+          "phr",
+          "Lịch làm việc của tôi không cho phép"
+        ],
+        [
+          "obvious",
+          "n",
+          "adị rõ ràng, rành mạch, hiển nhiên"
+        ],
+        [
+          "office supplies",
+          "phr",
+          "adị rõ ràng, rành mạch, hiển nhiên"
+        ],
+        [
+          "overlook",
+          "v",
+          "lờ đi, bỏ qua"
+        ],
+        [
+          "a overnight",
+          "adv",
+          "qua đêm"
+        ],
+        [
+          "papers",
+          "adv",
+          "qua đêm"
+        ],
+        [
+          "proofread",
+          "n",
+          "y đọc soát, hiệu đính"
+        ],
+        [
+          "rearrange",
+          "v",
+          "sắp xếp lại"
+        ],
+        [
+          "recondition",
+          "v",
+          "sắp xếp lại"
+        ],
+        [
+          "rest one's chin on one's hand",
+          "phr",
+          "chống cắm"
+        ]
+      ],
+      "P56": [],
+      "P7": [
+        [
+          "stool",
+          "n",
+          "ghế đẩu (không có lưng)"
+        ],
+        [
+          "timecard",
+          "n",
+          "sổ chấm công"
+        ],
+        [
+          "wipe",
+          "v",
+          "lau chùi, làm sạch"
+        ],
+        [
+          "work additional hours",
+          "phr",
+          "làm thêm giờ"
+        ],
+        [
+          "work shift",
+          "phr",
+          "ca làm việc"
+        ],
+        [
+          "burdensome",
+          "n",
+          "adị nặng nẽ, phiến toái"
+        ],
+        [
+          "circulate",
+          "n",
+          "y truyền bá, lưu thông"
+        ],
+        [
+          "commend",
+          "n",
+          "y tuyên dương, ca ngợi"
+        ],
+        [
+          "company",
+          "n",
+          "công ty"
+        ],
+        [
+          "discourage",
+          "v",
+          "làm chán nản, làm năn lòng"
+        ],
+        [
+          "distraction",
+          "n",
+          "yếu tố gây sao nhãng"
+        ],
+        [
+          "failure",
+          "n",
+          "yếu tố gây sao nhãng"
+        ],
+        [
+          "a followed by",
+          "phr",
+          "theo sau bởi"
+        ],
+        [
+          "interruption",
+          "n",
+          "sự gián đoạn"
+        ],
+        [
+          "make sure",
+          "phr",
+          "đảm bảo"
+        ],
+        [
+          "mislabeled",
+          "phr",
+          "đảm bảo"
+        ],
+        [
+          "observant",
+          "n",
+          "adị tinh mắt, tinh ý"
+        ],
+        [
+          "persuade",
+          "n",
+          "adị tinh mắt, tinh ý"
+        ],
+        [
+          "proposed",
+          "n",
+          "adị được đề nghị, dự kiến"
+        ],
+        [
+          "rephrase",
+          "n",
+          "y diễn đạt lại (bằng các từ khác)"
+        ],
+        [
+          "concisely",
+          "n",
+          "y diễn đạt lại (bằng các từ khác)"
+        ],
+        [
+          "disapproval",
+          "n",
+          "sự phản đổi"
+        ],
+        [
+          "disapprove",
+          "n",
+          "sự phản đổi"
+        ],
+        [
+          "do A a favor",
+          "phr",
+          "Y phản đối, không tán thành"
+        ],
+        [
+          "do a good job",
+          "phr",
+          "làm tốt công việc"
+        ],
+        [
+          "draw a distinction between",
+          "phr",
+          "làm tốt công việc"
+        ],
+        [
+          "exposed",
+          "n",
+          "adi phơi bày ra, lộ ra"
+        ],
+        [
+          "o intensive",
+          "phr",
+          "adị chuyên sâu, mạnh mẽ, sâu sắc"
+        ],
+        [
+          "problematic",
+          "n",
+          "adị chuyên sâu, mạnh mẽ, sâu sắc"
+        ],
+        [
+          "project coordinator",
+          "phr",
+          "aơị khó giải quyết, khó hiểu, mơ hồ"
+        ],
+        [
+          "project management",
+          "phr",
+          "điều phối viên dự án"
+        ],
+        [
+          "seating capacity",
+          "phr",
+          "sức chứa (chỗ ngồi)"
+        ],
+        [
+          "take care of",
+          "phr",
+          "sức chứa (chỗ ngồi)"
+        ],
+        [
+          "take on",
+          "phr",
+          "chăm sóc"
+        ],
+        [
+          "tremendous",
+          "phr",
+          "đảm nhiệm, gánh vác"
+        ],
+        [
+          "q under the new management",
+          "phr",
+          "dưới sự quản lý mới"
+        ]
+      ]
+    },
+    "l900": {
+      "LC": [],
+      "P56": [],
+      "P7": [
+        [
+          "astute",
+          "n",
+          "adị sắc sảo, tinh khôn, mánh khoe"
+        ],
+        [
+          "bring along",
+          "phr",
+          "mang theo"
+        ],
+        [
+          "compartment",
+          "n",
+          "gian, ngan"
+        ],
+        [
+          "give way to",
+          "n",
+          "gian, ngan"
+        ],
+        [
+          "overwork",
+          "n",
+          "làm việc quá sức"
+        ],
+        [
+          "put down",
+          "phr",
+          "làm bẽ mặt"
+        ],
+        [
+          "reach the solution",
+          "phr",
+          "tìm ra giải pháp"
+        ],
+        [
+          "recharge",
+          "v",
+          "nạp lại"
+        ],
+        [
+          "smock",
+          "n",
+          "áo khoác mặc ngoài, áo bờ lu"
+        ],
+        [
+          "accessibility",
+          "n",
+          "khả năng tiếp cận được"
+        ],
+        [
+          "coordinator",
+          "n",
+          "điều phối viên"
+        ],
+        [
+          "customary",
+          "n",
+          "adị thông thường, theo lệ thường"
+        ],
+        [
+          "disrupt",
+          "n",
+          "y đập gãy, phá vỡ, làm gián đoạn"
+        ],
+        [
+          "elevate",
+          "n",
+          "y nâng lên, đưa lên"
+        ],
+        [
+          "formality",
+          "n",
+          "nghi lễ, nghi thức, thủ tục"
+        ],
+        [
+          "restraint",
+          "n",
+          "nghi lễ, nghi thức, thủ tục"
+        ],
+        [
+          "sign out",
+          "phr",
+          "đăng xuất"
+        ],
+        [
+          "undeniable",
+          "n",
+          "adị không thể phủ nhận, không thế bác bỏ"
+        ],
+        [
+          "violation",
+          "n",
+          "sự vi phạm"
+        ],
+        [
+          "aggravate",
+          "n",
+          "y làm trầm trọng thêm"
+        ],
+        [
+          "contingency",
+          "n",
+          "y làm trầm trọng thêm"
+        ],
+        [
+          "draw the line at",
+          "phr",
+          "đặt ra một giới hạn"
+        ],
+        [
+          "draw up",
+          "phr",
+          "phác thảo, soạn thảo"
+        ],
+        [
+          "evacuate",
+          "phr",
+          "phác thảo, soạn thảo"
+        ],
+        [
+          "in commemoration of",
+          "phr",
+          "để kỷ niệm"
+        ],
+        [
+          "on probation",
+          "phr",
+          "để kỷ niệm"
+        ],
+        [
+          "overestimate",
+          "n",
+          "Y đánh giá quá cao"
+        ],
+        [
+          "a privilege",
+          "phr",
+          "ịn đặc quyền, lợi thế"
+        ],
+        [
+          "restructure",
+          "n",
+          "ịn đặc quyền, lợi thế"
+        ],
+        [
+          "segregate A from B",
+          "phr",
+          "cách ly A khỏi B"
+        ],
+        [
+          "trigger",
+          "n",
+          "y làm nổ ra, gây ra"
+        ],
+        [
+          "wary of",
+          "phr",
+          "cảnh giác với"
+        ]
+      ]
+    }
+  },
+  "dailyCheckup": {
+    "page": 101,
+    "groups": [
+      {
+        "instruction": "Tìm ở cột bên phải nghĩa của các từ vựng ở cột bên trái và nối chúng với nhau.",
+        "options": [
+          {
+            "key": "a",
+            "text": "tiêu cực"
+          },
+          {
+            "key": "b",
+            "text": "ngay lập tức"
+          },
+          {
+            "key": "c",
+            "text": "cách tiếp cận"
+          },
+          {
+            "key": "d",
+            "text": "bị cấm"
+          },
+          {
+            "key": "e",
+            "text": "sự chấp thuận"
+          },
+          {
+            "key": "f",
+            "text": "truy cập"
+          }
+        ],
+        "questions": [
+          {
+            "no": 1,
+            "prompt": "outline",
+            "answer": "a"
+          },
+          {
+            "no": 2,
+            "prompt": "permanently",
+            "answer": "a"
+          },
+          {
+            "no": 3,
+            "prompt": "announcement",
+            "answer": "a"
+          },
+          {
+            "no": 5,
+            "prompt": "contain",
+            "answer": "a"
+          }
+        ]
+      },
+      {
+        "instruction": "Hãy chọn từ phù hợp để điền vào mỗi câu của bài thi TOEIC dạng thức mới sau.",
+        "options": [
+          {
+            "key": "a",
+            "text": "inspection"
+          },
+          {
+            "key": "b",
+            "text": "effect"
+          },
+          {
+            "key": "c",
+            "text": "authorized"
+          },
+          {
+            "key": "d",
+            "text": "procedure"
+          },
+          {
+            "key": "e",
+            "text": "concern"
+          }
+        ],
+        "questions": [
+          {
+            "no": 6,
+            "prompt": "John will fill in as a until someone else is hired.",
+            "answer": "a"
+          },
+          {
+            "no": 7,
+            "prompt": "The manager was asked to the new leave policy to his staff.",
+            "answer": "a"
+          },
+          {
+            "no": 8,
+            "prompt": "Everyone must__.... the director of their preferred vacation dates.",
+            "answer": "a"
+          },
+          {
+            "no": 9,
+            "prompt": "The company is recruiting employees to work in its marketing",
+            "answer": "a"
+          }
+        ]
+      },
+      {
+        "instruction": "Hãy chọn từ phù hợp để điền vào mỗi câu của bài thi TOEIC dạng thức mới sau.",
+        "options": [
+          {
+            "key": "a",
+            "text": "obligation"
+          },
+          {
+            "key": "b",
+            "text": "drastically"
+          },
+          {
+            "key": "c",
+            "text": "revise"
+          },
+          {
+            "key": "d",
+            "text": "thoroughly"
+          },
+          {
+            "key": "e",
+            "text": "arrangements"
+          }
+        ],
+        "questions": [
+          {
+            "no": 10,
+            "prompt": "Good organizational skills are_._. when planning an event.",
+            "answer": "a"
+          },
+          {
+            "no": 11,
+            "prompt": "The instruction manual will how to put the desk together.",
+            "answer": "a"
+          },
+          {
+            "no": 12,
+            "prompt": "Ramps were installed in the building to make it to wheelchair.",
+            "answer": "a"
+          },
+          {
+            "no": 13,
+            "prompt": "Programmers...._. comments about the updated version into one document.",
+            "answer": "a"
+          }
+        ]
+      }
+    ]
+  },
+  "title": "Vũ khí bí mật",
+  "titleVi": "Vũ khí bí mật",
+  "category": "Công việc văn phòng (3)"
+}
